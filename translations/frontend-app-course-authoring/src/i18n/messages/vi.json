@@ -412,7 +412,7 @@
   "course-authoring.course-outline.card.menu.duplicate": "Nhân bản",
   "course-authoring.course-outline.card.menu.moveup": "Đi lên",
   "course-authoring.course-outline.card.menu.movedown": "Đi xuống",
-  "course-authoring.course-outline.card.menu.delete": "Sao chép vào clipboard",
+  "course-authoring.course-outline.card.menu.delete": "Xoá",
   "course-authoring.course-outline.card.menu.proctoring-settings": "Cài đặt giám sát",
   "course-authoring.course-outline.card.menu.proctoring-settings-tooltip": "Cài đặt giám sát",
   "course-authoring.course-outline.card.badge.discussionEnabled": "Đã bật thảo luận",
