@@ -8,7 +8,7 @@
   "account.settings.banner.beta.language": "Bạn đã đặt ngôn ngữ của mình thành {beta_language} , ngôn ngữ này hiện chưa được dịch đầy đủ. Bạn có thể giúp chúng tôi dịch ngôn ngữ này đầy đủ bằng cách tham gia cộng đồng Transifex và thêm bản dịch từ tiếng Anh cho người học nói {beta_language} .",
   "account.settings.banner.beta.language.action.switch.back": "Chuyển về {previous_language}",
   "account.settings.banner.beta.language.action.help.translate": "Trợ giúp Dịch sang {beta_language}",
-  "account.settings.section.account.information": "thông tin tài khoản",
+  "account.settings.section.account.information": "Thông tin tài khoản",
   "account.settings.section.account.information.description": "Các cài đặt này bao gồm thông tin cơ bản về tài khoản của bạn.",
   "account.settings.section.profile.information": "Thông tin cá nhân",
   "account.settings.section.demographics.information": "Thông tin tùy chọn",
