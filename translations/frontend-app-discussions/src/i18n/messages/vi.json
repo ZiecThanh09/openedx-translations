@@ -134,10 +134,10 @@
   "discussions.post.notFollowed": "Đa không theo doi",
   "discussions.post.answered": "Đã trả lời",
   "discussions.post.unFollow": "Hủy theo dõi",
-  "discussions.post.like": "Giống",
-  "discussions.post.removeLike": "không giống",
-  "discussions.post.liked": "đã thích",
-  "discussions.post.likes": "thích",
+  "discussions.post.like": "Thích",
+  "discussions.post.removeLike": "Bỏ thích",
+  "discussions.post.liked": "Đã thích",
+  "discussions.post.likes": "Thích",
   "discussions.post.viewActivity": "Xem hoạt động",
   "discussions.post.activity": "Hoạt động",
   "discussions.post.closed": "Bài đăng đã đóng để phản hồi và bình luận",
@@ -161,8 +161,8 @@
   "discussions.app.title": "Thảo luận",
   "discussions.posts.actionBar.searchAllPosts": "Tìm kiếm tất cả bài viết",
   "discussions.posts.actionBar.search": "{page, select, chủ đề {Tìm kiếm chủ đề} bài đăng {Tìm kiếm tất cả bài viết} người học {Tìm kiếm người học} myPosts {Tìm kiếm tất cả bài viết} other { {page} } }",
-  "discussions.actionBar.searchInfo": "Hiển thị kết quả {count} cho &quot; {text} &quot;",
-  "discussions.actionBar.searchRewriteInfo": "Không tìm thấy kết quả nào cho &quot; {searchString} &quot;. Hiển thị kết quả {count} cho &quot; {textSearchRewrite} &quot;.",
+  "discussions.actionBar.searchInfo": "Hiển thị kết quả {count} cho \"{text}\"",
+  "discussions.actionBar.searchRewriteInfo": "Không tìm thấy kết quả nào cho \"{searchString}\". Hiển thị kết quả {count} cho \"{textSearchRewrite}\".",
   "discussions.actionBar.searchInfoSearching": "Đang tìm kiếm...",
   "discussions.actionBar.clearSearch": "Xóa kết quả",
   "discussion.posts.actionBar.add": "Thêm bài đăng",
@@ -210,5 +210,5 @@
   "discussions.posts.sort.lastActivity": "Hoạt động gần đây",
   "discussions.posts.sort.commentCount": "Hoạt động nhiều nhất",
   "discussions.posts.sort.voteCount": "Nhiều lượt thích nhất",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {All} true {Sở hữu} other { {own} } } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} other { {status} } } {loại, chọn, thảo luận {thảo luận} câu hỏi {câu hỏi} tất cả {bài đăng} khác { {type} } } {cohortType, select, all {} nhóm {in {cohort} } khác { {cohortType} } } được sắp xếp theo {sort, select, LastActivityAt { hoạt động gần đây} bình luậnĐếm {hoạt động nhiều nhất} phiếu bầuĐếm {lượt thích nhiều nhất} khác { {sort} } }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {Tất cả} true {Sở hữu} other { {own} } } {status, select, statusAll {} statusUnread {chưa đọc} statusFollowing {đã theo dõi} statusReported {đã báo cáo} statusUnanswered {chưa trả lời} statusUnresponded {chưa phản hổi} other { {status} } } {loại, chọn, thảo luận {thảo luận} câu hỏi {câu hỏi} tất cả {bài đăng} khác { {type} } } {cohortType, select, all {} nhóm {in {cohort} } khác { {cohortType} } } được sắp xếp theo {sort, select, LastActivityAt { hoạt động gần đây} bình luậnĐếm {hoạt động nhiều nhất} phiếu bầuĐếm {lượt thích nhiều nhất} khác { {sort} } }"
 }
