@@ -9423,7 +9423,7 @@ msgstr "Thêm một phản hồi:"
 #: common/static/common/templates/discussion/templates.underscore:488
 #: lms/templates/verify_student/incourse_reverify.underscore:62
 msgid "Submit"
-msgstr "Nộp"
+msgstr "Xác nhận"
 
 #: common/static/common/templates/discussion/templates.underscore:74
 #, python-format
@@ -11909,7 +11909,7 @@ msgid ""
 "page, click \"Bookmark this page\" under the page title."
 msgstr ""
 "Sử dụng dấu trang để giúp bạn dễ dàng quay lại các trang chương trình học. "
-"Để đánh dấu một trang, hãy nhấp vào &quot;Đánh dấu trang này&quot; dưới tiêu"
+"Để đánh dấu một trang, hãy nhấp vào \"Đánh dấu trang này\" dưới tiêu"
 " đề trang."
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13

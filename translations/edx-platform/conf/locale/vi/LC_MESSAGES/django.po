@@ -19455,7 +19455,7 @@ msgstr "Xem tất cả các khóa học"
 #: lms/templates/header/user_dropdown.html:44
 #: lms/templates/user_dropdown.html:30 lms/templates/user_dropdown.html:38
 msgid "Dashboard"
-msgstr "bảng điều khiển"
+msgstr "Bảng điều khiển"
 
 #: lms/templates/dashboard.html:230
 msgid "results successfully populated,"
@@ -20114,7 +20114,7 @@ msgstr "Nhóm không hoạt động"
 
 #: lms/templates/staff_problem_info.html:27
 msgid "Staff Debug Info"
-msgstr "Thông tin gỡ lỗi nhân viên"
+msgstr "Thông tin kỹ thuật dành cho quản trị viên"
 
 #: lms/templates/staff_problem_info.html:31
 msgid "Submission history"

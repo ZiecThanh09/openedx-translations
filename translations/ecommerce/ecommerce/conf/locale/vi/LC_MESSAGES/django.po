@@ -1938,7 +1938,7 @@ msgstr "UTM được tạo tại"
 #: templates/oscar/dashboard/refunds/refund_list.html:30
 #: templates/oscar/dashboard/users/detail.html:20
 msgid "Dashboard"
-msgstr "bảng điều khiển"
+msgstr "Bảng điều khiển"
 
 #: settings/_oscar.py:238
 msgid "Catalogue"
