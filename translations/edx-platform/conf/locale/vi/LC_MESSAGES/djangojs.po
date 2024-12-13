@@ -2731,7 +2731,7 @@ msgstr "Phân trang nhóm"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:38
 msgid "Topics"
-msgstr "chủ đề"
+msgstr "Chủ đề"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:152
 msgid "My Teams"
@@ -2740,7 +2740,7 @@ msgstr "Đội của tôi"
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:158
 #: lms/templates/instructor/instructor_dashboard_2/certificate-bulk-allowlist.underscore:11
 msgid "Browse"
-msgstr "Duyệt qua"
+msgstr "Tìm kiếm"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:206
 msgid "Your request could not be completed. Reload the page and try again."
@@ -2799,7 +2799,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:390
 msgid "Showing results for \"{searchString}\""
-msgstr "Hiển thị kết quả cho &quot; {searchString} &quot;"
+msgstr "Hiển thị kết quả cho \"{searchString}\""
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:408
 msgid "Search teams"
