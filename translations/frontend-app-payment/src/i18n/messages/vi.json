@@ -13,7 +13,7 @@
   "payment.messages.key.timeout.1min.header": "Vui lòng hoàn tất giao dịch mua hàng của bạn trong vòng một phút",
   "payment.empty.basket.heading": "Giỏ của bạn trống trơn.",
   "payment.empty.basket.message": "Nếu bạn cố gắng mua hàng, bạn sẽ không bị tính phí. Quay lại {actionLinkOne} của bạn để thử lại hoặc {actionLinkTwo} .",
-  "payment.empty.basket.dashboardURL": "bảng điều khiển",
+  "payment.empty.basket.dashboardURL": "Bảng điều khiển",
   "payment.empty.basket.supportURL": "liên hệ với bộ phận hỗ trợ thương mại điện tử edX",
   "payment.heading.page": "Sự chi trả",
   "payment.loading.payment": "Đang tải giỏ...",
