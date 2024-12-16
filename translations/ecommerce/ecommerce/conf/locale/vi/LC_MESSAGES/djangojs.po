@@ -132,11 +132,11 @@ msgstr "Chuyên nghiệp"
 
 #: static/js/models/course_seats/course_seat.js:91
 msgid "Honor"
-msgstr "Tôn kính"
+msgstr "Học miễn phí"
 
 #: static/js/models/course_seats/course_seat.js:93
 msgid "Audit"
-msgstr "Kiểm toán"
+msgstr "Học thử"
 
 #: static/js/models/course_seats/course_seat.js:101
 msgid "Verified Certificate"

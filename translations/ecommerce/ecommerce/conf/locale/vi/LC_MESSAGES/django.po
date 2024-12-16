@@ -402,7 +402,7 @@ msgstr "Không xuất bản được dữ liệu thương mại của {course_id
 
 #: courses/utils.py:138
 msgid "Audit"
-msgstr "Kiểm toán"
+msgstr "Học thử"
 
 #: courses/utils.py:139
 msgid "Credit"
@@ -410,7 +410,7 @@ msgstr "Tín dụng"
 
 #: courses/utils.py:140
 msgid "Honor"
-msgstr "Tôn kính"
+msgstr "Học miễn phí"
 
 #: courses/utils.py:141
 msgid "Professional"

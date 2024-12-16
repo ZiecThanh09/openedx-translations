@@ -725,7 +725,7 @@ msgstr "Lộ trình tuyển sinh khóa học"
 
 #: enterprise/admin/forms.py:74 enterprise/api/v1/serializers.py:1407
 msgid "Audit"
-msgstr "Kiểm toán"
+msgstr "Học thử"
 
 #: enterprise/admin/forms.py:75 enterprise/api/v1/serializers.py:1408
 msgid "Verified"
@@ -745,7 +745,7 @@ msgstr "Tín dụng"
 
 #: enterprise/admin/forms.py:79 enterprise/api/v1/serializers.py:1412
 msgid "Honor"
-msgstr "Tôn kính"
+msgstr "Học miễn phí"
 
 #: enterprise/admin/forms.py:80 enterprise/api/v1/serializers.py:1413
 msgid "Unpaid Executive Education"

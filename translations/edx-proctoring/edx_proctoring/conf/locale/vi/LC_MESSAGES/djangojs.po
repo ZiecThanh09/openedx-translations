@@ -294,11 +294,11 @@ msgstr "Quá trình cài đặt lại không thành công do quá hạn kiểm t
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:42
 msgid "Audit"
-msgstr "Kiểm toán"
+msgstr "Học thử"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:43
 msgid "Honor"
-msgstr "Tôn kính"
+msgstr "Học miễn phí"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:44
 msgid "Professional"

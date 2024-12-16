@@ -24046,11 +24046,11 @@ msgstr ""
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:19
 msgid "Audit"
-msgstr "Kiểm toán"
+msgstr "Học thử"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:22
 msgid "Honor"
-msgstr "Tôn kính"
+msgstr "Học miễn phí"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:25
 msgid "Professional"

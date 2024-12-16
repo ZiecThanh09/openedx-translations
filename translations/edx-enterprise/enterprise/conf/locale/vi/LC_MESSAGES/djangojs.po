@@ -34,7 +34,7 @@ msgstr "---------"
 
 #: enterprise/static/enterprise/js/manage_learners.js:115
 msgid "Audit"
-msgstr "Kiểm toán"
+msgstr "Học thử"
 
 #: enterprise/static/enterprise/js/manage_learners.js:116
 msgid "Verified"
@@ -54,4 +54,4 @@ msgstr "Tín dụng"
 
 #: enterprise/static/enterprise/js/manage_learners.js:120
 msgid "Honor"
-msgstr "Tôn kính"
+msgstr "Học miễn phí"
