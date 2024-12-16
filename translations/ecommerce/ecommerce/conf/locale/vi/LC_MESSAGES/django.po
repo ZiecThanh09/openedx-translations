@@ -1153,7 +1153,7 @@ msgstr "Ngày/giờ cuối cùng mà sản phẩm này có thể được mua."
 #: templates/oscar/dashboard/refunds/refund_list.html:60
 #: templates/oscar/dashboard/users/detail.html:40
 msgid "Username"
-msgstr "tên tài khoản"
+msgstr "Tên tài khoản"
 
 #: extensions/dashboard/forms.py:10
 #: templates/oscar/dashboard/refunds/refund_list.html:61

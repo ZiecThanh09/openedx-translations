@@ -3453,7 +3453,7 @@ msgstr ""
 
 #: lms/static/js/discussions_management/views/discussions.js:74
 msgid "Cohorts"
-msgstr "Nhóm thuần tập"
+msgstr "Nhóm lớp"
 
 #: lms/static/js/discussions_management/views/discussions.js:75
 msgid ""
@@ -3592,7 +3592,7 @@ msgstr "Tab đã chọn"
 
 #: lms/static/js/groups/views/cohort_editor.js:77
 msgid "Saved cohort"
-msgstr "Nhóm thuần tập đã lưu"
+msgstr "Nhóm lớp đã lưu"
 
 #: lms/static/js/groups/views/cohort_editor.js:120
 msgid "Error adding learners."
@@ -3615,7 +3615,7 @@ msgstr[0] "Người học {numMoved} đã được chuyển từ {prevCohort}"
 #: lms/static/js/groups/views/cohort_editor.js:205
 msgid "{numPresent} learner was already in the cohort"
 msgid_plural "{numPresent} learners were already in the cohort"
-msgstr[0] "Người học {numPresent} đã thuộc nhóm thuần tập"
+msgstr[0] "Người học {numPresent} đã thuộc nhóm lớp"
 
 #: lms/static/js/groups/views/cohort_editor.js:231
 msgid "{email}"
@@ -3655,7 +3655,7 @@ msgstr "Xem tất cả lỗi"
 
 #: lms/static/js/groups/views/cohort_form.js:108
 msgid "You must specify a name for the cohort"
-msgstr "Bạn phải chỉ định tên cho nhóm thuần tập"
+msgstr "Bạn phải chỉ định tên cho nhóm lớp"
 
 #: lms/static/js/groups/views/cohort_form.js:112
 msgid "You did not select a content group"
@@ -3667,32 +3667,32 @@ msgstr "Nhóm nội dung đã chọn không tồn tại"
 
 #: lms/static/js/groups/views/cohort_form.js:143
 msgid "The cohort cannot be saved"
-msgstr "Không thể lưu nhóm thuần tập"
+msgstr "Không thể lưu nhóm lớp"
 
 #: lms/static/js/groups/views/cohort_form.js:143
 msgid "The cohort cannot be added"
-msgstr "Không thể thêm nhóm thuần tập"
+msgstr "Không thể thêm nhóm lớp"
 
 #: lms/static/js/groups/views/cohorts.js:98
 msgid "You currently have no cohorts configured"
-msgstr "Bạn hiện chưa định cấu hình nhóm thuần tập nào"
+msgstr "Bạn hiện chưa định cấu hình nhóm lớp nào"
 
 #: lms/static/js/groups/views/cohorts.js:99
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:22
 msgid "Add Cohort"
-msgstr "Thêm nhóm thuần tập"
+msgstr "Thêm nhóm lớp"
 
 #: lms/static/js/groups/views/cohorts.js:239
 msgid ""
 "The {cohortGroupName} cohort has been created. You can manually add students"
 " to this cohort below."
 msgstr ""
-"Nhóm thuần tập {cohortGroupName} đã được tạo. Bạn có thể thêm học sinh vào "
+"Nhóm lớp {cohortGroupName} đã được tạo. Bạn có thể thêm học sinh vào "
 "nhóm này theo cách thủ công bên dưới."
 
 #: lms/static/js/groups/views/cohorts.js:269
 msgid "Assign students to cohorts by uploading a CSV file."
-msgstr "Chỉ định học sinh vào nhóm thuần tập bằng cách tải lên tệp CSV."
+msgstr "Chỉ định học sinh vào nhóm lớp bằng cách tải lên tệp CSV."
 
 #: lms/static/js/groups/views/cohorts.js:270
 msgid "Choose a .csv file"
@@ -3715,11 +3715,11 @@ msgstr ""
 
 #: lms/static/js/groups/views/course_cohort_settings_notification.js:31
 msgid "Cohorts Enabled"
-msgstr "Đã bật nhóm thuần tập"
+msgstr "Đã bật nhóm lớp"
 
 #: lms/static/js/groups/views/course_cohort_settings_notification.js:33
 msgid "Cohorts Disabled"
-msgstr "Nhóm thuần tập bị vô hiệu hóa"
+msgstr "Nhóm lớp bị vô hiệu hóa"
 
 #: lms/static/js/instructor_dashboard/certificates.js:20
 msgid "Allow students to generate certificates for this course?"
@@ -3843,7 +3843,7 @@ msgstr "Đánh dấu mã đăng ký là chưa sử dụng"
 #: lms/djangoapps/support/static/support/templates/manage_user.underscore:20
 #: lms/templates/financial-assistance/financial_assessment_form.underscore:20
 msgid "Username"
-msgstr "tên tài khoản"
+msgstr "Tên tài khoản"
 
 #: lms/static/js/instructor_dashboard/membership.js:112
 #: lms/static/js/instructor_dashboard/membership.js:117
@@ -10465,7 +10465,7 @@ msgstr "Thêm một nhóm mới"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:19
 msgid "Enter the name of the cohort"
-msgstr "Nhập tên của nhóm thuần tập"
+msgstr "Nhập tên của nhóm lớp"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:24
 msgid "Cohort Name"
@@ -10540,7 +10540,7 @@ msgstr "Tạo nhóm nội dung"
 #, python-format
 msgid "(contains %(student_count)s student)"
 msgid_plural "(contains %(student_count)s students)"
-msgstr[0] "(chứa sinh viên %(student_count)s )"
+msgstr[0] "(có %(student_count)s sinh viên)"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:14
 msgid ""
@@ -10561,7 +10561,7 @@ msgstr "Người học được tự động thêm vào nhóm này."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-selector.underscore:2
 msgid "Select a cohort"
-msgstr "Chọn một nhóm thuần tập"
+msgstr "Chọn một nhóm lớp"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-selector.underscore:7
 #, python-format
@@ -10570,11 +10570,11 @@ msgstr "%(cohort_name)s ( %(user_count)s )"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:2
 msgid "Enable Cohorts"
-msgstr "Bật nhóm thuần tập"
+msgstr "Bật nhóm lớp"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:11
 msgid "Select a cohort to manage"
-msgstr "Chọn một nhóm thuần tập để quản lý"
+msgstr "Chọn một nhóm lớp để quản lý"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:16
 msgid "View Cohort"
@@ -10582,7 +10582,7 @@ msgstr "Xem đoàn hệ"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:37
 msgid "Assign learners to cohorts by uploading a CSV file"
-msgstr "Chỉ định người học vào nhóm thuần tập bằng cách tải lên tệp CSV"
+msgstr "Chỉ định người học vào nhóm lớp bằng cách tải lên tệp CSV"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohorts.underscore:44
 msgid ""

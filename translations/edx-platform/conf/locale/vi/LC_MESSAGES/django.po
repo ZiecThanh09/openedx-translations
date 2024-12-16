@@ -4885,7 +4885,7 @@ msgstr "Tên người dùng"
 #: lms/templates/ccx/enrollment.html:83
 #: lms/templates/staff_problem_info.html:68
 msgid "Username"
-msgstr "tên tài khoản"
+msgstr "Tên tài khoản"
 
 #. #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a field on the login form
@@ -6287,7 +6287,7 @@ msgstr ""
 #: openedx/core/djangoapps/theming/templates/theming/theming-admin-fragment.html:40
 #: themes/stanford-style/lms/templates/register-shib.html:190
 msgid "Submit"
-msgstr "Nộp"
+msgstr "Xác nhận"
 
 #: lms/templates/bulk_email/edx_ace/bulkemail/email/body.html:18
 #, python-format
@@ -25259,7 +25259,7 @@ msgid ""
 "improves in the learner's favor."
 msgstr ""
 "Đối với bài toán cụ thể, cho điểm lại câu trả lời của người học. Tùy chọn "
-"&#39;Chỉ tính điểm lại nếu điểm được cải thiện&#39; chỉ cập nhật điểm của "
+"'Chỉ tính điểm lại nếu điểm được cải thiện' chỉ cập nhật điểm của "
 "người học nếu nó cải thiện theo hướng có lợi cho người học."
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:101

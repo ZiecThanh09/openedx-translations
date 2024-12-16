@@ -155,7 +155,7 @@ msgstr "Đang kiểm tra..."
 
 #: templates/view.html:21 templates/view.html:22
 msgid "Submit"
-msgstr "Nộp"
+msgstr "Xác nhận"
 
 #: templates/view.html:24 templates/view.html:25
 msgid "Save"

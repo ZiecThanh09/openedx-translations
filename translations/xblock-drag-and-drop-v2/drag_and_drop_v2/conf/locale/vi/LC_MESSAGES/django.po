@@ -679,7 +679,7 @@ msgstr "Bạn đã sử dụng {used} trong số lần thử {total} ."
 
 #: public/js/drag_and_drop.js:412
 msgid "Submit"
-msgstr "Nộp"
+msgstr "Xác nhận"
 
 #: public/js/drag_and_drop.js:453
 msgid "Show Answer"

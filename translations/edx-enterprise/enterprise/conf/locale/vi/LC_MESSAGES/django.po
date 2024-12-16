@@ -2227,7 +2227,7 @@ msgstr "Email người dùng"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:99
 msgid "Username"
-msgstr "tên tài khoản"
+msgstr "Tên tài khoản"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:100
 msgid "Linked Date"

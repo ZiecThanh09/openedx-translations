@@ -451,7 +451,7 @@ msgstr "Ôn tập"
 
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:383
 msgid "Username"
-msgstr "tên tài khoản"
+msgstr "Tên tài khoản"
 
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:383
 msgid "Peers Assessed"

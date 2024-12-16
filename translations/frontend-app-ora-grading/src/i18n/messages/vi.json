@@ -27,7 +27,7 @@
   "ora-grading.ListView.noResultsFoundBody": "Khi người học gửi câu trả lời sẽ xuất hiện ở đây",
   "ora-grading.ListView.viewAllResponses": "Xem tất cả phản hồi",
   "ora-grading.ListView.viewSelectedResponses": "Xem các câu trả lời đã chọn ( {value} )",
-  "ora-grading.ListView.tableHeaders.username": "tên tài khoản",
+  "ora-grading.ListView.tableHeaders.username": "Tên tài khoản",
   "ora-grading.ListView.tableHeaders.teamName": "Tên nhóm",
   "ora-grading.ListView.tableHeaders.learnerSubmissionDate": "Ngày nộp hồ sơ của người học",
   "ora-grading.ListView.tableHeaders.teamSubmissionDate": "Ngày nộp đội",

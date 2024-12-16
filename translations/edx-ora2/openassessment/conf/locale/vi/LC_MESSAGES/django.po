@@ -2020,7 +2020,7 @@ msgstr "Nhập tên người dùng hoặc email edX của thành viên nhóm"
 
 #: templates/legacy/staff_area/oa_staff_area.html:56
 msgid "Submit"
-msgstr "Nộp"
+msgstr "Xác nhận"
 
 #: templates/legacy/staff_area/oa_staff_area.html:78
 msgid "Response total"

@@ -148,7 +148,7 @@ msgstr "Nhấn ESC rồi TAB hoặc nhấp vào bên ngoài trình soạn thảo
 
 #: templates/view.html:33
 msgid "Submit"
-msgstr "Nộp"
+msgstr "Xác nhận"
 
 #: templates/view.html:40
 msgid "Show Answer"
