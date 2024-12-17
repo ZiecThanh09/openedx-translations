@@ -4703,7 +4703,7 @@ msgid ""
 "are optional."
 msgstr ""
 "Dữ liệu trong hàng # {row_num} phải có từ bốn đến sáu cột: email, tên người "
-"dùng, tên đầy đủ, quốc gia, nhóm thuần tập và chế độ khóa học. Hai cột cuối "
+"dùng, tên đầy đủ, quốc gia, nhóm lớp và chế độ khóa học. Hai cột cuối "
 "cùng là tùy chọn."
 
 #: lms/djangoapps/instructor/views/api.py:384
@@ -4991,7 +4991,7 @@ msgstr "ghi danh"
 
 #: lms/djangoapps/instructor/views/api.py:1535
 msgid "The file must contain a 'cohort' column containing cohort names."
-msgstr "Tệp phải chứa cột &#39;nhóm thuần tập&#39; chứa tên nhóm thuần tập."
+msgstr "Tệp phải chứa cột 'nhóm lớp' chứa tên nhóm lớp."
 
 #: lms/djangoapps/instructor/views/api.py:1537
 msgid "The file must contain a 'username' column, an 'email' column, or both."
@@ -5422,7 +5422,7 @@ msgstr "Tư cách thành viên"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:528
 msgid "Cohorts"
-msgstr "Nhóm thuần tập"
+msgstr "Nhóm lớp"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:547
 #: lms/djangoapps/discussion/templates/discussion/discussion_board_fragment.html:29
@@ -8129,7 +8129,7 @@ msgstr "Phải có một nhóm mà học sinh có thể được tự động ch
 
 #: openedx/core/djangoapps/course_groups/views.py:204
 msgid "A cohort with the same name already exists."
-msgstr "Nhóm thuần tập có cùng tên đã tồn tại."
+msgstr "Nhóm lớp có cùng tên đã tồn tại."
 
 #: openedx/core/djangoapps/course_live/models.py:19
 msgid "If disabled, the LTI in the associated course will be disabled."
@@ -16646,7 +16646,7 @@ msgid ""
 "create cohort-specific courseware. In other words, you can customize the "
 "content that particular cohorts see in your course."
 msgstr ""
-"Nếu bạn đã bật nhóm thuần tập trong khóa học của mình, bạn có thể sử dụng "
+"Nếu bạn đã bật nhóm lớp trong khóa học của mình, bạn có thể sử dụng "
 "nhóm nội dung để tạo chương trình học dành riêng cho nhóm đó. Nói cách khác,"
 " bạn có thể tùy chỉnh nội dung mà các nhóm cụ thể nhìn thấy trong khóa học "
 "của mình."
@@ -24969,7 +24969,7 @@ msgid ""
 msgstr ""
 "Hỗ trợ kỹ thuật cộng đồng là thành viên của cộng đồng giúp các nhóm khóa học"
 " điều hành các cuộc thảo luận. Họ có thể xem các bài đăng của người học "
-"trong nhóm thuần tập hoặc nhóm đăng ký được chỉ định của họ, đồng thời có "
+"trong nhóm lớp hoặc nhóm đăng ký được chỉ định của họ, đồng thời có "
 "thể chỉnh sửa hoặc xóa bài đăng, xóa cờ, đóng hoặc mở lại chủ đề cũng như "
 "xác nhận các câu trả lời. Bài đăng của họ được đánh dấu là &#39;Cộng đồng "
 "TA&#39;. Chỉ những người học đã đăng ký mới có thể được thêm làm TA cộng "
