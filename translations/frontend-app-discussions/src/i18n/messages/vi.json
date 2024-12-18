@@ -1,7 +1,7 @@
 {
-  "discussions.actions.button.alt": "Trình đơn tác vụ",
+  "discussions.actions.button.alt": "Menu tác vụ",
   "discussions.actions.copylink": "Sao chép đường dẫn",
-  "discussions.actions.edit": "Sửa",
+  "discussions.actions.edit": "Chỉnh sửa",
   "discussions.actions.pin": "Ghim",
   "discussions.actions.unpin": "Bỏ ghim",
   "discussions.actions.delete": "Xóa",
@@ -82,7 +82,7 @@
   "discussions.comments.comment.answeredlabel": "Được đánh dấu là đã được trả lời bởi",
   "discussions.comments.comment.endorsed": "Đã được chứng thực",
   "discussions.comments.comment.endorsedlabel": "Được chứng thực bởi",
-  "discussions.actions.label": "Trình đơn tác vụ",
+  "discussions.actions.label": "Menu tác vụ",
   "discussions.editor.submit": "Xác nhận",
   "discussions.editor.submitting": "Đang gửi",
   "discussions.editor.cancel": "Hủy bỏ",
