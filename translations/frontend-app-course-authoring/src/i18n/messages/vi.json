@@ -575,7 +575,7 @@
   "course-authoring.course-unit.new-unit-btn-text": "Đơn vị mới",
   "course-authoring.course-unit.sequence-nav-label-text": "Điều hướng trình tự",
   "course-authoring.course-unit.sequence.load.failure": "Đã xảy ra lỗi khi tải khóa học này.",
-  "course-authoring.course-unit.sequence.no.content": "Không có nội dung ở đây.",
+  "course-authoring.course-unit.sequence.no.content": "Chưa có nội dung nào được tạo!",
   "course-authoring.course-unit.sequence.navigation.menu": "{current} của {total}",
   "course-authoring.course-unit.sequence.navigation.menu.copy-unit.past-unit-link": "Dán làm đơn vị mới",
   "course-authoring.course-unit.xblock.button.edit.alt": "Sửa",
