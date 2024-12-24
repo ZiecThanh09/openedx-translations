@@ -17219,7 +17219,7 @@ msgstr ""
 "Nếu bạn thực hiện nhập trong khi khóa học đang chạy và bạn thay đổi tên URL "
 "(hoặc nút url_name) của bất kỳ thành phần Sự cố nào thì dữ liệu học sinh "
 "được liên kết với các thành phần Sự cố đó có thể bị mất. Dữ liệu này bao gồm"
-" điểm vấn đề của học sinh."
+" điểm bài tập của học sinh."
 
 #: cms/templates/import.html:250
 msgid "Learn more about importing a course"
@@ -22612,7 +22612,7 @@ msgstr "Điểm phần đã bị ghi đè."
 
 #: lms/templates/courseware/progress.html:224
 msgid "Problem Scores: "
-msgstr "Điểm vấn đề: "
+msgstr "Điểm bài tập: "
 
 #: lms/templates/courseware/progress.html:224
 msgid "Practice Scores: "
@@ -22620,7 +22620,7 @@ msgstr "Điểm thực hành: "
 
 #: lms/templates/courseware/progress.html:233
 msgid "Problem scores are hidden until the due date."
-msgstr "Điểm vấn đề được ẩn cho đến ngày đáo hạn."
+msgstr "Điểm bài tập được ẩn cho đến ngày đáo hạn."
 
 #: lms/templates/courseware/progress.html:235
 msgid "Practice scores are hidden until the due date."
@@ -22628,7 +22628,7 @@ msgstr "Điểm thực hành được ẩn cho đến ngày hết hạn."
 
 #: lms/templates/courseware/progress.html:239
 msgid "Problem scores are hidden."
-msgstr "Điểm vấn đề được ẩn."
+msgstr "Điểm bài tập được ẩn."
 
 #: lms/templates/courseware/progress.html:241
 msgid "Practice scores are hidden."
@@ -22636,7 +22636,7 @@ msgstr "Điểm thực hành được ẩn."
 
 #: lms/templates/courseware/progress.html:247
 msgid "No problem scores in this section"
-msgstr "Không có điểm vấn đề ở phần này"
+msgstr "Không có điểm bài tập ở phần này"
 
 #: lms/templates/courseware/syllabus.html:14
 msgid "{course.display_number_with_default} Course Info"
@@ -24295,7 +24295,7 @@ msgstr "Tạo báo cáo điểm"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:99
 msgid "Generate Problem Grade Report"
-msgstr "Tạo Báo cáo Điểm Vấn đề"
+msgstr "Tạo báo cáo điểm bài tập"
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download.html:100
 msgid "Generate ORA Data Report"

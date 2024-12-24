@@ -3802,7 +3802,7 @@ msgstr "Lỗi khi tạo điểm. Vui lòng thử lại."
 #: lms/static/js/instructor_dashboard/data_download.js:360
 #: lms/static/js/instructor_dashboard/data_download_2.js:46
 msgid "Error generating problem grade report. Please try again."
-msgstr "Lỗi tạo báo cáo điểm vấn đề. Vui lòng thử lại."
+msgstr "Lỗi tạo báo cáo điểm bài tập. Vui lòng thử lại."
 
 #: lms/static/js/instructor_dashboard/data_download.js:362
 #: lms/static/js/instructor_dashboard/data_download_2.js:45
@@ -4716,11 +4716,11 @@ msgstr "Không thể khắc phục sự cố để cải thiện điểm cho ng�
 
 #: lms/static/js/staff_debug_actions.js:137
 msgid "Successfully overrode problem score for {user}"
-msgstr "Đã ghi đè thành công điểm vấn đề cho {user}"
+msgstr "Đã ghi đè thành công điểm bài tập cho {user}"
 
 #: lms/static/js/staff_debug_actions.js:138
 msgid "Could not override problem score for {user}."
-msgstr "Không thể ghi đè điểm vấn đề cho {user} ."
+msgstr "Không thể ghi đè điểm bài tập cho {user} ."
 
 #: lms/static/js/student_account/components/PasswordResetConfirmation.jsx:93
 msgid "Enter and confirm your new password."
@@ -11909,7 +11909,7 @@ msgid ""
 "page, click \"Bookmark this page\" under the page title."
 msgstr ""
 "Sử dụng dấu trang để giúp bạn dễ dàng quay lại các trang chương trình học. "
-"Để đánh dấu một trang, hãy nhấp vào \"Đánh dấu trang này\" dưới tiêu"
+"Để đánh dấu một trang, hãy nhấp vào "Đánh dấu trang này" dưới tiêu"
 " đề trang."
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13

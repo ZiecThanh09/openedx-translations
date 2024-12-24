@@ -296,7 +296,7 @@
   "progress.noAcessToAssignmentType": "Bạn không có quyền truy cập vào các bài tập loại {assignmentType}",
   "progress.noAcessToSubsection": "Bạn không có quyền truy cập vào tiểu mục {displayName}",
   "progress.courseGrade.label.passingGrade": "Điểm đỗ",
-  "progress.detailedGrades.problemScore.label": "Điểm vấn đề:",
+  "progress.detailedGrades.problemScore.label": "Điểm bài tập:",
   "progress.detailedGrades.problemScore.toggleButton": "Chuyển đổi từng điểm của bài toán cho {subsectionTitle}",
   "progress.detailedGrades.overridden": "Điểm phần đã bị ghi đè.",
   "progress.score": "Điểm",

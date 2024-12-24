@@ -1005,7 +1005,7 @@
   "course-authoring.import.sidebar.content6": "Nội dung dành riêng cho người học, chẳng hạn như điểm của người học và dữ liệu diễn đàn thảo luận",
   "course-authoring.import.sidebar.content7": "Nhóm khóa học",
   "course-authoring.import.sidebar.warningTitle": "Cảnh báo: nhập trong khi khóa học đang chạy",
-  "course-authoring.import.sidebar.warningDescription": "Nếu bạn thực hiện nhập trong khi khóa học đang chạy và bạn thay đổi tên URL (hoặc nút url_name) của bất kỳ thành phần có vấn đề nào thì dữ liệu sinh viên liên quan đến các thành phần có vấn đề đó có thể bị mất. Dữ liệu này bao gồm điểm vấn đề của học sinh.",
+  "course-authoring.import.sidebar.warningDescription": "Nếu bạn thực hiện nhập trong khi khóa học đang chạy và bạn thay đổi tên URL (hoặc nút url_name) của bất kỳ thành phần có vấn đề nào thì dữ liệu sinh viên liên quan đến các thành phần có vấn đề đó có thể bị mất. Dữ liệu này bao gồm điểm bài tập của học sinh.",
   "course-authoring.import.sidebar.learnMoreButtonTitle": "Tìm hiểu thêm về cách nhập khóa học",
   "course-authoring.import.stepper.title.uploading": "Đang tải lên",
   "course-authoring.import.stepper.title.unpacking": "Giải nén",

@@ -1,0 +1,240 @@
+en:
+  '': ''
+  '% Correct': '% 正解率'
+  '% Incorrect': '% 不正解率'
+  Action: アクション
+  Action Count: アクション数
+  Action Date: アクション日付
+  Active: アクティブ
+  Active Courses: アクティブなコース
+  Active Learners: アクティブな学習者
+  Active Users Per Organization: 組織あたりのアクティブユーザー
+  Actor ID: アクターID
+  Actor Id: アクターID
+  All Pages Viewed: すべてのページを表示
+  All Videos Viewed: すべてのビデオを表示
+  At Leat One Page Viewed: 少なくとも1つのページを表示
+  At Leat One Viewed: 少なくとも1つ表示
+  At-Risk Learners: リスクのある学習者
+  At-risk Enrollees per Enrollment Track: 登録トラックあたりのリスクのある登録者
+  At-risk Enrollment Dates: リスクのある登録日
+  At-risk learners: リスクのある学習者
+  Attempted All Problems: すべての問題を試行
+  Attempted at Least One Problem: 少なくとも1つの問題を試行
+  Attempts: 試行回数
+  Avg Attempts: 平均試行回数
+  Avg Course Grade: 平均コース成績
+  Block ID: ブロックID
+  Block Id: ブロックID
+  COUNT(*): COUNT(*)
+  Changed By Fk: 変更者Fk
+  Changed On: 変更日
+  Chart showing the number of Superset actions taken on each chart in the selected time period.: グラフ
+    選択した期間に各グラフで実行されたSupersetアクションの数を示します。
+  Chart showing the number of Superset actions taken on each dashboard in the selected time period.: グラフ
+    選択した期間に各ダッシュボードで実行されたSupersetアクションの数を示します。
+  Chart showing the number of registered users over the selected time period.: グラフ
+    選択した期間に登録されたユーザー数を示します。
+  ClickHouse: ClickHouse
+  ClickHouse metrics: ClickHouseメトリクス
+  Content Level: コンテンツレベル
+  Correct Attempts: 正解数
+  Count: カウント
+  Count of unique users who performed an action in Superset over the selected time period.: 選択した期間にSupersetでアクションを実行した一意なユーザー数
+  Count over time of unique users who performed an action in Superset over the selected time period.: 選択した期間にSupersetでアクションを実行した一意なユーザー数の時間経過
+  Course Dashboard: コースダッシュボード
+  Course Data JSON: コースデータJSON
+  Course End: コース終了日
+  Course Enrollments Over Time: 時間経過によるコース登録
+  Course Grade: コース成績
+  Course ID: コースID
+  Course Information: コース情報
+  Course Key: コースキー
+  Course Key Short: コースキー(短縮)
+  Course Name: コース名
+  Course Run: コース実行
+  Course Start: コース開始日
+  Course grade: コース成績
+  Course key: コースキー
+  Course name: コース名
+  Course run: コース実行
+  Courses: コース
+  Courses Per Organization: 組織あたりのコース数
+  Created: 作成日
+  Created By Fk: 作成者Fk
+  Created On: 作成日
+  Cumulative Enrollments by Track: トラックごとの累積登録数
+  Cumulative Interactions: 累積インタラクション
+  Cumulative Interactions (at-risk): 累積インタラクション(リスクあり)
+  Current Active Enrollments By Mode: モード別の現在のアクティブな登録
+  Current Enrollees: 現在の登録者
+  Dashboard ID: ダッシュボードID
+  Dashboard Status: ダッシュボードステータス
+  Dashboard Title: ダッシュボードタイトル
+  Datasource ID: データソースID
+  Datasource Name: データソース名
+  Datasource Type: データソースタイプ
+  Date: 日付
+  Description: 説明
+  Display Name: 表示名
+  Distribution of Course Grades: コース成績の分布
+  Distribution of Current Course Grade: 現在のコース成績の分布
+  Dump ID: ダンプID
+  Duration (Seconds): 期間(秒)
+  Email: メールアドレス
+  Emission Time: 放出時間
+  Engagement: エンゲージメント
+  Enrolled At: 登録日
+  Enrollees per Enrollment Track: 登録トラックあたりの登録者数
+  Enrollment: 登録
+  Enrollment End: 登録終了日
+  Enrollment Mode: 登録モード
+  Enrollment Start: 登録開始日
+  Enrollment Status: 登録ステータス
+  Enrollment status: 登録ステータス
+  Enrollment track: 登録トラック
+  Enrollments: 登録者数
+  Event Activity: イベントアクティビティ
+  Event ID: イベントID
+  Event String: イベント文字列
+  Event Time: イベント時間
+  Evolution of Engagement (at-risk): エンゲージメントの推移(リスクあり)
+  Evolution of engagement: エンゲージメントの推移
+  External User ID: 外部ユーザーID
+  Fail Login Count: ログイン失敗回数
+  First Name: 名
+  Full Views: フルビュー
+  Grade Bucket: グレードバケット
+  Grade range: グレード範囲
+  Graded: 評価済み
+  Graded Learners: 評価済み学習者
+  Help: ヘルプ
+  Id: ID
+  Incorrect Attempts: 不正解数
+  Individual Learner Dashboard: 個別学習者ダッシュボード
+  Individual Learner Reports: 個別学習者レポート
+  Instance Health: インスタンスの健全性
+  Interaction Type: インタラクションタイプ
+  Last Login: 最終ログイン
+  Last Name: 姓
+  Last Received Event: 最終受信イベント
+  Last Visited: 最終訪問日
+  Last course syncronized: 最終コース同期
+  Last visit date: 最終訪問日
+  Learners with Passing Grade: 合格した学習者
+  Login Count: ログイン回数
+  Median Course Grade: 中央値コース成績
+  Median of Attempts: 中央値試行回数
+  Memory Usage (KB): メモリ使用量(KB)
+  Modified: 修正
+  Most-used Charts: 最も使用されているグラフ
+  Most-used Dashboards: 最も使用されているダッシュボード
+  Name: 名前
+  Number of Learners: 学習者数
+  Number of Learners who attemped the problem: 問題を試行した学習者数
+  Object ID: オブジェクトID
+  Object Type: オブジェクトタイプ
+  Operator Dashboard: オペレーターダッシュボード
+  Org: 組織
+  Organization: 組織
+  Organizations: 組織
+  Overview: 概要
+  Page Count: ページ数
+  Page views per section/subsection: セクション/サブセクションあたりのページビュー
+  Page views per section/subsection (at-risk): セクション/サブセクションあたりのページビュー(リスクあり)
+  Pages: ページ
+  Partial Views: 部分ビュー
+  Partial and Full Views Per Video (at-risk): ビデオあたりの部分ビューとフルビュー(リスクあり)
+  Partial and full views per video: ビデオあたりの部分ビューとフルビュー
+  Passed/Failed: 合格/不合格
+  Password: パスワード
+  Performance: パフォーマンス
+  Problem Id: 問題ID
+  Problem Interactions (at-risk): 問題インタラクション(リスクあり)
+  Problem Link: 問題リンク
+  Problem Name: 問題名
+  Problem Results: 問題結果
+  Problem Results (at-risk): 問題結果(リスクあり)
+  Problem interactions: 問題インタラクション
+  Problem name with location: 場所を含む問題名
+  Problems: 問題
+  Problems attempted per section/subsection: セクション/サブセクションあたりに試行された問題
+  Problems attempted per section/subsection (at-risk): セクション/サブセクションあたりに試行された問題(リスクあり)
+  Query: クエリ
+  Query performance: クエリパフォーマンス
+  Read Rows: 読み取った行
+  Repeat Views: リピートビュー
+  Responses: レスポンス
+  Result: 結果
+  Section Name: セクション名
+  Section Summary: セクション概要
+  Section Summary (at-risk): セクション概要(リスクあり)
+  Section With Name: セクション名
+  Section with Name: セクション名
+  Section with name: セクション名
+  Section/Subsection Name: セクション/サブセクション名
+  Section/Subsection Page Engagement: セクション/サブセクションのページエンゲージメント
+  Section/Subsection Problem Engagement: セクション/サブセクションの問題エンゲージメント
+  Segment Range: セグメント範囲
+  Segment Start: セグメント開始
+  Self Paced: 自習型
+  Slice ID: スライスID
+  Slice Name: スライス名
+  Slowest ClickHouse Queries: 最も遅いClickHouseクエリ
+  Start Position: 開始位置
+  Started At: 開始日
+  Subsection Name: サブセクション名
+  Subsection Summary: サブセクション概要
+  Subsection Summary (at-risk): サブセクション概要(リスクあり)
+  Subsection With Name: サブセクション名
+  Subsection with Name: サブセクション名
+  Subsection with name: サブセクション名
+  Success: 成功
+  Superset: Superset
+  Superset Active Users: Supersetアクティブユーザー
+  Superset Active Users Over Time: 時間経過によるSupersetアクティブユーザー
+  Superset Registered Users Over Time: 時間経過によるSuperset登録ユーザー
+  Time Grain: 時間粒度
+  Time Last Dumped: 最終
+  Time Range: 時間範囲
+  Total Organizations: 総組織数
+  Total Users: 総ユーザー数
+  Total Views: 総ビュー数
+  Total plays: 総再生回数
+  Unique Viewers: ユニークビューアー
+  Unique Watchers: ユニークウォッチャー
+  User ID: ユーザーID
+  User Info: ユーザー情報
+  User Name: ユーザー名
+  User Registration Date: ユーザー登録日
+  Username: ユーザー名
+  Value: 値
+  Verb: 動詞
+  Verb ID: 動詞ID
+  Video Duration: ビデオの長さ
+  Video Event: ビデオイベント
+  Video ID: ビデオID
+  Video Link: ビデオリンク
+  Video Name: ビデオ名
+  Video Name With Location: 場所を含むビデオ名
+  Video Position: ビデオの位置
+  Video Views by Section/Subsection (at-risk): セクション/サブセクション別のビデオビュー(リスクあり)
+  Video Views per Section/Subsection (at-risk): セクション/サブセクションあたりのビデオビュー(リスクあり)
+  Video name: ビデオ名
+  Video views by section/subsection: セクション/サブセクション別のビデオビュー
+  Video views per section/subsection: セクション/サブセクションあたりのビデオビュー
+  Videos: ビデオ
+  Views: ビュー
+  Visited On: 訪問日
+  Visualization Bucket: ビジュアライゼーションバケット
+  Watched Entire Video: ビデオ全体を視聴
+  Watched Segment Count: 視聴したセグメント数
+  Watched Video Segments: 視聴したビデオセグメント
+  Watched Video Segments (at-risk): 視聴したビデオセグメント(リスクあり)
+  audit: 監査
+  honor: 名誉
+  registered: 登録済み
+  unregistered: 登録解除
+  verified: 確認済み
+  '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}': '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}'
+  '⏲️ Use the ‘Time Grain’ filter to update the time frame intervals shown in the following graph(s): ⏲️': '⏲️ 以下のグラフに表示される時間枠の間隔を更新するには、「時間粒度」フィルターを使用します。 ⏲️'
