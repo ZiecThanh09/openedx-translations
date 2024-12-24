@@ -60,7 +60,7 @@
   "learner-dash.selectSession.changeOrLeaveHint": "Khi bạn thay đổi sang một buổi học khác, mọi tiến độ và điểm số hiện tại sẽ bị mất.",
   "learner-dash.selectSession.selectSessionHint": "Lưu ý, bạn có 2 tuần để hủy đăng ký và chọn một buổi học khác nếu cần.",
   "learner-dash.selectSession.leaveSessionOption": "Rời khỏi phiên",
-  "learner-dash.selectSession.nevermind": "Không cần thiết",
+  "learner-dash.selectSession.nevermind": "Đừng để ý",
   "learner-dash.selectSession.confirmSession": "Xác nhận phiên học",
   "WidgetSidebar.lookingForChallengePrompt": "Tìm kiếm một thử thách mới?",
   "WidgetSidebar.findCoursesButton": "Tìm khóa học {arrow}",

@@ -4385,7 +4385,7 @@ msgstr "ID sản phẩm"
 
 #: templates/oscar/dashboard/users/detail.html:218
 msgid "Score"
-msgstr "Điểm"
+msgstr "Điểm của bạn"
 
 #: templates/oscar/dashboard/users/detail.html:219
 msgctxt "Product review title"
