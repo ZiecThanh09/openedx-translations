@@ -16096,7 +16096,7 @@ msgstr "Tìm hiểu thêm về cài đặt hiển thị nội dung"
 #: cms/templates/edit-tabs.html:48 cms/templates/textbooks.html:57
 #: cms/templates/widgets/header.html:123
 msgid "Pages & Resources"
-msgstr "Trang &amp; Tài nguyên"
+msgstr "Trang & Tài nguyên"
 
 #. Translators: Custom Pages refer to the tabs that appear in the top
 #. navigation of each course.
@@ -17887,7 +17887,7 @@ msgstr "Cài đặt lịch trình &amp; chi tiết"
 #: cms/templates/settings.html:56 cms/templates/widgets/header.html:164
 #: cms/templates/widgets/header.html:169
 msgid "Schedule & Details"
-msgstr "Lịch trình &amp; Chi tiết"
+msgstr "Lịch trình & Chi tiết"
 
 #: cms/templates/settings.html:67
 msgid "Basic Information"
