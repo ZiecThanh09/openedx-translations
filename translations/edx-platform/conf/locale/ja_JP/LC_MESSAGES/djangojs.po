@@ -3279,8 +3279,7 @@ msgstr "クロースアンケート"
 #, javascript-format
 msgid "Viewing %s course"
 msgid_plural "Viewing %s courses"
-msgstr[0] ""
-msgstr[1] ""
+msgstr[0] "%s コースを見る"
 
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format
@@ -3704,7 +3703,7 @@ msgstr "ユーザー名"
 #: lms/static/js/instructor_dashboard/membership.js:117
 #: lms/djangoapps/support/static/support/templates/manage_user.underscore:21
 msgid "Email"
-msgstr "電子メール"
+msgstr "メール"
 
 #: lms/static/js/instructor_dashboard/membership.js:112
 #: lms/static/js/instructor_dashboard/membership.js:117

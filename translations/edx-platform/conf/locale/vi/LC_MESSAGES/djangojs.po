@@ -3411,7 +3411,7 @@ msgstr "đóng bảng câu hỏi"
 #, javascript-format
 msgid "Viewing %s course"
 msgid_plural "Viewing %s courses"
-msgstr[0] "Xem các khóa học %s"
+msgstr[0] "Xem %s khóa học"
 
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format

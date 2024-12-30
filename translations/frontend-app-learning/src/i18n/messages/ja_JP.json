@@ -194,7 +194,7 @@
   "learning.generic.upsell.supportMissionBullet.mission": "ミッション",
   "learning.generic.upsell.supportMissionBullet": "{siteName} で {missionInBoldText} をサポートしてください",
   "masquerade-widget.userName.error.generic": "エラーが発生しました。",
-  "masquerade-widget.userName.input.placeholder": "ユーザー名またはメールアドレス",
+  "masquerade-widget.userName.input.placeholder": "ユーザー名またはメールアドレスを入力",
   "masquerade-widget.userName.input.label": "このユーザーになりすます",
   "tours.datesCheckpoint.body": "重要な日付は、計画を順調に進めるのに役立ちます。",
   "tours.datesCheckpoint.title": "重要な日付を常に把握しておく",

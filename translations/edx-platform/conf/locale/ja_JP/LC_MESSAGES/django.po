@@ -2943,7 +2943,7 @@ msgstr "ビジネスのための {platform_name}"
 #: themes/stanford-style/lms/templates/footer.html:17
 #: themes/stanford-style/lms/templates/static_templates/about.html:43
 msgid "Contact"
-msgstr "連絡"
+msgstr "お問い合わせ"
 
 #: lms/djangoapps/branding/api.py:294 lms/djangoapps/branding/api.py:373
 #: themes/stanford-style/lms/templates/footer.html:16
@@ -3789,7 +3789,7 @@ msgstr "自己評価 (Jiko hyōka)"
 
 #: lms/djangoapps/courseware/courses.py:737
 msgid "Peer Assessment"
-msgstr "仲間評価 (Nakama Hyōka)"
+msgstr "仲間評価"
 
 #: lms/djangoapps/courseware/courses.py:739
 msgid "Staff Assessment"
@@ -3981,7 +3981,7 @@ msgstr "edx財政支援を利用できるコースの割合"
 #: lms/templates/peer_grading/peer_grading.html:41
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:30
 msgid "Progress"
-msgstr "進歩 (Shinpo)"
+msgstr "進歩"
 
 #: lms/djangoapps/courseware/plugins.py:28
 msgid "Keep learners engaged and on track throughout the course."
@@ -4615,7 +4615,7 @@ msgstr "ユーザー名"
 #: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:53
 #: lms/templates/instructor/instructor_dashboard_2/generate_registarion_codes_modal.html:66
 msgid "Email"
-msgstr "Email in Japanese is イーメール (i'mēru)."
+msgstr "メール"
 
 #: lms/djangoapps/instructor/views/api.py:1447
 msgid "Language"
@@ -5110,7 +5110,7 @@ msgstr "会員登録"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:528
 msgid "Cohorts"
-msgstr "仲間 (Nakama)"
+msgstr "仲間"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:547
 #: lms/djangoapps/discussion/templates/discussion/discussion_board_fragment.html:29
@@ -9879,7 +9879,7 @@ msgstr "{platform_name}にご参加いただきありがとうございます。
 #: lms/templates/course_modes/track_selection.html:156
 #: lms/templates/peer_grading/peer_grading_problem.html:68
 msgid "Continue"
-msgstr "続く"
+msgstr "次へ"
 
 #: openedx/features/personalized_learner_schedules/call_to_action.py:119
 msgid "Shift due dates"
@@ -10614,7 +10614,7 @@ msgstr "複数回の試行がある問題の投稿間に生徒が待たなけれ
 
 #: xmodule/capa_block.py:317
 msgid "Problem Weight"
-msgstr "問題の重み (Mondai no Omoni)"
+msgstr "問題の重み"
 
 #: xmodule/capa_block.py:318
 msgid ""
@@ -11948,7 +11948,7 @@ msgstr "「各生徒に表示するコンポーネント数を入力してくだ
 
 #: xmodule/library_content_block.py:156
 msgid "Problem Type"
-msgstr "問題の種類 (Mondai no Shurui)"
+msgstr "問題の種類"
 
 #: xmodule/library_content_block.py:157
 msgid ""
@@ -16558,7 +16558,7 @@ msgstr "スケジュール＆詳細"
 
 #: cms/templates/settings.html:67
 msgid "Basic Information"
-msgstr "基本情報 (Kihon jōhō)"
+msgstr "基本情報"
 
 #: cms/templates/settings.html:68
 msgid "The nuts and bolts of your course"
@@ -17996,7 +17996,7 @@ msgstr "詳細を学んでください"
 #: lms/templates/course.html:29 lms/templates/course.html:39
 #: lms/templates/course.html:41
 msgid "Starts"
-msgstr "スタート"
+msgstr "開始日"
 
 #: lms/templates/course.html:31
 msgid "Starts: {date}"
@@ -18087,7 +18087,7 @@ msgstr "設定を保存"
 #: lms/templates/dashboard/_dashboard_entitlement_unenrollment_modal.html:29
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:54
 msgid "Unenroll"
-msgstr "\"Unenroll\" can be translated to Japanese as 退会 (taikai)."
+msgstr "退会"
 
 #: lms/templates/email_change_failed.html:11
 #: lms/templates/email_exists.html:11
@@ -18235,7 +18235,7 @@ msgstr ""
 #: themes/stanford-style/lms/templates/index.html:22
 #: themes/stanford-style/lms/templates/index.html:23
 msgid "Search for a course"
-msgstr "コースを検索"
+msgstr "コース名を入力"
 
 #: lms/templates/index_overlay.html:8
 msgid "Welcome to {platform_name}"
@@ -18401,7 +18401,7 @@ msgstr "{content_group}の学習者 (Rinā in {content_group})"
 
 #: lms/templates/preview_menu.html:75
 msgid "Username or email:"
-msgstr "ユーザーネームまたはメールアドレス:"
+msgstr "ユーザー名またはメールアドレスを入力："
 
 #: lms/templates/preview_menu.html:78
 msgid "Set preview mode"
@@ -19829,7 +19829,7 @@ msgstr "以下はウェブサイトのタイトルです：情報を慎重に入
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:27
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:108
 msgid "Auto Enroll"
-msgstr "自動登録 (Jidou Touroku)"
+msgstr "自動登録"
 
 #: lms/templates/ccx/enrollment.html:26
 #: lms/templates/instructor/instructor_dashboard_2/membership.html:31
@@ -20519,7 +20519,7 @@ msgstr "コース一覧"
 #: lms/templates/courseware/courses.html:72
 #: lms/templates/courseware/courses.html:73
 msgid "Refine Your Search"
-msgstr "検索を絞り込む (Kensaku o shiborikomu)"
+msgstr "検索を絞り込む"
 
 #: lms/templates/courseware/courseware-chromeless.html:100
 #: lms/templates/courseware/courseware.html:308
@@ -22036,7 +22036,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/send_email.html:117
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:236
 msgid "Pending Tasks"
-msgstr "保留中のタスク (ほりゅうちゅうのタスク)"
+msgstr "保留中のタスク"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificates.html:106
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:144
@@ -22117,7 +22117,7 @@ msgstr "トラックごとの受講者数（管理者、スタッフ、学生）
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:19
 msgid "Audit"
-msgstr "監査 (Kansa)"
+msgstr "監査"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:22
 msgid "Honor"
@@ -22153,7 +22153,7 @@ msgstr "有料ブートキャンプ"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:74
 msgid "Basic Course Information"
-msgstr "基本コース情報 (Kihon kōsu jōhō)"
+msgstr "基本コース情報"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:78
 msgid "Course Name:"
@@ -22183,10 +22183,7 @@ msgstr "はい"
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:113
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:122
 msgid "No"
-msgstr ""
-"I'm sorry, but \"No\" does not need to be translated as it is already a "
-"universal word understood in Japanese. It can simply be written as \"No\" in"
-" Japanese text as well."
+msgstr "いいえ"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:118
 msgid "Has the course ended?"
@@ -23201,7 +23198,7 @@ msgstr "リセット試行をゼロにする"
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:159
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:215
 msgid "Rescore"
-msgstr "再評価 ( saihyōka )"
+msgstr "再評価"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:90
 msgid ""
@@ -23234,7 +23231,7 @@ msgstr "学習者のスコアを上書き"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:117
 msgid "Problem History"
-msgstr "問題の歴史 (Mondai no Rekishi)"
+msgstr "問題の歴史"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:118
 msgid ""
