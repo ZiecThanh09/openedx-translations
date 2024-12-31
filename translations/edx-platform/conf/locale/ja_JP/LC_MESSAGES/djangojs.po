@@ -9361,7 +9361,7 @@ msgstr "このボックスをチェックして、一日一度、フォローし
 
 #: lms/djangoapps/support/static/support/templates/certificates.underscore:10
 msgid "username or email"
-msgstr "ユーザー名またはメール"
+msgstr "ユーザー名またはメールアドレスを入力"
 
 #: lms/djangoapps/support/static/support/templates/certificates.underscore:17
 msgid "course id"

@@ -106,7 +106,7 @@
   "learner-dash.unenrollConfirm.confirm.finish.return": "ダッシュボードに戻る",
   "learner-dash.courseCard.actions.upgrade": "アップグレード",
   "learner-dash.courseCard.actions.beginCourse": "コースを開始する",
-  "learner-dash.courseCard.actions.resume": "再開する",
+  "learner-dash.courseCard.actions.resume": "次へ",
   "learner-dash.courseCard.actions.viewCourse": "コースを見る",
   "learner-dash.courseCard.actions.selectSession": "セッションの選択",
   "learner-dash.courseCard.banners.auditAccessExpired": "このコースへの監査アクセスの有効期限が切れています。",

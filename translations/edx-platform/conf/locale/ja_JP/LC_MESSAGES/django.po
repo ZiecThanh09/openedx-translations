@@ -665,7 +665,7 @@ msgstr "ピアアセスメントのみ"
 #: cms/djangoapps/contentstore/views/component.py:260
 #: xmodule/capa_block.py:182
 msgid "Blank Problem"
-msgstr "空白の問題 (Kūhaku no mondai)"
+msgstr "空白の問題"
 
 #: cms/djangoapps/contentstore/views/component.py:384
 #: xmodule/video_block/video_block.py:152
@@ -2929,7 +2929,7 @@ msgstr "寄付"
 #: themes/stanford-style/lms/templates/static_templates/about.html:41
 #: themes/stanford-style/lms/templates/static_templates/about.html:58
 msgid "About"
-msgstr "Aboutを日本語に翻訳すると「約」です。"
+msgstr "概要"
 
 #: lms/djangoapps/branding/api.py:289 lms/djangoapps/branding/api.py:365
 #, python-brace-format
@@ -4623,7 +4623,7 @@ msgstr "言語"
 
 #: lms/djangoapps/instructor/views/api.py:1448
 msgid "Location"
-msgstr "場所 (Basho)"
+msgstr "場所"
 
 #. #-#-#-#-#  django.po (0.1a)  #-#-#-#-#
 #. Translators: This label appears above a dropdown menu used to select
@@ -14647,7 +14647,7 @@ msgstr "新しいコースの公開表示名。 （この名前は、元のコ�
 #: cms/templates/course-create-rerun.html:84 cms/templates/index.html:81
 #: cms/templates/index.html:165 cms/templates/settings.html:73
 msgid "Organization"
-msgstr "組織 (Soshiki)"
+msgstr "組織"
 
 #: cms/templates/course-create-rerun.html:85 cms/templates/index.html:85
 #: cms/templates/index.html:167
@@ -21333,9 +21333,10 @@ msgstr "他の"
 msgid "Results:"
 msgstr "結果:"
 
+#: lms/templates/courses_list.html:743
 #: lms/templates/discussion/_discussion_inline.html:27
 msgid "Topic:"
-msgstr "トピック:"
+msgstr "テーマ:"
 
 #: lms/templates/discussion/_discussion_inline.html:36
 msgid "Show Discussion"

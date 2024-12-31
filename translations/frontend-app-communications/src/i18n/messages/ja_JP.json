@@ -73,7 +73,7 @@
     "bulk.email.task.history.table.column.header.taskProgress": "タスク進行状況",
     "bulk.email.scheduled.emails.table.header": "スケジュールされたメール",
     "bulk.email.task.alert.cancel": "キャンセル",
-    "bulk.email.form.recipients.Contine": "続行",
+    "bulk.email.form.recipients.Contine": "次へ",
     "bulk.email.form.recipients.sendLabel": "送信先",
     "bulk.email.form.recipients.myself": "自分",
     "bulk.email.form.recipients.staff": "スタッフ/管理者",
