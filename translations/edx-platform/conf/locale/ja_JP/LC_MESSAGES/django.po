@@ -11825,7 +11825,7 @@ msgstr ""
 #, python-brace-format
 msgid "{assignment_type} = {weighted_percent:.2%} of a possible {weight:.2%}"
 msgstr ""
-"{assignment_type} = {weighted_percent:.weight:.2%%} の可能な {weight:.2%} のうち"
+"{assignment_type} = {weighted_percent:.2%} の可能な {weight:.2%} のうち"
 
 #: xmodule/graders.py:382
 msgid "Generated"
