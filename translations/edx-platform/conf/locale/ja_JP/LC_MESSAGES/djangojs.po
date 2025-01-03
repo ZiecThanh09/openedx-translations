@@ -3280,6 +3280,7 @@ msgstr "クロースアンケート"
 msgid "Viewing %s course"
 msgid_plural "Viewing %s courses"
 msgstr[0] "%s コースを見る"
+msgstr[1] "%s コースを見る"
 
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format
