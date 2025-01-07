@@ -4077,7 +4077,7 @@ msgstr "Chứng chỉ có sẵn"
 #: lms/djangoapps/courseware/date_summary.py:432
 msgid "Day certificates will become available for passing verified learners."
 msgstr ""
-"Chứng chỉ ban ngày sẽ có sẵn cho những người học đã được xác minh vượt qua."
+"Chứng chỉ sẽ có sẵn cho những học viên đã hoàn thành khóa học."
 
 #: lms/djangoapps/courseware/date_summary.py:457
 #: lms/djangoapps/courseware/date_summary.py:486
