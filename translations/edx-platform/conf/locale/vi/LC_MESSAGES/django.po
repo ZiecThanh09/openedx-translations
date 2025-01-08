@@ -15870,7 +15870,7 @@ msgstr ""
 #: cms/templates/course_outline.html:15 cms/templates/course_outline.html:201
 #: cms/templates/course_outline.html:283
 msgid "Course Outline"
-msgstr "Tom tăt nội dung chương trinh"
+msgstr "Tóm tắt nội dung chương trình"
 
 #: cms/templates/course_outline.html:52
 msgid ""
@@ -16096,7 +16096,7 @@ msgstr "Tìm hiểu thêm về cài đặt hiển thị nội dung"
 #: cms/templates/edit-tabs.html:48 cms/templates/textbooks.html:57
 #: cms/templates/widgets/header.html:123
 msgid "Pages & Resources"
-msgstr "Trang & Tài nguyên"
+msgstr "Trang và Tài nguyên"
 
 #. Translators: Custom Pages refer to the tabs that appear in the top
 #. navigation of each course.
@@ -17882,12 +17882,12 @@ msgstr ""
 
 #: cms/templates/settings.html:4
 msgid "Schedule & Details Settings"
-msgstr "Cài đặt lịch trình &amp; chi tiết"
+msgstr "Cài đặt lịch trình và Chi tiết"
 
 #: cms/templates/settings.html:56 cms/templates/widgets/header.html:164
 #: cms/templates/widgets/header.html:169
 msgid "Schedule & Details"
-msgstr "Lịch trình & Chi tiết"
+msgstr "Lịch trình và Chi tiết"
 
 #: cms/templates/settings.html:67
 msgid "Basic Information"
