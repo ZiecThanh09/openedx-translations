@@ -628,7 +628,7 @@ msgid ""
 "begin with '00k'."
 msgstr ""
 "Salesforce Fırsat Satır Öğesi 18 alfanümerik karakterden oluşmalı ve "
-"&#39;00k&#39; ile başlamalıdır."
+"'00k' ile başlamalıdır."
 
 #: enterprise/forms.py:184 enterprise/forms.py:232
 msgid "Ensure this value is greater than or equal to 0."
@@ -878,7 +878,7 @@ msgstr "Ürünlerin ücreti olmak zorunda."
 
 #: extensions/api/serializers.py:715
 msgid "You need to provide a course UUID to create Course Entitlements."
-msgstr "Kurs Yetkileri oluşturmak için kurs UUID&#39;sini sağlamanız gerekir."
+msgstr "Kurs Yetkileri oluşturmak için kurs UUID'sini sağlamanız gerekir."
 
 #: extensions/api/serializers.py:749
 msgid "Products must indicate whether ID verification is required."
@@ -896,9 +896,9 @@ msgid ""
 "[publish_course_modes_to_lms] is disabled. To avoid ghost SKUs, data has not"
 " been saved."
 msgstr ""
-"[ {course_id} ] kursu LMS&#39;de yayınlanmadı çünkü "
+"[ {course_id} ] kursu LMS'de yayınlanmadı çünkü "
 "[publish_course_modes_to_lms] anahtarı devre dışı bırakıldı. Hayalet "
-"SKU&#39;ları önlemek için veriler kaydedilmedi."
+"SKU'ları önlemek için veriler kaydedilmedi."
 
 #: extensions/api/serializers.py:1561
 msgid "Enrollment code"
@@ -921,7 +921,7 @@ msgid ""
 "Your order {} can not be refunded as '{}' coupon are not supported to "
 "refund."
 msgstr ""
-"&#39;{}&#39; kuponunun geri ödemesi desteklenmediğinden, {} siparişiniz iade"
+"'{}' kuponunun geri ödemesi desteklenmediğinden, {} siparişiniz iade"
 " edilemez."
 
 #: extensions/api/serializers.py:2163
@@ -1257,7 +1257,7 @@ msgstr "El ile"
 
 #: extensions/offer/models.py:447
 msgid "Course Catalog ID from the Discovery Service."
-msgstr "Discovery Service&#39;ten Kurs Kataloğu Kimliği."
+msgstr "Discovery Service'ten Kurs Kataloğu Kimliği."
 
 #: extensions/offer/models.py:458
 msgid "UUID for an EnterpriseCustomerCatalog from the Enterprise Service."
@@ -2068,7 +2068,7 @@ msgid ""
 "of the certificate."
 msgstr ""
 "Kullanıcının kursu belirli bir tarihte tamamladığını onaylayan doğrulanmış "
-"bir sertifika (dijital). Sertifikada edX&#39;in logosu ve üniversitenin "
+"bir sertifika (dijital). Sertifikada edX'in logosu ve üniversitenin "
 "logosunun yanı sıra kursa katılan öğretim üyelerinin imzaları da yer alıyor."
 " Sertifikanın orijinalliğini doğrulamak için kullanılabilecek bir URL de "
 "vardır."
@@ -2158,7 +2158,7 @@ msgid ""
 msgstr ""
 "Siparişiniz tamamlandı. Faturaya ihtiyacınız varsa bu sayfayı "
 "yazdırabilirsiniz. {next_start} Sonraki Adımlar: {next_end} 1. Get "
-"Smarter&#39;dan gelen sipariş onayı e-postası için gelen kutunuzu kontrol "
+"Smarter'dan gelen sipariş onayı e-postası için gelen kutunuzu kontrol "
 "edin. {next_line} 2: Kaydınızı tamamlamak için e-postadaki talimatları "
 "izleyin."
 

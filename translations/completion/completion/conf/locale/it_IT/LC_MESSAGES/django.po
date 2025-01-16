@@ -32,11 +32,11 @@ msgstr ""
 #: api/v1/views.py:89
 #, python-brace-format
 msgid "Key '{key}' not found."
-msgstr "Chiave &#39;{key}&#39; non trovata."
+msgstr "Chiave '{key}' non trovata."
 
 #: api/v1/views.py:97
 msgid "User is not enrolled in course."
-msgstr "L&#39;utente non è iscritto al corso."
+msgstr "L'utente non è iscritto al corso."
 
 #: api/v1/views.py:115
 msgid "Invalid learning context key: {}"
@@ -49,7 +49,7 @@ msgstr "Chiave di blocco non valida: {}"
 #: api/v1/views.py:132
 #, python-brace-format
 msgid "Block with key: '{key}' is not in context {context}"
-msgstr "Blocca con chiave: &#39;{key}&#39; non è nel contesto {context}"
+msgstr "Blocca con chiave: '{key}' non è nel contesto {context}"
 
 #: api/v1/views.py:174
 msgid " "

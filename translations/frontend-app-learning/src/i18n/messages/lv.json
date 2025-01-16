@@ -450,7 +450,7 @@
   "notes.button.show": "Rādīt piezīmes",
   "notes.button.hide": "Slēpt piezīmes",
   "learn.contentLock.content.locked": "Saturs ir bloķēts",
-  "learn.contentLock.complete.prerequisite": "Lai piekļūtu šim saturam, jums ir jāizpilda priekšnoteikums: &#39;&#39; {prereqSectionName} &#39;&#39;.",
+  "learn.contentLock.complete.prerequisite": "Lai piekļūtu šim saturam, jums ir jāizpilda priekšnoteikums: '' {prereqSectionName} ''.",
   "learn.contentLock.goToSection": "Dodieties uz priekšnoteikumu sadaļu",
   "learn.hiddenAfterDue.header": "Šī uzdevuma izpildes termiņš ir beidzies.",
   "learn.hiddenAfterDue.description": "Tā kā termiņš ir pagājis, šis uzdevums vairs nav pieejams.",

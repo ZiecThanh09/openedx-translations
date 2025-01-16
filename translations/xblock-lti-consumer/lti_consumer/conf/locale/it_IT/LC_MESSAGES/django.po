@@ -45,7 +45,7 @@ msgstr "Firma del token non valida."
 
 #: lti_xblock.py:135
 msgid "No valid user id found in endpoint URL"
-msgstr "Nessun ID utente valido trovato nell&#39;URL dell&#39;endpoint"
+msgstr "Nessun ID utente valido trovato nell'URL dell'endpoint"
 
 #: lti_xblock.py:148
 msgid "Configuration on block"
@@ -128,7 +128,7 @@ msgid ""
 "Enter the reusable LTI external configuration ID provided by the support "
 "staff."
 msgstr ""
-"Inserisci l&#39;ID di configurazione esterna LTI riutilizzabile fornito dal "
+"Inserisci l'ID di configurazione esterna LTI riutilizzabile fornito dal "
 "personale di supporto."
 
 #: lti_xblock.py:315
@@ -140,8 +140,8 @@ msgid ""
 "Enter the LTI 1.3 Tool Launch URL. <br />This is the URL the LMS will use to"
 " launch the LTI Tool."
 msgstr ""
-"Inserisci l&#39;URL di avvio dello strumento LTI 1.3.<br /> Questo è "
-"l&#39;URL che l&#39;LMS utilizzerà per avviare lo strumento LTI."
+"Inserisci l'URL di avvio dello strumento LTI 1.3.<br /> Questo è "
+"l'URL che l'LMS utilizzerà per avviare lo strumento LTI."
 
 #: lti_xblock.py:324
 msgid "Tool Initiate Login URL"
@@ -153,9 +153,9 @@ msgid ""
 "login initiation URL).<br />This is the URL the LMS will use to start a LTI "
 "authorization prior to doing the launch request."
 msgstr ""
-"Inserisci l&#39;URL di autorizzazione OIDC dello strumento LTI 1.3 (può "
+"Inserisci l'URL di autorizzazione OIDC dello strumento LTI 1.3 (può "
 "anche essere chiamato accesso o URL di avvio accesso).<br /> Questo è "
-"l&#39;URL che l&#39;LMS utilizzerà per avviare un&#39;autorizzazione LTI "
+"l'URL che l'LMS utilizzerà per avviare un'autorizzazione LTI "
 "prima di eseguire la richiesta di lancio."
 
 #: lti_xblock.py:334
@@ -171,7 +171,7 @@ msgid ""
 "valid redirect uri's the tool may request."
 msgstr ""
 "URL validi a cui lo Strumento potrebbe richiederci di reindirizzare il token"
-" ID. Gli URI di reindirizzamento sono spesso gli stessi dell&#39;URL di "
+" ID. Gli URI di reindirizzamento sono spesso gli stessi dell'URL di "
 "lancio/URL del collegamento diretto, quindi se questo campo è vuoto, li "
 "utilizzerà come impostazione predefinita. Se è necessario utilizzare URI di "
 "reindirizzamento diversi, inserirli qui. Se utilizzi questo campo devi "
@@ -200,9 +200,9 @@ msgid ""
 " signature from the tool.<br /><b>This is not required when doing LTI 1.3 "
 "Launches without LTI Advantage nor Basic Outcomes requests.</b>"
 msgstr ""
-"Inserisci l&#39;URL del set di chiavi JWK dello strumento LTI 1.3.<br /> "
+"Inserisci l'URL del set di chiavi JWK dello strumento LTI 1.3.<br /> "
 "Questo collegamento dovrebbe recuperare un file JSON contenente chiavi "
-"pubbliche e informazioni sull&#39;algoritmo di firma, in modo che LMS possa "
+"pubbliche e informazioni sull'algoritmo di firma, in modo che LMS possa "
 "verificare se i messaggi e le richieste di lancio ricevute hanno la firma "
 "dello strumento.<br /> <b>Ciò non è necessario quando si eseguono lanci LTI "
 "1.3 senza richieste di vantaggi LTI o risultati di base.</b>"
@@ -220,8 +220,8 @@ msgid ""
 "Advantage nor Basic Outcomes requests.</b>"
 msgstr ""
 "Inserisci la chiave pubblica dello strumento LTI 1.3.<br /> Questa è una "
-"stringa che inizia con &#39;-----BEGIN PUBLIC KEY-----&#39; ed è necessaria "
-"affinché l&#39;LMS possa verificare se i messaggi e le richieste di lancio "
+"stringa che inizia con '-----BEGIN PUBLIC KEY-----' ed è necessaria "
+"affinché l'LMS possa verificare se i messaggi e le richieste di lancio "
 "ricevuti hanno la firma dello strumento.<br /> <b>Ciò non è necessario "
 "quando si eseguono lanci LTI 1.3 senza richieste di vantaggi LTI o risultati"
 " di base.</b>"
@@ -263,7 +263,7 @@ msgid ""
 "Enter the LTI Advantage Deep Linking Launch URL. If the tool does not "
 "specify one, use the same value as 'Tool Launch URL'."
 msgstr ""
-"Inserisci l&#39;URL di lancio del collegamento diretto LTI Advantage. Se lo "
+"Inserisci l'URL di lancio del collegamento diretto LTI Advantage. Se lo "
 "strumento non ne specifica uno, utilizza lo stesso valore di &quot;URL di "
 "avvio strumento&quot;."
 
@@ -291,9 +291,9 @@ msgid ""
 "tools to manage, create and link the grades."
 msgstr ""
 "Abilita il servizio LTI-AGS e seleziona la funzionalità abilitata per gli "
-"strumenti LTI. La modalità &#39;dichiarativa&#39; (predefinita) fornirà uno "
+"strumenti LTI. La modalità 'dichiarativa' (predefinita) fornirà uno "
 "strumento con un LineItem creato dalle impostazioni di XBlock, mentre quella"
-" &#39;programmatica&#39; consentirà agli strumenti di gestire, creare e "
+" 'programmatica' consentirà agli strumenti di gestire, creare e "
 "collegare i voti."
 
 #: lti_xblock.py:440
@@ -308,8 +308,8 @@ msgid ""
 "Settings page.<br />See the {docs_anchor_open}edX LTI "
 "documentation{anchor_close} for more details on this setting."
 msgstr ""
-"Inserisci l&#39;ID LTI per il fornitore LTI esterno. Questo valore deve "
-"essere lo stesso ID LTI immesso nell&#39;impostazione Passaporti LTI nella "
+"Inserisci l'ID LTI per il fornitore LTI esterno. Questo valore deve "
+"essere lo stesso ID LTI immesso nell'impostazione Passaporti LTI nella "
 "pagina Impostazioni avanzate.<br /> Consulta la documentazione "
 "{docs_anchor_open} edX LTI {anchor_close} per maggiori dettagli su questa "
 "impostazione."
@@ -326,7 +326,7 @@ msgid ""
 "{docs_anchor_open}edX LTI documentation{anchor_close} for more details on "
 "this setting."
 msgstr ""
-"Inserisci l&#39;URL dello strumento esterno avviato da questo componente. "
+"Inserisci l'URL dello strumento esterno avviato da questo componente. "
 "Questa impostazione viene utilizzata solo quando Nascondi strumento esterno "
 "è impostato su False.<br /> Consulta la documentazione {docs_anchor_open} "
 "edX LTI {anchor_close} per maggiori dettagli su questa impostazione."
@@ -379,7 +379,7 @@ msgid ""
 "This setting is only used when Hide External Tool is set to False and LTI "
 "Launch Target is set to Modal or New Window."
 msgstr ""
-"Immettere il testo sul pulsante utilizzato per avviare l&#39;applicazione di"
+"Immettere il testo sul pulsante utilizzato per avviare l'applicazione di"
 " terze parti. Questa impostazione viene utilizzata solo quando Nascondi "
 "strumento esterno è impostato su False e Target di avvio LTI è impostato su "
 "Modale o Nuova finestra."
@@ -394,7 +394,7 @@ msgid ""
 "tool. This setting is only used when Hide External Tool is set to False and "
 "LTI Launch Target is set to Inline."
 msgstr ""
-"Inserisci l&#39;altezza in pixel desiderata dell&#39;iframe che conterrà lo "
+"Inserisci l'altezza in pixel desiderata dell'iframe che conterrà lo "
 "strumento LTI. Questa impostazione viene utilizzata solo quando Nascondi "
 "strumento esterno è impostato su False e Target di avvio LTI è impostato su "
 "Inline."
@@ -409,7 +409,7 @@ msgid ""
 " contain the LTI tool. This setting is only used when Hide External Tool is "
 "set to False and LTI Launch Target is set to Modal."
 msgstr ""
-"Inserisci l&#39;altezza percentuale della visualizzazione desiderata della "
+"Inserisci l'altezza percentuale della visualizzazione desiderata della "
 "sovrapposizione modale che conterrà lo strumento LTI. Questa impostazione "
 "viene utilizzata solo quando Nascondi strumento esterno è impostato su False"
 " e Target di lancio LTI è impostato su Modale."
@@ -500,13 +500,13 @@ msgstr "Seleziona True per richiedere il nome utente dell'utente"
 
 #: lti_xblock.py:590
 msgid "Request user's full name"
-msgstr "Richiedi il nome completo dell&#39;utente"
+msgstr "Richiedi il nome completo dell'utente"
 
 #. Translators: This is used to request the user's full name for a third party
 #. service.
 #: lti_xblock.py:592
 msgid "Select True to request the user's full name."
-msgstr "Seleziona Vero per richiedere il nome completo dell&#39;utente."
+msgstr "Seleziona Vero per richiedere il nome completo dell'utente."
 
 #: lti_xblock.py:597
 msgid "Request user's email"
@@ -530,7 +530,7 @@ msgid ""
 msgstr ""
 "Selezionare Vero per inviare parametri aggiuntivi, che potrebbero contenere "
 "informazioni di identificazione personale. I processori sono a livello di "
-"sito, per favore consulta l&#39;amministratore del sito in caso di domande."
+"sito, per favore consulta l'amministratore del sito in caso di domande."
 
 #: lti_xblock.py:686
 msgid "Custom Parameters must be a list"
@@ -547,14 +547,14 @@ msgid ""
 "Reusable configuration ID must be set when using external config (Example: "
 "\"x:y\")."
 msgstr ""
-"L&#39;ID di configurazione riutilizzabile deve essere impostato quando si "
+"L'ID di configurazione riutilizzabile deve essere impostato quando si "
 "utilizza la configurazione esterna (esempio: &quot;x:y&quot;)."
 
 #: lti_xblock.py:726
 msgid ""
 "The specified LTI ID is not configured in this course's Advanced Settings."
 msgstr ""
-"L&#39;ID LTI specificato non è configurato nelle Impostazioni avanzate di "
+"L'ID LTI specificato non è configurato nelle Impostazioni avanzate di "
 "questo corso."
 
 #: lti_xblock.py:855 lti_xblock.py:1133
@@ -571,7 +571,7 @@ msgstr ""
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
 msgid "Could not get user id for current request"
-msgstr "Impossibile ottenere l&#39;ID utente per la richiesta corrente"
+msgstr "Impossibile ottenere l'ID utente per la richiesta corrente"
 
 #: lti_xblock.py:1066
 msgid ""
@@ -603,7 +603,7 @@ msgstr "Dati di configurazione LTI."
 
 #: models.py:125
 msgid "The URL of the external tool that initiates the launch."
-msgstr "L&#39;URL dello strumento esterno che avvia l&#39;avvio."
+msgstr "L'URL dello strumento esterno che avvia l'avvio."
 
 #: models.py:130
 msgid "Client key provided by the LTI tool provider."
@@ -711,14 +711,14 @@ msgstr ""
 
 #: templates/html/lti_1p3_studio.html:3
 msgid "LTI 1.3 Launches can only be performed from the LMS."
-msgstr "I lanci LTI 1.3 possono essere eseguiti solo dall&#39;LMS."
+msgstr "I lanci LTI 1.3 possono essere eseguiti solo dall'LMS."
 
 #: templates/html/lti_1p3_studio.html:7
 msgid ""
 "To set up the LTI integration, you need to register the LMS in the tool with"
 " the information provided below."
 msgstr ""
-"Per impostare l&#39;integrazione LTI, è necessario registrare l&#39;LMS "
+"Per impostare l'integrazione LTI, è necessario registrare l'LMS "
 "nello strumento con le informazioni fornite di seguito."
 
 #: templates/html/lti_1p3_studio.html:11
@@ -779,7 +779,7 @@ msgstr "Premere per Lanciare"
 
 #: templates/html/lti_launch_error.html:10
 msgid "There was an error while launching the LTI tool: "
-msgstr "Si è verificato un errore durante l&#39;avvio dello strumento LTI: "
+msgstr "Si è verificato un errore durante l'avvio dello strumento LTI: "
 
 #: templates/html/lti_launch_error.html:16
 #: templates/html/lti_proctoring_start_error.html:13
@@ -790,7 +790,7 @@ msgstr "Se lo vedi durante un corso dal vivo, contatta lo staff del corso."
 #: templates/html/lti_proctoring_start_error.html:10
 msgid "There was an error while starting your LTI proctored assessment."
 msgstr ""
-"Si è verificato un errore durante l&#39;avvio della valutazione "
+"Si è verificato un errore durante l'avvio della valutazione "
 "supervisionata LTI."
 
 #: templates/html/lti_start_assessment.html:11
@@ -799,7 +799,7 @@ msgstr "Rimandandoti al tuo esame."
 
 #: templates/html/lti_start_assessment.html:15
 msgid "Return to exam."
-msgstr "Ritorno all&#39;esame."
+msgstr "Ritorno all'esame."
 
 #: static/js/xblock_lti_consumer.js:143
 msgid "Cancel"
@@ -815,15 +815,15 @@ msgid ""
 "party application."
 msgstr ""
 "Fare clic su OK per inviare il nome utente, il nome completo e "
-"l&#39;indirizzo e-mail a un&#39;applicazione di terze parti."
+"l'indirizzo e-mail a un'applicazione di terze parti."
 
 #: static/js/xblock_lti_consumer.js:180
 msgid ""
 "Click OK to have your username and e-mail address sent to a 3rd party "
 "application."
 msgstr ""
-"Fare clic su OK per inviare il nome utente e l&#39;indirizzo e-mail a "
-"un&#39;applicazione di terze parti."
+"Fare clic su OK per inviare il nome utente e l'indirizzo e-mail a "
+"un'applicazione di terze parti."
 
 #: static/js/xblock_lti_consumer.js:183
 msgid ""
@@ -831,33 +831,33 @@ msgid ""
 "application."
 msgstr ""
 "Fare clic su OK per inviare il nome utente e il nome completo a "
-"un&#39;applicazione di terze parti."
+"un'applicazione di terze parti."
 
 #: static/js/xblock_lti_consumer.js:186
 msgid ""
 "Click OK to have your full name and e-mail address sent to a 3rd party "
 "application."
 msgstr ""
-"Fare clic su OK per inviare il nome completo e l&#39;indirizzo e-mail a "
-"un&#39;applicazione di terze parti."
+"Fare clic su OK per inviare il nome completo e l'indirizzo e-mail a "
+"un'applicazione di terze parti."
 
 #: static/js/xblock_lti_consumer.js:189
 msgid "Click OK to have your username sent to a 3rd party application."
 msgstr ""
-"Fai clic su OK per inviare il tuo nome utente a un&#39;applicazione di terze"
+"Fai clic su OK per inviare il tuo nome utente a un'applicazione di terze"
 " parti."
 
 #: static/js/xblock_lti_consumer.js:191
 msgid "Click OK to have your full name sent to a 3rd party application."
 msgstr ""
-"Fai clic su OK per inviare il tuo nome completo a un&#39;applicazione di "
+"Fai clic su OK per inviare il tuo nome completo a un'applicazione di "
 "terze parti."
 
 #: static/js/xblock_lti_consumer.js:193
 msgid "Click OK to have your e-mail address sent to a 3rd party application."
 msgstr ""
 "Fare clic su OK per inviare il proprio indirizzo e-mail a "
-"un&#39;applicazione di terze parti."
+"un'applicazione di terze parti."
 
 #: static/js/xblock_lti_consumer.js:200
 msgid "Click Cancel to return to this page without sending your information."

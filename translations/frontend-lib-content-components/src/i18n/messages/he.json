@@ -100,7 +100,7 @@
   "authoring.problemeditor.settings.reset.title": "הצג אפשרות איפוס",
   "authoring.problemeditor.settings.reset.true": "נכון",
   "authoring.problemeditor.settings.reset.false": "לא נכון",
-  "authoring.problemeditor.settings.reset.text": "קובע אם לחצן &#39;איפוס&#39; מוצג כך שהמשתמש יוכל לאפס את התשובה שלו, בדרך כלל לשימוש בפועל או להערכות מעצבות.",
+  "authoring.problemeditor.settings.reset.text": "קובע אם לחצן 'איפוס' מוצג כך שהמשתמש יוכל לאפס את התשובה שלו, בדרך כלל לשימוש בפועל או להערכות מעצבות.",
   "authoring.problemeditor.settings.scoring.title": "מְנִיָה",
   "authoring.problemeditor.settings.scoring.attempts.inputLabel": "נסיונות",
   "authoring.problemeditor.settings.scoring.weight.inputLabel": "נקודות",

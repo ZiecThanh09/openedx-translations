@@ -197,7 +197,7 @@ msgid ""
 msgstr ""
 "परिभाषित करता है कि समस्या का उत्तर कब दिखाना है। उन्नत सेटिंग्स में एक "
 "डिफ़ॉल्ट मान सेट किया जा सकता है। कस्टम मान सेटिंग को वापस लाने के लिए, "
-"&#39;डिफ़ॉल्ट&#39; विकल्प चुनें।"
+"'डिफ़ॉल्ट' विकल्प चुनें।"
 
 #: drag_and_drop_v2.py:152
 msgid "Default"
@@ -264,8 +264,8 @@ msgid ""
 "The background color of draggable items in the problem (example: 'blue' or "
 "'#0000ff')."
 msgstr ""
-"समस्या में खींचने योग्य आइटम का पृष्ठभूमि रंग (उदाहरण: &#39;नीला&#39; या "
-"&#39;#0000ff&#39;)।"
+"समस्या में खींचने योग्य आइटम का पृष्ठभूमि रंग (उदाहरण: 'नीला' या "
+"'#0000ff')।"
 
 #: drag_and_drop_v2.py:185
 msgid "Item text color"
@@ -275,7 +275,7 @@ msgstr "आइटम टेक्स्ट का रंग"
 msgid "Text color to use for draggable items (example: 'white' or '#ffffff')."
 msgstr ""
 "खींचने योग्य आइटम के लिए उपयोग किए जाने वाले टेक्स्ट का रंग (उदाहरण: "
-"&#39;सफ़ेद&#39; या &#39;#ffffff&#39;)।"
+"'सफ़ेद' या '#ffffff')।"
 
 #: drag_and_drop_v2.py:193
 msgid "Maximum items per zone"
@@ -415,8 +415,8 @@ msgid ""
 "For example, 'http://example.com/background.png' or "
 "'/static/background.png'."
 msgstr ""
-"उदाहरण के लिए, &#39;http://example.com/background.png&#39; या "
-"&#39;/static/background.png&#39;।"
+"उदाहरण के लिए, 'http://example.com/background.png' या "
+"'/static/background.png'।"
 
 #: templates/html/drag_and_drop_edit.html:140
 msgid "Zone Layout"

@@ -648,7 +648,7 @@ msgid ""
 "completion."
 msgstr ""
 "เมื่อตั้งค่าเป็น True การรวมจะใช้ผู้ใช้บริการ edX ทั่วไป "
-"(&#39;sapsf_user_id&#39;) ที่กำหนดไว้ใน SAP Customer Configuration "
+"('sapsf_user_id') ที่กำหนดไว้ใน SAP Customer Configuration "
 "เพื่อการจบหลักสูตร"
 
 #: integrated_channels/xapi/models.py:33
@@ -695,9 +695,9 @@ msgid ""
 "column of course run keys, indicated by the heading 'course_id' in the first"
 " row, to enroll learners in multiple courses."
 msgstr ""
-"ไฟล์ .csv ต้องมีคอลัมน์ที่อยู่อีเมล ซึ่งระบุด้วยหัวข้อ &#39;อีเมล&#39; "
+"ไฟล์ .csv ต้องมีคอลัมน์ที่อยู่อีเมล ซึ่งระบุด้วยหัวข้อ 'อีเมล' "
 "ในแถวแรก อีกทางเลือกหนึ่ง ไฟล์ .csv อาจมีคอลัมน์คีย์การเรียกใช้หลักสูตร "
-"ซึ่งระบุโดยหัวข้อ &#39;course_id&#39; ในแถวแรก "
+"ซึ่งระบุโดยหัวข้อ 'course_id' ในแถวแรก "
 "เพื่อลงทะเบียนผู้เรียนในหลายหลักสูตร"
 
 #: enterprise/admin/forms.py:68
@@ -815,9 +815,9 @@ msgid ""
 msgstr ""
 "ไซต์สำหรับผู้ให้บริการข้อมูลประจำตัวที่เลือก ( {identity_provider_site} ) "
 "ไม่ตรงกับไซต์สำหรับลูกค้าองค์กรรายนี้ ( {enterprise_customer_site} ) "
-"เมื่อต้องการแก้ไขปัญหานี้ ให้เลือกไซต์ที่มีโดเมน &#39; "
-"{identity_provider_site} &#39; หรืออัปเดตผู้ให้บริการข้อมูลประจำตัวเป็น "
-"&#39; {enterprise_customer_site} &#39;"
+"เมื่อต้องการแก้ไขปัญหานี้ ให้เลือกไซต์ที่มีโดเมน ' "
+"{identity_provider_site} ' หรืออัปเดตผู้ให้บริการข้อมูลประจำตัวเป็น "
+"' {enterprise_customer_site} '"
 
 #: enterprise/admin/forms.py:611
 #, python-brace-format
@@ -1616,7 +1616,7 @@ msgid ""
 " won't be excluded from the content of the associated catalog."
 msgstr ""
 "ระบุว่าแค็ตตาล็อกได้รับอนุญาตให้รวมหลักสูตร exec ed (2U) หรือไม่ "
-"ซึ่งหมายความว่า เมื่อ content_filter ระบุว่าประเภทเนื้อหา &#39;หลักสูตร&#39;"
+"ซึ่งหมายความว่า เมื่อ content_filter ระบุว่าประเภทเนื้อหา 'หลักสูตร'"
 " ควรรวมอยู่ในแค็ตตาล็อก ประเภทหลักสูตรสำหรับผู้บริหารการศึกษา-2u "
 "จะไม่ถูกแยกออกจากเนื้อหาของแค็ตตาล็อกที่เกี่ยวข้อง"
 
@@ -2311,7 +2311,7 @@ msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
 "ไม่สามารถแยกวิเคราะห์ไฟล์ CSV โปรดตรวจสอบให้แน่ใจว่าเป็นไฟล์ที่เข้ารหัส CSV "
-"&#39;utf-8&#39;"
+"'utf-8'"
 
 #: enterprise/utils.py:187
 msgid "Discount percentage should be from 0 to 100."

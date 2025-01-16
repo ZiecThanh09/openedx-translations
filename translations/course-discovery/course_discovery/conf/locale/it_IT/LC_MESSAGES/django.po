@@ -1050,7 +1050,7 @@ msgid ""
 "subscription catalog"
 msgstr ""
 "Questo campo indica se uno qualsiasi dei corsi di questa organizzazione si "
-"trova nel catalogo dell&#39;abbonamento aziendale"
+"trova nel catalogo dell'abbonamento aziendale"
 
 #: apps/course_metadata/models.py:285
 msgid ""
@@ -1059,14 +1059,14 @@ msgid ""
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr ""
 "Il valore esadecimale di 6 caratteri del colore del tema "
-"dell&#39;organizzazione, tutti i corsi correlati nella stessa organizzazione"
+"dell'organizzazione, tutti i corsi correlati nella stessa organizzazione"
 " utilizzeranno questo colore come colore del tema. (es. &quot;#ff0000&quot; "
-"che equivale a rosso) Non c&#39;è bisogno di fornire il `#`"
+"che equivale a rosso) Non c'è bisogno di fornire il `#`"
 
 #: apps/course_metadata/models.py:301
 msgid "The timestamp of the last time the organization data was modified."
 msgstr ""
-"Il timestamp dell&#39;ultima volta che Organization data è stato modificato."
+"Il timestamp dell'ultima volta che Organization data è stato modificato."
 
 #: apps/course_metadata/models.py:317
 msgid ""
@@ -1079,7 +1079,7 @@ msgstr ""
 #: apps/course_metadata/models.py:388
 msgid "Corresponding organization code in an external product source"
 msgstr ""
-"Codice organizzazione corrispondente in un&#39;origine prodotto esterna"
+"Codice organizzazione corrispondente in un'origine prodotto esterna"
 
 #: apps/course_metadata/models.py:445
 msgid "LevelType model translations"
@@ -1179,7 +1179,7 @@ msgid ""
 "The ID of the Taxi Form (by 2U) that would be rendered in place of the "
 "hubspot capture form"
 msgstr ""
-"L&#39;ID del modulo taxi (di 2U) che verrebbe visualizzato al posto del "
+"L'ID del modulo taxi (di 2U) che verrebbe visualizzato al posto del "
 "modulo di acquisizione hubspot"
 
 #: apps/course_metadata/models.py:869
@@ -1192,29 +1192,29 @@ msgstr ""
 
 #: apps/course_metadata/models.py:893
 msgid "The URL of the paid landing page on external site"
-msgstr "L&#39;URL della pagina di destinazione a pagamento su un sito esterno"
+msgstr "L'URL della pagina di destinazione a pagamento su un sito esterno"
 
 #: apps/course_metadata/models.py:899
 msgid "The URL of the organic landing page on external site"
-msgstr "L&#39;URL della pagina di destinazione organica sul sito esterno"
+msgstr "L'URL della pagina di destinazione organica sul sito esterno"
 
 #: apps/course_metadata/models.py:910
 msgid "The start date of the external course offering for marketing purpose"
 msgstr ""
-"La data di inizio dell&#39;offerta di corsi esterni a fini di marketing"
+"La data di inizio dell'offerta di corsi esterni a fini di marketing"
 
 #: apps/course_metadata/models.py:914
 msgid "The ends date of the external course offering for marketing purpose"
 msgstr ""
-"La data di fine dell&#39;offerta di corsi esterni per scopi di marketing"
+"La data di fine dell'offerta di corsi esterni per scopi di marketing"
 
 #: apps/course_metadata/models.py:918
 msgid "The suggested deadline for enrollment for marketing purpose"
-msgstr "La scadenza suggerita per l&#39;iscrizione a fini di marketing"
+msgstr "La scadenza suggerita per l'iscrizione a fini di marketing"
 
 #: apps/course_metadata/models.py:922
 msgid "The identifier for a product variant."
-msgstr "L&#39;identificatore di una variante di prodotto."
+msgstr "L'identificatore di una variante di prodotto."
 
 #: apps/course_metadata/models.py:926
 msgid "Course override"
@@ -1238,7 +1238,7 @@ msgid ""
 "organization's page"
 msgstr ""
 "Determina il tempo in cui il corso dovrebbe essere visualizzato sulla pagina"
-" dell&#39;organizzazione proprietaria"
+" dell'organizzazione proprietaria"
 
 #: apps/course_metadata/models.py:1022
 msgid "A list of major works by this person. Must be valid HTML."
@@ -1351,14 +1351,14 @@ msgstr "Informazioni aggiuntive"
 
 #: apps/course_metadata/models.py:1413
 msgid "The last time this course was modified in the database."
-msgstr "L&#39;ultima volta che questo corso è stato modificato nel database."
+msgstr "L'ultima volta che questo corso è stato modificato nel database."
 
 #: apps/course_metadata/models.py:1418
 msgid ""
 "This field signifies if this course is in the enterprise subscription "
 "catalog"
 msgstr ""
-"Questo campo indica se questo corso è nel catalogo dell&#39;abbonamento "
+"Questo campo indica se questo corso è nel catalogo dell'abbonamento "
 "aziendale"
 
 #: apps/course_metadata/models.py:1426 apps/course_metadata/models.py:3255
@@ -1383,7 +1383,7 @@ msgid ""
 "The list of email addresses that will be notified if any of the course runs "
 "is published or scheduled."
 msgstr ""
-"L&#39;elenco degli indirizzi e-mail a cui verrà notificata la pubblicazione "
+"L'elenco degli indirizzi e-mail a cui verrà notificata la pubblicazione "
 "o la pianificazione di uno qualsiasi dei corsi."
 
 #: apps/course_metadata/models.py:1680
@@ -1493,16 +1493,16 @@ msgid ""
 "This calculated field signifies if this course run is in the enterprise "
 "subscription catalog"
 msgstr ""
-"Questo campo calcolato indica se l&#39;esecuzione del corso è nel catalogo "
-"dell&#39;abbonamento aziendale"
+"Questo campo calcolato indica se l'esecuzione del corso è nel catalogo "
+"dell'abbonamento aziendale"
 
 #: apps/course_metadata/models.py:2210
 msgid ""
 "The identifier for a product variant. This is used to link a course run to a"
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
-"L&#39;identificatore di una variante di prodotto. Viene utilizzato per "
-"collegare l&#39;esecuzione di un corso a una variante di prodotto per LOB "
+"L'identificatore di una variante di prodotto. Viene utilizzato per "
+"collegare l'esecuzione di un corso a una variante di prodotto per LOB "
 "esterni (ad esempio ExecEd e Bootcamp)."
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
@@ -1634,19 +1634,19 @@ msgid ""
 "included in the enterprise subscription catalog "
 msgstr ""
 "Questo campo calcolato indica se tutti i corsi in questo programma sono "
-"inclusi nel catalogo dell&#39;abbonamento aziendale"
+"inclusi nel catalogo dell'abbonamento aziendale"
 
 #: apps/course_metadata/models.py:3220
 msgid ""
 "A field to override Organization short code alias specific for this program."
 msgstr ""
-"Un campo per sovrascrivere l&#39;alias del codice funzione "
-"dell&#39;organizzazione specifico per questo programma."
+"Un campo per sovrascrivere l'alias del codice funzione "
+"dell'organizzazione specifico per questo programma."
 
 #: apps/course_metadata/models.py:3227
 msgid "A field to override Organization logo specific for this program."
 msgstr ""
-"Un campo per sovrascrivere il logo dell&#39;organizzazione specifico per "
+"Un campo per sovrascrivere il logo dell'organizzazione specifico per "
 "questo programma."
 
 #: apps/course_metadata/models.py:3231
@@ -1654,7 +1654,7 @@ msgid ""
 "Primary subject field specific for this program. Useful field in case there "
 "are no courses associated with this program."
 msgstr ""
-"Campo dell&#39;argomento principale specifico per questo programma. Campo "
+"Campo dell'argomento principale specifico per questo programma. Campo "
 "utile nel caso non ci siano corsi associati a questo programma."
 
 #: apps/course_metadata/models.py:3236
@@ -1691,7 +1691,7 @@ msgstr ""
 
 #: apps/course_metadata/models.py:3295
 msgid "The last time this program was modified."
-msgstr "L&#39;ultima volta che questo programma è stato modificato."
+msgstr "L'ultima volta che questo programma è stato modificato."
 
 #: apps/course_metadata/models.py:3723 apps/course_metadata/models.py:3740
 msgid "ID"
@@ -1802,15 +1802,15 @@ msgid ""
 "organization's page"
 msgstr ""
 "Indica se il titolo deve essere visualizzato nella pagina "
-"dell&#39;organizzazione proprietaria"
+"dell'organizzazione proprietaria"
 
 #: apps/course_metadata/models.py:3913
 msgid "The redirect URL of the degree on external site"
-msgstr "L&#39;URL di reindirizzamento della laurea su un sito esterno"
+msgstr "L'URL di reindirizzamento della laurea su un sito esterno"
 
 #: apps/course_metadata/models.py:3918
 msgid "The URL of the landing page on external site"
-msgstr "L&#39;URL della pagina di destinazione sul sito esterno"
+msgstr "L'URL della pagina di destinazione sul sito esterno"
 
 #: apps/course_metadata/models.py:3953
 msgid "Bell"
@@ -2258,7 +2258,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Il corso &#39; %(course_name)s &#39; è stato revisionato con successo da edX ed è ora pubblicato su %(course_publish_date)s. Per vedere il corso dal vivo, vai qui: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
+"Il corso ' %(course_name)s ' è stato revisionato con successo da edX ed è ora pubblicato su %(course_publish_date)s. Per vedere il corso dal vivo, vai qui: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:12
 #, python-format
@@ -2269,8 +2269,8 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Il corso &#39; %(course_name)s &#39; è stato revisionato con successo da edX ed è ora pronto per la pubblicazione. Il corso sarà pubblicato su %(course_publish_date)s .\n"
-"Per visualizzare un&#39;anteprima della pagina Informazioni sul corso, vai qui: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
+"Il corso ' %(course_name)s ' è stato revisionato con successo da edX ed è ora pronto per la pubblicazione. Il corso sarà pubblicato su %(course_publish_date)s .\n"
+"Per visualizzare un'anteprima della pagina Informazioni sul corso, vai qui: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:4
 #, python-format
@@ -2279,7 +2279,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"Il corso &#39; %(course_name)s &#39; è stato revisionato con successo da edX ed è ora pubblicato su %(course_publish_date)s . Per vedere il corso dal vivo, vai qui: %(course_marketing_url)s\n"
+"Il corso ' %(course_name)s ' è stato revisionato con successo da edX ed è ora pubblicato su %(course_publish_date)s . Per vedere il corso dal vivo, vai qui: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format
@@ -2289,8 +2289,8 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"Il corso &#39; %(course_name)s &#39; è stato revisionato con successo da edX ed è ora pronto per la pubblicazione. Il corso sarà pubblicato su %(course_publish_date)s .\n"
-"Per vedere un&#39;anteprima della pagina Informazioni sul corso, vai qui: %(course_preview_url)s\n"
+"Il corso ' %(course_name)s ' è stato revisionato con successo da edX ed è ora pronto per la pubblicazione. Il corso sarà pubblicato su %(course_publish_date)s .\n"
+"Per vedere un'anteprima della pagina Informazioni sul corso, vai qui: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:380
 msgid "Special characters not allowed in Course Number."
@@ -2326,7 +2326,7 @@ msgstr "Il programma è stato correttamente modificato."
 #: apps/course_metadata/views.py:127
 msgid "The refresh program skills task triggered successfully."
 msgstr ""
-"L&#39;attività di aggiornamento delle competenze del programma è stata "
+"L'attività di aggiornamento delle competenze del programma è stata "
 "attivata correttamente."
 
 #: apps/course_metadata/views.py:206

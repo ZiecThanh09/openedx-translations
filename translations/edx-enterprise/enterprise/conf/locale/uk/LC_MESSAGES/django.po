@@ -662,7 +662,7 @@ msgid ""
 msgstr ""
 "Якщо встановлено значення True, для проходження курсу інтеграція "
 "використовуватиме загального користувача служби edX "
-"(&#39;sapsf_user_id&#39;), визначеного в конфігурації клієнта SAP."
+"('sapsf_user_id'), визначеного в конфігурації клієнта SAP."
 
 #: integrated_channels/xapi/models.py:33
 msgid "Version of xAPI."
@@ -718,7 +718,7 @@ msgstr ""
 "Файл .csv повинен містити стовпець адрес електронної пошти, позначений "
 "заголовком &quot;електронна пошта&quot; в першому рядку. За бажанням файл "
 ".csv може містити стовпець із ключами проходження курсу, позначений "
-"заголовком &#39;course_id&#39; у першому рядку, щоб зареєструвати учнів на "
+"заголовком 'course_id' у першому рядку, щоб зареєструвати учнів на "
 "кілька курсів."
 
 #: enterprise/admin/forms.py:68
@@ -795,7 +795,7 @@ msgstr "Електронна пошта/ім’я користувача"
 
 #: enterprise/admin/forms.py:311
 msgid "Enter an email address or username."
-msgstr "Введіть адресу електронної пошти або ім&#39;я користувача."
+msgstr "Введіть адресу електронної пошти або ім'я користувача."
 
 #: enterprise/admin/forms.py:315
 msgid "Course"
@@ -1318,7 +1318,7 @@ msgstr ""
 "{strong_start} Щось сталося. {strong_end} {span_start} Будь ласка, "
 "зв’яжіться зі своїм адміністратором навчання, надавши такий код помилки, і "
 "він зможе вам допомогти. {span_end} {span_start} Код помилки: {error_code} "
-"{span_end} {span_start} Ім&#39;я користувача: {username} {span_end}"
+"{span_end} {span_start} Ім'я користувача: {username} {span_end}"
 
 #: enterprise/models.py:134
 msgid "Enterprise Customer Type"
@@ -1342,7 +1342,7 @@ msgstr "Корпоративні клієнти"
 
 #: enterprise/models.py:210
 msgid "Enterprise Customer name."
-msgstr "Ім&#39;я корпоративного клієнта."
+msgstr "Ім'я корпоративного клієнта."
 
 #: enterprise/models.py:230
 msgid "Hides course price on learning platform course confirmation screen."
@@ -1865,7 +1865,7 @@ msgstr ""
 
 #: enterprise/models.py:2994
 msgid "SFTP Host name"
-msgstr "Ім&#39;я хосту SFTP"
+msgstr "Ім'я хосту SFTP"
 
 #: enterprise/models.py:2995
 msgid "If the delivery method is sftp, the host to deliver the report to."
@@ -1882,7 +1882,7 @@ msgstr ""
 
 #: enterprise/models.py:3008
 msgid "SFTP username"
-msgstr "Ім&#39;я користувача SFTP"
+msgstr "Ім'я користувача SFTP"
 
 #: enterprise/models.py:3009
 msgid ""
@@ -2250,7 +2250,7 @@ msgstr "Ім'я користувача"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:100
 msgid "Linked Date"
-msgstr "Пов&#39;язана дата"
+msgstr "Пов'язана дата"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:101
 #: enterprise/templates/enterprise/admin/manage_learners.html:141
@@ -2400,7 +2400,7 @@ msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
 "Неможливо проаналізувати файл CSV. Будь ласка, переконайтеся, що це файл із "
-"кодуванням CSV &#39;utf-8&#39;."
+"кодуванням CSV 'utf-8'."
 
 #: enterprise/utils.py:187
 msgid "Discount percentage should be from 0 to 100."
@@ -2510,7 +2510,7 @@ msgstr ""
 #: enterprise/views.py:395
 #, python-brace-format
 msgid "My {platform_name} username"
-msgstr "Моє ім&#39;я користувача {platform_name}"
+msgstr "Моє ім'я користувача {platform_name}"
 
 #: enterprise/views.py:396
 msgid "My country or region of residence"

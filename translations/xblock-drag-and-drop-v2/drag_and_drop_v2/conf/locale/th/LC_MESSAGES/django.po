@@ -260,8 +260,8 @@ msgid ""
 "The background color of draggable items in the problem (example: 'blue' or "
 "'#0000ff')."
 msgstr ""
-"สีพื้นหลังของรายการที่ลากได้ในปัญหา (ตัวอย่าง: &#39;สีน้ำเงิน&#39; หรือ "
-"&#39;#0000ff&#39;)"
+"สีพื้นหลังของรายการที่ลากได้ในปัญหา (ตัวอย่าง: 'สีน้ำเงิน' หรือ "
+"'#0000ff')"
 
 #: drag_and_drop_v2.py:185
 msgid "Item text color"
@@ -270,8 +270,8 @@ msgstr "สีข้อความของรายการ"
 #: drag_and_drop_v2.py:186
 msgid "Text color to use for draggable items (example: 'white' or '#ffffff')."
 msgstr ""
-"สีข้อความที่จะใช้สำหรับรายการที่สามารถลากได้ (ตัวอย่าง: &#39;สีขาว&#39; หรือ"
-" &#39;#ffffff&#39;)"
+"สีข้อความที่จะใช้สำหรับรายการที่สามารถลากได้ (ตัวอย่าง: 'สีขาว' หรือ"
+" '#ffffff')"
 
 #: drag_and_drop_v2.py:193
 msgid "Maximum items per zone"
@@ -402,8 +402,8 @@ msgid ""
 "For example, 'http://example.com/background.png' or "
 "'/static/background.png'."
 msgstr ""
-"ตัวอย่างเช่น &#39;http://example.com/พื้นหลัง.png&#39; หรือ "
-"&#39;/static/พื้นหลัง.png&#39;"
+"ตัวอย่างเช่น 'http://example.com/พื้นหลัง.png' หรือ "
+"'/static/พื้นหลัง.png'"
 
 #: templates/html/drag_and_drop_edit.html:140
 msgid "Zone Layout"

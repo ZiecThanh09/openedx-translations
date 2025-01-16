@@ -27,7 +27,7 @@ msgstr "Vist navn"
 
 #: models.py:28
 msgid "This is the XBlock's display name"
-msgstr "Dette er XBlock&#39;ens visningsnavn"
+msgstr "Dette er XBlock'ens visningsnavn"
 
 #: models.py:32
 msgid "Image URL"

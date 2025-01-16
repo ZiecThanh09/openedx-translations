@@ -66,7 +66,7 @@ msgstr "ผู้ประมวลผลการชำระเงิน"
 msgid "Comma-separated list of processor names: 'cybersource,paypal'"
 msgstr ""
 "รายการชื่อโปรเซสเซอร์ที่คั่นด้วยเครื่องหมายจุลภาค: "
-"&#39;cybersource,paypal&#39;"
+"'cybersource,paypal'"
 
 #: core/models.py:61
 msgid "Client-side payment processor"
@@ -619,7 +619,7 @@ msgid ""
 "begin with '00k'."
 msgstr ""
 "รายการโฆษณาโอกาสของ Salesforce ต้องเป็นอักขระตัวอักษรและตัวเลข 18 "
-"ตัวและขึ้นต้นด้วย &#39;00k&#39;"
+"ตัวและขึ้นต้นด้วย '00k'"
 
 #: enterprise/forms.py:184 enterprise/forms.py:232
 msgid "Ensure this value is greater than or equal to 0."
@@ -641,7 +641,7 @@ msgstr "ที่อยู่อีเมลที่ระบุ {email} ไม
 
 #: enterprise/forms.py:290
 msgid "An offer already exists for this Enterprise & Catalog combination."
-msgstr "มีข้อเสนออยู่แล้วสำหรับชุด Enterprise &amp; Catalog นี้"
+msgstr "มีข้อเสนออยู่แล้วสำหรับชุด Enterprise & Catalog นี้"
 
 #: enterprise/forms.py:293 enterprise/forms.py:302 programs/forms.py:73
 msgid "Percentage discounts cannot be greater than 100%."
@@ -910,7 +910,7 @@ msgid ""
 "Your order {} can not be refunded as '{}' coupon are not supported to "
 "refund."
 msgstr ""
-"ไม่สามารถขอคืนเงินสำหรับคำสั่งซื้อ {} ของคุณได้ เนื่องจากคูปอง &#39;{}&#39; "
+"ไม่สามารถขอคืนเงินสำหรับคำสั่งซื้อ {} ของคุณได้ เนื่องจากคูปอง '{}' "
 "ไม่รองรับการคืนเงิน"
 
 #: extensions/api/serializers.py:2163
@@ -979,34 +979,34 @@ msgstr "คลิกที่นี่เพื่อซื้อที่นั
 #: extensions/basket/utils.py:498
 #, python-brace-format
 msgid "Coupon code '{code}' has expired."
-msgstr "รหัสคูปอง &#39;{code}&#39; หมดอายุแล้ว"
+msgstr "รหัสคูปอง '{code}' หมดอายุแล้ว"
 
 #: extensions/basket/utils.py:502
 #, python-brace-format
 msgid "Coupon code '{code}' is not active."
-msgstr "รหัสคูปอง &#39;{code}&#39; ใช้งานไม่ได้"
+msgstr "รหัสคูปอง '{code}' ใช้งานไม่ได้"
 
 #: extensions/basket/utils.py:508
 #, python-brace-format
 msgid "Coupon code '{code}' is not available. {msg}"
-msgstr "รหัสคูปอง &#39;{code}&#39; ไม่สามารถใช้ได้ {msg}"
+msgstr "รหัสคูปอง '{code}' ไม่สามารถใช้ได้ {msg}"
 
 #: extensions/basket/utils.py:514
 #, python-brace-format
 msgid "Coupon code '{code}' is not valid for this basket."
-msgstr "รหัสคูปอง &#39;{code}&#39; ไม่ถูกต้องสำหรับตะกร้านี้"
+msgstr "รหัสคูปอง '{code}' ไม่ถูกต้องสำหรับตะกร้านี้"
 
 #: extensions/basket/utils.py:527
 #, python-brace-format
 msgid ""
 "Coupon code '{code}' is not valid for this basket for a bundled purchase."
 msgstr ""
-"รหัสคูปอง &#39;{code}&#39; ไม่ถูกต้องสำหรับตะกร้านี้สำหรับการซื้อแบบรวมกลุ่ม"
+"รหัสคูปอง '{code}' ไม่ถูกต้องสำหรับตะกร้านี้สำหรับการซื้อแบบรวมกลุ่ม"
 
 #: extensions/basket/utils.py:582
 #, python-brace-format
 msgid "Coupon code '{code}' added to basket."
-msgstr "เพิ่มรหัสคูปอง &#39;{code}&#39; ลงในตะกร้าแล้ว"
+msgstr "เพิ่มรหัสคูปอง '{code}' ลงในตะกร้าแล้ว"
 
 #: extensions/basket/utils.py:585
 #, python-brace-format
@@ -1017,7 +1017,7 @@ msgstr "ตะกร้าสินค้าไม่เข้าเกณฑ์
 #, python-brace-format
 msgid "Could not apply the code '{code}'; it requires data sharing consent."
 msgstr ""
-"ไม่สามารถใช้รหัส &#39;{code}&#39;; มันต้องได้รับความยินยอมในการแบ่งปันข้อมูล"
+"ไม่สามารถใช้รหัส '{code}'; มันต้องได้รับความยินยอมในการแบ่งปันข้อมูล"
 
 #: extensions/basket/views.py:297
 msgid ""
@@ -1111,22 +1111,22 @@ msgstr "ไม่สามารถอัปเดตตะกร้าของ
 #: extensions/basket/views.py:975
 #, python-brace-format
 msgid "You have already added coupon code '{code}' to your basket."
-msgstr "คุณได้เพิ่มรหัสคูปอง &#39;{code}&#39; ลงในตะกร้าของคุณแล้ว"
+msgstr "คุณได้เพิ่มรหัสคูปอง '{code}' ลงในตะกร้าของคุณแล้ว"
 
 #: extensions/basket/views.py:1051
 #, python-brace-format
 msgid "Coupon code '{code}' does not exist."
-msgstr "ไม่มีรหัสคูปอง &#39;{code}&#39;"
+msgstr "ไม่มีรหัสคูปอง '{code}'"
 
 #: extensions/basket/views.py:1136
 #, python-format
 msgid "No coupon found with id '%s'"
-msgstr "ไม่พบคูปองที่มีรหัส &#39; %s &#39;"
+msgstr "ไม่พบคูปองที่มีรหัส ' %s '"
 
 #: extensions/basket/views.py:1140
 #, python-format
 msgid "Coupon code '%s' was removed from your basket."
-msgstr "รหัสคูปอง &#39; %s &#39; ถูกลบออกจากตะกร้าของคุณแล้ว"
+msgstr "รหัสคูปอง ' %s ' ถูกลบออกจากตะกร้าของคุณแล้ว"
 
 #: extensions/catalogue/models.py:70
 msgid "Last date/time on which this product can be purchased."
@@ -1341,7 +1341,7 @@ msgstr ""
 
 #: extensions/partner/admin.py:28
 msgid "Click 'Save and Continue Editing' to add stock records"
-msgstr "คลิก &#39;บันทึกและแก้ไขต่อ&#39; เพื่อเพิ่มบันทึกสต็อก"
+msgstr "คลิก 'บันทึกและแก้ไขต่อ' เพื่อเพิ่มบันทึกสต็อก"
 
 #: extensions/partner/models.py:22
 #: templates/oscar/dashboard/catalogue/product_update.html:193
@@ -3254,7 +3254,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"สร้างผลิตภัณฑ์ย่อย &#39; %(name)s &#39;\n"
+"สร้างผลิตภัณฑ์ย่อย ' %(name)s '\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:17
@@ -3265,7 +3265,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"สร้างรูปแบบที่แตกต่างกันของ &#39; %(parent_name)s &#39;\n"
+"สร้างรูปแบบที่แตกต่างกันของ ' %(parent_name)s '\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:25
@@ -3276,7 +3276,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"อัปเดตตัวเลือกสินค้า &#39; %(name)s &#39;\n"
+"อัปเดตตัวเลือกสินค้า ' %(name)s '\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:31
@@ -3287,7 +3287,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"อัปเดตเวอร์ชันของ &#39; %(parent_name)s &#39;\n"
+"อัปเดตเวอร์ชันของ ' %(parent_name)s '\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:42
@@ -3298,7 +3298,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"สร้างผลิตภัณฑ์ &#39; %(name)s &#39;\n"
+"สร้างผลิตภัณฑ์ ' %(name)s '\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:48
@@ -3309,7 +3309,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"อัพเดตผลิตภัณฑ์ &#39; %(name)s &#39;\n"
+"อัพเดตผลิตภัณฑ์ ' %(name)s '\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:60

@@ -55,7 +55,7 @@ msgstr "Approva la risorsa senza autorizzazione"
 
 #: recommender.py:796
 msgid "You don't have the permission to remove this resource"
-msgstr "Non hai l&#39;autorizzazione per rimuovere questa risorsa"
+msgstr "Non hai l'autorizzazione per rimuovere questa risorsa"
 
 #: recommender.py:847
 msgid "Only staff can import resources"
@@ -70,7 +70,7 @@ msgstr "Invia il file JSON ottenuto con il pulsante Scarica risorse"
 msgid "Tried to access flagged resources without staff permission"
 msgstr ""
 "Ho tentato di accedere alle risorse contrassegnate senza "
-"l&#39;autorizzazione dello staff"
+"l'autorizzazione dello staff"
 
 #: templates/recommender.html:83
 msgid "This is a list of recommended resources. If you\\"
@@ -116,15 +116,15 @@ msgid ""
 "etc.), please flag it and let us know the reason."
 msgstr ""
 "Questo è un elenco di risorse che i tuoi compagni studenti ritengono possano"
-" essere utili. Se trovi un&#39;altra risorsa utile, su edx.org o altrove, "
-"aggiungila. Se puoi migliorare la descrizione o l&#39;anteprima di una "
+" essere utili. Se trovi un'altra risorsa utile, su edx.org o altrove, "
+"aggiungila. Se puoi migliorare la descrizione o l'anteprima di una "
 "risorsa, fallo anche tu. Se trovi utile una risorsa, votala. Se non è così "
 "utile, sottovalutalo. Se presenta problemi (materiale illegale, errato, "
 "ecc.), segnalalo e facci sapere il motivo."
 
 #: templates/recommender.html:139
 msgid "cancel and go back to resource list"
-msgstr "annulla e torna all&#39;elenco delle risorse"
+msgstr "annulla e torna all'elenco delle risorse"
 
 #: templates/recommender.html:139
 msgid "&lt; Related resources"
@@ -136,7 +136,7 @@ msgstr "Risorse (in formato JSON):"
 
 #: templates/recommender.html:145
 msgid "Provide a file of resource list in JSON format"
-msgstr "Fornire un file con l&#39;elenco delle risorse in formato JSON"
+msgstr "Fornire un file con l'elenco delle risorse in formato JSON"
 
 #: templates/recommender.html:151 templates/recommender.html:161
 #: templates/recommender.html:171
@@ -177,7 +177,7 @@ msgstr "Posizione"
 
 #: templates/recommender.html:189 templates/recommender.html:214
 msgid "Provide a resource location in url, required"
-msgstr "Fornire una posizione della risorsa nell&#39;URL, obbligatorio"
+msgstr "Fornire una posizione della risorsa nell'URL, obbligatorio"
 
 #: templates/recommender.html:193 templates/recommender.html:218
 msgid "Description"
@@ -249,7 +249,7 @@ msgstr "Vuoi disabilitare le funzioni UX in fase di sviluppo?"
 #: templates/recommenderstudio.html:36
 msgid "How many resources you want to show in each page of the resource list?"
 msgstr ""
-"Quante risorse vuoi mostrare in ogni pagina dell&#39;elenco delle risorse?"
+"Quante risorse vuoi mostrare in ogni pagina dell'elenco delle risorse?"
 
 #: templates/recommenderstudio.html:46
 msgid ""
@@ -257,7 +257,7 @@ msgid ""
 "pages from (current page - page range) to (current page + page range) will "
 "be shown."
 msgstr ""
-"Quante icone di pagina nel controllo dell&#39;impaginazione (ad esempio, "
+"Quante icone di pagina nel controllo dell'impaginazione (ad esempio, "
 "intervallo di pagine)? Verranno visualizzate le icone per le pagine da "
 "(pagina corrente - intervallo di pagine) a (pagina corrente + intervallo di "
 "pagine)."
@@ -310,7 +310,7 @@ msgstr ""
 
 #: static/js/src/cats.js:74 static/js/src/cats.js:78
 msgid "Cut-and-paste the URL of the resource."
-msgstr "Taglia e incolla l&#39;URL della risorsa."
+msgstr "Taglia e incolla l'URL della risorsa."
 
 #: static/js/src/cats.js:75 static/js/src/cats.js:79
 msgid ""
@@ -331,7 +331,7 @@ msgstr ""
 
 #: static/js/src/cats.js:81
 msgid "Go back to the main list"
-msgstr "Torna all&#39;elenco principale"
+msgstr "Torna all'elenco principale"
 
 #: static/js/src/cats.js:82
 msgid "Give a meaningful reason for why this resource should be removed"
@@ -353,11 +353,11 @@ msgstr "Mostra un elenco di risorse correlate consigliate dagli studenti"
 
 #: static/js/src/cats.js:86
 msgid "Hide the recommendations list"
-msgstr "Nascondi l&#39;elenco dei consigli"
+msgstr "Nascondi l'elenco dei consigli"
 
 #: static/js/src/cats.js:87
 msgid "Check the icon to endorse this resource"
-msgstr "Controlla l&#39;icona per sostenere questa risorsa"
+msgstr "Controlla l'icona per sostenere questa risorsa"
 
 #: static/js/src/cats.js:88
 msgid "This resource is endorsed by staff"
@@ -370,7 +370,7 @@ msgstr "Fare clic per visualizzare le risorse per la rimozione"
 #: static/js/src/cats.js:90
 msgid "Click to view resources in ordinary decreasing-vote order"
 msgstr ""
-"Fare clic per visualizzare le risorse nell&#39;ordinario ordine decrescente "
+"Fare clic per visualizzare le risorse nell'ordinario ordine decrescente "
 "di voto"
 
 #: static/js/src/cats.js:93
@@ -507,7 +507,7 @@ msgstr "Approvare la risorsa"
 
 #: static/js/src/cats.js:216
 msgid "Unendorse resource"
-msgstr "Annullare l&#39;approvazione della risorsa"
+msgstr "Annullare l'approvazione della risorsa"
 
 #: static/js/src/cats.js:218
 msgid "Remove resource"

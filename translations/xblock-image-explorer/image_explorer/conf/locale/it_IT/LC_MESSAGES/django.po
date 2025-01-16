@@ -57,27 +57,27 @@ msgstr "Titolo"
 
 #: templates/html/image_explorer_edit.html:11
 msgid "The title of the Image Explorer that is displayed to the user"
-msgstr "Il titolo di Image Explorer visualizzato all&#39;utente"
+msgstr "Il titolo di Image Explorer visualizzato all'utente"
 
 #: templates/html/image_explorer_edit.html:17
 msgid "Hotspot coordinates centered"
-msgstr "Coordinate dell&#39;hotspot centrate"
+msgstr "Coordinate dell'hotspot centrate"
 
 #: templates/html/image_explorer_edit.html:19
 msgid ""
 "If set to true, hotspot coordinates interpreted to point to the center of "
 "the hotspot"
 msgstr ""
-"Se impostato su true, le coordinate dell&#39;hotspot vengono interpretate in"
-" modo da puntare al centro dell&#39;hotspot"
+"Se impostato su true, le coordinate dell'hotspot vengono interpretate in"
+" modo da puntare al centro dell'hotspot"
 
 #: templates/html/image_explorer_edit.html:19
 msgid ""
 "If set to false, assumed to point to the top left corner of the hotspot "
 "image"
 msgstr ""
-"Se impostato su false, si presuppone che punti all&#39;angolo in alto a "
-"sinistra dell&#39;immagine dell&#39;hotspot"
+"Se impostato su false, si presuppone che punti all'angolo in alto a "
+"sinistra dell'immagine dell'hotspot"
 
 #: templates/html/image_explorer_edit.html:24
 msgid "Definition"

@@ -62,7 +62,7 @@ msgstr ""
 
 #: default_data.py:22
 msgid "Correct! This one belongs to The Top Zone."
-msgstr "Doğru! Burası The Top Zone&#39;a ait."
+msgstr "Doğru! Burası The Top Zone'a ait."
 
 #: default_data.py:23
 msgid "Correct! This one belongs to The Middle Zone."
@@ -70,7 +70,7 @@ msgstr "Doğru! Bu Orta Bölgeye ait."
 
 #: default_data.py:24
 msgid "Correct! This one belongs to The Bottom Zone."
-msgstr "Doğru! Bu, Alt Bölge&#39;ye ait."
+msgstr "Doğru! Bu, Alt Bölge'ye ait."
 
 #: default_data.py:25
 msgid "No, this item does not belong here. Try again."
@@ -195,9 +195,9 @@ msgid ""
 "in Advanced Settings. To revert setting a custom value, choose the 'Default'"
 " option."
 msgstr ""
-"Sorunun cevabının ne zaman gösterileceğini tanımlar. Gelişmiş Ayarlar&#39;da"
+"Sorunun cevabının ne zaman gösterileceğini tanımlar. Gelişmiş Ayarlar'da"
 " varsayılan bir değer ayarlanabilir. Özel bir değer ayarlamayı geri almak "
-"için &#39;Varsayılan&#39; seçeneğini seçin."
+"için 'Varsayılan' seçeneğini seçin."
 
 #: drag_and_drop_v2.py:152
 msgid "Default"
@@ -264,8 +264,8 @@ msgid ""
 "The background color of draggable items in the problem (example: 'blue' or "
 "'#0000ff')."
 msgstr ""
-"Sorundaki sürüklenebilir öğelerin arka plan rengi (örneğin: &#39;mavi&#39; "
-"veya &#39;#0000ff&#39;)."
+"Sorundaki sürüklenebilir öğelerin arka plan rengi (örneğin: 'mavi' "
+"veya '#0000ff')."
 
 #: drag_and_drop_v2.py:185
 msgid "Item text color"
@@ -275,7 +275,7 @@ msgstr "Öğe metni rengi"
 msgid "Text color to use for draggable items (example: 'white' or '#ffffff')."
 msgstr ""
 "Sürüklenebilir öğeler için kullanılacak metin rengi (örneğin: "
-"&#39;beyaz&#39; veya &#39;#ffffff&#39;)."
+"'beyaz' veya '#ffffff')."
 
 #: drag_and_drop_v2.py:193
 msgid "Maximum items per zone"
@@ -371,7 +371,7 @@ msgstr "Temel Ayarlar"
 
 #: templates/html/drag_and_drop_edit.html:53
 msgid "(inherited from Advanced Settings)"
-msgstr "(Gelişmiş Ayarlar&#39;dan devralındı)"
+msgstr "(Gelişmiş Ayarlar'dan devralındı)"
 
 #: templates/html/drag_and_drop_edit.html:90
 msgid "Introductory feedback"
@@ -403,7 +403,7 @@ msgstr "Görüntüyü otomatik olarak oluştur"
 
 #: templates/html/drag_and_drop_edit.html:126
 msgid "Background URL"
-msgstr "Arka plan URL&#39;si"
+msgstr "Arka plan URL'si"
 
 #: templates/html/drag_and_drop_edit.html:133
 msgid "Change background"
@@ -414,8 +414,8 @@ msgid ""
 "For example, 'http://example.com/background.png' or "
 "'/static/background.png'."
 msgstr ""
-"Örneğin, &#39;http://example.com/background.png&#39; veya "
-"&#39;/static/background.png&#39;."
+"Örneğin, 'http://example.com/background.png' veya "
+"'/static/background.png'."
 
 #: templates/html/drag_and_drop_edit.html:140
 msgid "Zone Layout"

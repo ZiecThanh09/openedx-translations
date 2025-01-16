@@ -16,16 +16,16 @@ en:
   At Leat One Page Viewed: Au moins une page consultée
   At Leat One Viewed: Au moins un vu
   At-Risk Learners: Apprenants à risque
-  At-risk Enrollees per Enrollment Track: Inscrits à risque par filière d&#39;inscription
-  At-risk Enrollment Dates: Dates d&#39;inscription à risque
+  At-risk Enrollees per Enrollment Track: Inscrits à risque par filière d'inscription
+  At-risk Enrollment Dates: Dates d'inscription à risque
   At-risk learners: Apprenants à risque
-  Attempted All Problems: J&#39;ai tenté tous les problèmes
-  Attempted at Least One Problem: Tentative d&#39;au moins un problème
+  Attempted All Problems: J'ai tenté tous les problèmes
+  Attempted at Least One Problem: Tentative d'au moins un problème
   Attempts: Tentatives
   Avg Attempts: Nombre moyen de tentatives
   Avg Course Grade: Note moyenne du cours
   Block ID: ID de bloc
-  Block Id: Bloquer l&#39;identifiant
+  Block Id: Bloquer l'identifiant
   COUNT(*): COMPTER(*)
   Changed By Fk: Modifié par Fk
   Changed On: Modifié le
@@ -88,8 +88,8 @@ en:
   Enrollment Mode: Mode d'inscription
   Enrollment Start: Début des inscriptions
   Enrollment Status: État de l'inscription
-  Enrollment status: État de l&#39;inscription
-  Enrollment track: Piste d&#39;inscription
+  Enrollment status: État de l'inscription
+  Enrollment track: Piste d'inscription
   Enrollments: Inscriptions
   Event Activity: Activité événementielle
   Event ID: ID d'événement
@@ -111,7 +111,7 @@ en:
   Individual Learner Dashboard: Tableau de bord de l'apprenant individuel
   Individual Learner Reports: Rapports individuels des apprenants
   Instance Health: État de santé de l'instance
-  Interaction Type: Type d&#39;interaction
+  Interaction Type: Type d'interaction
   Last Login: Dernière connexion
   Last Name: Nom
   Last Received Event: Dernier événement reçu
@@ -127,8 +127,8 @@ en:
   Most-used Charts: Graphiques les plus utilisés
   Most-used Dashboards: Tableaux de bord les plus utilisés
   Name: Nom
-  Number of Learners: Nombre d&#39;apprenants
-  Number of Learners who attemped the problem: Nombre d&#39;apprenants qui ont tenté de résoudre le problème
+  Number of Learners: Nombre d'apprenants
+  Number of Learners who attemped the problem: Nombre d'apprenants qui ont tenté de résoudre le problème
   Object ID: ID d'objet
   Object Type: Type d'objet
   Operator Dashboard: Tableau de bord de l'opérateur

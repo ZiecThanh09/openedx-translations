@@ -25,7 +25,7 @@ msgstr ""
 msgid ""
 "The CSV does not match this problem. Check that you uploaded the right CSV."
 msgstr ""
-"CSV&#39;en matcher ikke dette problem. Tjek, at du har uploadet den rigtige "
+"CSV'en matcher ikke dette problem. Tjek, at du har uploadet den rigtige "
 "CSV."
 
 #: api.py:130

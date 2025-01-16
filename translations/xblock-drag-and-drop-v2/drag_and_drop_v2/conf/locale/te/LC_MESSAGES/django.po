@@ -195,7 +195,7 @@ msgid ""
 msgstr ""
 "సమస్యకు సమాధానాన్ని ఎప్పుడు చూపించాలో నిర్వచిస్తుంది. అధునాతన సెట్టింగ్‌లలో "
 "డిఫాల్ట్ విలువను సెట్ చేయవచ్చు. కస్టమ్ విలువ సెట్టింగ్‌ని తిరిగి "
-"మార్చడానికి, &#39;డిఫాల్ట్&#39; ఎంపికను ఎంచుకోండి."
+"మార్చడానికి, 'డిఫాల్ట్' ఎంపికను ఎంచుకోండి."
 
 #: drag_and_drop_v2.py:152
 msgid "Default"
@@ -262,8 +262,8 @@ msgid ""
 "The background color of draggable items in the problem (example: 'blue' or "
 "'#0000ff')."
 msgstr ""
-"సమస్యలో లాగగలిగే అంశాల నేపథ్య రంగు (ఉదాహరణ: &#39;నీలం&#39; లేదా "
-"&#39;#0000ff&#39;)."
+"సమస్యలో లాగగలిగే అంశాల నేపథ్య రంగు (ఉదాహరణ: 'నీలం' లేదా "
+"'#0000ff')."
 
 #: drag_and_drop_v2.py:185
 msgid "Item text color"
@@ -272,8 +272,8 @@ msgstr "అంశం వచన రంగు"
 #: drag_and_drop_v2.py:186
 msgid "Text color to use for draggable items (example: 'white' or '#ffffff')."
 msgstr ""
-"లాగగలిగే వస్తువుల కోసం ఉపయోగించాల్సిన వచన రంగు (ఉదాహరణ: &#39;తెలుపు&#39; "
-"లేదా &#39;#ffffff&#39;)."
+"లాగగలిగే వస్తువుల కోసం ఉపయోగించాల్సిన వచన రంగు (ఉదాహరణ: 'తెలుపు' "
+"లేదా '#ffffff')."
 
 #: drag_and_drop_v2.py:193
 msgid "Maximum items per zone"
@@ -410,8 +410,8 @@ msgid ""
 "For example, 'http://example.com/background.png' or "
 "'/static/background.png'."
 msgstr ""
-"ఉదాహరణకు, &#39;http://example.com/background.png&#39; లేదా "
-"&#39;/static/background.png&#39;."
+"ఉదాహరణకు, 'http://example.com/background.png' లేదా "
+"'/static/background.png'."
 
 #: templates/html/drag_and_drop_edit.html:140
 msgid "Zone Layout"

@@ -78,7 +78,7 @@ msgstr "Begrænsningstype må ikke være tom"
 
 #: apps/api/serializers.py:1717
 msgid "Dictionary mapping course IDs to boolean values"
-msgstr "Ordbog kortlægning kursus-id&#39;er til booleske værdier"
+msgstr "Ordbog kortlægning kursus-id'er til booleske værdier"
 
 #: apps/api/serializers.py:2184
 msgid "Languages that course runs in this program are offered in."
@@ -181,7 +181,7 @@ msgid ""
 "Course edit was unsuccessful. The course URL slug ‘[{url_slug}]’ is already "
 "in use. Please update this field and try again."
 msgstr ""
-"Kursusredigering mislykkedes. Kurset URL-slug &#39;[ {url_slug} ]&#39; er "
+"Kursusredigering mislykkedes. Kurset URL-slug '[ {url_slug} ]' er "
 "allerede i brug. Opdater venligst dette felt og prøv igen."
 
 #: apps/api/views.py:58
@@ -222,7 +222,7 @@ msgstr "API-konfiguration"
 
 #: apps/core/admin.py:46
 msgid "Configure the APIs that will be used to retrieve data."
-msgstr "Konfigurer de API&#39;er, der skal bruges til at hente data."
+msgstr "Konfigurer de API'er, der skal bruges til at hente data."
 
 #: apps/core/admin.py:53
 msgid "Marketing Site Configuration"
@@ -256,8 +256,8 @@ msgstr "periode skal være en af {period_choices} ."
 #: apps/core/forms.py:26
 msgid "'rate' must be in the format defined by DRF, such as '100/hour'."
 msgstr ""
-"&#39;takst&#39; skal være i formatet defineret af DRF, såsom "
-"&#39;100/time&#39;."
+"'takst' skal være i formatet defineret af DRF, såsom "
+"'100/time'."
 
 #: apps/core/models.py:17
 msgid "Full Name"
@@ -746,7 +746,7 @@ msgstr "Tag for at tilføje til kurser"
 
 #: apps/course_metadata/management/commands/add_tag_to_courses.py:16
 msgid "UUIDs of courses to tag"
-msgstr "UUID&#39;er af kurser til at tagge"
+msgstr "UUID'er af kurser til at tagge"
 
 #: apps/course_metadata/management/commands/add_tag_to_courses.py:18
 msgid ""
@@ -874,7 +874,7 @@ msgstr "Forkert argument &quot;{}&quot;, skal være i form af UUID:TARGET_UUID"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "Forkert argument &quot;{}&quot;, UUID&#39;er kan ikke være ens"
+msgstr "Forkert argument &quot;{}&quot;, UUID'er kan ikke være ens"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
@@ -1155,7 +1155,7 @@ msgid ""
 "The ID of the Taxi Form (by 2U) that would be rendered in place of the "
 "hubspot capture form"
 msgstr ""
-"ID&#39;et for taxaformularen (af 2U), der ville blive gengivet i stedet for "
+"ID'et for taxaformularen (af 2U), der ville blive gengivet i stedet for "
 "hubspot-opsamlingsformularen"
 
 #: apps/course_metadata/models.py:869
@@ -1168,11 +1168,11 @@ msgstr ""
 
 #: apps/course_metadata/models.py:893
 msgid "The URL of the paid landing page on external site"
-msgstr "URL&#39;en på den betalte landingsside på eksternt websted"
+msgstr "URL'en på den betalte landingsside på eksternt websted"
 
 #: apps/course_metadata/models.py:899
 msgid "The URL of the organic landing page on external site"
-msgstr "URL&#39;en for den organiske landingsside på eksternt websted"
+msgstr "URL'en for den organiske landingsside på eksternt websted"
 
 #: apps/course_metadata/models.py:910
 msgid "The start date of the external course offering for marketing purpose"
@@ -1188,7 +1188,7 @@ msgstr "Den foreslåede frist for tilmelding til markedsføringsformål"
 
 #: apps/course_metadata/models.py:922
 msgid "The identifier for a product variant."
-msgstr "Id&#39;et for en produktvariant."
+msgstr "Id'et for en produktvariant."
 
 #: apps/course_metadata/models.py:926
 msgid "Course override"
@@ -1444,7 +1444,7 @@ msgid ""
 "'What You Will Learn' description for this particular course run. Leave this"
 " value blank to default to the parent course's Outcome attribute."
 msgstr ""
-"Beskrivelse af &#39;Hvad du vil lære&#39; for dette særlige kursusforløb. "
+"Beskrivelse af 'Hvad du vil lære' for dette særlige kursusforløb. "
 "Lad denne værdi være tom for som standard at bruge det overordnede kursuss "
 "Outcome-attribut."
 
@@ -1466,8 +1466,8 @@ msgid ""
 "The identifier for a product variant. This is used to link a course run to a"
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
-"Id&#39;et for en produktvariant. Dette bruges til at forbinde et kursus, der"
-" køres, til en produktvariant for eksterne LOB&#39;er (f.eks. ExecEd &amp; "
+"Id'et for en produktvariant. Dette bruges til at forbinde et kursus, der"
+" køres, til en produktvariant for eksterne LOB'er (f.eks. ExecEd & "
 "Bootcamps)."
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
@@ -1710,7 +1710,7 @@ msgstr "Angiv venligst en billedfil til lead capture-banneret."
 
 #: apps/course_metadata/models.py:3834
 msgid "The Hubspot form ID for the lead capture form"
-msgstr "Hubspot-formular-id&#39;et for leadregistreringsformularen"
+msgstr "Hubspot-formular-id'et for leadregistreringsformularen"
 
 #: apps/course_metadata/models.py:3840
 msgid "URL to micromasters landing page"
@@ -1760,7 +1760,7 @@ msgstr "Gradens omdirigerings-URL på eksternt websted"
 
 #: apps/course_metadata/models.py:3918
 msgid "The URL of the landing page on external site"
-msgstr "URL&#39;en for landingssiden på eksternt websted"
+msgstr "URL'en for landingssiden på eksternt websted"
 
 #: apps/course_metadata/models.py:3953
 msgid "Bell"
@@ -1931,15 +1931,15 @@ msgstr "Bootcamps"
 
 #: apps/course_metadata/models.py:4386 apps/course_metadata/models.py:4490
 msgid "Course UUIDs"
-msgstr "Kursus UUID&#39;er"
+msgstr "Kursus UUID'er"
 
 #: apps/course_metadata/models.py:4466
 msgid "Course Run IDs"
-msgstr "Course Run ID&#39;er"
+msgstr "Course Run ID'er"
 
 #: apps/course_metadata/models.py:4482
 msgid "Profile Image UUIDs"
-msgstr "Profilbillede UUID&#39;er"
+msgstr "Profilbillede UUID'er"
 
 #: apps/course_metadata/models.py:4489
 msgid "Tag"
@@ -2221,7 +2221,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"Kurset &#39; %(course_name)s &#39; er blevet gennemgået med succes af edX og er nu udgivet på %(course_publish_date)s . For at se live forløb, gå her: %(course_marketing_url)s\n"
+"Kurset ' %(course_name)s ' er blevet gennemgået med succes af edX og er nu udgivet på %(course_publish_date)s . For at se live forløb, gå her: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format
@@ -2231,7 +2231,7 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"Kurset &#39; %(course_name)s &#39; er blevet gennemgået af edX og er nu klar til udgivelse. Kurset vil blive offentliggjort på %(course_publish_date)s .\n"
+"Kurset ' %(course_name)s ' er blevet gennemgået af edX og er nu klar til udgivelse. Kurset vil blive offentliggjort på %(course_publish_date)s .\n"
 " For at se en forhåndsvisning af siden Kurset Om, gå her: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:380

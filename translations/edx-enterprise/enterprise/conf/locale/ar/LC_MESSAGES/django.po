@@ -655,7 +655,7 @@ msgid ""
 "completion."
 msgstr ""
 "عند التعيين على True، سيستخدم التكامل مستخدم خدمة edX العام "
-"(&#39;sapsf_user_id&#39;) المحدد في SAP Customer Configuration لإكمال الدورة"
+"('sapsf_user_id') المحدد في SAP Customer Configuration لإكمال الدورة"
 " التدريبية."
 
 #: integrated_channels/xapi/models.py:33
@@ -823,8 +823,8 @@ msgid ""
 msgstr ""
 "لا يتطابق الموقع الخاص بموفر الهوية المحدد ( {identity_provider_site} ) مع "
 "الموقع الخاص بالعميل المؤسسي هذا ( {enterprise_customer_site} ). لتصحيح هذه "
-"المشكلة، حدد موقعًا يحتوي على مجال &#39; {identity_provider_site} &#39;، أو "
-"قم بتحديث موفر الهوية إلى &#39; {enterprise_customer_site} &#39;."
+"المشكلة، حدد موقعًا يحتوي على مجال ' {identity_provider_site} '، أو "
+"قم بتحديث موفر الهوية إلى ' {enterprise_customer_site} '."
 
 #: enterprise/admin/forms.py:611
 #, python-brace-format

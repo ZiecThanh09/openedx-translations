@@ -663,7 +663,7 @@ msgstr "Η δεδομένη διεύθυνση email {email} δεν είναι �
 #: enterprise/forms.py:290
 msgid "An offer already exists for this Enterprise & Catalog combination."
 msgstr ""
-"Υπάρχει ήδη μια προσφορά για αυτόν τον συνδυασμό Enterprise &amp; Catalog."
+"Υπάρχει ήδη μια προσφορά για αυτόν τον συνδυασμό Enterprise & Catalog."
 
 #: enterprise/forms.py:293 enterprise/forms.py:302 programs/forms.py:73
 msgid "Percentage discounts cannot be greater than 100%."
@@ -944,7 +944,7 @@ msgid ""
 "Your order {} can not be refunded as '{}' coupon are not supported to "
 "refund."
 msgstr ""
-"Η παραγγελία σας {} δεν μπορεί να επιστραφεί καθώς το κουπόνι &#39;{}&#39; "
+"Η παραγγελία σας {} δεν μπορεί να επιστραφεί καθώς το κουπόνι '{}' "
 "δεν υποστηρίζεται για επιστροφή χρημάτων."
 
 #: extensions/api/serializers.py:2163
@@ -1027,20 +1027,20 @@ msgstr "Ο κωδικός κουπονιού '{code}' δεν είναι ενερ
 #: extensions/basket/utils.py:508
 #, python-brace-format
 msgid "Coupon code '{code}' is not available. {msg}"
-msgstr "Ο κωδικός κουπονιού &#39;{code}&#39; δεν είναι διαθέσιμος. {msg}"
+msgstr "Ο κωδικός κουπονιού '{code}' δεν είναι διαθέσιμος. {msg}"
 
 #: extensions/basket/utils.py:514
 #, python-brace-format
 msgid "Coupon code '{code}' is not valid for this basket."
 msgstr ""
-"Ο κωδικός κουπονιού &#39;{code}&#39; δεν είναι έγκυρος για αυτό το καλάθι."
+"Ο κωδικός κουπονιού '{code}' δεν είναι έγκυρος για αυτό το καλάθι."
 
 #: extensions/basket/utils.py:527
 #, python-brace-format
 msgid ""
 "Coupon code '{code}' is not valid for this basket for a bundled purchase."
 msgstr ""
-"Ο κωδικός κουπονιού &#39;{code}&#39; δεν είναι έγκυρος για αυτό το καλάθι "
+"Ο κωδικός κουπονιού '{code}' δεν είναι έγκυρος για αυτό το καλάθι "
 "για ομαδική αγορά."
 
 #: extensions/basket/utils.py:582
@@ -1164,12 +1164,12 @@ msgstr "Ο κωδικός κουπονιού '{code}' δεν υπάρχει."
 #: extensions/basket/views.py:1136
 #, python-format
 msgid "No coupon found with id '%s'"
-msgstr "Δεν βρέθηκε κουπόνι με αναγνωριστικό &#39; %s &#39;"
+msgstr "Δεν βρέθηκε κουπόνι με αναγνωριστικό ' %s '"
 
 #: extensions/basket/views.py:1140
 #, python-format
 msgid "Coupon code '%s' was removed from your basket."
-msgstr "Ο κωδικός κουπονιού &#39; %s &#39; αφαιρέθηκε από το καλάθι σας."
+msgstr "Ο κωδικός κουπονιού ' %s ' αφαιρέθηκε από το καλάθι σας."
 
 #: extensions/catalogue/models.py:70
 msgid "Last date/time on which this product can be purchased."
@@ -3346,7 +3346,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Δημιουργήθηκε η παραλλαγή προϊόντος &#39; %(name)s &#39;.\n"
+"Δημιουργήθηκε η παραλλαγή προϊόντος ' %(name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:17
@@ -3357,7 +3357,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Δημιουργήθηκε παραλλαγή του &#39; %(parent_name)s &#39;.\n"
+"Δημιουργήθηκε παραλλαγή του ' %(parent_name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:25
@@ -3368,7 +3368,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Ενημερωμένη παραλλαγή προϊόντος &#39; %(name)s &#39;.\n"
+"Ενημερωμένη παραλλαγή προϊόντος ' %(name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:31
@@ -3379,7 +3379,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Ενημερώθηκε μια παραλλαγή του &#39; %(parent_name)s &#39;.\n"
+"Ενημερώθηκε μια παραλλαγή του ' %(parent_name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:42
@@ -3390,7 +3390,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"Δημιουργήθηκε το προϊόν &#39; %(name)s &#39;.\n"
+"Δημιουργήθηκε το προϊόν ' %(name)s '.\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:48
@@ -3401,7 +3401,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"Ενημερωμένο προϊόν &#39; %(name)s &#39;.\n"
+"Ενημερωμένο προϊόν ' %(name)s '.\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:60

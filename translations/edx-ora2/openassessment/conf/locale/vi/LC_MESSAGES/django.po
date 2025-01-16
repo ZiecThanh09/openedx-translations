@@ -487,7 +487,7 @@ msgstr ""
 
 #: templates/legacy/edit/oa_edit_peer_assessment.html:23
 msgid "View Options & Configuration"
-msgstr "Xem Tùy chọn &amp; Cấu hình"
+msgstr "Xem Tùy chọn & Cấu hình"
 
 #: templates/legacy/edit/oa_edit_peer_assessment.html:29
 msgid "Must Grade"
@@ -531,7 +531,7 @@ msgid ""
 msgstr ""
 "Tính năng này đang được kích hoạt bởi cài đặt cấp độ khóa học. Bạn có thể "
 "tìm thấy nó trong thẻ Cài đặt Đánh giá Phản hồi Mở trên trang studio Trang "
-"&amp; Tài nguyên."
+"& Tài nguyên."
 
 #: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:5
 msgid "Peer Assessment Deadlines"
@@ -1686,7 +1686,7 @@ msgid ""
 msgstr ""
 "\n"
 "Bạn hiện đang ở Đội %(team_name)s . Vì bạn đã ở trong Đội %(previous_team_name)s\n"
-" khi họ gửi phản hồi cho bài tập này, bạn sẽ thấy Team %(previous_team_name)s &#39;s\n"
+" khi họ gửi phản hồi cho bài tập này, bạn sẽ thấy Team %(previous_team_name)s 's\n"
 " phản hồi và sẽ nhận được điểm cho bài tập này giống như các đồng đội cũ của bạn.\n"
 " Bạn sẽ không tham gia vào bài nộp của Nhóm %(team_name)s cho nhiệm vụ này và sẽ không\n"
 " nhận được điểm cho bài nộp của họ.\n"
@@ -2786,13 +2786,13 @@ msgid ""
 "'{date}' is an invalid date format. Make sure the date is formatted as YYYY-"
 "MM-DDTHH:MM:SS."
 msgstr ""
-"&#39;{date}&#39; là định dạng ngày không hợp lệ. Đảm bảo ngày được định dạng"
+"'{date}' là định dạng ngày không hợp lệ. Đảm bảo ngày được định dạng"
 " là YYYY-MM-DDTHH:MM:SS."
 
 #: xblock/utils/resolve_dates.py:57
 #, python-brace-format
 msgid "'{date}' must be a date string or datetime"
-msgstr "&#39;{date}&#39; phải là chuỗi ngày hoặc ngày giờ"
+msgstr "'{date}' phải là chuỗi ngày hoặc ngày giờ"
 
 #: xblock/utils/resolve_dates.py:210
 #, python-brace-format
@@ -2800,8 +2800,8 @@ msgid ""
 "This step's start date '{start}' cannot be earlier than the previous step's "
 "start date '{prev}'."
 msgstr ""
-"Ngày bắt đầu của bước này &#39;{start}&#39; không được sớm hơn ngày bắt đầu "
-"của bước trước &#39;{prev}&#39;."
+"Ngày bắt đầu của bước này '{start}' không được sớm hơn ngày bắt đầu "
+"của bước trước '{prev}'."
 
 #: xblock/utils/resolve_dates.py:218
 #, python-brace-format
@@ -2809,15 +2809,15 @@ msgid ""
 "This step's due date '{due}' cannot be later than the next step's due date "
 "'{prev}'."
 msgstr ""
-"Ngày hết hạn &#39;{due}&#39; của bước này không được muộn hơn ngày hết hạn "
-"của bước tiếp theo &#39;{prev}&#39;."
+"Ngày hết hạn '{due}' của bước này không được muộn hơn ngày hết hạn "
+"của bước tiếp theo '{prev}'."
 
 #: xblock/utils/resolve_dates.py:234
 #, python-brace-format
 msgid "The start date '{start}' cannot be later than the due date '{due}'"
 msgstr ""
-"Ngày bắt đầu &#39;{start}&#39; không được muộn hơn ngày đến hạn "
-"&#39;{due}&#39;"
+"Ngày bắt đầu '{start}' không được muộn hơn ngày đến hạn "
+"'{due}'"
 
 #: xblock/utils/validation.py:118
 msgid "This problem must include at least one assessment."
@@ -2885,7 +2885,7 @@ msgstr "Bạn phải cung cấp ít nhất một lời nhắc."
 #, python-brace-format
 msgid "Options in '{criterion}' have duplicate name(s): {duplicates}"
 msgstr ""
-"Các tùy chọn trong &#39;{criterion}&#39; có (các) tên trùng lặp: "
+"Các tùy chọn trong '{criterion}' có (các) tên trùng lặp: "
 "{duplicates}"
 
 #: xblock/utils/validation.py:207

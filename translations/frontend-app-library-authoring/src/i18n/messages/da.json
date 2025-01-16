@@ -17,7 +17,7 @@
   "library.detail.block.view_link": "Udsigt",
   "library.detail.block.edit_link": "Redigere",
   "library.detail.aside.title": "Tilføjelse af indhold til dit bibliotek",
-  "library.detail.aside.text.1": "Tilføj komponenter til dit bibliotek til brug i kurser. Bemærk, at slug&#39;en bliver en del af brugs-id&#39;et og definitions-id&#39;et og kan ikke ændres.",
+  "library.detail.aside.text.1": "Tilføj komponenter til dit bibliotek til brug i kurser. Bemærk, at slug'en bliver en del af brugs-id'et og definitions-id'et og kan ikke ændres.",
   "library.detail.aside.text.2": "Komponenter er angivet i den rækkefølge, de tilføjes, med de senest tilføjede nederst.",
   "library.detail.aside.help.link": "Lær mere om indholdsbiblioteker",
   "library.detail.aside.draft": "Kladde (ikke-publicerede ændringer)",

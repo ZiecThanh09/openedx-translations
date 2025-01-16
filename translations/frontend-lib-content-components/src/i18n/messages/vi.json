@@ -100,7 +100,7 @@
   "authoring.problemeditor.settings.reset.title": "Hiển thị tùy chọn đặt lại",
   "authoring.problemeditor.settings.reset.true": "ĐÚNG VẬY",
   "authoring.problemeditor.settings.reset.false": "SAI",
-  "authoring.problemeditor.settings.reset.text": "Xác định xem nút &#39;Đặt lại&#39; có được hiển thị hay không để người dùng có thể đặt lại câu trả lời của họ, thường để sử dụng trong thực hành hoặc đánh giá quá trình.",
+  "authoring.problemeditor.settings.reset.text": "Xác định xem nút 'Đặt lại' có được hiển thị hay không để người dùng có thể đặt lại câu trả lời của họ, thường để sử dụng trong thực hành hoặc đánh giá quá trình.",
   "authoring.problemeditor.settings.scoring.title": "Ghi điểm",
   "authoring.problemeditor.settings.scoring.attempts.inputLabel": "Nỗ lực",
   "authoring.problemeditor.settings.scoring.weight.inputLabel": "Điểm",

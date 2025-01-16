@@ -26,7 +26,7 @@ msgstr "చట్టపరమైన విధానాలు"
 
 #: templates/edx.org/_footer.html:11
 msgid "Terms of Service & Honor Code"
-msgstr "సేవా నిబంధనలు &amp; గౌరవ కోడ్"
+msgstr "సేవా నిబంధనలు & గౌరవ కోడ్"
 
 #: templates/edx.org/_footer.html:16
 msgid "Privacy Policy"

@@ -261,7 +261,7 @@
   "course-authoring.advanced-settings.modal.error.btn.undo-changes": "取消更改",
   "course-authoring.advanced-settings.button.deprecated": "被弃用的",
   "course-authoring.advanced-settings.button.help": "显示帮助文本",
-  "course-authoring.advanced-settings.about.description-3": "{notice}输入字符串作为策略值时，请确保在字符串两边使用双引号 (“)。请勿使用单引号 (&#39;)。",
+  "course-authoring.advanced-settings.about.description-3": "{notice}输入字符串作为策略值时，请确保在字符串两边使用双引号 (“)。请勿使用单引号 (')。",
   "course-authoring.advanced-settings.sidebar.about.title": "高级设置有何作用？",
   "course-authoring.advanced-settings.sidebar.about.description-1": "高级设置控制特定的课程功能。在本页面，您可以手工编辑基于JSON键值对的策略，控制特定的课程设置。",
   "course-authoring.advanced-settings.sidebar.about.description-2": "您在此处修改的任何策略都会覆盖您在 Studio 中其他位置定义的所有其他信息。除非您熟悉策略的用途和语法，否则请勿编辑策略。",

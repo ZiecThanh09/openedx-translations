@@ -630,7 +630,7 @@ msgid ""
 "Salesforce Opportunity ID must be 18 alphanumeric characters and begin with "
 "006."
 msgstr ""
-"L&#39;ID opportunità Salesforce deve essere composto da 18 caratteri "
+"L'ID opportunità Salesforce deve essere composto da 18 caratteri "
 "alfanumerici e iniziare con 006."
 
 #: enterprise/forms.py:176
@@ -2181,8 +2181,8 @@ msgid ""
 msgstr ""
 "Il tuo ordine è completo. Se hai bisogno di una ricevuta, puoi stampare "
 "questa pagina. {next_start} Passaggi successivi:{next_end} 1. Controlla "
-"nella posta in arrivo l&#39;email di conferma dell&#39;ordine da parte di "
-"Get Smarter.{next_line} 2: segui le istruzioni nell&#39;email per completare"
+"nella posta in arrivo l'email di conferma dell'ordine da parte di "
+"Get Smarter.{next_line} 2: segui le istruzioni nell'email per completare"
 " la registrazione."
 
 #: templates/edx/checkout/receipt.html:68

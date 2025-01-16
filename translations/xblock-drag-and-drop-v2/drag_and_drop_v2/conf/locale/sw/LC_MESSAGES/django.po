@@ -192,7 +192,7 @@ msgid ""
 msgstr ""
 "Inafafanua wakati wa kuonyesha jibu la tatizo. Thamani chaguo-msingi inaweza"
 " kuwekwa katika Mipangilio ya Kina. Ili kurejesha kuweka thamani maalum, "
-"chagua chaguo la &#39;Chaguo-msingi&#39;."
+"chagua chaguo la 'Chaguo-msingi'."
 
 #: drag_and_drop_v2.py:152
 msgid "Default"
@@ -260,7 +260,7 @@ msgid ""
 "'#0000ff')."
 msgstr ""
 "Rangi ya mandharinyuma ya vipengee vinavyoweza kukokotwa kwenye tatizo "
-"(mfano: &#39;bluu&#39; au &#39;#0000ff&#39;)."
+"(mfano: 'bluu' au '#0000ff')."
 
 #: drag_and_drop_v2.py:185
 msgid "Item text color"
@@ -270,7 +270,7 @@ msgstr "Rangi ya maandishi ya kipengee"
 msgid "Text color to use for draggable items (example: 'white' or '#ffffff')."
 msgstr ""
 "Rangi ya maandishi ya kutumia kwa vipengee vinavyoweza kukokotwa (mfano: "
-"&#39;nyeupe&#39; au &#39;#ffffff&#39;)."
+"'nyeupe' au '#ffffff')."
 
 #: drag_and_drop_v2.py:193
 msgid "Maximum items per zone"
@@ -411,8 +411,8 @@ msgid ""
 "For example, 'http://example.com/background.png' or "
 "'/static/background.png'."
 msgstr ""
-"Kwa mfano, &#39;http://example.com/background.png&#39; au "
-"&#39;/static/background.png&#39;."
+"Kwa mfano, 'http://example.com/background.png' au "
+"'/static/background.png'."
 
 #: templates/html/drag_and_drop_edit.html:140
 msgid "Zone Layout"

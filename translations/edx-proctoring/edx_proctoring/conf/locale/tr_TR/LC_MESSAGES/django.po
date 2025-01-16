@@ -1741,7 +1741,7 @@ msgstr "Bu kullanıcının erişebileceği bir başlangıç sınavı yok."
 #: views.py:762
 #, python-brace-format
 msgid "No onboarding status API for {proctor_service}"
-msgstr "{proctor_service} için katılım durumu API&#39;si yok"
+msgstr "{proctor_service} için katılım durumu API'si yok"
 
 #: views.py:904
 msgid ""

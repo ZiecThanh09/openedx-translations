@@ -160,7 +160,7 @@ msgid ""
 "Course creation was unsuccessful. The course URL slug ‘[{url_slug}]’ is "
 "already in use. Please update this field and try again."
 msgstr ""
-"יצירת הקורס לא הצליחה. שבלול ה-URL של הקורס &#39;[ {url_slug} ]&#39; כבר "
+"יצירת הקורס לא הצליחה. שבלול ה-URL של הקורס '[ {url_slug} ]' כבר "
 "נמצא בשימוש. אנא עדכן שדה זה ונסה שוב."
 
 #: apps/api/v1/views/courses.py:284
@@ -177,7 +177,7 @@ msgid ""
 "Course edit was unsuccessful. The course URL slug ‘[{url_slug}]’ is already "
 "in use. Please update this field and try again."
 msgstr ""
-"עריכת הקורס לא הצליחה. שבלול ה-URL של הקורס &#39;[ {url_slug} ]&#39; כבר "
+"עריכת הקורס לא הצליחה. שבלול ה-URL של הקורס '[ {url_slug} ]' כבר "
 "נמצא בשימוש. אנא עדכן שדה זה ונסה שוב."
 
 #: apps/api/views.py:58
@@ -1386,7 +1386,7 @@ msgid ""
 "'What You Will Learn' description for this particular course run. Leave this"
 " value blank to default to the parent course's Outcome attribute."
 msgstr ""
-"תיאור &#39;מה תלמד&#39; עבור הקורס המסוים הזה. השאר ערך זה ריק לברירת המחדל "
+"תיאור 'מה תלמד' עבור הקורס המסוים הזה. השאר ערך זה ריק לברירת המחדל "
 "של תכונת התוצאה של קורס האב."
 
 #: apps/course_metadata/models.py:2184 apps/course_metadata/models.py:3291
@@ -1405,7 +1405,7 @@ msgid ""
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
 "המזהה של וריאנט מוצר. זה משמש לקישור קורס המופעל לגרסה של מוצר עבור LOBs "
-"חיצוניים (כלומר; ExecEd &amp; Bootcamps)."
+"חיצוניים (כלומר; ExecEd & Bootcamps)."
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
 msgid "Current"
@@ -2114,7 +2114,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"הקורס &#39; %(course_name)s &#39; נבדק בהצלחה על ידי edX ופורסם כעת ב- %(course_publish_date)s . כדי לראות קורס חי, עבור לכאן: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"הקורס ' %(course_name)s ' נבדק בהצלחה על ידי edX ופורסם כעת ב- %(course_publish_date)s . כדי לראות קורס חי, עבור לכאן: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:12
@@ -2126,7 +2126,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"הקורס &#39; %(course_name)s &#39; נבדק בהצלחה על ידי edX והוא מוכן כעת לפרסום. הקורס יפורסם ב- %(course_publish_date)s .\n"
+"הקורס ' %(course_name)s ' נבדק בהצלחה על ידי edX והוא מוכן כעת לפרסום. הקורס יפורסם ב- %(course_publish_date)s .\n"
 " כדי לראות תצוגה מקדימה של דף אודות הקורס, עבור לכאן: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
@@ -2137,7 +2137,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"הקורס &#39; %(course_name)s &#39; נבדק בהצלחה על ידי edX ופורסם כעת ב- %(course_publish_date)s . כדי לראות קורס חי, עבור לכאן: %(course_marketing_url)s\n"
+"הקורס ' %(course_name)s ' נבדק בהצלחה על ידי edX ופורסם כעת ב- %(course_publish_date)s . כדי לראות קורס חי, עבור לכאן: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format
@@ -2147,7 +2147,7 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"הקורס &#39; %(course_name)s &#39; נבדק בהצלחה על ידי edX והוא מוכן כעת לפרסום. הקורס יפורסם ב- %(course_publish_date)s .\n"
+"הקורס ' %(course_name)s ' נבדק בהצלחה על ידי edX והוא מוכן כעת לפרסום. הקורס יפורסם ב- %(course_publish_date)s .\n"
 " כדי לראות תצוגה מקדימה של דף אודות הקורס, עבור לכאן: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:380

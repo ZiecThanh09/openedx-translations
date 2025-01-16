@@ -163,7 +163,7 @@ msgid ""
 "Course creation was unsuccessful. The course URL slug ‘[{url_slug}]’ is "
 "already in use. Please update this field and try again."
 msgstr ""
-"కోర్సు సృష్టి విఫలమైంది. కోర్సు URL స్లగ్ &#39;[ {url_slug} ]&#39; ఇప్పటికే "
+"కోర్సు సృష్టి విఫలమైంది. కోర్సు URL స్లగ్ '[ {url_slug} ]' ఇప్పటికే "
 "వాడుకలో ఉంది. దయచేసి ఈ ఫీల్డ్‌ని అప్‌డేట్ చేసి, మళ్లీ ప్రయత్నించండి."
 
 #: apps/api/v1/views/courses.py:284
@@ -180,7 +180,7 @@ msgid ""
 "Course edit was unsuccessful. The course URL slug ‘[{url_slug}]’ is already "
 "in use. Please update this field and try again."
 msgstr ""
-"కోర్సు సవరణ విఫలమైంది. కోర్సు URL స్లగ్ &#39;[ {url_slug} ]&#39; ఇప్పటికే "
+"కోర్సు సవరణ విఫలమైంది. కోర్సు URL స్లగ్ '[ {url_slug} ]' ఇప్పటికే "
 "వాడుకలో ఉంది. దయచేసి ఈ ఫీల్డ్‌ని అప్‌డేట్ చేసి, మళ్లీ ప్రయత్నించండి."
 
 #: apps/api/views.py:58
@@ -255,7 +255,7 @@ msgstr "వ్యవధి తప్పనిసరిగా {period_choices} �
 #: apps/core/forms.py:26
 msgid "'rate' must be in the format defined by DRF, such as '100/hour'."
 msgstr ""
-"&#39;రేటు&#39; తప్పనిసరిగా &#39;100/గంట&#39; వంటి DRF ద్వారా నిర్వచించిన "
+"'రేటు' తప్పనిసరిగా '100/గంట' వంటి DRF ద్వారా నిర్వచించిన "
 "ఫార్మాట్‌లో ఉండాలి."
 
 #: apps/core/models.py:17
@@ -1441,7 +1441,7 @@ msgid ""
 "'What You Will Learn' description for this particular course run. Leave this"
 " value blank to default to the parent course's Outcome attribute."
 msgstr ""
-"ఈ నిర్దిష్ట కోర్సు రన్ కోసం &#39;మీరు ఏమి నేర్చుకుంటారు&#39; వివరణ. మాతృ "
+"ఈ నిర్దిష్ట కోర్సు రన్ కోసం 'మీరు ఏమి నేర్చుకుంటారు' వివరణ. మాతృ "
 "కోర్సు యొక్క ఫలిత లక్షణానికి డిఫాల్ట్‌గా ఈ విలువను ఖాళీగా ఉంచండి."
 
 #: apps/course_metadata/models.py:2184 apps/course_metadata/models.py:3291
@@ -1461,7 +1461,7 @@ msgid ""
 "The identifier for a product variant. This is used to link a course run to a"
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
-"ఉత్పత్తి వేరియంట్ కోసం ఐడెంటిఫైయర్. ఇది బాహ్య LOBల కోసం (అంటే; ExecEd &amp; "
+"ఉత్పత్తి వేరియంట్ కోసం ఐడెంటిఫైయర్. ఇది బాహ్య LOBల కోసం (అంటే; ExecEd & "
 "Bootcamps) ప్రోడక్ట్ వేరియంట్‌కు రన్ అయ్యే కోర్సును లింక్ చేయడానికి "
 "ఉపయోగించబడుతుంది."
 
@@ -2198,7 +2198,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"&#39; %(course_name)s &#39; కోర్సు edX ద్వారా విజయవంతంగా సమీక్షించబడింది మరియు ఇప్పుడు %(course_publish_date)s లో ప్రచురించబడింది. ప్రత్యక్ష ప్రసార కోర్సును చూడటానికి, ఇక్కడకు వెళ్లండి: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"' %(course_name)s ' కోర్సు edX ద్వారా విజయవంతంగా సమీక్షించబడింది మరియు ఇప్పుడు %(course_publish_date)s లో ప్రచురించబడింది. ప్రత్యక్ష ప్రసార కోర్సును చూడటానికి, ఇక్కడకు వెళ్లండి: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:12
@@ -2210,7 +2210,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"కోర్సు &#39; %(course_name)s &#39; edX ద్వారా విజయవంతంగా సమీక్షించబడింది మరియు ఇప్పుడు ప్రచురణకు సిద్ధంగా ఉంది. కోర్సు %(course_publish_date)s లో ప్రచురించబడుతుంది.\n"
+"కోర్సు ' %(course_name)s ' edX ద్వారా విజయవంతంగా సమీక్షించబడింది మరియు ఇప్పుడు ప్రచురణకు సిద్ధంగా ఉంది. కోర్సు %(course_publish_date)s లో ప్రచురించబడుతుంది.\n"
 " పేజీ గురించి కోర్సు యొక్క ప్రివ్యూను చూడటానికి, ఇక్కడకు వెళ్లండి: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
@@ -2221,7 +2221,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"&#39; %(course_name)s &#39; కోర్సు edX ద్వారా విజయవంతంగా సమీక్షించబడింది మరియు ఇప్పుడు %(course_publish_date)s లో ప్రచురించబడింది. ప్రత్యక్ష ప్రసార కోర్సును చూడటానికి, ఇక్కడకు వెళ్లండి: %(course_marketing_url)s\n"
+"' %(course_name)s ' కోర్సు edX ద్వారా విజయవంతంగా సమీక్షించబడింది మరియు ఇప్పుడు %(course_publish_date)s లో ప్రచురించబడింది. ప్రత్యక్ష ప్రసార కోర్సును చూడటానికి, ఇక్కడకు వెళ్లండి: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format
@@ -2231,7 +2231,7 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"కోర్సు &#39; %(course_name)s &#39; edX ద్వారా విజయవంతంగా సమీక్షించబడింది మరియు ఇప్పుడు ప్రచురణకు సిద్ధంగా ఉంది. కోర్సు %(course_publish_date)s లో ప్రచురించబడుతుంది.\n"
+"కోర్సు ' %(course_name)s ' edX ద్వారా విజయవంతంగా సమీక్షించబడింది మరియు ఇప్పుడు ప్రచురణకు సిద్ధంగా ఉంది. కోర్సు %(course_publish_date)s లో ప్రచురించబడుతుంది.\n"
 " పేజీ గురించి కోర్సు యొక్క ప్రివ్యూను చూడటానికి, ఇక్కడకు వెళ్లండి: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:380

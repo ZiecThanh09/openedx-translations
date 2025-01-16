@@ -21,7 +21,7 @@
   "ora-grading.RadioCriterion.rubricSelectedError": "Puan anahtarı seçimi gerekli",
   "ora-grading.CriterionFeedback.criterionFeedbackError": "Geri bildirim gerekli",
   "ora-grading.ReviewModal.demoHeading": "Demo modu",
-  "ora-grading.ReviewModal.demoMessage": "Yeni ORA personel not verme deneyimini tanıtıyorsunuz. Özelliği etkinleştirene kadar not gönderemezsiniz. Bu, 9 Mayıs&#39;ta (05/09/2022) varsayılan not verme deneyimi olacak. Erken katılmak veya vazgeçmek için lütfen İş Ortağı Desteğiyle iletişime geçin.",
+  "ora-grading.ReviewModal.demoMessage": "Yeni ORA personel not verme deneyimini tanıtıyorsunuz. Özelliği etkinleştirene kadar not gönderemezsiniz. Bu, 9 Mayıs'ta (05/09/2022) varsayılan not verme deneyimi olacak. Erken katılmak veya vazgeçmek için lütfen İş Ortağı Desteğiyle iletişime geçin.",
   "ora-grading.ListView.ListViewBreadcrumbs.backToResponses": "Tüm açık yanıtlara dön",
   "ora-grading.ListView.noResultsFoundTitle": "Burada henüz bir şey yok",
   "ora-grading.ListView.noResultsFoundBody": "Öğrenciler yanıt gönderdiğinde burada görünecekler",

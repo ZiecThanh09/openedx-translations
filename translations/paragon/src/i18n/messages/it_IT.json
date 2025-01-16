@@ -28,19 +28,19 @@
     "string": "Chiudi"
   },
   "pgn.CardCarousel.scrollToNext": {
-    "developer_comment": "Testo di accessibilità che descrive l&#39;azione per navigare in un carosello scorrevole fino all&#39;elemento successivo",
+    "developer_comment": "Testo di accessibilità che descrive l'azione per navigare in un carosello scorrevole fino all'elemento successivo",
     "string": "Scorri al successivo"
   },
   "pgn.CardCarousel.scrollToPrevious": {
-    "developer_comment": "Testo di accessibilità che descrive l&#39;azione per navigare in un carosello scorrevole fino all&#39;elemento precedente",
+    "developer_comment": "Testo di accessibilità che descrive l'azione per navigare in un carosello scorrevole fino all'elemento precedente",
     "string": "Scorri al precedente"
   },
   "pgn.ChipCarousel.scrollToNext": {
-    "developer_comment": "Testo di accessibilità che descrive l&#39;azione per navigare in un carosello scorrevole fino all&#39;elemento successivo",
+    "developer_comment": "Testo di accessibilità che descrive l'azione per navigare in un carosello scorrevole fino all'elemento successivo",
     "string": "Scorri al successivo"
   },
   "pgn.ChipCarousel.scrollToPrevious": {
-    "developer_comment": "Testo di accessibilità che descrive l&#39;azione per navigare in un carosello scorrevole fino all&#39;elemento precedente",
+    "developer_comment": "Testo di accessibilità che descrive l'azione per navigare in un carosello scorrevole fino all'elemento precedente",
     "string": "Scorri al precedente"
   },
   "pgn.DataTable.BaseSelectionStatus.allSelectedText": {
@@ -48,19 +48,19 @@
     "string": "Tutto {numSelectedRows} selezionato"
   },
   "pgn.DataTable.BaseSelectionStatus.clearSelectionText": {
-    "developer_comment": "Un&#39;etichetta del pulsante di selezione Cancella tutto.",
+    "developer_comment": "Un'etichetta del pulsante di selezione Cancella tutto.",
     "string": "Cancella selezione"
   },
   "pgn.DataTable.BaseSelectionStatus.selectAllText": {
-    "developer_comment": "Un&#39;etichetta per il pulsante Seleziona tutto.",
+    "developer_comment": "Un'etichetta per il pulsante Seleziona tutto.",
     "string": "Seleziona tutto {itemCount}"
   },
   "pgn.DataTable.BaseSelectionStatus.selectedText": {
-    "developer_comment": "Testo per l&#39;etichetta selezionata",
+    "developer_comment": "Testo per l'etichetta selezionata",
     "string": "{numSelectedRows} selezionato"
   },
   "pgn.DataTable.BaseSelectionStatus.selectedTextPaginated": {
-    "developer_comment": "Testo per l&#39;etichetta selezionata quando la tabella viene impaginata",
+    "developer_comment": "Testo per l'etichetta selezionata quando la tabella viene impaginata",
     "string": "{numSelectedRows} selezionato ( {numSelectedRowsOnPage} mostrato di seguito)"
   },
   "pgn.DataTable.ExpandAll.collapseAllLabel": {
@@ -84,7 +84,7 @@
     "string": "Filtri"
   },
   "pgn.Dropzone.DefaultContent.fileSizeBetween": {
-    "developer_comment": "Un messaggio mostrato quando la dimensione del file caricato deve rientrare nell&#39;intervallo specificato.",
+    "developer_comment": "Un messaggio mostrato quando la dimensione del file caricato deve rientrare nell'intervallo specificato.",
     "string": "Tra {sizeMin} e {sizeMax}"
   },
   "pgn.Dropzone.DefaultContent.fileSizeMax": {
@@ -100,7 +100,7 @@
     "string": "Carica {count, plural, one { {firstPart} file} other { {firstPart} o {secondPart} file}}"
   },
   "pgn.Dropzone.DefaultContent.label": {
-    "developer_comment": "Un testo che appare come etichetta per l&#39;input del componente Dropzone.",
+    "developer_comment": "Un testo che appare come etichetta per l'input del componente Dropzone.",
     "string": "Trascina e rilascia il tuo file qui o fai clic per caricarlo."
   },
   "pgn.Dropzone.UploadProgress.cancelLabel": {
@@ -120,15 +120,15 @@
     "string": "Apri il menu delle opzioni"
   },
   "pgn.ProductTour.Checkpoint.bottom-position-text": {
-    "developer_comment": "Messaggio dell&#39;utilità per la lettura dello schermo per avvisare l&#39;utente che si trova nella parte inferiore del passaggio della presentazione del prodotto.",
+    "developer_comment": "Messaggio dell'utilità per la lettura dello schermo per avvisare l'utente che si trova nella parte inferiore del passaggio della presentazione del prodotto.",
     "string": "Parte inferiore del gradino {step}"
   },
   "pgn.ProductTour.Checkpoint.top-position-text": {
-    "developer_comment": "Messaggio dell&#39;utilità per la lettura dello schermo per avvisare l&#39;utente che si trova nella parte inferiore del passaggio della presentazione del prodotto.",
+    "developer_comment": "Messaggio dell'utilità per la lettura dello schermo per avvisare l'utente che si trova nella parte inferiore del passaggio della presentazione del prodotto.",
     "string": "Inizio del passaggio {step}"
   },
   "pgn.Toast.closeLabel": {
-    "developer_comment": "Chiudi l&#39;etichetta per il componente Toast",
+    "developer_comment": "Chiudi l'etichetta per il componente Toast",
     "string": "Chiudi"
   }
 }

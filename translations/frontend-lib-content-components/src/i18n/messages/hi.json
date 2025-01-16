@@ -100,7 +100,7 @@
   "authoring.problemeditor.settings.reset.title": "रीसेट विकल्प दिखाएँ",
   "authoring.problemeditor.settings.reset.true": "सत्‍य",
   "authoring.problemeditor.settings.reset.false": "असत्‍य",
-  "authoring.problemeditor.settings.reset.text": "यह निर्धारित करता है कि क्या &#39;रीसेट&#39; बटन दिखाया गया है ताकि उपयोगकर्ता अपने उत्तर को रीसेट कर सके, आमतौर पर अभ्यास या प्रारंभिक मूल्यांकन में उपयोग के लिए।",
+  "authoring.problemeditor.settings.reset.text": "यह निर्धारित करता है कि क्या 'रीसेट' बटन दिखाया गया है ताकि उपयोगकर्ता अपने उत्तर को रीसेट कर सके, आमतौर पर अभ्यास या प्रारंभिक मूल्यांकन में उपयोग के लिए।",
   "authoring.problemeditor.settings.scoring.title": "स्कोरिंग",
   "authoring.problemeditor.settings.scoring.attempts.inputLabel": "प्रयास करना",
   "authoring.problemeditor.settings.scoring.weight.inputLabel": "बिंदुओं",

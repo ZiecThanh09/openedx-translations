@@ -85,7 +85,7 @@ msgid ""
 "before the verify_query."
 msgstr ""
 "Kullanıcı tarafından gönderilen sorgudan sonra ancak "
-"doğrulama_query&#39;sinden önce yürütülecek isteğe bağlı SQL ifadeleri."
+"doğrulama_query'sinden önce yürütülecek isteğe bağlı SQL ifadeleri."
 
 #: mixins/grading.py:212
 msgid "Is Ordered?"

@@ -51,7 +51,7 @@ en:
   Actor ID: ID актора
   Slug: Slug-рядок
   Created On: Дата створення
-  Object Type: Тип об&#39;єкта
+  Object Type: Тип об'єкта
   Gender: Стать
   Course Grade (out of 100%): Оцінка курсу (зі 100%)
   Meta: Мета
@@ -96,7 +96,7 @@ en:
   Most-used Charts: Найбільш використовувані діаграми
   Dump ID: Дамп ID
   Event String: Рядок події
-  Object ID: ID об&#39;єкта
+  Object ID: ID об'єкта
   Segment Start: Початок сегмента
   Number Of Students: Кількість студентів
   '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}': '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}'
@@ -244,7 +244,7 @@ en:
   Problem Id: Ідентифікатор проблеми
   Course run: Цикл курсу
   Number Of Viewers / Views: Кількість глядачів/переглядів
-  Memory Usage (KB): Використання пам&#39;яті (КБ)
+  Memory Usage (KB): Використання пам'яті (КБ)
   First Name: Ім'я
   verified: перевірено
   ? The current count of active enrollments by their most recent enrollment type,
@@ -274,7 +274,7 @@ en:
   Changed On: Змінено на
   Superset Active Users: Супермножина активних користувачів
   Active Users Per Organization: Активних користувачів на організацію
-  User Name: Ім&#39;я користувача
+  User Name: Ім'я користувача
   Started At: Розпочато в
   COUNT(*): РАХУВАТИ(*)
   Organization: Організація

@@ -55,8 +55,8 @@ msgid ""
 "This is the name for the User ID parameter in the url. If blank, User ID is "
 "ommitted from the url."
 msgstr ""
-"Dette er navnet på User ID-parameteren i url&#39;en. Hvis tom, udelades User"
-" ID fra url&#39;en."
+"Dette er navnet på User ID-parameteren i url'en. Hvis tom, udelades User"
+" ID fra url'en."
 
 #: models.py:57
 msgid "Survey ID:"

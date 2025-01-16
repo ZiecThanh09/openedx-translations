@@ -527,7 +527,7 @@ msgid ""
 "studio page."
 msgstr ""
 "Denne funktion aktiveres af indstillingen på kursusniveau. Det kan findes "
-"under kortet Open Response Assessment Settings på siden Pages &amp; "
+"under kortet Open Response Assessment Settings på siden Pages & "
 "Resources Studio."
 
 #: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:5
@@ -760,7 +760,7 @@ msgid ""
 "modify any rubric it was cloned from."
 msgstr ""
 "For at klone en rubrik fra en eksisterende publiceret eller ikke-publiceret "
-"kladde kan du søge efter blok-id&#39;et. Bemærk, at kloning er envejs, "
+"kladde kan du søge efter blok-id'et. Bemærk, at kloning er envejs, "
 "hvilket betyder, at ændringer foretaget efter kloning kun vil påvirke den "
 "rubrik, der ændres, og vil ikke ændre nogen rubrik, den blev klonet fra."
 
@@ -1666,7 +1666,7 @@ msgid ""
 msgstr ""
 "\n"
 "Du er i øjeblikket på Team %(team_name)s . Siden du var på Team %(previous_team_name)s\n"
-" da de sendte et svar på denne opgave, ser du Team %(previous_team_name)s &#39;s\n"
+" da de sendte et svar på denne opgave, ser du Team %(previous_team_name)s 's\n"
 " svar og får samme karakter for denne opgave som dine tidligere holdkammerater.\n"
 " Du vil ikke være en del af Team %(team_name)s aflevering til denne opgave og vil ikke\n"
 " får en karakter for deres aflevering.\n"
@@ -2769,13 +2769,13 @@ msgid ""
 "'{date}' is an invalid date format. Make sure the date is formatted as YYYY-"
 "MM-DDTHH:MM:SS."
 msgstr ""
-"&#39;{date}&#39; er et ugyldigt datoformat. Sørg for, at datoen er "
+"'{date}' er et ugyldigt datoformat. Sørg for, at datoen er "
 "formateret som ÅÅÅÅ-MM-DDTHH:MM:SS."
 
 #: xblock/utils/resolve_dates.py:57
 #, python-brace-format
 msgid "'{date}' must be a date string or datetime"
-msgstr "&#39;{date}&#39; skal være en datostreng eller datetime"
+msgstr "'{date}' skal være en datostreng eller datetime"
 
 #: xblock/utils/resolve_dates.py:210
 #, python-brace-format
@@ -2783,8 +2783,8 @@ msgid ""
 "This step's start date '{start}' cannot be earlier than the previous step's "
 "start date '{prev}'."
 msgstr ""
-"Dette trins startdato &#39;{start}&#39; kan ikke være tidligere end det "
-"forrige trins startdato &#39;{prev}&#39;."
+"Dette trins startdato '{start}' kan ikke være tidligere end det "
+"forrige trins startdato '{prev}'."
 
 #: xblock/utils/resolve_dates.py:218
 #, python-brace-format
@@ -2792,15 +2792,15 @@ msgid ""
 "This step's due date '{due}' cannot be later than the next step's due date "
 "'{prev}'."
 msgstr ""
-"Dette trins forfaldsdato &#39;{due}&#39; må ikke være senere end det næste "
-"trins forfaldsdato &#39;{prev}&#39;."
+"Dette trins forfaldsdato '{due}' må ikke være senere end det næste "
+"trins forfaldsdato '{prev}'."
 
 #: xblock/utils/resolve_dates.py:234
 #, python-brace-format
 msgid "The start date '{start}' cannot be later than the due date '{due}'"
 msgstr ""
-"Startdatoen &#39;{start}&#39; må ikke være senere end forfaldsdatoen "
-"&#39;{due}&#39;"
+"Startdatoen '{start}' må ikke være senere end forfaldsdatoen "
+"'{due}'"
 
 #: xblock/utils/validation.py:118
 msgid "This problem must include at least one assessment."
@@ -2865,7 +2865,7 @@ msgstr "Du skal give mindst én prompt."
 #: xblock/utils/validation.py:199
 #, python-brace-format
 msgid "Options in '{criterion}' have duplicate name(s): {duplicates}"
-msgstr "Indstillinger i &#39;{criterion}&#39; har duplikatnavne: {duplicates}"
+msgstr "Indstillinger i '{criterion}' har duplikatnavne: {duplicates}"
 
 #: xblock/utils/validation.py:207
 msgid "Criteria with no options must require written feedback."

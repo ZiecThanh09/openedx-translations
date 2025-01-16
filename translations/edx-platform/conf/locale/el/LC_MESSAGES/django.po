@@ -16654,7 +16654,7 @@ msgstr "Μάθετε περισσότερα σχετικά με τις ρυθμ�
 #: cms/templates/edit-tabs.html:48 cms/templates/textbooks.html:57
 #: cms/templates/widgets/header.html:123
 msgid "Pages & Resources"
-msgstr "Σελίδες &amp; Πόροι"
+msgstr "Σελίδες & Πόροι"
 
 #. Translators: Custom Pages refer to the tabs that appear in the top
 #. navigation of each course.

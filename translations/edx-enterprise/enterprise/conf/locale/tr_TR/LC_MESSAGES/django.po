@@ -214,7 +214,7 @@ msgid ""
 "To use this EnterpriseCourseEnrollmentSerializer, this package must be "
 "installed in an Open edX environment."
 msgstr ""
-"Bu EnterpriseCourseEnrollmentSerializer&#39;ı kullanmak için bu paketin bir "
+"Bu EnterpriseCourseEnrollmentSerializer'ı kullanmak için bu paketin bir "
 "Open edX ortamına kurulması gerekir."
 
 #: enterprise_learner_portal/api/v1/views.py:69
@@ -233,30 +233,30 @@ msgid ""
 "The API Client ID provided to edX by the enterprise customer to be used to "
 "make API calls to Canvas on behalf of the customer."
 msgstr ""
-"Müşteri adına Canvas&#39;a API çağrıları yapmak için kullanılmak üzere "
-"kurumsal müşteri tarafından edX&#39;e sağlanan API İstemci Kimliği."
+"Müşteri adına Canvas'a API çağrıları yapmak için kullanılmak üzere "
+"kurumsal müşteri tarafından edX'e sağlanan API İstemci Kimliği."
 
 #: integrated_channels/canvas/models.py:53
 msgid ""
 "The API Client Secret provided to edX by the enterprise customer to be used "
 "to make  API calls to Canvas on behalf of the customer."
 msgstr ""
-"Müşteri adına Canvas&#39;a API çağrıları yapmak için kullanılmak üzere "
-"kurumsal müşteri tarafından edX&#39;e sağlanan API İstemci Sırrı."
+"Müşteri adına Canvas'a API çağrıları yapmak için kullanılmak üzere "
+"kurumsal müşteri tarafından edX'e sağlanan API İstemci Sırrı."
 
 #: integrated_channels/canvas/models.py:62
 msgid ""
 "Account number to use during api calls. Called account_id in canvas.  "
 "Required to create courses etc."
 msgstr ""
-"API çağrıları sırasında kullanılacak hesap numarası. Canvas&#39;ta "
+"API çağrıları sırasında kullanılacak hesap numarası. Canvas'ta "
 "account_id olarak adlandırıldı. Kurs vb. oluşturmak için gereklidir."
 
 #: integrated_channels/canvas/models.py:71
 msgid ""
 "The base URL used for API requests to Canvas, i.e. https://instructure.com."
 msgstr ""
-"Canvas&#39;a yapılan API istekleri için kullanılan temel URL, yani "
+"Canvas'a yapılan API istekleri için kullanılan temel URL, yani "
 "https://instructure.com."
 
 #: integrated_channels/canvas/models.py:78
@@ -296,7 +296,7 @@ msgstr ""
 
 #: integrated_channels/cornerstone/models.py:39
 msgid "The API path for making completion POST requests to Cornerstone."
-msgstr "Cornerstone&#39;a POST isteklerini tamamlamaya yönelik API yolu."
+msgstr "Cornerstone'a POST isteklerini tamamlamaya yönelik API yolu."
 
 #: integrated_channels/cornerstone/models.py:46
 msgid ""
@@ -304,7 +304,7 @@ msgid ""
 "will be used to gain the OAuth access token which is required for other API "
 "calls."
 msgstr ""
-"Cornerstone&#39;a OAuth ile ilgili POST istekleri yapmak için API yolu. Bu, "
+"Cornerstone'a OAuth ile ilgili POST istekleri yapmak için API yolu. Bu, "
 "diğer API çağrıları için gerekli olan OAuth erişim jetonunu kazanmak için "
 "kullanılacaktır."
 
@@ -333,7 +333,7 @@ msgid ""
 "The base URL used for API requests to Cornerstone, i.e. "
 "https://portalName.csod.com"
 msgstr ""
-"Cornerstone&#39;a yapılan API istekleri için kullanılan temel URL, yani "
+"Cornerstone'a yapılan API istekleri için kullanılan temel URL, yani "
 "https://portalName.csod.com"
 
 #: integrated_channels/cornerstone/models.py:108
@@ -350,7 +350,7 @@ msgstr "Oturum jetonunun en son sağlandığı tarih ve saat"
 
 #: integrated_channels/cornerstone/models.py:124
 msgid "If checked, subjects will not be sent to Cornerstone"
-msgstr "İşaretlenirse konular Cornerstone&#39;a gönderilmez"
+msgstr "İşaretlenirse konular Cornerstone'a gönderilmez"
 
 #: integrated_channels/cornerstone/models.py:306
 msgid "This is the edX course key that is used as a unique identifier."
@@ -373,7 +373,7 @@ msgid ""
 "Transmit data to this IntegrateChannel. Omit this option to transmit to all "
 "configured, active integrated channels."
 msgstr ""
-"Verileri bu IntegrateChannel&#39;a aktarın. Tüm yapılandırılmış, aktif "
+"Verileri bu IntegrateChannel'a aktarın. Tüm yapılandırılmış, aktif "
 "entegre kanallara iletim yapmak için bu seçeneği atlayın."
 
 #: integrated_channels/integrated_channel/management/commands/__init__.py:123
@@ -423,7 +423,7 @@ msgstr ""
 #: integrated_channels/integrated_channel/management/commands/transmit_subsection_learner_data.py:37
 msgid "Username of a user authorized to fetch grades from the LMS API."
 msgstr ""
-"LMS API&#39;sinden not alma yetkisine sahip bir kullanıcının kullanıcı adı."
+"LMS API'sinden not alma yetkisine sahip bir kullanıcının kullanıcı adı."
 
 #: integrated_channels/integrated_channel/management/commands/cleanup_duplicate_assignment_records.py:56
 #: integrated_channels/integrated_channel/management/commands/transmit_learner_data.py:51
@@ -515,7 +515,7 @@ msgid ""
 "Enterprise channel worker username to get JWT tokens for authenticating LMS "
 "APIs."
 msgstr ""
-"LMS API&#39;lerinin kimliğini doğrulamak amacıyla JWT belirteçlerini almak "
+"LMS API'lerinin kimliğini doğrulamak amacıyla JWT belirteçlerini almak "
 "için kurumsal kanal çalışanı kullanıcı adı."
 
 #: integrated_channels/integrated_channel/models.py:168
@@ -525,7 +525,7 @@ msgid ""
 "customer catalogs, the overlapping course metadata will be selected from the"
 " newest catalog."
 msgstr ""
-"Aktarılacak katalog UUID&#39;lerinin virgülle ayrılmış listesi. Boşsa tüm "
+"Aktarılacak katalog UUID'lerinin virgülle ayrılmış listesi. Boşsa tüm "
 "müşteri katalogları iletilecektir. Müşteri kataloglarında çakışan kurslar "
 "varsa çakışan kurs meta verileri en yeni katalogdan seçilecektir."
 
@@ -540,7 +540,7 @@ msgstr ""
 #: integrated_channels/integrated_channel/models.py:533
 #: integrated_channels/integrated_channel/models.py:709
 msgid "Data pertaining to the transmissions API request response."
-msgstr "İletim API&#39;si istek yanıtına ilişkin veriler."
+msgstr "İletim API'si istek yanıtına ilişkin veriler."
 
 #: integrated_channels/moodle/admin/__init__.py:31
 msgid "Cannot set both a Username/Password and Token"
@@ -553,7 +553,7 @@ msgstr ""
 
 #: integrated_channels/moodle/models.py:38
 msgid "The base URL used for API requests to Moodle"
-msgstr "Moodle&#39;a yapılan API istekleri için kullanılan temel URL"
+msgstr "Moodle'a yapılan API istekleri için kullanılan temel URL"
 
 #: integrated_channels/moodle/models.py:46
 msgid "The short name for the Moodle webservice."
@@ -625,7 +625,7 @@ msgstr "OAuth istemci tanımlayıcısı."
 
 #: integrated_channels/sap_success_factors/models.py:88
 msgid "Base URL of success factors API."
-msgstr "Başarı faktörleri API&#39;sinin temel URL&#39;si."
+msgstr "Başarı faktörleri API'sinin temel URL'si."
 
 #: integrated_channels/sap_success_factors/models.py:95
 msgid "Success factors company identifier."
@@ -653,7 +653,7 @@ msgstr "Toplam Saat İletim"
 
 #: integrated_channels/sap_success_factors/models.py:127
 msgid "Include totalHours in the transmitted completion data"
-msgstr "İletilen tamamlanma verilerine totalHours&#39;u dahil edin"
+msgstr "İletilen tamamlanma verilerine totalHours'u dahil edin"
 
 #: integrated_channels/sap_success_factors/models.py:132
 msgid ""
@@ -663,23 +663,23 @@ msgid ""
 msgstr ""
 "Doğru olarak ayarlandığında entegrasyon, kursun tamamlanması için SAP "
 "Müşteri Yapılandırmasında tanımlanan genel edX hizmet kullanıcısını "
-"(&#39;sapsf_user_id&#39;) kullanacaktır."
+"('sapsf_user_id') kullanacaktır."
 
 #: integrated_channels/xapi/models.py:33
 msgid "Version of xAPI."
-msgstr "xAPI&#39;nin sürümü."
+msgstr "xAPI'nin sürümü."
 
 #: integrated_channels/xapi/models.py:34
 msgid "URL of the LRS."
-msgstr "LRS&#39;nin URL&#39;si."
+msgstr "LRS'nin URL'si."
 
 #: integrated_channels/xapi/models.py:35
 msgid "Key of xAPI LRS."
-msgstr "xAPI LRS&#39;nin anahtarı."
+msgstr "xAPI LRS'nin anahtarı."
 
 #: integrated_channels/xapi/models.py:36
 msgid "secret of xAPI LRS."
-msgstr "xAPI LRS&#39;nin sırrı."
+msgstr "xAPI LRS'nin sırrı."
 
 #: enterprise/admin/__init__.py:680
 msgid ""
@@ -711,9 +711,9 @@ msgid ""
 "column of course run keys, indicated by the heading 'course_id' in the first"
 " row, to enroll learners in multiple courses."
 msgstr ""
-".csv dosyasında, ilk satırda &#39;e-posta&#39; başlığıyla gösterilen bir "
+".csv dosyasında, ilk satırda 'e-posta' başlığıyla gösterilen bir "
 "e-posta adresleri sütunu bulunmalıdır. İsteğe bağlı olarak, .csv dosyası, "
-"öğrencileri birden fazla kursa kaydetmek için ilk satırda &#39;kurs_id&#39; "
+"öğrencileri birden fazla kursa kaydetmek için ilk satırda 'kurs_id' "
 "başlığıyla gösterilen kurs çalıştırma anahtarlarından oluşan bir sütun "
 "içerebilir."
 
@@ -834,8 +834,8 @@ msgid ""
 msgstr ""
 "Seçilen kimlik sağlayıcının ( {identity_provider_site} ) sitesi, bu kurumsal"
 " müşterinin ( {enterprise_customer_site} ) sitesiyle eşleşmiyor. Bu sorunu "
-"düzeltmek için &#39; {identity_provider_site} &#39; etki alanına sahip bir "
-"site seçin veya kimlik sağlayıcısını &#39; {enterprise_customer_site} &#39; "
+"düzeltmek için ' {identity_provider_site} ' etki alanına sahip bir "
+"site seçin veya kimlik sağlayıcısını ' {enterprise_customer_site} ' "
 "olarak güncelleyin."
 
 #: enterprise/admin/forms.py:611
@@ -865,8 +865,8 @@ msgid ""
 "User specified is not linked to an active Enterprise Customer. Select "
 "`Applies to all contexts` or choose a different user."
 msgstr ""
-"Belirtilen kullanıcı etkin bir Kurumsal Müşteriye bağlı değil. &#39;Tüm "
-"bağlamlara uygulanır&#39;ı seçin veya farklı bir kullanıcı seçin."
+"Belirtilen kullanıcı etkin bir Kurumsal Müşteriye bağlı değil. 'Tüm "
+"bağlamlara uygulanır'ı seçin veya farklı bir kullanıcı seçin."
 
 #: enterprise/admin/forms.py:782
 msgid ""
@@ -1241,7 +1241,7 @@ msgstr "Yanlış İşletme"
 #: enterprise/management/commands/migrate_enterprise_catalogs.py:30
 msgid "Username of a user authorized to access the Enterprise Catalog API."
 msgstr ""
-"Enterprise Catalog API&#39;ye erişme yetkisine sahip bir kullanıcının "
+"Enterprise Catalog API'ye erişme yetkisine sahip bir kullanıcının "
 "kullanıcı adı."
 
 #: enterprise/management/commands/migrate_enterprise_catalogs.py:36
@@ -1497,7 +1497,7 @@ msgid ""
 "process. Should be enabled for customers that leverage SSO."
 msgstr ""
 "Öğrencinin, SSO sürecinde kuruluşunu tanımlamak için müşteri bilgisini "
-"girmesine olanak tanır. SSO&#39;dan yararlanan müşteriler için "
+"girmesine olanak tanır. SSO'dan yararlanan müşteriler için "
 "etkinleştirilmelidir."
 
 #: enterprise/models.py:430
@@ -1532,7 +1532,7 @@ msgid ""
 "ecommerce when creating orders for financial data reporting."
 msgstr ""
 "Sipariş başına indirimin yakalanmasının mümkün olmadığı durumlarda, kayıt "
-"API&#39;sinden yapılan kayıtlar için kullanılan indirim yüzdesini belirtir. "
+"API'sinden yapılan kayıtlar için kullanılan indirim yüzdesini belirtir. "
 "Bu, finansal veri raporlaması için siparişler oluşturulurken e-ticarete "
 "aktarılır."
 
@@ -1565,7 +1565,7 @@ msgid ""
 "returned nothing. Proceeding with enrollment, but notifications won't be "
 "sent"
 msgstr ""
-"{} kurs anahtarı için kurs ayrıntıları bulunamadı - Kurs Kataloğu API&#39;si"
+"{} kurs anahtarı için kurs ayrıntıları bulunamadı - Kurs Kataloğu API'si"
 " hiçbir şey döndürmedi. Kayıt işlemine devam ediliyor ancak bildirimler "
 "gönderilmeyecek"
 
@@ -1574,7 +1574,7 @@ msgid ""
 "When enabled along with `active`, all other linked enterprise customers for "
 "this user will be marked as inactive upon save."
 msgstr ""
-"&#39;Etkin&#39; ile birlikte etkinleştirildiğinde, bu kullanıcıya ait diğer "
+"'Etkin' ile birlikte etkinleştirildiğinde, bu kullanıcıya ait diğer "
 "tüm bağlantılı kurumsal müşteriler, kaydetme sonrasında etkin değil olarak "
 "işaretlenecektir."
 
@@ -1607,7 +1607,7 @@ msgstr ""
 msgid ""
 "The UUID of the course (not course run) in which the learner is entitled."
 msgstr ""
-"Öğrencinin yetkilendirildiği dersin (kurs çalıştırması değil) UUID&#39;si."
+"Öğrencinin yetkilendirildiği dersin (kurs çalıştırması değil) UUID'si."
 
 #: enterprise/models.py:1854
 msgid "The enterprise learner to which this entitlement is attached."
@@ -1681,7 +1681,7 @@ msgid ""
 " won't be excluded from the content of the associated catalog."
 msgstr ""
 "Kataloğun yürütülen (2U) dersleri içermesine izin verilip verilmediğini "
-"belirtir. Bu, content_filter &#39;kurs&#39; içerik türlerinin kataloğa dahil"
+"belirtir. Bu, content_filter 'kurs' içerik türlerinin kataloğa dahil"
 " edilmesi gerektiğini belirttiğinde executive-education-2u kurs türlerinin "
 "ilgili kataloğun içeriğinden hariç tutulmayacağı anlamına gelir."
 
@@ -1718,7 +1718,7 @@ msgid ""
 "Specifies whether courses should be published with direct-to-audit "
 "enrollment URLs."
 msgstr ""
-"Kursların doğrudan denetime yönelik kayıt URL&#39;leriyle yayınlanmasının "
+"Kursların doğrudan denetime yönelik kayıt URL'leriyle yayınlanmasının "
 "gerekip gerekmediğini belirtir."
 
 #: enterprise/models.py:2479
@@ -1735,7 +1735,7 @@ msgid ""
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
 "Oluşturulduğunda yeni kayıtlı Kurumsal Müşteri öğrencilerine gönderilmesini istediğiniz e-postayı üreten standart bir Django şablonunu doldurun. Aşağıdaki değişkenler mevcut olabilir:\n"
-"<ul><li> user_name: E-postayla gönderilen kişinin insan tarafından okunabilen adı. Bazı durumlarda eksik olabileceğinden, bunun tanımlanmadığı durumu ele aldığınızdan emin olun. Öğrencinin sistemde &quot;gerçek&quot; adını yapılandırmamış olması durumunda, bu aynı zamanda bir kullanıcı adı da olabilir.</li><li> kuruluş_adı: Kayda sponsor olan kuruluşun adı.</li><li> kayıtlı_in: Kayıt olunan kurs veya programın ayrıntıları. Aşağıdakileri içerebilir:<ul><li> name: Kaydedilebilir öğenin adı (örneğin, &quot;Demo Kursu&quot;).</li><li> url: Kayıtlı öğenin ana sayfasına bağlantı.</li><li> markalama: Kayıtlı öğe için özel bir markalama adı. Örneğin, bir MicroMasters programının markalaması &quot;MicroMasters&quot; olacaktır.</li><li> başlangıç: Kaydedilen öğenin kullanılabilir hale geldiği tarih. Django &#39;tarih&#39; şablon filtresini kullanarak bunu metne dönüştürün ( <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">Django belgelerine</a> bakın).</li><li> tür: Kaydedilen öğenin bir kurs, program veya başka bir şey olup olmadığı.</li></ul></ul>"
+"<ul><li> user_name: E-postayla gönderilen kişinin insan tarafından okunabilen adı. Bazı durumlarda eksik olabileceğinden, bunun tanımlanmadığı durumu ele aldığınızdan emin olun. Öğrencinin sistemde &quot;gerçek&quot; adını yapılandırmamış olması durumunda, bu aynı zamanda bir kullanıcı adı da olabilir.</li><li> kuruluş_adı: Kayda sponsor olan kuruluşun adı.</li><li> kayıtlı_in: Kayıt olunan kurs veya programın ayrıntıları. Aşağıdakileri içerebilir:<ul><li> name: Kaydedilebilir öğenin adı (örneğin, &quot;Demo Kursu&quot;).</li><li> url: Kayıtlı öğenin ana sayfasına bağlantı.</li><li> markalama: Kayıtlı öğe için özel bir markalama adı. Örneğin, bir MicroMasters programının markalaması &quot;MicroMasters&quot; olacaktır.</li><li> başlangıç: Kaydedilen öğenin kullanılabilir hale geldiği tarih. Django 'tarih' şablon filtresini kullanarak bunu metne dönüştürün ( <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">Django belgelerine</a> bakın).</li><li> tür: Kaydedilen öğenin bir kurs, program veya başka bir şey olup olmadığı.</li></ul></ul>"
 
 #: enterprise/models.py:2765
 #, python-brace-format
@@ -2077,11 +2077,11 @@ msgstr "SSO orkestratörü tarafından entegre edilen kimlik sağlayıcı."
 
 #: enterprise/models.py:3931
 msgid "The metadata url of the identity provider."
-msgstr "Kimlik sağlayıcının meta veri URL&#39;si."
+msgstr "Kimlik sağlayıcının meta veri URL'si."
 
 #: enterprise/models.py:3939
 msgid "The metadata xml of the identity provider."
-msgstr "Kimlik sağlayıcının meta veri xml&#39;si."
+msgstr "Kimlik sağlayıcının meta veri xml'si."
 
 #: enterprise/models.py:3948
 msgid "The entity id of the identity provider."
@@ -2133,39 +2133,39 @@ msgid ""
 "SAP specific configuration: the timeout interval for the OData API in "
 "seconds."
 msgstr ""
-"SAP&#39;ye özgü yapılandırma: OData API&#39;si için saniye cinsinden zaman "
+"SAP'ye özgü yapılandırma: OData API'si için saniye cinsinden zaman "
 "aşımı aralığı."
 
 #: enterprise/models.py:4064
 msgid "SAP specific configuration: the root url of the OData API."
-msgstr "SAP&#39;ye özel yapılandırma: OData API&#39;sinin kök URL&#39;si."
+msgstr "SAP'ye özel yapılandırma: OData API'sinin kök URL'si."
 
 #: enterprise/models.py:4073
 msgid "SAP specific configuration: the company id of the OData API."
-msgstr "SAP&#39;ye özel yapılandırma: OData API&#39;nin şirket kimliği."
+msgstr "SAP'ye özel yapılandırma: OData API'nin şirket kimliği."
 
 #: enterprise/models.py:4082
 msgid ""
 "SAP specific configuration: the root url of the SAP SuccessFactors OAuth "
 "API."
 msgstr ""
-"SAP&#39;ye özel konfigürasyon: SAP SuccessFactors OAuth API&#39;sinin kök "
-"URL&#39;si."
+"SAP'ye özel konfigürasyon: SAP SuccessFactors OAuth API'sinin kök "
+"URL'si."
 
 #: enterprise/models.py:4099
 msgid ""
 "SAP specific configuration: the private key used to sign the SAML assertion."
 msgstr ""
-"SAP&#39;ye özgü yapılandırma: SAML onayını imzalamak için kullanılan özel "
+"SAP'ye özgü yapılandırma: SAML onayını imzalamak için kullanılan özel "
 "anahtar."
 
 #: enterprise/models.py:4108
 msgid "SAP specific configuration: the client id of the OData API."
-msgstr "SAP&#39;ye özgü yapılandırma: OData API&#39;sinin istemci kimliği."
+msgstr "SAP'ye özgü yapılandırma: OData API'sinin istemci kimliği."
 
 #: enterprise/models.py:4117
 msgid "SAP specific configuration: the user id of the OAuth API."
-msgstr "SAP&#39;ye özel yapılandırma: OAuth API&#39;nin kullanıcı kimliği."
+msgstr "SAP'ye özel yapılandırma: OAuth API'nin kullanıcı kimliği."
 
 #: enterprise/models.py:4139
 msgid "Field is locked as the configuration has already been submitted."
@@ -2396,7 +2396,7 @@ msgstr ""
 msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
-"CSV dosyası ayrıştırılamıyor. Lütfen bunun CSV &#39;utf-8&#39; kodlu bir "
+"CSV dosyası ayrıştırılamıyor. Lütfen bunun CSV 'utf-8' kodlu bir "
 "dosya olduğundan emin olun."
 
 #: enterprise/utils.py:187
@@ -2426,7 +2426,7 @@ msgstr "Desteklenmeyen dosya uzantısı."
 #, python-format
 msgid "The logo image file size must be less than or equal to %s KB."
 msgstr ""
-"Logo resim dosyası boyutu %s KB&#39;ye eşit veya bundan küçük olmalıdır."
+"Logo resim dosyası boyutu %s KB'ye eşit veya bundan küçük olmalıdır."
 
 #: enterprise/views.py:211
 msgid ""

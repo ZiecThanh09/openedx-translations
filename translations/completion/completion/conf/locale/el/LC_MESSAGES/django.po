@@ -32,7 +32,7 @@ msgstr ""
 #: api/v1/views.py:89
 #, python-brace-format
 msgid "Key '{key}' not found."
-msgstr "Το κλειδί &#39;{key}&#39; δεν βρέθηκε."
+msgstr "Το κλειδί '{key}' δεν βρέθηκε."
 
 #: api/v1/views.py:97
 msgid "User is not enrolled in course."
@@ -50,7 +50,7 @@ msgstr "Μη έγκυρο κλειδί αποκλεισμού: {}"
 #, python-brace-format
 msgid "Block with key: '{key}' is not in context {context}"
 msgstr ""
-"Αποκλεισμός με κλειδί: Το &#39;{key}&#39; δεν βρίσκεται στο πλαίσιο "
+"Αποκλεισμός με κλειδί: Το '{key}' δεν βρίσκεται στο πλαίσιο "
 "{context}"
 
 #: api/v1/views.py:174

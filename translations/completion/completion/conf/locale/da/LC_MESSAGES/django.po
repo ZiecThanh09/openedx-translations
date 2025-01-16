@@ -32,7 +32,7 @@ msgstr ""
 #: api/v1/views.py:89
 #, python-brace-format
 msgid "Key '{key}' not found."
-msgstr "Nøglen &#39;{key}&#39; blev ikke fundet."
+msgstr "Nøglen '{key}' blev ikke fundet."
 
 #: api/v1/views.py:97
 msgid "User is not enrolled in course."
@@ -49,7 +49,7 @@ msgstr "Ugyldig bloknøgle: {}"
 #: api/v1/views.py:132
 #, python-brace-format
 msgid "Block with key: '{key}' is not in context {context}"
-msgstr "Blok med nøgle: &#39;{key}&#39; er ikke i konteksten {context}"
+msgstr "Blok med nøgle: '{key}' er ikke i konteksten {context}"
 
 #: api/v1/views.py:174
 msgid " "

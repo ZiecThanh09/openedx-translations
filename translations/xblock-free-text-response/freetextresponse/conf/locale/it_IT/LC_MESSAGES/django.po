@@ -30,7 +30,7 @@ msgid ""
 "This is a flag that indicates if the indicator icon should be displayed "
 "after a student enters their response"
 msgstr ""
-"Si tratta di un contrassegno che indica se l&#39;icona dell&#39;indicatore "
+"Si tratta di un contrassegno che indica se l'icona dell'indicatore "
 "deve essere visualizzata dopo che uno studente ha inserito la propria "
 "risposta"
 
@@ -210,7 +210,7 @@ msgstr[2] "{score_string} / {weight} punti"
 #, python-brace-format
 msgid "You have used {count_attempts} of {max_attempts} submission"
 msgid_plural "You have used {count_attempts} of {max_attempts} submissions"
-msgstr[0] "Hai utilizzato {count_attempts} dell&#39;invio {max_attempts}"
+msgstr[0] "Hai utilizzato {count_attempts} dell'invio {max_attempts}"
 msgstr[1] "Hai utilizzato {count_attempts} degli invii {max_attempts}"
 msgstr[2] "Hai utilizzato {count_attempts} degli invii {max_attempts}"
 

@@ -32,7 +32,7 @@ msgstr ""
 #: api/v1/views.py:89
 #, python-brace-format
 msgid "Key '{key}' not found."
-msgstr "מפתח &#39;{key}&#39; לא נמצא."
+msgstr "מפתח '{key}' לא נמצא."
 
 #: api/v1/views.py:97
 msgid "User is not enrolled in course."
@@ -49,7 +49,7 @@ msgstr "מפתח חסימה לא חוקי: {}"
 #: api/v1/views.py:132
 #, python-brace-format
 msgid "Block with key: '{key}' is not in context {context}"
-msgstr "חסום עם מפתח: &#39;{key}&#39; אינו בהקשר {context}"
+msgstr "חסום עם מפתח: '{key}' אינו בהקשר {context}"
 
 #: api/v1/views.py:174
 msgid " "

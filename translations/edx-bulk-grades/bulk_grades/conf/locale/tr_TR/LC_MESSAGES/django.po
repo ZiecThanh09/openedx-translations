@@ -25,7 +25,7 @@ msgstr ""
 msgid ""
 "The CSV does not match this problem. Check that you uploaded the right CSV."
 msgstr ""
-"CSV bu sorunla eşleşmiyor. Doğru CSV&#39;yi yüklediğinizden emin olun."
+"CSV bu sorunla eşleşmiyor. Doğru CSV'yi yüklediğinizden emin olun."
 
 #: api.py:130
 msgid "Points must be numbers."
@@ -37,7 +37,7 @@ msgstr "Puanlar {} değerinden büyük olmamalıdır."
 
 #: api.py:134
 msgid "Points must be greater than 0"
-msgstr "Puanlar 0&#39;dan büyük olmalıdır"
+msgstr "Puanlar 0'dan büyük olmalıdır"
 
 #: api.py:347
 msgid "Wrong course id {} != {}"

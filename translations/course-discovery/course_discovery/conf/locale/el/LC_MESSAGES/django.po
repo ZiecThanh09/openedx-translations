@@ -1517,7 +1517,7 @@ msgid ""
 msgstr ""
 "Το αναγνωριστικό για μια παραλλαγή προϊόντος. Αυτό χρησιμοποιείται για τη "
 "σύνδεση μιας εκτέλεσης μαθημάτων με μια παραλλαγή προϊόντος για εξωτερικά "
-"LOB (π.χ. ExecEd &amp; Bootcamps)."
+"LOB (π.χ. ExecEd & Bootcamps)."
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
 msgid "Current"
@@ -2271,7 +2271,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Το μάθημα &#39; %(course_name)s &#39; έχει ελεγχθεί με επιτυχία από το edX και τώρα δημοσιεύεται στο %(course_publish_date)s . Για να δείτε ζωντανά την πορεία, μεταβείτε εδώ: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"Το μάθημα ' %(course_name)s ' έχει ελεγχθεί με επιτυχία από το edX και τώρα δημοσιεύεται στο %(course_publish_date)s . Για να δείτε ζωντανά την πορεία, μεταβείτε εδώ: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:12
@@ -2283,7 +2283,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Το μάθημα &#39; %(course_name)s &#39; ελέγχθηκε με επιτυχία από το edX και είναι τώρα έτοιμο για δημοσίευση. Το μάθημα θα δημοσιευτεί στο %(course_publish_date)s .\n"
+"Το μάθημα ' %(course_name)s ' ελέγχθηκε με επιτυχία από το edX και είναι τώρα έτοιμο για δημοσίευση. Το μάθημα θα δημοσιευτεί στο %(course_publish_date)s .\n"
 " Για να δείτε μια προεπισκόπηση της σελίδας Course About, μεταβείτε εδώ: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
@@ -2294,7 +2294,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"Το μάθημα &#39; %(course_name)s &#39; έχει ελεγχθεί με επιτυχία από το edX και τώρα δημοσιεύεται στο %(course_publish_date)s . Για να δείτε ζωντανά την πορεία, μεταβείτε εδώ: %(course_marketing_url)s\n"
+"Το μάθημα ' %(course_name)s ' έχει ελεγχθεί με επιτυχία από το edX και τώρα δημοσιεύεται στο %(course_publish_date)s . Για να δείτε ζωντανά την πορεία, μεταβείτε εδώ: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format
@@ -2304,7 +2304,7 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"Το μάθημα &#39; %(course_name)s &#39; ελέγχθηκε με επιτυχία από το edX και είναι τώρα έτοιμο για δημοσίευση. Το μάθημα θα δημοσιευτεί στο %(course_publish_date)s .\n"
+"Το μάθημα ' %(course_name)s ' ελέγχθηκε με επιτυχία από το edX και είναι τώρα έτοιμο για δημοσίευση. Το μάθημα θα δημοσιευτεί στο %(course_publish_date)s .\n"
 " Για να δείτε μια προεπισκόπηση της σελίδας Course About, μεταβείτε εδώ: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:380

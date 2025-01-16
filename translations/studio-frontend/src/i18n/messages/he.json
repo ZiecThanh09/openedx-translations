@@ -118,7 +118,7 @@
   "unitDepthShortDescription": "נהל את עומק היחידה",
   "unitDepthLongDescription": "פירוק תוכן הקורס לחלקים ניתנים לניהול מקדם מעורבות של הלומדים. אנו ממליצים שהיחידות מכילות לא יותר משלושה רכיבים.",
   "proctoringEmailShortDescription": "הוסף דוא&quot;ל הסלמה של Proctortrack",
-  "proctoringEmailLongDescription": "קורסים המשתמשים ב-Proctortrack דורשים אימייל הסלמה. ודא שהלומדים והתמיכה יכולים ליצור קשר עם צוות הקורס שלך בנוגע לבעיות בדיקה (כגון ערעורים, איפוסי בחינות וכו&#39;).",
+  "proctoringEmailLongDescription": "קורסים המשתמשים ב-Proctortrack דורשים אימייל הסלמה. ודא שהלומדים והתמיכה יכולים ליצור קשר עם צוות הקורס שלך בנוגע לבעיות בדיקה (כגון ערעורים, איפוסי בחינות וכו').",
   "updateLinkLabel": "עדכן",
   "completionCountLabel": "{completed} / {total} הושלם",
   "completedItemLabel": "הושלם",

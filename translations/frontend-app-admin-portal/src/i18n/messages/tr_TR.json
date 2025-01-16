@@ -9,7 +9,7 @@
   "adminPortal.emailTemplateForm.body": "Gövde",
   "adminPortal.emailTemplateForm.customizeClosing": "Kapanışı özelleştir",
   "adminPortal.emailTemplateForm.addFiles": "dosya Ekle",
-  "adminPortal.emailTemplateForm.maxFileSizeMessage": "Maksimum dosya boyutu 250kb&#39;ı geçmemelidir.",
+  "adminPortal.emailTemplateForm.maxFileSizeMessage": "Maksimum dosya boyutu 250kb'ı geçmemelidir.",
   "adminPortal.error.title": "Hata",
   "adminPortal.emailTemplateForm.termsOfService": "Kullanım Koşulları",
   "adminPortal.emailTemplateForm.privacyPolicy": "Gizlilik İlkeleri",

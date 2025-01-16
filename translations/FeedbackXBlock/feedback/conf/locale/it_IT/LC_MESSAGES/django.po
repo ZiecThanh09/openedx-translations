@@ -43,7 +43,7 @@ msgid ""
 "synthesis will help you better understand and remember material from this "
 "course."
 msgstr ""
-"Prenditi un po&#39; di tempo per riflettere qui. La ricerca mostra che una "
+"Prenditi un po' di tempo per riflettere qui. La ricerca mostra che una "
 "sintesi significativa ti aiuterà a comprendere e ricordare meglio il "
 "materiale di questo corso."
 
@@ -77,7 +77,7 @@ msgstr "Numero casuale generato per p. -1 se non inizializzato"
 
 #: feedback.py:87
 msgid "How user voted. -1 if didn't vote"
-msgstr "Come ha votato l&#39;utente. -1 se non ha votato"
+msgstr "Come ha votato l'utente. -1 se non ha votato"
 
 #: feedback.py:93
 msgid "What percent of the time should this show?"
@@ -199,11 +199,11 @@ msgstr "Il nome del componente."
 
 #: templates/html/studio_view.html:20
 msgid "The message to show after user vote."
-msgstr "Il messaggio da mostrare dopo il voto dell&#39;utente."
+msgstr "Il messaggio da mostrare dopo il voto dell'utente."
 
 #: templates/html/studio_view.html:28
 msgid "The message to show after user feedback."
-msgstr "Il messaggio da mostrare dopo il feedback dell&#39;utente."
+msgstr "Il messaggio da mostrare dopo il feedback dell'utente."
 
 #: templates/html/studio_view.html:33
 msgid "Show aggregate report to students"
@@ -241,7 +241,7 @@ msgstr ""
 
 #: templates/html/studio_view.html:60
 msgid "Likert icon set"
-msgstr "Insieme dell&#39;icona di Likert"
+msgstr "Insieme dell'icona di Likert"
 
 #: templates/html/studio_view.html:62
 msgid "Faces (happy to sad)"

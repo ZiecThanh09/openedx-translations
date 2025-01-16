@@ -649,7 +649,7 @@ msgid ""
 "completion."
 msgstr ""
 "وقتی روی True تنظیم شود، ادغام از کاربر عمومی سرویس edX "
-"(&#39;sapsf_user_id&#39;) تعریف شده در پیکربندی مشتری SAP برای تکمیل دوره "
+"('sapsf_user_id') تعریف شده در پیکربندی مشتری SAP برای تکمیل دوره "
 "استفاده می‌کند."
 
 #: integrated_channels/xapi/models.py:33
@@ -2333,7 +2333,7 @@ msgstr ""
 msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
-"تجزیه فایل CSV ممکن نیست. لطفاً مطمئن شوید که یک فایل CSV &#39;utf-8&#39; "
+"تجزیه فایل CSV ممکن نیست. لطفاً مطمئن شوید که یک فایل CSV 'utf-8' "
 "رمزگذاری شده است."
 
 #: enterprise/utils.py:188

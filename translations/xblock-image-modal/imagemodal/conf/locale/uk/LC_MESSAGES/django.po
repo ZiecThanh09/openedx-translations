@@ -28,7 +28,7 @@ msgstr "Назва, що відображається"
 
 #: models.py:28
 msgid "This is the XBlock's display name"
-msgstr "Це відображуване ім&#39;я XBlock"
+msgstr "Це відображуване ім'я XBlock"
 
 #: models.py:32
 msgid "Image URL"

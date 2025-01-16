@@ -191,7 +191,7 @@ msgstr "được giám sát"
 
 #: static/proctoring/js/views/proctored_exam_attempt_view.js:181
 msgid "Timed"
-msgstr "Đã hẹn giờ"
+msgstr "Hẹn giờ"
 
 #: static/proctoring/js/views/proctored_exam_attempt_view.js:214
 msgid "Are you sure you want to remove this student's exam attempt?"

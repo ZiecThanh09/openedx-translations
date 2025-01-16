@@ -23,7 +23,7 @@ msgstr ""
 
 #: channel/braze.py:105 channel/sailthru.py:172
 msgid "Unsubscribe from this list"
-msgstr "Annulla l&#39;iscrizione a questa lista"
+msgstr "Annulla l'iscrizione a questa lista"
 
 #: channel/sailthru.py:169
 msgid "View on Web"

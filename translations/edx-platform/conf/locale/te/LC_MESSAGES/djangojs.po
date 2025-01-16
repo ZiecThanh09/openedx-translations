@@ -720,7 +720,7 @@ msgstr "కాపీ చేస్తోంది"
 
 #: cms/static/js/views/course_outline.js:328
 msgid "Copy of '{componentDisplayName}'"
-msgstr "&#39;{componentDisplayName}&#39; కాపీ"
+msgstr "'{componentDisplayName}' కాపీ"
 
 #: cms/static/js/views/course_outline.js:364
 #: cms/static/js/views/pages/container.js:285
@@ -760,7 +760,7 @@ msgstr ""
 #: cms/static/js/views/pages/container.js:328
 #: cms/static/js/views/utils/xblock_utils.js:118
 msgid "New file(s) added to Files & Uploads."
-msgstr "ఫైల్‌లు &amp; అప్‌లోడ్‌లకు కొత్త ఫైల్(లు) జోడించబడ్డాయి."
+msgstr "ఫైల్‌లు & అప్‌లోడ్‌లకు కొత్త ఫైల్(లు) జోడించబడ్డాయి."
 
 #: cms/static/js/views/course_outline.js:408
 #: cms/static/js/views/pages/container.js:330
@@ -2941,7 +2941,7 @@ msgstr "హైపర్‌లింక్‌ని చొప్పించం�
 
 #: lms/static/js/Markdown.Editor.js:28
 msgid "e.g. 'http://google.com'"
-msgstr "ఉదా &#39;http://google.com&#39;"
+msgstr "ఉదా 'http://google.com'"
 
 #: lms/static/js/Markdown.Editor.js:29
 msgid "Link Description"
@@ -2949,7 +2949,7 @@ msgstr "లింక్ వివరణ"
 
 #: lms/static/js/Markdown.Editor.js:30
 msgid "e.g. 'google'"
-msgstr "ఉదా &#39;గూగుల్&#39;"
+msgstr "ఉదా 'గూగుల్'"
 
 #: lms/static/js/Markdown.Editor.js:31
 msgid "Please provide a description of the link destination."
@@ -2967,7 +2967,7 @@ msgid ""
 msgstr ""
 "మీ మెషీన్ నుండి ఫైల్‌ను అప్‌లోడ్ చేయడానికి URLని టైప్ చేయండి లేదా "
 "&quot;ఫైల్‌ను ఎంచుకోండి&quot; బటన్‌ను ఉపయోగించండి. (ఉదా "
-"&#39;http://example.com/img/clouds.jpg&#39;)"
+"'http://example.com/img/clouds.jpg')"
 
 #: lms/static/js/Markdown.Editor.js:37
 msgid "Image Description"
@@ -2986,7 +2986,7 @@ msgid ""
 "e.g. 'Sky with clouds'. The description is helpful for users who cannot see "
 "the image."
 msgstr ""
-"ఉదా &#39;మేఘాలతో ఆకాశం&#39;. చిత్రాన్ని చూడలేని వినియోగదారులకు వివరణ "
+"ఉదా 'మేఘాలతో ఆకాశం'. చిత్రాన్ని చూడలేని వినియోగదారులకు వివరణ "
 "సహాయకరంగా ఉంటుంది."
 
 #: lms/static/js/Markdown.Editor.js:43
@@ -3780,7 +3780,7 @@ msgstr "ఫైల్‌ను అప్‌లోడ్ చేయండి మర
 msgid ""
 "Your file '{file}' has been uploaded. Allow a few minutes for processing."
 msgstr ""
-"మీ ఫైల్ &#39;{file}&#39; అప్‌లోడ్ చేయబడింది. ప్రాసెసింగ్ కోసం కొన్ని "
+"మీ ఫైల్ '{file}' అప్‌లోడ్ చేయబడింది. ప్రాసెసింగ్ కోసం కొన్ని "
 "నిమిషాలు అనుమతించండి."
 
 #: lms/static/js/groups/views/course_cohort_settings_notification.js:31
@@ -4308,7 +4308,7 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/student_admin.js:287
 msgid "Entrance exam attempts is being reset for student '{student_id}'."
 msgstr ""
-"విద్యార్థి &#39;{student_id}&#39; కోసం ప్రవేశ పరీక్ష ప్రయత్నాలు రీసెట్ "
+"విద్యార్థి '{student_id}' కోసం ప్రవేశ పరీక్ష ప్రయత్నాలు రీసెట్ "
 "చేయబడుతున్నాయి."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:295
@@ -4316,7 +4316,7 @@ msgid ""
 "Error resetting entrance exam attempts for student '{student_id}'. Make sure"
 " student identifier is correct."
 msgstr ""
-"విద్యార్థి &#39;{student_id}&#39; ప్రవేశ పరీక్ష ప్రయత్నాలను రీసెట్ చేయడంలో "
+"విద్యార్థి '{student_id}' ప్రవేశ పరీక్ష ప్రయత్నాలను రీసెట్ చేయడంలో "
 "లోపం. విద్యార్థి ఐడెంటిఫైయర్ సరైనదని నిర్ధారించుకోండి."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:313
@@ -4330,7 +4330,7 @@ msgid ""
 "Do you want to allow this student ('{student_id}') to skip the entrance "
 "exam?"
 msgstr ""
-"మీరు ఈ విద్యార్థిని (&#39;{student_id}&#39;) ప్రవేశ పరీక్షను దాటవేయడానికి "
+"మీరు ఈ విద్యార్థిని ('{student_id}') ప్రవేశ పరీక్షను దాటవేయడానికి "
 "అనుమతించాలనుకుంటున్నారా?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:333
@@ -4344,14 +4344,14 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/student_admin.js:359
 msgid "Entrance exam state is being deleted for student '{student_id}'."
 msgstr ""
-"విద్యార్థి &#39;{student_id}&#39; కోసం ప్రవేశ పరీక్ష స్థితి తొలగించబడుతోంది."
+"విద్యార్థి '{student_id}' కోసం ప్రవేశ పరీక్ష స్థితి తొలగించబడుతోంది."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:367
 msgid ""
 "Error deleting entrance exam state for student '{student_id}'. Make sure "
 "student identifier is correct."
 msgstr ""
-"విద్యార్థి &#39;{student_id}&#39; ప్రవేశ పరీక్ష స్థితిని తొలగిస్తున్నప్పుడు "
+"విద్యార్థి '{student_id}' ప్రవేశ పరీక్ష స్థితిని తొలగిస్తున్నప్పుడు "
 "లోపం ఏర్పడింది. విద్యార్థి ఐడెంటిఫైయర్ సరైనదని నిర్ధారించుకోండి."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:396
@@ -4359,7 +4359,7 @@ msgid ""
 "Error getting entrance exam task history for student '{student_id}'. Make "
 "sure student identifier is correct."
 msgstr ""
-"విద్యార్థి &#39;{student_id}&#39; ప్రవేశ పరీక్ష టాస్క్ చరిత్రను పొందడంలో "
+"విద్యార్థి '{student_id}' ప్రవేశ పరీక్ష టాస్క్ చరిత్రను పొందడంలో "
 "లోపం ఏర్పడింది. విద్యార్థి ఐడెంటిఫైయర్ సరైనదని నిర్ధారించుకోండి."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:413
@@ -4373,8 +4373,8 @@ msgid ""
 " Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "'<%- problem_id %>' సమస్య కోసం ప్రయత్నాలను రీసెట్ చేయడానికి టాస్క్ "
-"విజయవంతంగా ప్రారంభించబడింది. టాస్క్ స్థితిని చూడటానికి &#39;టాస్క్ స్థితిని "
-"చూపు&#39; బటన్‌ను క్లిక్ చేయండి."
+"విజయవంతంగా ప్రారంభించబడింది. టాస్క్ స్థితిని చూడటానికి 'టాస్క్ స్థితిని "
+"చూపు' బటన్‌ను క్లిక్ చేయండి."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:426
 msgid ""
@@ -4397,8 +4397,8 @@ msgid ""
 "of the task."
 msgstr ""
 "సమస్య '<%- problem_id %>' మరియు విద్యార్థి '<%- student_id %>' కోసం రికవర్ "
-"ప్రాబ్లమ్ టాస్క్ ప్రారంభించబడింది. టాస్క్ స్థితిని చూడటానికి &#39;టాస్క్ "
-"స్థితిని చూపు&#39; బటన్‌ను క్లిక్ చేయండి."
+"ప్రాబ్లమ్ టాస్క్ ప్రారంభించబడింది. టాస్క్ స్థితిని చూడటానికి 'టాస్క్ "
+"స్థితిని చూపు' బటన్‌ను క్లిక్ చేయండి."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:508
 msgid ""
@@ -4422,7 +4422,7 @@ msgid ""
 msgstr ""
 "సమస్య '<%- problem_id %>' మరియు విద్యార్థి '<%- student_id %>' కోసం "
 "స్కోర్‌ను భర్తీ చేయడానికి పని ప్రారంభించబడింది. టాస్క్ స్థితిని చూడటానికి "
-"&#39;టాస్క్ స్థితిని చూపు&#39; బటన్‌ను క్లిక్ చేయండి."
+"'టాస్క్ స్థితిని చూపు' బటన్‌ను క్లిక్ చేయండి."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:562
 msgid ""
@@ -4439,8 +4439,8 @@ msgid ""
 "Started entrance exam rescore task for student '{student_id}'. Click the "
 "'Show Task Status' button to see the status of the task."
 msgstr ""
-"విద్యార్థి &#39;{student_id}&#39; కోసం ప్రవేశ పరీక్ష రికవరీ టాస్క్ "
-"ప్రారంభించబడింది. టాస్క్ స్థితిని చూడటానికి &#39;టాస్క్ స్థితిని చూపు&#39; "
+"విద్యార్థి '{student_id}' కోసం ప్రవేశ పరీక్ష రికవరీ టాస్క్ "
+"ప్రారంభించబడింది. టాస్క్ స్థితిని చూడటానికి 'టాస్క్ స్థితిని చూపు' "
 "బటన్‌ను క్లిక్ చేయండి."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:612
@@ -4449,7 +4449,7 @@ msgid ""
 "Make sure that entrance exam has problems in it and student identifier is "
 "correct."
 msgstr ""
-"విద్యార్థి &#39;{student_id}&#39; ప్రవేశ పరీక్షను పునరుద్ధరించడానికి "
+"విద్యార్థి '{student_id}' ప్రవేశ పరీక్షను పునరుద్ధరించడానికి "
 "టాస్క్‌ను ప్రారంభించడంలో లోపం ఏర్పడింది. ప్రవేశ పరీక్షలో సమస్యలు ఉన్నాయని "
 "మరియు విద్యార్థి ఐడెంటిఫైయర్ సరైనదని నిర్ధారించుకోండి."
 
@@ -4463,8 +4463,8 @@ msgid ""
 "students. Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "విద్యార్థులందరికీ '<%- problem_id %>' సమస్యను పునరుద్ధరించడానికి టాస్క్ "
-"విజయవంతంగా ప్రారంభించబడింది. టాస్క్ స్థితిని చూడటానికి &#39;టాస్క్ స్థితిని "
-"చూపు&#39; బటన్‌ను క్లిక్ చేయండి."
+"విజయవంతంగా ప్రారంభించబడింది. టాస్క్ స్థితిని చూడటానికి 'టాస్క్ స్థితిని "
+"చూపు' బటన్‌ను క్లిక్ చేయండి."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:646
 msgid ""
@@ -5564,11 +5564,11 @@ msgstr "ప్లేస్‌హోల్డర్"
 
 #: lms/static/js/views/file_uploader.js:85
 msgid "Your upload of '{file}' succeeded."
-msgstr "మీ &#39;{file}&#39; అప్‌లోడ్ విజయవంతమైంది."
+msgstr "మీ '{file}' అప్‌లోడ్ విజయవంతమైంది."
 
 #: lms/static/js/views/file_uploader.js:111
 msgid "Your upload of '{file}' failed."
-msgstr "మీ &#39;{file}&#39; అప్‌లోడ్ విఫలమైంది."
+msgstr "మీ '{file}' అప్‌లోడ్ విఫలమైంది."
 
 #: lms/static/js/views/image_field.js:17
 msgid "Upload an image"
@@ -9069,7 +9069,7 @@ msgid ""
 "to configure it as a proctored exam in the future."
 msgstr ""
 "ఈ ప్రోక్టెడ్ పరీక్ష అభ్యాసకుల కోసం విడుదల చేయబడింది. మీరు దానిని మరొక రకమైన "
-"ప్రత్యేక పరీక్షకు మార్చలేరు. మీరు ఈ ఉపవిభాగాన్ని &#39;ఏదీ లేదు&#39; లేదా "
+"ప్రత్యేక పరీక్షకు మార్చలేరు. మీరు ఈ ఉపవిభాగాన్ని 'ఏదీ లేదు' లేదా "
 "సమయానుకూల పరీక్షగా ఎంచుకోవడం ద్వారా తిరిగి ప్రాథమిక పరీక్షగా మార్చవచ్చు, "
 "కానీ భవిష్యత్తులో మీరు దీన్ని ప్రోక్టార్డ్ పరీక్షగా కాన్ఫిగర్ చేయలేరు."
 
@@ -11144,7 +11144,7 @@ msgstr ""
 
 #: lms/templates/learner_dashboard/program_header_view.underscore:20
 msgid "{organization}\\'s logo"
-msgstr "{organization} \\&#39;s లోగో"
+msgstr "{organization} \\'s లోగో"
 
 #: lms/templates/learner_dashboard/program_list_header_view.underscore:1
 msgid "My programs"
@@ -11466,7 +11466,7 @@ msgid ""
 "access to your camera, please make sure to click 'Allow'."
 msgstr ""
 "మీకు వెబ్‌క్యామ్ ఉన్న పరికరం అవసరం. మీరు మీ కెమెరాకు యాక్సెస్ కోసం బ్రౌజర్ "
-"ప్రాంప్ట్‌ను స్వీకరిస్తే, దయచేసి &#39;అనుమతించు&#39; క్లిక్ చేయాలని "
+"ప్రాంప్ట్‌ను స్వీకరిస్తే, దయచేసి 'అనుమతించు' క్లిక్ చేయాలని "
 "నిర్ధారించుకోండి."
 
 #: lms/templates/verify_student/face_photo_step.underscore:10
@@ -11508,7 +11508,7 @@ msgid ""
 "need to try again, click 'Retake Photo'."
 msgstr ""
 "మీ ముఖం యొక్క ఫోటో తీయడానికి, కెమెరా బటన్ {icon} పై క్లిక్ చేయండి. మీరు "
-"మళ్లీ ప్రయత్నించాలనుకుంటే, &#39;ఫోటోను మళ్లీ తీయండి&#39;ని క్లిక్ చేయండి."
+"మళ్లీ ప్రయత్నించాలనుకుంటే, 'ఫోటోను మళ్లీ తీయండి'ని క్లిక్ చేయండి."
 
 #: lms/templates/verify_student/face_photo_step.underscore:38
 #: lms/templates/verify_student/id_photo_step.underscore:30

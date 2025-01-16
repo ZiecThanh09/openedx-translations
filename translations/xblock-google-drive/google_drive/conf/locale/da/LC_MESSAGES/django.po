@@ -44,7 +44,7 @@ msgid ""
 "into this field."
 msgstr ""
 "Google giver et id til offentligt tilgængelige kalendere. I Google Kalender "
-"skal du åbne Indstillinger og kopiere id&#39;et fra sektionen "
+"skal du åbne Indstillinger og kopiere id'et fra sektionen "
 "Kalenderadresse til dette felt."
 
 #: google_calendar.py:60 templates/html/google_calendar_edit.html:41
@@ -107,7 +107,7 @@ msgid ""
 "into this field. You can "
 msgstr ""
 "Google giver et id til offentligt tilgængelige kalendere. I Google Kalender "
-"skal du åbne Indstillinger og kopiere id&#39;et fra sektionen "
+"skal du åbne Indstillinger og kopiere id'et fra sektionen "
 "Kalenderadresse til dette felt. Du kan "
 
 #: templates/html/google_calendar_edit.html:60

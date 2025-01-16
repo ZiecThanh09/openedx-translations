@@ -486,7 +486,7 @@ msgstr "Per favore inserisci un intero non negativo."
 
 #: cms/static/js/models/settings/course_grader.js:66
 msgid "You must have at least one undroppable <%- types %> assignment."
-msgstr "Devi avere almeno un&#39;assegnazione <%- types %> non eliminabile."
+msgstr "Devi avere almeno un'assegnazione <%- types %> non eliminabile."
 
 #: cms/static/js/models/settings/course_grading_policy.js:79
 msgid "Grace period must be specified in HH:MM format."
@@ -2008,7 +2008,7 @@ msgstr "immagine non presente"
 #: common/static/common/js/discussion/views/discussion_content_view.js:285
 msgid "there is currently {numVotes} vote"
 msgid_plural "there are currently {numVotes} votes"
-msgstr[0] "attualmente c&#39;è il voto {numVotes}"
+msgstr[0] "attualmente c'è il voto {numVotes}"
 msgstr[1] "attualmente ci sono voti {numVotes}"
 msgstr[2] "attualmente ci sono voti {numVotes}"
 
@@ -3243,14 +3243,14 @@ msgid ""
 "exception list"
 msgstr ""
 "i record non sono nel formato corretto e non sono stati aggiunti "
-"all&#39;elenco delle eccezioni"
+"all'elenco delle eccezioni"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:114
 msgid ""
 " record is not in the correct format and has not been added to the exception"
 " list"
 msgstr ""
-"il record non è nel formato corretto e non è stato aggiunto all&#39;elenco "
+"il record non è nel formato corretto e non è stato aggiunto all'elenco "
 "delle eccezioni"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:120
@@ -4117,7 +4117,7 @@ msgid ""
 "Email cannot be sent to the following users via batch enrollment. They will "
 "be allowed to enroll once they register:"
 msgstr ""
-"L&#39;e-mail non può essere inviata ai seguenti utenti tramite la "
+"L'e-mail non può essere inviata ai seguenti utenti tramite la "
 "registrazione batch. Potranno immatricolarsi previa registrazione:"
 
 #. Translators: A list of users appears after this sentence;
@@ -4131,7 +4131,7 @@ msgid ""
 "Email cannot be sent to the following users via batch enrollment. They will "
 "be enrolled once they register:"
 msgstr ""
-"L&#39;e-mail non può essere inviata ai seguenti utenti tramite la "
+"L'e-mail non può essere inviata ai seguenti utenti tramite la "
 "registrazione batch. Saranno iscritti una volta registrati:"
 
 #. Translators: A list of users appears after this sentence;
@@ -4757,7 +4757,7 @@ msgid ""
 "access."
 msgstr ""
 "Hai un abbonamento attivo al programma {programName} ma non sei iscritto a "
-"nessun corso. Iscriviti a un corso rimanente e goditi l&#39;accesso "
+"nessun corso. Iscriviti a un corso rimanente e goditi l'accesso "
 "verificato."
 
 #: lms/static/js/learner_dashboard/views/program_alert_list_view.js:53
@@ -4772,14 +4772,14 @@ msgstr ""
 
 #: lms/static/js/learner_dashboard/views/program_alert_list_view.js:67
 msgid "Subscription trial expires in less than 24 hours"
-msgstr "La prova dell&#39;abbonamento scade tra meno di 24 ore"
+msgstr "La prova dell'abbonamento scade tra meno di 24 ore"
 
 #: lms/static/js/learner_dashboard/views/program_alert_list_view.js:69
 msgid "Subscription trial expires in {remainingDays} day"
 msgid_plural "Subscription trial expires in {remainingDays} days"
-msgstr[0] "La prova dell&#39;abbonamento scade tra {remainingDays} giorno"
-msgstr[1] "La prova dell&#39;abbonamento scade tra {remainingDays} giorni"
-msgstr[2] "La prova dell&#39;abbonamento scade tra {remainingDays} giorni"
+msgstr[0] "La prova dell'abbonamento scade tra {remainingDays} giorno"
+msgstr[1] "La prova dell'abbonamento scade tra {remainingDays} giorni"
+msgstr[2] "La prova dell'abbonamento scade tra {remainingDays} giorni"
 
 #: lms/static/js/learner_dashboard/views/program_alert_list_view.js:75
 msgid ""
@@ -4787,7 +4787,7 @@ msgid ""
 " the card on file will be charged {subscriptionPrice}."
 msgstr ""
 "Il periodo di prova di {programName} scadrà alle {trialEndTime} in data "
-"{trialEndDate} e verrà addebitato l&#39;importo {subscriptionPrice} sulla "
+"{trialEndDate} e verrà addebitato l'importo {subscriptionPrice} sulla "
 "carta in archivio."
 
 #: lms/static/js/learner_dashboard/views/program_alert_list_view.js:77
@@ -8132,7 +8132,7 @@ msgid ""
 "exist in the current grading policy."
 msgstr ""
 "Questa sottosezione è configurata come \\\"%(gradingType)s\\\", che non "
-"esiste nell&#39;attuale politica di valutazione."
+"esiste nell'attuale politica di valutazione."
 
 #: cms/templates/js/course-outline.underscore:457
 #: cms/templates/js/xblock-outline.underscore:57
@@ -8158,7 +8158,7 @@ msgstr "Da:"
 
 #: cms/templates/js/course-outline.underscore:513
 msgid "What's in my clipboard?"
-msgstr "Cosa c&#39;è nei miei appunti?"
+msgstr "Cosa c'è nei miei appunti?"
 
 #: cms/templates/js/course-settings-learning-fields.underscore:2
 msgid "Learning Outcome"
@@ -8470,7 +8470,7 @@ msgid ""
 "it without the LMS header and footer."
 msgstr ""
 "Incorpora il contenuto della tua sottosezione direttamente in una pagina "
-"utilizzando un iframe e visualizzalo senza l&#39;intestazione e il piè di "
+"utilizzando un iframe e visualizzalo senza l'intestazione e il piè di "
 "pagina LMS."
 
 #: cms/templates/js/embed-link-share-link-editor.underscore:11
@@ -8489,7 +8489,7 @@ msgid ""
 "subsection along with the header and footer of your LMS."
 msgstr ""
 "Quando condividi questo collegamento con i tuoi studenti, vedranno il "
-"contenuto della sottosezione insieme all&#39;intestazione e al piè di pagina"
+"contenuto della sottosezione insieme all'intestazione e al piè di pagina"
 " del tuo LMS."
 
 #: cms/templates/js/grading-editor.underscore:1
@@ -9145,7 +9145,7 @@ msgid ""
 msgstr ""
 "Questa sottosezione è stata rilasciata agli studenti come esame "
 "supervisionato, ma è stata ripristinata a un esame di base oa tempo. Non "
-"puoi configurarlo come esame sorvegliato ora. Contattare l&#39;assistenza "
+"puoi configurarlo come esame sorvegliato ora. Contattare l'assistenza "
 "edX per assistenza."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:17
@@ -9188,9 +9188,9 @@ msgid ""
 "change the visibility settings to \"Hide content after due date.\""
 msgstr ""
 "Gli esami controllati sono a tempo e registrano il video di ogni studente "
-"che sostiene l&#39;esame. I video vengono quindi rivisti per garantire che "
-"gli studenti seguano tutte le regole dell&#39;esame. Tieni presente che "
-"l&#39;impostazione di questo esame come controllato cambierà le impostazioni"
+"che sostiene l'esame. I video vengono quindi rivisti per garantire che "
+"gli studenti seguano tutte le regole dell'esame. Tieni presente che "
+"l'impostazione di questo esame come controllato cambierà le impostazioni"
 " di visibilità in &quot;Nascondi contenuto dopo la data di scadenza&quot;."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:49
@@ -11065,7 +11065,7 @@ msgid ""
 msgstr ""
 "Ho bisogno di aiuto? Consulta il {a_start}Centro assistenza per gli "
 "studenti{span_start}{icon}{span_end}{a_end} per risolvere problemi o "
-"contattare l&#39;assistenza"
+"contattare l'assistenza"
 
 #: lms/templates/learner_dashboard/program_details_sidebar.underscore:56
 msgid "Program Record"
@@ -11266,7 +11266,7 @@ msgid ""
 "access free trial. Cancel at any time."
 msgstr ""
 "Ora disponibile per molti programmi popolari, il prezzo conveniente "
-"dell&#39;abbonamento mensile può aiutarti a gestire il tuo budget in modo "
+"dell'abbonamento mensile può aiutarti a gestire il tuo budget in modo "
 "più efficace. Gli abbonamenti partono da ${minSubscriptionPrice}/mese per "
 "programma, dopo una prova gratuita di 7 giorni di accesso completo. Annulla "
 "in qualsiasi momento."

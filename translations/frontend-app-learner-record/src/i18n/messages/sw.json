@@ -48,7 +48,7 @@
   "send.program.record.popover.heading": "Inatuma Rekodi yako ya Programu",
   "send.program.record.popover.content": "Fuatilia kujifunza kwa kina. Tuma rekodi yako kwa vyuo vikuu vinavyokubali mpango huu kwa mkopo. Unaweza kutuma rekodi yako kwa vyuo vikuu vingi mara moja. Baada ya kutumwa, rekodi haziwezi kutumwa.",
   "share.program.record.popover.heading": "Kushiriki Rekodi yako ya Programu",
-  "share.program.record.popover.content": "Onyesha maendeleo yako! Shiriki rekodi hii hadharani na vyuo vikuu na waajiri. Unda &#39;kiungo cha rekodi ya programu ya umma&#39; ili kuwapa watu ufikiaji wa rekodi yako.",
+  "share.program.record.popover.content": "Onyesha maendeleo yako! Shiriki rekodi hii hadharani na vyuo vikuu na waajiri. Unda 'kiungo cha rekodi ya programu ya umma' ili kuwapa watu ufikiaji wa rekodi yako.",
   "download.program.record": "Pakua rekodi ya programu",
   "successful.record.download.toast.message": "Rekodi ya programu imepakuliwa kwa mafanikio",
   "program.record.type": "Rekodi ya Programu {program_type}",

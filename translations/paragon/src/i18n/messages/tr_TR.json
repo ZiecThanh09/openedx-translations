@@ -1,10 +1,10 @@
 {
   "dropzone.Dropzone.invalidSizeLessError": {
-    "developer_comment": "İzin verilen minimum boyuttan daha küçük bir dosya Dropzone&#39;a yüklenirken gösterilen bir mesaj.",
+    "developer_comment": "İzin verilen minimum boyuttan daha küçük bir dosya Dropzone'a yüklenirken gösterilen bir mesaj.",
     "string": "Dosya {size} değerinden büyük olmalıdır."
   },
   "dropzone.Dropzone.invalidSizeMoreError": {
-    "developer_comment": "İzin verilen maksimum boyuttan daha büyük bir dosya Dropzone&#39;a yüklenirken gösterilen bir mesaj.",
+    "developer_comment": "İzin verilen maksimum boyuttan daha büyük bir dosya Dropzone'a yüklenirken gösterilen bir mesaj.",
     "string": "Dosya {size} değerinden küçük olmalıdır."
   },
   "dropzone.Dropzone.invalidType": {
@@ -12,7 +12,7 @@
     "string": "Dosya türü {count, plural, one { {typeString} file} other {one of {typeString} files}} olmalıdır."
   },
   "dropzone.Dropzone.multipleDraggedError": {
-    "developer_comment": "Birden fazla dosya Dropzone&#39;a sürüklendiğinde gösterilen bir mesaj.",
+    "developer_comment": "Birden fazla dosya Dropzone'a sürüklendiğinde gösterilen bir mesaj.",
     "string": "Yalnızca bir yüklemeye izin verilir."
   },
   "dropzone.Dropzone.unexpectedValidationError": {
@@ -64,15 +64,15 @@
     "string": "{numSelectedRows} seçildi ( {numSelectedRowsOnPage} aşağıda gösterilmiştir)"
   },
   "pgn.DataTable.ExpandAll.collapseAllLabel": {
-    "developer_comment": "DataTable&#39;ın tüm genişletilebilir satırlarını daraltan bir eylem düğmesinin etiketi.",
+    "developer_comment": "DataTable'ın tüm genişletilebilir satırlarını daraltan bir eylem düğmesinin etiketi.",
     "string": "Tümünü kapa"
   },
   "pgn.DataTable.ExpandAll.expandAllLabel": {
-    "developer_comment": "DataTable&#39;ın tüm genişletilebilir satırlarını genişleten bir eylem düğmesinin etiketi.",
+    "developer_comment": "DataTable'ın tüm genişletilebilir satırlarını genişleten bir eylem düğmesinin etiketi.",
     "string": "Tümünü genişlet"
   },
   "pgn.DataTable.FilterStatus.clearFiltersText": {
-    "developer_comment": "&#39;Filtreleri temizle&#39; düğmesinde görünen metin",
+    "developer_comment": "'Filtreleri temizle' düğmesinde görünen metin",
     "string": "Filtreleri temizle"
   },
   "pgn.DataTable.RowStatus.statusText": {

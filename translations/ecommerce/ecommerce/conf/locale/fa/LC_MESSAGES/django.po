@@ -623,7 +623,7 @@ msgid ""
 "begin with '00k'."
 msgstr ""
 "مورد خط فرصت Salesforce باید 18 نویسه حروف عددی داشته باشد و با "
-"&#39;00k&#39; شروع شود."
+"'00k' شروع شود."
 
 #: enterprise/forms.py:184 enterprise/forms.py:232
 msgid "Ensure this value is greater than or equal to 0."
@@ -645,7 +645,7 @@ msgstr "آدرس ایمیل داده شده {email} ایمیل معتبری نی
 
 #: enterprise/forms.py:290
 msgid "An offer already exists for this Enterprise & Catalog combination."
-msgstr "پیشنهادی از قبل برای این ترکیب Enterprise &amp; Catalog وجود دارد."
+msgstr "پیشنهادی از قبل برای این ترکیب Enterprise & Catalog وجود دارد."
 
 #: enterprise/forms.py:293 enterprise/forms.py:302 programs/forms.py:73
 msgid "Percentage discounts cannot be greater than 100%."
@@ -985,22 +985,22 @@ msgstr "برای خرید چند صندلی در این دوره اینجا کل
 #: extensions/basket/utils.py:498
 #, python-brace-format
 msgid "Coupon code '{code}' has expired."
-msgstr "کد کوپن &#39;{code}&#39; منقضی شده است."
+msgstr "کد کوپن '{code}' منقضی شده است."
 
 #: extensions/basket/utils.py:502
 #, python-brace-format
 msgid "Coupon code '{code}' is not active."
-msgstr "کد کوپن &#39;{code}&#39; فعال نیست."
+msgstr "کد کوپن '{code}' فعال نیست."
 
 #: extensions/basket/utils.py:508
 #, python-brace-format
 msgid "Coupon code '{code}' is not available. {msg}"
-msgstr "کد کوپن &#39;{code}&#39; در دسترس نیست. {msg}"
+msgstr "کد کوپن '{code}' در دسترس نیست. {msg}"
 
 #: extensions/basket/utils.py:514
 #, python-brace-format
 msgid "Coupon code '{code}' is not valid for this basket."
-msgstr "کد کوپن &#39;{code}&#39; برای این سبد معتبر نیست."
+msgstr "کد کوپن '{code}' برای این سبد معتبر نیست."
 
 #: extensions/basket/utils.py:527
 #, python-brace-format
@@ -1011,7 +1011,7 @@ msgstr "کد کوپن &quot;{code}&quot; برای این سبد برای خری�
 #: extensions/basket/utils.py:582
 #, python-brace-format
 msgid "Coupon code '{code}' added to basket."
-msgstr "کد کوپن &#39;{code}&#39; به سبد اضافه شد."
+msgstr "کد کوپن '{code}' به سبد اضافه شد."
 
 #: extensions/basket/utils.py:585
 #, python-brace-format
@@ -1021,7 +1021,7 @@ msgstr "سبد برای کد کوپن {code} واجد شرایط نیست."
 #: extensions/basket/views.py:206
 #, python-brace-format
 msgid "Could not apply the code '{code}'; it requires data sharing consent."
-msgstr "کد &#39;{code}&#39; اعمال نشد. به رضایت اشتراک داده نیاز دارد."
+msgstr "کد '{code}' اعمال نشد. به رضایت اشتراک داده نیاز دارد."
 
 #: extensions/basket/views.py:297
 msgid ""
@@ -1110,12 +1110,12 @@ msgstr ""
 #: extensions/basket/views.py:975
 #, python-brace-format
 msgid "You have already added coupon code '{code}' to your basket."
-msgstr "شما قبلاً کد کوپن &#39;{code}&#39; را به سبد خود اضافه کرده اید."
+msgstr "شما قبلاً کد کوپن '{code}' را به سبد خود اضافه کرده اید."
 
 #: extensions/basket/views.py:1051
 #, python-brace-format
 msgid "Coupon code '{code}' does not exist."
-msgstr "کد کوپن &#39;{code}&#39; وجود ندارد."
+msgstr "کد کوپن '{code}' وجود ندارد."
 
 #: extensions/basket/views.py:1136
 #, python-format
@@ -1125,7 +1125,7 @@ msgstr "هیچ کوپنی با شناسه &quot; %s &quot; یافت نشد"
 #: extensions/basket/views.py:1140
 #, python-format
 msgid "Coupon code '%s' was removed from your basket."
-msgstr "کد کوپن &#39; %s &#39; از سبد شما حذف شد."
+msgstr "کد کوپن ' %s ' از سبد شما حذف شد."
 
 #: extensions/catalogue/models.py:70
 msgid "Last date/time on which this product can be purchased."
@@ -3289,7 +3289,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"یک نوع از &#39; %(parent_name)s &#39; به روز شد.\n"
+"یک نوع از ' %(parent_name)s ' به روز شد.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:42
@@ -3311,7 +3311,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"محصول به روز شده &#39; %(name)s &#39;.\n"
+"محصول به روز شده ' %(name)s '.\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:60

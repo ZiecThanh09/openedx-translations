@@ -539,7 +539,7 @@ msgid ""
 "under the Open Response Assessment Settings card on the Pages & Resources "
 "studio page."
 msgstr ""
-"Questa funzione è abilitata dall&#39;impostazione a livello di corso. Può "
+"Questa funzione è abilitata dall'impostazione a livello di corso. Può "
 "essere trovato nella scheda Impostazioni di valutazione della risposta "
 "aperta nella pagina dello studio Pagine e risorse."
 
@@ -648,7 +648,7 @@ msgstr "Configurazione delle scadenze"
 
 #: templates/legacy/edit/oa_edit_schedule.html:9
 msgid "Select a deadline configuration option"
-msgstr "Seleziona un&#39;opzione di configurazione della scadenza"
+msgstr "Seleziona un'opzione di configurazione della scadenza"
 
 #: templates/legacy/edit/oa_edit_schedule.html:13
 msgid " NEW"
@@ -785,7 +785,7 @@ msgid ""
 "modify any rubric it was cloned from."
 msgstr ""
 "Per clonare una rubrica da una bozza esistente pubblicata o non pubblicata, "
-"puoi eseguire la ricerca in base all&#39;ID blocco. Nota che la clonazione è"
+"puoi eseguire la ricerca in base all'ID blocco. Nota che la clonazione è"
 " unidirezionale, il che significa che le modifiche apportate dopo la "
 "clonazione influenzeranno solo la rubrica modificata e non modificheranno "
 "nessuna rubrica da cui è stata clonata."
@@ -808,7 +808,7 @@ msgstr "Clone"
 
 #: templates/legacy/edit/oa_rubric_reuse.html:37
 msgid "Rubric Successfully Cloned from Block ID: "
-msgstr "Rubrica clonata con successo dall&#39;ID blocco:"
+msgstr "Rubrica clonata con successo dall'ID blocco:"
 
 #: templates/legacy/edit/oa_training_example.html:7
 msgid "Scored Response"
@@ -1716,7 +1716,7 @@ msgstr ""
 "Attualmente sei nel Team %(team_name)s. Poiché eri nel Team %(previous_team_name)s \n"
 "quando hanno inviato una risposta a questo compito, stai vedendo la risposta del Team %(previous_team_name)s\n"
 " e riceverai lo stesso voto per questo compito dei tuoi ex compagni di squadra. \n"
-"Non farai parte dell&#39;invio del Team %(team_name)s per questo compito e non riceverai\n"
+"Non farai parte dell'invio del Team %(team_name)s per questo compito e non riceverai\n"
 " un voto per il suo invio."
 
 #: templates/legacy/response/oa_response.html:224

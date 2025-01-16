@@ -32,7 +32,7 @@ msgstr ""
 #: api/v1/views.py:89
 #, python-brace-format
 msgid "Key '{key}' not found."
-msgstr "Clave &#39;{key}&#39; no encontrada."
+msgstr "Clave '{key}' no encontrada."
 
 #: api/v1/views.py:97
 msgid "User is not enrolled in course."
@@ -49,7 +49,7 @@ msgstr "Clave de bloqueo no válida: {}"
 #: api/v1/views.py:132
 #, python-brace-format
 msgid "Block with key: '{key}' is not in context {context}"
-msgstr "Bloquear con clave: &#39;{key}&#39; no está en contexto {context}"
+msgstr "Bloquear con clave: '{key}' no está en contexto {context}"
 
 #: api/v1/views.py:174
 msgid " "

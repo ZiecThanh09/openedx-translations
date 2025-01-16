@@ -1,7 +1,7 @@
 {
   "catalogPage.askXpert.title": "Xpert",
   "catalogPage.askXpert.description": "Gebruik KI om jou soektog te verklein.",
-  "catalogPage.askXpert.loadingMessage": "Xpert dink! Wag saam met ons terwyl ons &#39;n katalogus genereer vir <b>&quot; {query} &quot;...</b>",
+  "catalogPage.askXpert.loadingMessage": "Xpert dink! Wag saam met ons terwyl ons 'n katalogus genereer vir <b>&quot; {query} &quot;...</b>",
   "catalogPage.askXpert.cancel": "Kanselleer",
   "catalogPage.askXpert.poweredBy": "Aangedryf deur OpenAI",
   "catalogInfoModal.relatedSkillsHeading": "Verwante vaardighede",
@@ -25,10 +25,10 @@
   "catalogSearchResults.NoResultsExecEdCourseBannerText": "Geen Executive Education-kursusse is gevind wat by jou soektog pas nie. Probeer",
   "catalogSearchResults.NoResultsProgramBannerText": "Geen programme is gevind wat by jou soektog pas nie. Probeer",
   "catalogSearchResults.NoResultsBannerHyperlinkText": "filters verwyder",
-  "catalogPage.subtitle.text": "edX bied innemende, markgedrewe kursusinhoud van meer as 250 van die top-gegradeerde universiteite en erkende bedryfsleiers regoor die wêreld. Ons kundige span sal jou help om maklik &#39;n pasgemaakte Akademie te skep wat aangepas is vir al jou organisasie se leerdoelwitte, of jou eie te ontwerp deur die nutsmiddels hieronder te gebruik.",
+  "catalogPage.subtitle.text": "edX bied innemende, markgedrewe kursusinhoud van meer as 250 van die top-gegradeerde universiteite en erkende bedryfsleiers regoor die wêreld. Ons kundige span sal jou help om maklik 'n pasgemaakte Akademie te skep wat aangepas is vir al jou organisasie se leerdoelwitte, of jou eie te ontwerp deur die nutsmiddels hieronder te gebruik.",
   "catalogPage.hero.text": "Verken wêreldklas-leer Ongeëwenaarde kwaliteit. Markrelevansie. Omvattende oplossings.",
   "catalogPage.hero.highlight": "Verken wêreldklas-leer",
-  "catalogPage.catalogSelectionDeck.title": "Kies &#39;n katalogus",
+  "catalogPage.catalogSelectionDeck.title": "Kies 'n katalogus",
   "catalogs.catalogSearchResults.error": "{message} : {fullError}",
   "catalogSearchResults.table.courseName": "Kursus naam",
   "catalogSearchResults.table.partner": "Vennoot",
@@ -66,6 +66,6 @@
   "catalogs.askXpert.result.card.label.for.self.paced.courses": "Self-pas kursusse",
   "catalogs.askXpert.result.card.label.for.self.paced.programs": "Self-tempo programme",
   "catalogs.askXpert.result.card.label.for.executive.education.courses": "Uitvoerende onderwys kursusse",
-  "catalogs.askXpert.result.card.error.label": "&#39;n Fout het voorgekom. Probeer asseblief &#39;n nuwe soektog",
-  "catalogs.askXpert.result.card.no.data.found.error.message": "Geen kursus/program gevind teen jou filterkriteria nie, kies asseblief &#39;n breër fokus om resultate te kry"
+  "catalogs.askXpert.result.card.error.label": "'n Fout het voorgekom. Probeer asseblief 'n nuwe soektog",
+  "catalogs.askXpert.result.card.no.data.found.error.message": "Geen kursus/program gevind teen jou filterkriteria nie, kies asseblief 'n breër fokus om resultate te kry"
 }

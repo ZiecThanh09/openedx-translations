@@ -3409,7 +3409,7 @@ msgid ""
 "your background. You can always edit this information later in Account "
 "Settings."
 msgstr ""
-"edX&#39;e hoş geldiniz! Başlamadan önce lütfen birkaç dakikanızı ayırarak "
+"edX'e hoş geldiniz! Başlamadan önce lütfen birkaç dakikanızı ayırarak "
 "aşağıdaki ek bilgileri doldurun. Böylece geçmişiniz hakkında daha fazla "
 "bilgi sahibi olabiliriz. Bu bilgiyi daha sonra istediğiniz zaman Hesap "
 "Ayarlarında düzenleyebilirsiniz."
@@ -8336,7 +8336,7 @@ msgid ""
 "subsection along with the header and footer of your LMS."
 msgstr ""
 "Bu bağlantıyı öğrencilerinizle paylaştığınızda, alt bölümün içeriğini "
-"ÖYS&#39;nizin üstbilgisi ve altbilgisiyle birlikte göreceklerdir."
+"ÖYS'nizin üstbilgisi ve altbilgisiyle birlikte göreceklerdir."
 
 #: cms/templates/js/grading-editor.underscore:1
 msgid "Grading"
@@ -8877,7 +8877,7 @@ msgstr ""
 
 #: cms/templates/js/staff-lock-editor.underscore:22
 msgid "Hide in Course Outline, accessible via Link"
-msgstr "Bağlantı aracılığıyla erişilebilen Kurs Özeti&#39;nde Gizle"
+msgstr "Bağlantı aracılığıyla erişilebilen Kurs Özeti'nde Gizle"
 
 #: cms/templates/js/staff-lock-editor.underscore:24
 msgid ""
@@ -10870,7 +10870,7 @@ msgid ""
 "support"
 msgstr ""
 "Yardıma mı ihtiyacınız var? Sorunları gidermek veya destek ekibiyle "
-"iletişime geçmek için {a_start} Öğrenci Yardım Merkezi&#39;ne göz atın "
+"iletişime geçmek için {a_start} Öğrenci Yardım Merkezi'ne göz atın "
 "{span_start} {icon} {span_end} {a_end}"
 
 #: lms/templates/learner_dashboard/program_details_sidebar.underscore:56

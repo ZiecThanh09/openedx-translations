@@ -162,7 +162,7 @@ msgid ""
 "Course creation was unsuccessful. The course URL slug ‘[{url_slug}]’ is "
 "already in use. Please update this field and try again."
 msgstr ""
-"Uundaji wa kozi haukufaulu. Kozi ya URL ya kozi &#39;[ {url_slug} ]&#39; "
+"Uundaji wa kozi haukufaulu. Kozi ya URL ya kozi '[ {url_slug} ]' "
 "tayari inatumika. Tafadhali sasisha uga huu na ujaribu tena."
 
 #: apps/api/v1/views/courses.py:284
@@ -179,7 +179,7 @@ msgid ""
 "Course edit was unsuccessful. The course URL slug ‘[{url_slug}]’ is already "
 "in use. Please update this field and try again."
 msgstr ""
-"Uhariri wa kozi haukufaulu. Kozi ya URL ya kozi &#39;[ {url_slug} ]&#39; "
+"Uhariri wa kozi haukufaulu. Kozi ya URL ya kozi '[ {url_slug} ]' "
 "tayari inatumika. Tafadhali sasisha uga huu na ujaribu tena."
 
 #: apps/api/views.py:58
@@ -254,8 +254,8 @@ msgstr "kipindi lazima kiwe moja ya {period_choices} ."
 #: apps/core/forms.py:26
 msgid "'rate' must be in the format defined by DRF, such as '100/hour'."
 msgstr ""
-"&#39;kiwango&#39; lazima kiwe katika umbizo lililofafanuliwa na DRF, kama "
-"vile &#39;100/saa&#39;."
+"'kiwango' lazima kiwe katika umbizo lililofafanuliwa na DRF, kama "
+"vile '100/saa'."
 
 #: apps/core/models.py:17
 msgid "Full Name"
@@ -1444,7 +1444,7 @@ msgid ""
 "'What You Will Learn' description for this particular course run. Leave this"
 " value blank to default to the parent course's Outcome attribute."
 msgstr ""
-"Maelezo ya &#39;Utakachojifunza&#39; kwa uendeshaji wa kozi hii mahususi. "
+"Maelezo ya 'Utakachojifunza' kwa uendeshaji wa kozi hii mahususi. "
 "Acha thamani hii iwe chaguomsingi kwa sifa ya Matokeo ya kozi kuu."
 
 #: apps/course_metadata/models.py:2184 apps/course_metadata/models.py:3291
@@ -1467,7 +1467,7 @@ msgid ""
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
 "Kitambulisho cha lahaja ya bidhaa. Hii inatumika kuunganisha kozi "
-"inayoendeshwa kwa lahaja ya bidhaa kwa LOB za nje (yaani; ExecEd &amp; "
+"inayoendeshwa kwa lahaja ya bidhaa kwa LOB za nje (yaani; ExecEd & "
 "Bootcamps)."
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
@@ -2209,7 +2209,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Kozi &#39; %(course_name)s &#39; imepitiwa kwa ufanisi na edX na sasa imechapishwa kwenye %(course_publish_date)s . Ili kuona kozi ya moja kwa moja, nenda hapa: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"Kozi ' %(course_name)s ' imepitiwa kwa ufanisi na edX na sasa imechapishwa kwenye %(course_publish_date)s . Ili kuona kozi ya moja kwa moja, nenda hapa: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:12
@@ -2221,7 +2221,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Kozi &#39; %(course_name)s &#39; imekaguliwa kwa ufanisi na edX na sasa iko tayari kuchapishwa. Kozi hiyo itachapishwa kwenye %(course_publish_date)s .\n"
+"Kozi ' %(course_name)s ' imekaguliwa kwa ufanisi na edX na sasa iko tayari kuchapishwa. Kozi hiyo itachapishwa kwenye %(course_publish_date)s .\n"
 " Ili kuona hakikisho la Kozi Kuhusu Ukurasa, nenda hapa: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
@@ -2232,7 +2232,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"Kozi &#39; %(course_name)s &#39; imepitiwa kwa ufanisi na edX na sasa imechapishwa kwenye %(course_publish_date)s . Ili kuona kozi ya moja kwa moja, nenda hapa: %(course_marketing_url)s\n"
+"Kozi ' %(course_name)s ' imepitiwa kwa ufanisi na edX na sasa imechapishwa kwenye %(course_publish_date)s . Ili kuona kozi ya moja kwa moja, nenda hapa: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format
@@ -2242,7 +2242,7 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"Kozi &#39; %(course_name)s &#39; imekaguliwa kwa ufanisi na edX na sasa iko tayari kuchapishwa. Kozi hiyo itachapishwa kwenye %(course_publish_date)s .\n"
+"Kozi ' %(course_name)s ' imekaguliwa kwa ufanisi na edX na sasa iko tayari kuchapishwa. Kozi hiyo itachapishwa kwenye %(course_publish_date)s .\n"
 " Ili kuona hakikisho la Kozi Kuhusu Ukurasa, nenda hapa: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:380

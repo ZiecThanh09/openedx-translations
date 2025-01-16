@@ -447,7 +447,7 @@
   "notes.button.show": "Показать заметки",
   "notes.button.hide": "Скрыть заметки",
   "learn.contentLock.content.locked": "Содержание заблокировано",
-  "learn.contentLock.complete.prerequisite": "Вы должны выполнить предварительное условие: &#39;&#39; {prereqSectionName} &#39;&#39;, чтобы получить доступ к этому содержимому.",
+  "learn.contentLock.complete.prerequisite": "Вы должны выполнить предварительное условие: '' {prereqSectionName} '', чтобы получить доступ к этому содержимому.",
   "learn.contentLock.goToSection": "Перейти в раздел «Предварительные условия»",
   "learn.hiddenAfterDue.gradeAvailable": "Если вы выполнили это задание, ваша оценка доступна на странице {progressPage} .",
   "learn.hiddenAfterDue.header": "Срок сдачи этого задания истёк.",

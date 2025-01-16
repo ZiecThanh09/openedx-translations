@@ -62,7 +62,7 @@ msgstr "Lỗi lưu đánh giá OpenAssessment"
 #: cms/static/js/views/utils/xblock_utils.js:302
 #: lms/static/js/ccx/schedule.js:256 lms/static/js/views/fields.js:72
 msgid "Saving"
-msgstr "Tiết kiệm"
+msgstr "Đang lưu"
 
 #: cms/static/js/base.js:101
 msgid "This link will open in a new browser window/tab"
@@ -744,7 +744,7 @@ msgstr ""
 #: cms/static/js/views/pages/container.js:328
 #: cms/static/js/views/utils/xblock_utils.js:118
 msgid "New file(s) added to Files & Uploads."
-msgstr "(Các) tệp mới được thêm vào Tệp &amp; Nội dung tải lên."
+msgstr "(Các) tệp mới được thêm vào Tệp & Nội dung tải lên."
 
 #: cms/static/js/views/course_outline.js:408
 #: cms/static/js/views/pages/container.js:330
@@ -1176,7 +1176,7 @@ msgstr "Tất cả học viên và nhân viên"
 #: xmodule/js/src/html/edit.js:230
 #: cms/templates/js/add-xblock-component-menu-problem.underscore:13
 msgid "Advanced"
-msgstr "Trình độ cao"
+msgstr "Nâng cao"
 
 #: cms/static/js/views/modals/course_outline_modals.js:1397
 msgid "Basic"
@@ -1270,7 +1270,7 @@ msgstr "{parentCategory} này không có {childCategory}"
 #: cms/templates/js/group-configuration-details.underscore:88
 #: cms/templates/js/partition-group-details.underscore:63
 msgid "Course Outline"
-msgstr "Tom tăt nội dung chương trinh"
+msgstr "Tóm tắt nội dung chương trình"
 
 #: cms/static/js/views/paged_container.js:260
 msgid "Date added"
@@ -2884,7 +2884,7 @@ msgstr "Chèn siêu liên kết"
 
 #: lms/static/js/Markdown.Editor.js:28
 msgid "e.g. 'http://google.com'"
-msgstr "ví dụ: &#39;http://google.com&#39;"
+msgstr "ví dụ: 'http://google.com'"
 
 #: lms/static/js/Markdown.Editor.js:29
 msgid "Link Description"
@@ -2892,7 +2892,7 @@ msgstr "Mô tả liên kết"
 
 #: lms/static/js/Markdown.Editor.js:30
 msgid "e.g. 'google'"
-msgstr "ví dụ: &#39;google&#39;"
+msgstr "ví dụ: 'google'"
 
 #: lms/static/js/Markdown.Editor.js:31
 msgid "Please provide a description of the link destination."
@@ -2908,7 +2908,7 @@ msgid ""
 "machine. (e.g. 'http://example.com/img/clouds.jpg')"
 msgstr ""
 "Nhập URL hoặc sử dụng nút &quot;Chọn tệp&quot; để tải tệp lên từ máy của "
-"bạn. (ví dụ: &#39;http://example.com/img/clouds.jpg&#39;)"
+"bạn. (ví dụ: 'http://example.com/img/clouds.jpg')"
 
 #: lms/static/js/Markdown.Editor.js:37
 msgid "Image Description"
@@ -2927,7 +2927,7 @@ msgid ""
 "e.g. 'Sky with clouds'. The description is helpful for users who cannot see "
 "the image."
 msgstr ""
-"ví dụ: &#39;Bầu trời có mây&#39;. Mô tả này hữu ích cho những người dùng "
+"ví dụ: 'Bầu trời có mây'. Mô tả này hữu ích cho những người dùng "
 "không thể nhìn thấy hình ảnh."
 
 #: lms/static/js/Markdown.Editor.js:43
@@ -3711,7 +3711,7 @@ msgstr "Tải tệp lên và phân công học sinh"
 msgid ""
 "Your file '{file}' has been uploaded. Allow a few minutes for processing."
 msgstr ""
-"Tệp &#39;{file}&#39; của bạn đã được tải lên. Cho phép một vài phút để xử "
+"Tệp '{file}' của bạn đã được tải lên. Cho phép một vài phút để xử "
 "lý."
 
 #: lms/static/js/groups/views/course_cohort_settings_notification.js:31
@@ -4225,14 +4225,14 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/student_admin.js:287
 msgid "Entrance exam attempts is being reset for student '{student_id}'."
 msgstr ""
-"Các lần thi đầu vào đang được đặt lại cho sinh viên &#39;{student_id}&#39;."
+"Các lần thi đầu vào đang được đặt lại cho sinh viên '{student_id}'."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:295
 msgid ""
 "Error resetting entrance exam attempts for student '{student_id}'. Make sure"
 " student identifier is correct."
 msgstr ""
-"Lỗi đặt lại các lần thi đầu vào của học sinh &#39;{student_id}&#39;. Đảm bảo"
+"Lỗi đặt lại các lần thi đầu vào của học sinh '{student_id}'. Đảm bảo"
 " mã định danh học sinh là chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:313
@@ -4245,7 +4245,7 @@ msgid ""
 "Do you want to allow this student ('{student_id}') to skip the entrance "
 "exam?"
 msgstr ""
-"Bạn có muốn cho phép sinh viên này (&#39;{student_id}&#39;) bỏ qua bài kiểm "
+"Bạn có muốn cho phép sinh viên này ('{student_id}') bỏ qua bài kiểm "
 "tra đầu vào không?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:333
@@ -4260,7 +4260,7 @@ msgstr ""
 msgid "Entrance exam state is being deleted for student '{student_id}'."
 msgstr ""
 "Trạng thái kỳ thi tuyển sinh đang bị xóa đối với sinh viên "
-"&#39;{student_id}&#39;."
+"'{student_id}'."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:367
 msgid ""
@@ -4268,14 +4268,14 @@ msgid ""
 "student identifier is correct."
 msgstr ""
 "Lỗi xóa trạng thái bài kiểm tra đầu vào của sinh viên "
-"&#39;{student_id}&#39;. Đảm bảo mã định danh học sinh là chính xác."
+"'{student_id}'. Đảm bảo mã định danh học sinh là chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:396
 msgid ""
 "Error getting entrance exam task history for student '{student_id}'. Make "
 "sure student identifier is correct."
 msgstr ""
-"Lỗi tải lịch sử bài thi đầu vào của học sinh &#39;{student_id}&#39;. Đảm bảo"
+"Lỗi tải lịch sử bài thi đầu vào của học sinh '{student_id}'. Đảm bảo"
 " mã định danh học sinh là chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:413
@@ -4289,7 +4289,7 @@ msgid ""
 " Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "Đã bắt đầu thành công tác vụ đặt lại các lần thử cho sự cố '<%- problem_id "
-"%>'. Nhấp vào nút &#39;Hiển thị trạng thái tác vụ&#39; để xem trạng thái của"
+"%>'. Nhấp vào nút 'Hiển thị trạng thái tác vụ' để xem trạng thái của"
 " tác vụ."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:426
@@ -4313,8 +4313,8 @@ msgid ""
 "of the task."
 msgstr ""
 "Đã bắt đầu tính lại nhiệm vụ giải bài toán cho bài toán '<%- problem_id %>' "
-"và học sinh '<%- student_id %>'. Nhấp vào nút &#39;Hiển thị trạng thái tác "
-"vụ&#39; để xem trạng thái của tác vụ."
+"và học sinh '<%- student_id %>'. Nhấp vào nút 'Hiển thị trạng thái tác "
+"vụ' để xem trạng thái của tác vụ."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:508
 msgid ""
@@ -4337,7 +4337,7 @@ msgid ""
 "status of the task."
 msgstr ""
 "Đã bắt đầu nhiệm vụ ghi đè điểm cho bài toán '<%- problem_id %>' và học sinh"
-" '<%- student_id %>'. Nhấp vào nút &#39;Hiển thị trạng thái tác vụ&#39; để "
+" '<%- student_id %>'. Nhấp vào nút 'Hiển thị trạng thái tác vụ' để "
 "xem trạng thái của tác vụ."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:562
@@ -4356,7 +4356,7 @@ msgid ""
 "'Show Task Status' button to see the status of the task."
 msgstr ""
 "Đã bắt đầu nhiệm vụ chấm lại bài kiểm tra đầu vào cho học sinh "
-"&#39;{student_id}&#39;. Nhấp vào nút &#39;Hiển thị trạng thái tác vụ&#39; để"
+"'{student_id}'. Nhấp vào nút 'Hiển thị trạng thái tác vụ' để"
 " xem trạng thái của tác vụ."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:612
@@ -4366,7 +4366,7 @@ msgid ""
 "correct."
 msgstr ""
 "Lỗi khi bắt đầu nhiệm vụ chấm điểm bài kiểm tra đầu vào cho học sinh "
-"&#39;{student_id}&#39;. Đảm bảo rằng bài kiểm tra đầu vào có vấn đề và mã "
+"'{student_id}'. Đảm bảo rằng bài kiểm tra đầu vào có vấn đề và mã "
 "nhận dạng học sinh là chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:632
@@ -4379,7 +4379,7 @@ msgid ""
 "students. Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "Đã bắt đầu thành công nhiệm vụ khắc phục vấn đề '<%- problem_id %>' cho tất "
-"cả học sinh. Nhấp vào nút &#39;Hiển thị trạng thái tác vụ&#39; để xem trạng "
+"cả học sinh. Nhấp vào nút 'Hiển thị trạng thái tác vụ' để xem trạng "
 "thái của tác vụ."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:646
@@ -5462,11 +5462,11 @@ msgstr "Trình giữ chỗ"
 
 #: lms/static/js/views/file_uploader.js:85
 msgid "Your upload of '{file}' succeeded."
-msgstr "Việc tải lên &#39;{file}&#39; của bạn đã thành công."
+msgstr "Việc tải lên '{file}' của bạn đã thành công."
 
 #: lms/static/js/views/file_uploader.js:111
 msgid "Your upload of '{file}' failed."
-msgstr "Việc tải lên &#39;{file}&#39; của bạn không thành công."
+msgstr "Việc tải lên '{file}' của bạn không thành công."
 
 #: lms/static/js/views/image_field.js:17
 msgid "Upload an image"
@@ -7892,7 +7892,7 @@ msgstr "Trạng thái phát hành:"
 #: cms/templates/js/publish-xblock.underscore:15
 #: cms/templates/js/xblock-outline.underscore:43
 msgid "Released:"
-msgstr "Phát hành:"
+msgstr "Phát hành: "
 
 #: cms/templates/js/course-outline.underscore:293
 #: cms/templates/js/publish-xblock.underscore:17
@@ -8945,13 +8945,13 @@ msgid ""
 msgstr ""
 "Kỳ thi giám sát này đã được phát hành cho người học. Bạn không thể chuyển "
 "đổi nó sang một loại bài kiểm tra đặc biệt khác. Bạn có thể hoàn nguyên tiểu"
-" mục này thành bài kiểm tra cơ bản bằng cách chọn &#39;Không&#39; hoặc bài "
+" mục này thành bài kiểm tra cơ bản bằng cách chọn 'Không' hoặc bài "
 "kiểm tra tính giờ, nhưng bạn sẽ KHÔNG thể định cấu hình nó làm bài kiểm tra "
 "được giám sát trong tương lai."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:29
 msgid "Timed"
-msgstr "Đã hẹn giờ"
+msgstr "Hẹn giờ"
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:31
 msgid ""
@@ -11324,8 +11324,8 @@ msgid ""
 "access to your camera, please make sure to click 'Allow'."
 msgstr ""
 "Bạn cần một thiết bị có webcam. Nếu bạn nhận được lời nhắc của trình duyệt "
-"về quyền truy cập vào máy ảnh của mình, vui lòng đảm bảo nhấp vào &#39;Cho "
-"phép&#39;."
+"về quyền truy cập vào máy ảnh của mình, vui lòng đảm bảo nhấp vào 'Cho "
+"phép'."
 
 #: lms/templates/verify_student/face_photo_step.underscore:10
 msgid "Photo Identification"
@@ -11366,7 +11366,7 @@ msgid ""
 "need to try again, click 'Retake Photo'."
 msgstr ""
 "Để chụp ảnh khuôn mặt của bạn, hãy nhấp vào nút camera {icon} . Nếu bạn cần "
-"thử lại, hãy nhấp vào &#39;Chụp lại ảnh&#39;."
+"thử lại, hãy nhấp vào 'Chụp lại ảnh'."
 
 #: lms/templates/verify_student/face_photo_step.underscore:38
 #: lms/templates/verify_student/id_photo_step.underscore:30

@@ -654,7 +654,7 @@ msgid ""
 "completion."
 msgstr ""
 "Ja iestatīts uz True, integrācija izmantos vispārējo edX pakalpojuma "
-"lietotāju (&#39;sapsf_user_id&#39;), kas definēts SAP klienta konfigurācijā,"
+"lietotāju ('sapsf_user_id'), kas definēts SAP klienta konfigurācijā,"
 " lai pabeigtu kursu."
 
 #: integrated_channels/xapi/models.py:33

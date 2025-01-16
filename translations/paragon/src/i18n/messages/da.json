@@ -72,7 +72,7 @@
     "string": "Udvid alle"
   },
   "pgn.DataTable.FilterStatus.clearFiltersText": {
-    "developer_comment": "En tekst, der vises på knappen &#39;Ryd filtre&#39;",
+    "developer_comment": "En tekst, der vises på knappen 'Ryd filtre'",
     "string": "Ryd filtre"
   },
   "pgn.DataTable.RowStatus.statusText": {

@@ -44,8 +44,8 @@ msgid ""
 "Calendar, open Settings and copy the ID from the Calendar Address section "
 "into this field."
 msgstr ""
-"Google, herkese açık takvimler için bir kimlik sağlar. Google Takvim&#39;de "
-"Ayarlar&#39;ı açın ve Takvim Adresi bölümündeki kimliği bu alana kopyalayın."
+"Google, herkese açık takvimler için bir kimlik sağlar. Google Takvim'de "
+"Ayarlar'ı açın ve Takvim Adresi bölümündeki kimliği bu alana kopyalayın."
 
 #: google_calendar.py:60 templates/html/google_calendar_edit.html:41
 msgid "Default View"
@@ -70,8 +70,8 @@ msgid ""
 "needed, click Publish, and copy the embed code into this field."
 msgstr ""
 "Google, Drive dokümanları için bir yerleştirme kodu sağlar. Google Drive "
-"belgesindeki Dosya menüsünden Web&#39;de Yayınla&#39;yı seçin. Ayarları "
-"gerektiği gibi değiştirin, Yayınla&#39;ya tıklayın ve yerleştirme kodunu bu "
+"belgesindeki Dosya menüsünden Web'de Yayınla'yı seçin. Ayarları "
+"gerektiği gibi değiştirin, Yayınla'ya tıklayın ve yerleştirme kodunu bu "
 "alana kopyalayın."
 
 #: google_docs.py:75
@@ -106,8 +106,8 @@ msgid ""
 "Calendar, open Settings and copy the ID from the Calendar Address section "
 "into this field. You can "
 msgstr ""
-"Google, herkese açık takvimler için bir kimlik sağlar. Google Takvim&#39;de "
-"Ayarlar&#39;ı açın ve Takvim Adresi bölümündeki kimliği bu alana kopyalayın."
+"Google, herkese açık takvimler için bir kimlik sağlar. Google Takvim'de "
+"Ayarlar'ı açın ve Takvim Adresi bölümündeki kimliği bu alana kopyalayın."
 " Yapabilirsiniz "
 
 #: templates/html/google_calendar_edit.html:60

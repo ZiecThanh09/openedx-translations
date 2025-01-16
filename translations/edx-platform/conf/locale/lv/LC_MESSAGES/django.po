@@ -2321,7 +2321,7 @@ msgid_plural ""
 "The file must end with one of the following extensions: '{file_types}'."
 msgstr[0] ""
 "Failam ir jābeidzas ar vienu no šiem paplašinājumiem: "
-"&#39;{file_types}&#39;."
+"'{file_types}'."
 msgstr[1] "Failam jābeidzas ar paplašinājumu “{file_types}”."
 msgstr[2] ""
 "Failam ir jābeidzas ar vienu no šiem paplašinājumiem: '{file_types}'."
@@ -7992,7 +7992,7 @@ msgstr "Tikai lasīt"
 #: openedx/core/djangoapps/content_libraries/models.py:231
 msgid "One and only one of 'user' and 'group' must be set."
 msgstr ""
-"Ir jāiestata viens un tikai viens no &#39;lietotājs&#39; un &#39;grupa&#39;."
+"Ir jāiestata viens un tikai viens no 'lietotājs' un 'grupa'."
 
 #: openedx/core/djangoapps/content_libraries/models.py:257
 msgid "Task was created, but not queued to run."
@@ -12011,8 +12011,8 @@ msgid ""
 " Ignored unless 'Enable CCX' is set to 'true'."
 msgstr ""
 "URL lietojumprogrammai CCX Connector, lai pārvaldītu CCX izveidi. "
-"(neobligāti). Ignorē, ja vien &#39;Iespējot CCX&#39; nav iestatīts uz "
-"&#39;true&#39;."
+"(neobligāti). Ignorē, ja vien 'Iespējot CCX' nav iestatīts uz "
+"'true'."
 
 #: xmodule/course_block.py:533
 msgid "Allow Anonymous Discussion Posts"
@@ -15326,7 +15326,7 @@ msgstr "Jūs tagad pieteicāties! Lai veicas!"
 #: wiki/views/article.py:87
 #, python-format
 msgid "New article '%s' created."
-msgstr "Izveidots jauns raksts &#39; %s &#39;."
+msgstr "Izveidots jauns raksts ' %s '."
 
 #: wiki/views/article.py:92
 #, python-format

@@ -56,7 +56,7 @@ msgstr "Ünvan"
 
 #: templates/html/image_explorer_edit.html:11
 msgid "The title of the Image Explorer that is displayed to the user"
-msgstr "Kullanıcıya görüntülenen Resim Gezgini&#39;nin başlığı"
+msgstr "Kullanıcıya görüntülenen Resim Gezgini'nin başlığı"
 
 #: templates/html/image_explorer_edit.html:17
 msgid "Hotspot coordinates centered"

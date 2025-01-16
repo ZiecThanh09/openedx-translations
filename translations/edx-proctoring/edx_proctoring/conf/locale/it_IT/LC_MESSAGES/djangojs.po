@@ -30,7 +30,7 @@ msgstr "OK"
 #: static/proctoring/js/exam_action_handler.js:195
 #: static/proctoring/js/exam_action_handler.js:206
 msgid "Error Ending Exam"
-msgstr "Errore durante la conclusione dell&#39;esame"
+msgstr "Errore durante la conclusione dell'esame"
 
 #: static/proctoring/js/exam_action_handler.js:132
 #: static/proctoring/js/exam_action_handler.js:208
@@ -38,28 +38,28 @@ msgid ""
 "Something has gone wrong ending your exam. Please reload the page and start "
 "again."
 msgstr ""
-"Qualcosa è andato storto durante la conclusione dell&#39;esame. Ricarica la "
+"Qualcosa è andato storto durante la conclusione dell'esame. Ricarica la "
 "pagina e ricomincia."
 
 #: static/proctoring/js/exam_action_handler.js:159
 #: static/proctoring/js/exam_action_handler.js:170
 msgid "Error Starting Exam"
-msgstr "Errore durante l&#39;avvio dell&#39;esame"
+msgstr "Errore durante l'avvio dell'esame"
 
 #: static/proctoring/js/exam_action_handler.js:161
 msgid ""
 "Something has gone wrong starting your exam. Please double-check that the "
 "application is running."
 msgstr ""
-"Qualcosa è andato storto durante l&#39;inizio dell&#39;esame. Ti invitiamo a"
-" verificare che l&#39;applicazione sia in esecuzione."
+"Qualcosa è andato storto durante l'inizio dell'esame. Ti invitiamo a"
+" verificare che l'applicazione sia in esecuzione."
 
 #: static/proctoring/js/exam_action_handler.js:172
 msgid ""
 "Something has gone wrong starting your exam. Please reload the page and "
 "start again."
 msgstr ""
-"Qualcosa è andato storto durante l&#39;inizio dell&#39;esame. Ricarica la "
+"Qualcosa è andato storto durante l'inizio dell'esame. Ricarica la "
 "pagina e ricomincia."
 
 #: static/proctoring/js/exam_action_handler.js:197
@@ -67,8 +67,8 @@ msgid ""
 "Something has gone wrong ending your exam. Please double-check that the "
 "application is running."
 msgstr ""
-"Qualcosa è andato storto durante la conclusione dell&#39;esame. Ti invitiamo"
-" a verificare che l&#39;applicazione sia in esecuzione."
+"Qualcosa è andato storto durante la conclusione dell'esame. Ti invitiamo"
+" a verificare che l'applicazione sia in esecuzione."
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:218
 #: static/proctoring/js/views/proctored_exam_allowance_view.js:13
@@ -128,7 +128,7 @@ msgstr "Avviato "
 
 #: static/proctoring/js/views/proctored_exam_attempt_view.js:15
 msgid "Ready to submit"
-msgstr "Pronto per l&#39;invio"
+msgstr "Pronto per l'invio"
 
 #: static/proctoring/js/views/proctored_exam_attempt_view.js:16
 msgid "Declined"
@@ -279,7 +279,7 @@ msgid ""
 "Your onboarding status has expired. Please complete onboarding again to "
 "continue taking proctored exams."
 msgstr ""
-"Il tuo stato di onboarding è scaduto. Completa di nuovo l&#39;onboarding per"
+"Il tuo stato di onboarding è scaduto. Completa di nuovo l'onboarding per"
 " continuare a sostenere gli esami sorvegliati."
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:30
@@ -288,12 +288,12 @@ msgstr "Installazione avviata"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:31
 msgid "Onboarding Started"
-msgstr "Iniziato l&#39;onboarding"
+msgstr "Iniziato l'onboarding"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:40
 msgid "Onboarding Reset Failed Due to Past Due Exam"
 msgstr ""
-"Reimpostazione dell&#39;onboarding non riuscita a causa di un esame scaduto"
+"Reimpostazione dell'onboarding non riuscita a causa di un esame scaduto"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:42
 msgid "Audit"
@@ -309,7 +309,7 @@ msgstr "Professionale"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:45
 msgid "No ID Professional"
-msgstr "Nessun professionista dell&#39;identità"
+msgstr "Nessun professionista dell'identità"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:46
 msgid "Credit"
@@ -329,4 +329,4 @@ msgid ""
 "To pass your proctored exam you must also pass the online proctoring session review."
 msgstr ""
 "Sei sicuro di voler lasciare questa pagina?\n"
-" Per superare l&#39;esame con supervisione devi superare anche la revisione della sessione di supervisione online."
+" Per superare l'esame con supervisione devi superare anche la revisione della sessione di supervisione online."

@@ -2927,7 +2927,7 @@ msgstr "Saites apraksts"
 
 #: lms/static/js/Markdown.Editor.js:30
 msgid "e.g. 'google'"
-msgstr "piem. &#39;google&#39;"
+msgstr "piem. 'google'"
 
 #: lms/static/js/Markdown.Editor.js:31
 msgid "Please provide a description of the link destination."
@@ -2963,7 +2963,7 @@ msgid ""
 "e.g. 'Sky with clouds'. The description is helpful for users who cannot see "
 "the image."
 msgstr ""
-"piemēram, &#39;Debesis ar mākoņiem&#39;. Apraksts ir noderīgs lietotājiem, "
+"piemēram, 'Debesis ar mākoņiem'. Apraksts ir noderīgs lietotājiem, "
 "kuri nevar redzēt attēlu."
 
 #: lms/static/js/Markdown.Editor.js:43

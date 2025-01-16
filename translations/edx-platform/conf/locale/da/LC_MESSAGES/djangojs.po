@@ -712,7 +712,7 @@ msgstr "Kopiering"
 
 #: cms/static/js/views/course_outline.js:328
 msgid "Copy of '{componentDisplayName}'"
-msgstr "Kopi af &#39;{componentDisplayName}&#39;"
+msgstr "Kopi af '{componentDisplayName}'"
 
 #: cms/static/js/views/course_outline.js:364
 #: cms/static/js/views/pages/container.js:285
@@ -2359,7 +2359,7 @@ msgid ""
 "Files that you upload must be PDFs or image files in .gif, .jpg, .jpeg, or "
 ".png format."
 msgstr ""
-"Filer, du uploader, skal være PDF&#39;er eller billedfiler i .gif-, .jpg-, "
+"Filer, du uploader, skal være PDF'er eller billedfiler i .gif-, .jpg-, "
 ".jpeg- eller .png-format."
 
 #: lms/djangoapps/support/static/support/jsx/file_upload.jsx:110
@@ -4191,7 +4191,7 @@ msgid ""
 "the student identifier is spelled correctly."
 msgstr ""
 "Fejl ved hentning af elevens fremskridts-url for '<%- student_id %>'.  Sørg "
-"for, at elev-id&#39;et er stavet korrekt."
+"for, at elev-id'et er stavet korrekt."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:149
 #: lms/static/js/instructor_dashboard/student_admin.js:191
@@ -4315,7 +4315,7 @@ msgid ""
 " Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "Opgaven er startet med at nulstille forsøg på problemet '<%- problem_id "
-"%>'?. Klik på knappen &#39;Vis opgavestatus&#39; for at se status for "
+"%>'?. Klik på knappen 'Vis opgavestatus' for at se status for "
 "opgaven."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:426
@@ -4341,7 +4341,7 @@ msgid ""
 "of the task."
 msgstr ""
 "Startede rescore problemopgave for problemet '<%- problem_id %>'? og elev "
-"'<%- student_id %>'. Klik på knappen &#39;Vis opgavestatus&#39; for at se "
+"'<%- student_id %>'. Klik på knappen 'Vis opgavestatus' for at se "
 "status for opgaven."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:508
@@ -4351,7 +4351,7 @@ msgid ""
 "are complete and correct."
 msgstr ""
 "Fejl ved start af en opgave til at genplacere problemet '<%- problem_id %>'?"
-" for elev '<%- student_id %>'. Sørg for, at problem- og elev-id&#39;erne er "
+" for elev '<%- student_id %>'. Sørg for, at problem- og elev-id'erne er "
 "fuldstændige og korrekte."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:549
@@ -4365,7 +4365,7 @@ msgid ""
 "status of the task."
 msgstr ""
 "Startede opgave med at tilsidesætte scoren for opgaven '<%- problem_id %>'? "
-"og eleven '<%- student_id %>'. Klik på knappen &#39;Vis opgavestatus&#39; "
+"og eleven '<%- student_id %>'. Klik på knappen 'Vis opgavestatus' "
 "for at se status for opgaven."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:562
@@ -4384,7 +4384,7 @@ msgid ""
 "'Show Task Status' button to see the status of the task."
 msgstr ""
 "Påbegyndt rescore-opgave til optagelsesprøven for elev "
-"&#39;{student_id}&#39;. Klik på knappen 'Vis opgavestatus'for at se status "
+"'{student_id}'. Klik på knappen 'Vis opgavestatus'for at se status "
 "for opgaven."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:612
@@ -4407,7 +4407,7 @@ msgid ""
 "students. Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "Opgaven er startet med at genplacere problemet '<%- problem_id %>'? for alle"
-" elever. Klik på knappen &#39;Vis opgavestatus&#39; for at se status for "
+" elever. Klik på knappen 'Vis opgavestatus' for at se status for "
 "opgaven."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:646
@@ -8986,7 +8986,7 @@ msgstr ""
 "Denne proctorerede eksamen er blevet frigivet til elever. Du må ikke "
 "konvertere den til en anden type specialeksamen. Du kan vende denne "
 "undersektion tilbage til at være en grundlæggende eksamen ved at vælge "
-"&#39;Ingen&#39; eller en tidsbestemt eksamen, men du vil IKKE være i stand "
+"'Ingen' eller en tidsbestemt eksamen, men du vil IKKE være i stand "
 "til at konfigurere den som en proctored eksamen i fremtiden."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:29
@@ -9232,7 +9232,7 @@ msgstr ""
 
 #: cms/templates/js/video/transcripts/metadata-videolist-entry.underscore:8
 msgid "Add URLs for additional versions"
-msgstr "Tilføj URL&#39;er for yderligere versioner"
+msgstr "Tilføj URL'er for yderligere versioner"
 
 #: cms/templates/js/video/transcripts/metadata-videolist-entry.underscore:11
 msgid ""
@@ -9635,7 +9635,7 @@ msgid ""
 "Discussion admins, moderators, and TAs can make their posts visible to all "
 "students or specify a single group."
 msgstr ""
-"Discussion administratorer, moderatorer og TA&#39;er kan gøre deres indlæg "
+"Discussion administratorer, moderatorer og TA'er kan gøre deres indlæg "
 "synlige to alle studerende eller angive en enkelt group ."
 
 #: common/static/common/templates/discussion/templates.underscore:447
@@ -9866,7 +9866,7 @@ msgstr "Regenerer"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore:29
 msgid "Regenerate the user's certificate"
-msgstr "Gendan user &#39;s Certificate"
+msgstr "Gendan user 's Certificate"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore:35
 msgid "Generate"
@@ -9874,7 +9874,7 @@ msgstr "generate"
 
 #: lms/djangoapps/support/static/support/templates/certificates_results.underscore:36
 msgid "Generate the user's certificate"
-msgstr "generate user &#39;s Certificate"
+msgstr "generate user 's Certificate"
 
 #: lms/djangoapps/support/static/support/templates/enrollment-modal.underscore:4
 msgid "Current enrollment mode:"
@@ -10098,7 +10098,7 @@ msgstr ""
 
 #: lms/templates/api_admin/catalog-results.underscore:1
 msgid "This catalog's courses:"
-msgstr "this catalog &#39;s courses :"
+msgstr "this catalog 's courses :"
 
 #: lms/templates/ccx/schedule.underscore:3
 msgid "Expand All"
@@ -11045,7 +11045,7 @@ msgstr ""
 
 #: lms/templates/learner_dashboard/program_header_view.underscore:20
 msgid "{organization}\\'s logo"
-msgstr "{organization} \\&#39;s logo"
+msgstr "{organization} \\'s logo"
 
 #: lms/templates/learner_dashboard/program_list_header_view.underscore:1
 msgid "My programs"
@@ -11407,7 +11407,7 @@ msgid ""
 "need to try again, click 'Retake Photo'."
 msgstr ""
 "to tag photo af dit ansigt, click på kameraknappen {icon} . Hvis du har brug"
-" for to , prøv igen, click &#39;Gentag photo &#39;."
+" for to , prøv igen, click 'Gentag photo '."
 
 #: lms/templates/verify_student/face_photo_step.underscore:38
 #: lms/templates/verify_student/id_photo_step.underscore:30
@@ -11864,7 +11864,7 @@ msgstr "photo af %(fullName)s"
 #: lms/templates/verify_student/review_photos_step.underscore:18
 #, python-format
 msgid "Photo of %(fullName)s's ID"
-msgstr "photo af %(fullName)s &#39;s ID"
+msgstr "photo af %(fullName)s 's ID"
 
 #: lms/templates/verify_student/review_photos_step.underscore:25
 msgid "Photo requirements:"

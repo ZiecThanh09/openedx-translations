@@ -537,7 +537,7 @@ msgid ""
 msgstr ""
 "Este recurso está sendo ativado pela configuração do nível do curso. Ele "
 "pode ser encontrado no cartão Open Response Assessment Settings na página do"
-" estúdio Pages &amp; Resources."
+" estúdio Pages & Resources."
 
 #: templates/legacy/edit/oa_edit_peer_assessment_schedule.html:5
 msgid "Peer Assessment Deadlines"

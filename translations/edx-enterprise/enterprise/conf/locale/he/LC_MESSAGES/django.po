@@ -240,7 +240,7 @@ msgid ""
 "Required to create courses etc."
 msgstr ""
 "מספר חשבון לשימוש במהלך שיחות API. נקרא account_id בקנבס. חובה ליצור קורסים "
-"וכו&#39;."
+"וכו'."
 
 #: integrated_channels/canvas/models.py:71
 msgid ""
@@ -637,7 +637,7 @@ msgid ""
 "completion."
 msgstr ""
 "כאשר מוגדר כ-True, האינטגרציה תשתמש במשתמש הגנרי של שירות edX "
-"(&#39;sapsf_user_id&#39;) המוגדר בתצורת הלקוח של SAP לצורך השלמת הקורס."
+"('sapsf_user_id') המוגדר בתצורת הלקוח של SAP לצורך השלמת הקורס."
 
 #: integrated_channels/xapi/models.py:33
 msgid "Version of xAPI."
@@ -684,8 +684,8 @@ msgid ""
 " row, to enroll learners in multiple courses."
 msgstr ""
 "על קובץ ה-csv לכלול עמודה של כתובות דוא&quot;ל, המצוינת בכותרת "
-"&#39;אימייל&#39; בשורה הראשונה. לחלופין, קובץ ה-.csv עשוי להכיל עמודה של "
-"מפתחות הפעלה של קורסים, המצוינים בכותרת &#39;Course_id&#39; בשורה הראשונה, "
+"'אימייל' בשורה הראשונה. לחלופין, קובץ ה-.csv עשוי להכיל עמודה של "
+"מפתחות הפעלה של קורסים, המצוינים בכותרת 'Course_id' בשורה הראשונה, "
 "כדי לרשום לומדים למספר קורסים."
 
 #: enterprise/admin/forms.py:68
@@ -802,8 +802,8 @@ msgid ""
 msgstr ""
 "האתר של ספק הזהות שנבחר ( {identity_provider_site} ) אינו תואם לאתר של לקוח "
 "ארגוני זה ( {enterprise_customer_site} ). כדי לתקן בעיה זו, בחר אתר שיש לו "
-"דומיין של &#39; {identity_provider_site} &#39;, או עדכן את ספק הזהות ל- "
-"&#39; {enterprise_customer_site} &#39;."
+"דומיין של ' {identity_provider_site} ', או עדכן את ספק הזהות ל- "
+"' {enterprise_customer_site} '."
 
 #: enterprise/admin/forms.py:611
 #, python-brace-format
@@ -832,8 +832,8 @@ msgid ""
 "User specified is not linked to an active Enterprise Customer. Select "
 "`Applies to all contexts` or choose a different user."
 msgstr ""
-"המשתמש שצוין אינו מקושר ללקוח Enterprise פעיל. בחר &#39;חל על כל "
-"ההקשרים&#39; או בחר משתמש אחר."
+"המשתמש שצוין אינו מקושר ללקוח Enterprise פעיל. בחר 'חל על כל "
+"ההקשרים' או בחר משתמש אחר."
 
 #: enterprise/admin/forms.py:782
 msgid ""
@@ -1467,7 +1467,7 @@ msgid ""
 "When enabled along with `active`, all other linked enterprise customers for "
 "this user will be marked as inactive upon save."
 msgstr ""
-"כאשר מופעל יחד עם &#39;פעיל&#39;, כל שאר הלקוחות הארגוניים המקושרים עבור "
+"כאשר מופעל יחד עם 'פעיל', כל שאר הלקוחות הארגוניים המקושרים עבור "
 "משתמש זה יסומנו כלא פעילים בעת השמירה."
 
 #: enterprise/models.py:1068
@@ -1562,7 +1562,7 @@ msgid ""
 " won't be excluded from the content of the associated catalog."
 msgstr ""
 "מציין אם הקטלוג מותר לכלול קורסי ביצוע (2U). המשמעות היא שכאשר "
-"ה-content_filter מציין שסוגי תוכן &#39;קורס&#39; צריכים להיכלל בקטלוג, סוגי "
+"ה-content_filter מציין שסוגי תוכן 'קורס' צריכים להיכלל בקטלוג, סוגי "
 "קורס executive-education-2u לא יוחרגו מהתוכן של הקטלוג המשויך."
 
 #: enterprise/models.py:2391
@@ -1611,7 +1611,7 @@ msgid ""
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
 "מלא תבנית Django סטנדרטית, שעם רינדור מייצרת את האימייל שברצונך לשלוח ללומדי Enterprise Customer שנרשמו לאחרונה. המשתנים הבאים עשויים להיות זמינים:\n"
-"<ul><li> user_name: שם הניתן לקריאה על ידי אדם עבור האדם שנשלח לדוא&quot;ל. הקפד לטפל במקרה שבו זה לא מוגדר, מכיוון שהוא עשוי להיות חסר במקרים מסוימים. זה יכול להיות גם שם משתמש, אם הלומד לא הגדיר את השם ה&quot;אמיתי&quot; שלו במערכת.</li><li> organisation_name: שם הארגון המממן את ההרשמה.</li><li> enrolled_in: פרטי הקורס או התוכנית שנרשמו אליו. הם עשויים להכיל:<ul><li> name: שם הפריט הניתן לרישום (למשל, &quot;קורס הדגמה&quot;).</li><li> url: קישור לדף הבית של הפריט הרשום.</li><li> מיתוג: שם מיתוג מותאם אישית עבור הפריט הרשום. לדוגמה, המיתוג של תוכנית MicroMasters יהיה &quot;MicroMasters&quot;.</li><li> התחלה: התאריך שבו הפריט הרשום הופך לזמין. עבד את זה לטקסט באמצעות מסנן תבנית &#39;תאריך&#39; של Django (ראה <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">תיעוד של Django</a> ).</li><li> סוג: האם הפריט הרשום הוא קורס, תוכנית או משהו אחר.</li></ul></ul>"
+"<ul><li> user_name: שם הניתן לקריאה על ידי אדם עבור האדם שנשלח לדוא&quot;ל. הקפד לטפל במקרה שבו זה לא מוגדר, מכיוון שהוא עשוי להיות חסר במקרים מסוימים. זה יכול להיות גם שם משתמש, אם הלומד לא הגדיר את השם ה&quot;אמיתי&quot; שלו במערכת.</li><li> organisation_name: שם הארגון המממן את ההרשמה.</li><li> enrolled_in: פרטי הקורס או התוכנית שנרשמו אליו. הם עשויים להכיל:<ul><li> name: שם הפריט הניתן לרישום (למשל, &quot;קורס הדגמה&quot;).</li><li> url: קישור לדף הבית של הפריט הרשום.</li><li> מיתוג: שם מיתוג מותאם אישית עבור הפריט הרשום. לדוגמה, המיתוג של תוכנית MicroMasters יהיה &quot;MicroMasters&quot;.</li><li> התחלה: התאריך שבו הפריט הרשום הופך לזמין. עבד את זה לטקסט באמצעות מסנן תבנית 'תאריך' של Django (ראה <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">תיעוד של Django</a> ).</li><li> סוג: האם הפריט הרשום הוא קורס, תוכנית או משהו אחר.</li></ul></ul>"
 
 #: enterprise/models.py:2786
 #, python-brace-format
@@ -2249,7 +2249,7 @@ msgstr ""
 #: enterprise/utils.py:185
 msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
-msgstr "לא ניתן לנתח קובץ CSV. אנא ודא שזהו קובץ מקודד CSV &#39;utf-8&#39;."
+msgstr "לא ניתן לנתח קובץ CSV. אנא ודא שזהו קובץ מקודד CSV 'utf-8'."
 
 #: enterprise/utils.py:188
 msgid "Discount percentage should be from 0 to 100."
@@ -2263,7 +2263,7 @@ msgstr "נרשמת ל- {course_name} !"
 #: enterprise/utils.py:557 enterprise/utils.py:636
 msgid "`user` must have one of either `email` or `user_email`."
 msgstr ""
-"ל-&#39;user&#39; חייב להיות אחד של &#39;email&#39; או &#39;user_email&#39;."
+"ל-'user' חייב להיות אחד של 'email' או 'user_email'."
 
 #: enterprise/validators.py:30
 msgid "Value entered is not a valid hex color code."

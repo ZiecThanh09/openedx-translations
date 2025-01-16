@@ -25248,8 +25248,8 @@ msgid ""
 msgstr ""
 "Klik untuk menampilkan konfigurasi penilaian kursus. Konfigurasi penilaian "
 "adalah perincian subbagian kursus yang dinilai (seperti ujian dan kumpulan "
-"soal), dan dapat diubah di halaman &#39;Penilaian&#39; (di bawah "
-"&#39;Pengaturan&#39;) di Studio."
+"soal), dan dapat diubah di halaman 'Penilaian' (di bawah "
+"'Pengaturan') di Studio."
 
 #: lms/templates/instructor/instructor_dashboard_2/data_download_2/reports.html:74
 msgid "Click to download a CSV of                 anonymized student IDs:"

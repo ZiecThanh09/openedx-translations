@@ -658,7 +658,7 @@ msgid ""
 "completion."
 msgstr ""
 "Khi được đặt thành True, hoạt động tích hợp sẽ sử dụng người dùng dịch vụ "
-"edX chung (&#39;sapsf_user_id&#39;) được xác định trong Cấu hình khách hàng "
+"edX chung ('sapsf_user_id') được xác định trong Cấu hình khách hàng "
 "SAP để hoàn thành khóa học."
 
 #: integrated_channels/xapi/models.py:33
@@ -706,9 +706,9 @@ msgid ""
 " row, to enroll learners in multiple courses."
 msgstr ""
 "Tệp .csv phải có một cột địa chỉ email, được biểu thị bằng tiêu đề "
-"&#39;email&#39; ở hàng đầu tiên. Theo tùy chọn, tệp .csv có thể chứa một cột"
+"'email' ở hàng đầu tiên. Theo tùy chọn, tệp .csv có thể chứa một cột"
 " tất nhiên các khóa chạy khóa học, được biểu thị bằng tiêu đề "
-"&#39;course_id&#39; ở hàng đầu tiên, để ghi danh người học vào nhiều khóa "
+"'course_id' ở hàng đầu tiên, để ghi danh người học vào nhiều khóa "
 "học."
 
 #: enterprise/admin/forms.py:68
@@ -827,8 +827,8 @@ msgstr ""
 "Trang web dành cho nhà cung cấp danh tính đã chọn ( {identity_provider_site}"
 " ) không khớp với trang web dành cho khách hàng doanh nghiệp này ( "
 "{enterprise_customer_site} ). Để khắc phục sự cố này, hãy chọn trang web có "
-"miền &#39; {identity_provider_site} &#39; hoặc cập nhật nhà cung cấp danh "
-"tính thành &#39; {enterprise_customer_site} &#39;."
+"miền ' {identity_provider_site} ' hoặc cập nhật nhà cung cấp danh "
+"tính thành ' {enterprise_customer_site} '."
 
 #: enterprise/admin/forms.py:611
 #, python-brace-format
@@ -1656,7 +1656,7 @@ msgid ""
 msgstr ""
 "Chỉ định xem danh mục có được phép bao gồm các khóa học thực thi (2U) hay "
 "không. Điều này có nghĩa là khi content_filter chỉ định rằng các loại nội "
-"dung &#39;khóa học&#39; phải được đưa vào danh mục, thì các loại khóa học "
+"dung 'khóa học' phải được đưa vào danh mục, thì các loại khóa học "
 "Executive-education-2u sẽ không bị loại trừ khỏi nội dung của danh mục được "
 "liên kết."
 
@@ -2382,7 +2382,7 @@ msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
 "Không thể phân tích tệp CSV. Vui lòng đảm bảo rằng đó là tệp được mã hóa CSV"
-" &#39;utf-8&#39;."
+" 'utf-8'."
 
 #: enterprise/utils.py:188
 msgid "Discount percentage should be from 0 to 100."

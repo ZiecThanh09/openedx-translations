@@ -100,7 +100,7 @@
   "authoring.problemeditor.settings.reset.title": "Mostrar opção de redefinição",
   "authoring.problemeditor.settings.reset.true": "Verdadeiro",
   "authoring.problemeditor.settings.reset.false": "Falso",
-  "authoring.problemeditor.settings.reset.text": "Determina se um botão &#39;Redefinir&#39; é mostrado para que o usuário possa redefinir sua resposta, geralmente para uso na prática ou em avaliações formativas.",
+  "authoring.problemeditor.settings.reset.text": "Determina se um botão 'Redefinir' é mostrado para que o usuário possa redefinir sua resposta, geralmente para uso na prática ou em avaliações formativas.",
   "authoring.problemeditor.settings.scoring.title": "Pontuação",
   "authoring.problemeditor.settings.scoring.attempts.inputLabel": "Tentativas",
   "authoring.problemeditor.settings.scoring.weight.inputLabel": "Pontos",

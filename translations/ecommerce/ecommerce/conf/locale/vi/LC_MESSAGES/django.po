@@ -66,7 +66,7 @@ msgstr "Bộ xử lý thanh toán"
 msgid "Comma-separated list of processor names: 'cybersource,paypal'"
 msgstr ""
 "Danh sách tên bộ xử lý được phân tách bằng dấu phẩy: "
-"&#39;cybersource,paypal&#39;"
+"'cybersource,paypal'"
 
 #: core/models.py:61
 msgid "Client-side payment processor"
@@ -625,7 +625,7 @@ msgid ""
 "begin with '00k'."
 msgstr ""
 "Mục hàng Cơ hội Salesforce phải có 18 ký tự chữ và số và bắt đầu bằng "
-"&#39;00k&#39;."
+"'00k'."
 
 #: enterprise/forms.py:184 enterprise/forms.py:232
 msgid "Ensure this value is greater than or equal to 0."
@@ -647,7 +647,7 @@ msgstr "Địa chỉ email đã cung cấp {email} không phải là email hợp
 
 #: enterprise/forms.py:290
 msgid "An offer already exists for this Enterprise & Catalog combination."
-msgstr "Đã có ưu đãi cho sự kết hợp Doanh nghiệp &amp; Danh mục này."
+msgstr "Đã có ưu đãi cho sự kết hợp Doanh nghiệp & Danh mục này."
 
 #: enterprise/forms.py:293 enterprise/forms.py:302 programs/forms.py:73
 msgid "Percentage discounts cannot be greater than 100%."
@@ -923,7 +923,7 @@ msgid ""
 "refund."
 msgstr ""
 "Đơn đặt hàng {} của bạn không thể được hoàn lại vì phiếu giảm giá "
-"&#39;{}&#39; không được hỗ trợ hoàn tiền."
+"'{}' không được hỗ trợ hoàn tiền."
 
 #: extensions/api/serializers.py:2164
 msgid "Could note create new voucher for the order: {}"
@@ -993,35 +993,35 @@ msgstr "Bấm vào đây để mua nhiều chỗ trong khóa học này"
 #: extensions/basket/utils.py:498
 #, python-brace-format
 msgid "Coupon code '{code}' has expired."
-msgstr "Mã giảm giá &#39;{code}&#39; đã hết hạn."
+msgstr "Mã giảm giá '{code}' đã hết hạn."
 
 #: extensions/basket/utils.py:502
 #, python-brace-format
 msgid "Coupon code '{code}' is not active."
-msgstr "Mã phiếu giảm giá &#39;{code}&#39; không hoạt động."
+msgstr "Mã phiếu giảm giá '{code}' không hoạt động."
 
 #: extensions/basket/utils.py:508
 #, python-brace-format
 msgid "Coupon code '{code}' is not available. {msg}"
-msgstr "Mã phiếu giảm giá &#39;{code}&#39; không có sẵn. {msg}"
+msgstr "Mã phiếu giảm giá '{code}' không có sẵn. {msg}"
 
 #: extensions/basket/utils.py:514
 #, python-brace-format
 msgid "Coupon code '{code}' is not valid for this basket."
-msgstr "Mã phiếu giảm giá &#39;{code}&#39; không hợp lệ cho giỏ hàng này."
+msgstr "Mã phiếu giảm giá '{code}' không hợp lệ cho giỏ hàng này."
 
 #: extensions/basket/utils.py:527
 #, python-brace-format
 msgid ""
 "Coupon code '{code}' is not valid for this basket for a bundled purchase."
 msgstr ""
-"Mã phiếu giảm giá &#39;{code}&#39; không hợp lệ cho giỏ hàng này khi mua "
+"Mã phiếu giảm giá '{code}' không hợp lệ cho giỏ hàng này khi mua "
 "hàng theo gói."
 
 #: extensions/basket/utils.py:582
 #, python-brace-format
 msgid "Coupon code '{code}' added to basket."
-msgstr "Mã giảm giá &#39;{code}&#39; đã được thêm vào giỏ hàng."
+msgstr "Mã giảm giá '{code}' đã được thêm vào giỏ hàng."
 
 #: extensions/basket/utils.py:585
 #, python-brace-format
@@ -1032,7 +1032,7 @@ msgstr "Giỏ hàng không đủ điều kiện nhận mã giảm giá {code} ."
 #, python-brace-format
 msgid "Could not apply the code '{code}'; it requires data sharing consent."
 msgstr ""
-"Không thể áp dụng mã &#39;{code}&#39;; nó yêu cầu sự đồng ý chia sẻ dữ liệu."
+"Không thể áp dụng mã '{code}'; nó yêu cầu sự đồng ý chia sẻ dữ liệu."
 
 #: extensions/basket/views.py:297
 msgid ""
@@ -1127,22 +1127,22 @@ msgstr ""
 #: extensions/basket/views.py:975
 #, python-brace-format
 msgid "You have already added coupon code '{code}' to your basket."
-msgstr "Bạn đã thêm mã phiếu giảm giá &#39;{code}&#39; vào giỏ hàng của mình."
+msgstr "Bạn đã thêm mã phiếu giảm giá '{code}' vào giỏ hàng của mình."
 
 #: extensions/basket/views.py:1051
 #, python-brace-format
 msgid "Coupon code '{code}' does not exist."
-msgstr "Mã phiếu giảm giá &#39;{code}&#39; không tồn tại."
+msgstr "Mã phiếu giảm giá '{code}' không tồn tại."
 
 #: extensions/basket/views.py:1136
 #, python-format
 msgid "No coupon found with id '%s'"
-msgstr "Không tìm thấy phiếu giảm giá nào có id &#39; %s &#39;"
+msgstr "Không tìm thấy phiếu giảm giá nào có id ' %s '"
 
 #: extensions/basket/views.py:1140
 #, python-format
 msgid "Coupon code '%s' was removed from your basket."
-msgstr "Mã phiếu giảm giá &#39; %s &#39; đã bị xóa khỏi giỏ hàng của bạn."
+msgstr "Mã phiếu giảm giá ' %s ' đã bị xóa khỏi giỏ hàng của bạn."
 
 #: extensions/catalogue/models.py:70
 msgid "Last date/time on which this product can be purchased."
@@ -1359,7 +1359,7 @@ msgstr ""
 #: extensions/partner/admin.py:28
 msgid "Click 'Save and Continue Editing' to add stock records"
 msgstr ""
-"Nhấp vào &#39;Lưu và tiếp tục chỉnh sửa&#39; để thêm hồ sơ chứng khoán"
+"Nhấp vào 'Lưu và tiếp tục chỉnh sửa' để thêm hồ sơ chứng khoán"
 
 #: extensions/partner/models.py:22
 #: templates/oscar/dashboard/catalogue/product_update.html:193
@@ -3239,7 +3239,7 @@ msgstr "hoặc"
 #: templates/oscar/dashboard/catalogue/product_update.html:330
 #: templates/oscar/dashboard/catalogue/product_update.html:333
 msgid "Saving..."
-msgstr "Tiết kiệm..."
+msgstr "Đang lưu..."
 
 #: templates/oscar/dashboard/catalogue/category_form.html:108
 #: templates/oscar/dashboard/catalogue/product_update.html:331
@@ -3287,7 +3287,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Đã tạo biến thể sản phẩm &#39; %(name)s &#39;.\n"
+"Đã tạo biến thể sản phẩm ' %(name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:17
@@ -3298,7 +3298,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Đã tạo biến thể của &#39; %(parent_name)s &#39;.\n"
+"Đã tạo biến thể của ' %(parent_name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:25
@@ -3309,7 +3309,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Đã cập nhật biến thể sản phẩm &#39; %(name)s &#39;.\n"
+"Đã cập nhật biến thể sản phẩm ' %(name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:31
@@ -3320,7 +3320,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Đã cập nhật một biến thể của &#39; %(parent_name)s &#39;.\n"
+"Đã cập nhật một biến thể của ' %(parent_name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:42
@@ -3331,7 +3331,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"Đã tạo sản phẩm &#39; %(name)s &#39;.\n"
+"Đã tạo sản phẩm ' %(name)s '.\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:48
@@ -3342,7 +3342,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"Đã cập nhật sản phẩm &#39; %(name)s &#39;.\n"
+"Đã cập nhật sản phẩm ' %(name)s '.\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:60

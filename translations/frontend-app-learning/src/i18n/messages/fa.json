@@ -447,7 +447,7 @@
   "notes.button.show": "نمایش یادداشت ها",
   "notes.button.hide": "پنهان کردن یادداشت ها",
   "learn.contentLock.content.locked": "محتوا قفل شده است",
-  "learn.contentLock.complete.prerequisite": "برای دسترسی به این محتوا باید پیش نیاز را تکمیل کنید: &#39;&#39; {prereqSectionName} &#39;&#39;.",
+  "learn.contentLock.complete.prerequisite": "برای دسترسی به این محتوا باید پیش نیاز را تکمیل کنید: '' {prereqSectionName} ''.",
   "learn.contentLock.goToSection": "به بخش پیش نیاز بروید",
   "learn.hiddenAfterDue.gradeAvailable": "اگر این تکلیف را انجام داده اید، نمره شما در {progressPage} موجود است.",
   "learn.hiddenAfterDue.header": "موعد مقرر برای این ماموریت به پایان رسیده است.",

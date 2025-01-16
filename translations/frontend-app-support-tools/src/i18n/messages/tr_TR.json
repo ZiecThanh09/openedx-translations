@@ -22,5 +22,5 @@
   "no.records.found": "kullanıcı adı için sonuç bulunamadı",
   "supportTools.accountActions.cancelRetirement": "Bu, talep edilen kullanıcının kullanımdan kaldırılmasını iptal edecektir. Devam etmek istiyor musunuz?",
   "supportTools.accountActions.resetPassword": "Şifre kurtarma talimatlarını içeren bir mesajı {email} e-posta adresine göndereceğiz. Devam etmek istiyor musunuz?",
-  "supportTools.accountActions.retireUser": "Şu e-posta adresiyle {username} emekliye ayırmak üzeresiniz: {email} . {br} {br} Bu, bu kullanıcının edX&#39;e ve kazandığı sertifikalara erişimini iptal edecek ciddi bir eylemdir. Ayrıca, kullanımdan kaldırılan hesapla ilişkili e-posta adresi yeni bir hesap oluşturmak için kullanılamayacaktır."
+  "supportTools.accountActions.retireUser": "Şu e-posta adresiyle {username} emekliye ayırmak üzeresiniz: {email} . {br} {br} Bu, bu kullanıcının edX'e ve kazandığı sertifikalara erişimini iptal edecek ciddi bir eylemdir. Ayrıca, kullanımdan kaldırılan hesapla ilişkili e-posta adresi yeni bir hesap oluşturmak için kullanılamayacaktır."
 }

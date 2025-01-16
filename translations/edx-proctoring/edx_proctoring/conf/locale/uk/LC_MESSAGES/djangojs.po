@@ -93,7 +93,7 @@ msgstr "Додати виняток політики"
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:276
 #: static/proctoring/js/views/proctored_exam_edit_allowance_view.js:118
 msgid "Required field"
-msgstr "Обов&#39;язкове поле"
+msgstr "Обов'язкове поле"
 
 #: static/proctoring/js/views/proctored_exam_allowance_view.js:12
 #: static/proctoring/spec/proctored_exam_add_bulk_allowance_spec.js:81

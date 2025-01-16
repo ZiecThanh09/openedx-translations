@@ -72,12 +72,12 @@ msgstr ""
 #: views.py:83
 #, python-brace-format
 msgid "Invalid course id: '{course_id}'"
-msgstr "Id khóa học không hợp lệ: &#39;{course_id}&#39;"
+msgstr "Id khóa học không hợp lệ: '{course_id}'"
 
 #: views.py:95
 #, python-brace-format
 msgid "Course not found: '{course_id}'"
-msgstr "Không tìm thấy khóa học: &#39;{course_id}&#39;"
+msgstr "Không tìm thấy khóa học: '{course_id}'"
 
 #: xblock.py:47 xblock.py:48
 msgid "Display name"
@@ -111,6 +111,6 @@ msgid ""
 "               "
 msgstr ""
 "Danh sách các bộ lọc SQL để áp dụng cho\n"
-" bảng điều khiển. Ví dụ: [&quot;org=&#39;edX&#39;&quot;, &quot;quốc gia ở (&#39;us&#39;, &#39;co&#39;)&quot;]\n"
+" bảng điều khiển. Ví dụ: [&quot;org='edX'&quot;, &quot;quốc gia ở ('us', 'co')&quot;]\n"
 " Các trường được sử dụng ở đây phải có sẵn trên mọi tập dữ liệu được trang tổng quan sử dụng.\n"
 "               "

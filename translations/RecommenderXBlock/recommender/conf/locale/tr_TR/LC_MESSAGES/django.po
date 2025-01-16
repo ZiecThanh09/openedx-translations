@@ -23,7 +23,7 @@ msgstr ""
 
 #: recommender.py:313
 msgid "Invalid location URL provided"
-msgstr "Geçersiz konum URL&#39;si sağlandı"
+msgstr "Geçersiz konum URL'si sağlandı"
 
 #: recommender.py:324
 msgid "The resource you are attempting to provide already exists"
@@ -46,7 +46,7 @@ msgstr "Yüklenen dosyanın boyutu eşiği aşıyor"
 
 #: recommender.py:413
 msgid "The configuration of pyfs is not properly set"
-msgstr "Pyfs&#39;in yapılandırması doğru şekilde ayarlanmamış"
+msgstr "Pyfs'in yapılandırması doğru şekilde ayarlanmamış"
 
 #: recommender.py:752
 msgid "Endorse resource without permission"
@@ -85,7 +85,7 @@ msgid ""
 "edx.org or elsewhere, please add it."
 msgstr ""
 "Bu, öğrenci arkadaşlarınızın yararlı olabileceğini düşündüğü kaynakların bir"
-" listesi olacaktır, ancak şu anda boş. Edx.org&#39;da veya başka bir yerde "
+" listesi olacaktır, ancak şu anda boş. Edx.org'da veya başka bir yerde "
 "yararlı kaynaklar bulursanız lütfen ekleyin."
 
 #: templates/recommender.html:118
@@ -114,7 +114,7 @@ msgid ""
 "etc.), please flag it and let us know the reason."
 msgstr ""
 "Bu, öğrenci arkadaşlarınızın yararlı olabileceğini düşündüğü kaynakların bir"
-" listesidir. Edx.org&#39;da veya başka bir yerde yararlı başka bir kaynak "
+" listesidir. Edx.org'da veya başka bir yerde yararlı başka bir kaynak "
 "bulursanız lütfen ekleyin. Bir kaynağın açıklamasını veya önizlemesini "
 "iyileştirebiliyorsanız lütfen bunu da yapın. Bir kaynağı yararlı bulursanız "
 "olumlu oy verin. Çok yararlı değilse, olumsuz oy verin. Sorunları varsa "
@@ -176,7 +176,7 @@ msgstr "Yer"
 
 #: templates/recommender.html:189 templates/recommender.html:214
 msgid "Provide a resource location in url, required"
-msgstr "URL&#39;de bir kaynak konumu sağlayın; gerekli"
+msgstr "URL'de bir kaynak konumu sağlayın; gerekli"
 
 #: templates/recommender.html:193 templates/recommender.html:218
 msgid "Description"
@@ -238,7 +238,7 @@ msgid ""
 "Do you want to take users on a little tour when they see the "
 "RecommenderXBlock first time?"
 msgstr ""
-"Kullanıcıları RecommenderXBlock&#39;u ilk kez gördüklerinde küçük bir tura "
+"Kullanıcıları RecommenderXBlock'u ilk kez gördüklerinde küçük bir tura "
 "çıkarmak ister misiniz?"
 
 #: templates/recommenderstudio.html:21
@@ -307,7 +307,7 @@ msgstr ""
 
 #: static/js/src/cats.js:74 static/js/src/cats.js:78
 msgid "Cut-and-paste the URL of the resource."
-msgstr "Kaynağın URL&#39;sini kesip yapıştırın."
+msgstr "Kaynağın URL'sini kesip yapıştırın."
 
 #: static/js/src/cats.js:75 static/js/src/cats.js:79
 msgid ""

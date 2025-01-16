@@ -65,7 +65,7 @@ msgstr "Wachakataji malipo"
 msgid "Comma-separated list of processor names: 'cybersource,paypal'"
 msgstr ""
 "Orodha iliyotenganishwa kwa koma ya majina ya wasindikaji: "
-"&#39;cybersource,paypal&#39;"
+"'cybersource,paypal'"
 
 #: core/models.py:61
 msgid "Client-side payment processor"
@@ -636,7 +636,7 @@ msgid ""
 "begin with '00k'."
 msgstr ""
 "Kipengee cha Salesforce Opportunity Line lazima kiwe na herufi 18 na kianze "
-"na &#39;00k&#39;."
+"na '00k'."
 
 #: enterprise/forms.py:184 enterprise/forms.py:232
 msgid "Ensure this value is greater than or equal to 0."
@@ -658,7 +658,7 @@ msgstr "Barua pepe uliyopewa {email} sio barua pepe halali."
 
 #: enterprise/forms.py:290
 msgid "An offer already exists for this Enterprise & Catalog combination."
-msgstr "Tayari kuna ofa ya mseto huu wa Enterprise &amp; Catalog."
+msgstr "Tayari kuna ofa ya mseto huu wa Enterprise & Catalog."
 
 #: enterprise/forms.py:293 enterprise/forms.py:302 programs/forms.py:73
 msgid "Percentage discounts cannot be greater than 100%."
@@ -931,7 +931,7 @@ msgid ""
 "Your order {} can not be refunded as '{}' coupon are not supported to "
 "refund."
 msgstr ""
-"Agizo lako {} haliwezi kurejeshwa kwa vile kuponi ya &#39;{}&#39; haiwezi "
+"Agizo lako {} haliwezi kurejeshwa kwa vile kuponi ya '{}' haiwezi "
 "kurejeshewa pesa."
 
 #: extensions/api/serializers.py:2163
@@ -1001,35 +1001,35 @@ msgstr "Bofya hapa ili kununua viti vingi katika kozi hii"
 #: extensions/basket/utils.py:498
 #, python-brace-format
 msgid "Coupon code '{code}' has expired."
-msgstr "Msimbo wa kuponi &#39;{code}&#39; umekwisha muda."
+msgstr "Msimbo wa kuponi '{code}' umekwisha muda."
 
 #: extensions/basket/utils.py:502
 #, python-brace-format
 msgid "Coupon code '{code}' is not active."
-msgstr "Msimbo wa kuponi &#39;{code}&#39; haufanyiki."
+msgstr "Msimbo wa kuponi '{code}' haufanyiki."
 
 #: extensions/basket/utils.py:508
 #, python-brace-format
 msgid "Coupon code '{code}' is not available. {msg}"
-msgstr "Msimbo wa kuponi &#39;{code}&#39; haupatikani. {msg}"
+msgstr "Msimbo wa kuponi '{code}' haupatikani. {msg}"
 
 #: extensions/basket/utils.py:514
 #, python-brace-format
 msgid "Coupon code '{code}' is not valid for this basket."
-msgstr "Msimbo wa kuponi &#39;{code}&#39; si halali kwa kikapu hiki."
+msgstr "Msimbo wa kuponi '{code}' si halali kwa kikapu hiki."
 
 #: extensions/basket/utils.py:527
 #, python-brace-format
 msgid ""
 "Coupon code '{code}' is not valid for this basket for a bundled purchase."
 msgstr ""
-"Msimbo wa kuponi &#39;{code}&#39; si halali kwa kikapu hiki kwa ununuzi wa "
+"Msimbo wa kuponi '{code}' si halali kwa kikapu hiki kwa ununuzi wa "
 "pamoja."
 
 #: extensions/basket/utils.py:582
 #, python-brace-format
 msgid "Coupon code '{code}' added to basket."
-msgstr "Msimbo wa kuponi &#39;{code}&#39; umeongezwa kwenye kikapu."
+msgstr "Msimbo wa kuponi '{code}' umeongezwa kwenye kikapu."
 
 #: extensions/basket/utils.py:585
 #, python-brace-format
@@ -1040,7 +1040,7 @@ msgstr "Kikapu hakijahitimu kupata msimbo wa kuponi {code} ."
 #, python-brace-format
 msgid "Could not apply the code '{code}'; it requires data sharing consent."
 msgstr ""
-"Haikuweza kutumia msimbo &#39;{code}&#39;; inahitaji idhini ya kushiriki "
+"Haikuweza kutumia msimbo '{code}'; inahitaji idhini ya kushiriki "
 "data."
 
 #: extensions/basket/views.py:297
@@ -1136,22 +1136,22 @@ msgstr ""
 #, python-brace-format
 msgid "You have already added coupon code '{code}' to your basket."
 msgstr ""
-"Tayari umeongeza msimbo wa kuponi &#39;{code}&#39; kwenye kikapu chako."
+"Tayari umeongeza msimbo wa kuponi '{code}' kwenye kikapu chako."
 
 #: extensions/basket/views.py:1051
 #, python-brace-format
 msgid "Coupon code '{code}' does not exist."
-msgstr "Msimbo wa kuponi &#39;{code}&#39; haupo."
+msgstr "Msimbo wa kuponi '{code}' haupo."
 
 #: extensions/basket/views.py:1136
 #, python-format
 msgid "No coupon found with id '%s'"
-msgstr "Hakuna kuponi iliyopatikana yenye kitambulisho &#39; %s &#39;"
+msgstr "Hakuna kuponi iliyopatikana yenye kitambulisho ' %s '"
 
 #: extensions/basket/views.py:1140
 #, python-format
 msgid "Coupon code '%s' was removed from your basket."
-msgstr "Msimbo wa kuponi &#39; %s &#39; uliondolewa kwenye kikapu chako."
+msgstr "Msimbo wa kuponi ' %s ' uliondolewa kwenye kikapu chako."
 
 #: extensions/catalogue/models.py:70
 msgid "Last date/time on which this product can be purchased."
@@ -1369,7 +1369,7 @@ msgstr ""
 #: extensions/partner/admin.py:28
 msgid "Click 'Save and Continue Editing' to add stock records"
 msgstr ""
-"Bofya &#39;Hifadhi na Uendelee Kuhariri&#39; ili kuongeza rekodi za hisa"
+"Bofya 'Hifadhi na Uendelee Kuhariri' ili kuongeza rekodi za hisa"
 
 #: extensions/partner/models.py:22
 #: templates/oscar/dashboard/catalogue/product_update.html:193
@@ -3303,7 +3303,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Imeunda lahaja ya bidhaa &#39; %(name)s &#39;.\n"
+"Imeunda lahaja ya bidhaa ' %(name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:17
@@ -3314,7 +3314,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Imeunda lahaja ya &#39; %(parent_name)s &#39;.\n"
+"Imeunda lahaja ya ' %(parent_name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:25
@@ -3325,7 +3325,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Kibadala cha bidhaa kilichosasishwa &#39; %(name)s &#39;.\n"
+"Kibadala cha bidhaa kilichosasishwa ' %(name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:31
@@ -3336,7 +3336,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"Ilisasisha lahaja ya &#39; %(parent_name)s &#39;.\n"
+"Ilisasisha lahaja ya ' %(parent_name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:42
@@ -3347,7 +3347,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"Bidhaa iliyoundwa &#39; %(name)s &#39;.\n"
+"Bidhaa iliyoundwa ' %(name)s '.\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:48
@@ -3358,7 +3358,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"Bidhaa iliyosasishwa &#39; %(name)s &#39;.\n"
+"Bidhaa iliyosasishwa ' %(name)s '.\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:60

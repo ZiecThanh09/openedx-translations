@@ -82,7 +82,7 @@ msgstr "Zaman Ekle(Dakika)"
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:226
 msgid "Add Multiplier as a Number Greater Than 1"
-msgstr "Çarpanı 1&#39;den Büyük Bir Sayı Olarak Ekle"
+msgstr "Çarpanı 1'den Büyük Bir Sayı Olarak Ekle"
 
 #: static/proctoring/js/views/proctored_exam_add_bulk_allowance_view.js:228
 msgid "Add Policy Exception"

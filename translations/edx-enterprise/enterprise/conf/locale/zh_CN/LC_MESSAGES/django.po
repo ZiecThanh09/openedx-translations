@@ -2093,7 +2093,7 @@ msgstr "未找到用户名“ {channel_worker_username} ”的企业频道工作
 #: enterprise/utils.py:184
 msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
-msgstr "无法解析 CSV 文件。请确保它是 CSV &#39;utf-8&#39; 编码文件。"
+msgstr "无法解析 CSV 文件。请确保它是 CSV 'utf-8' 编码文件。"
 
 #: enterprise/utils.py:187
 msgid "Discount percentage should be from 0 to 100."

@@ -5,7 +5,7 @@ en:
   Forum Interaction: Forum Etkileşimi
   Changed By Fk: Fk tarafından değiştirildi
   Problem Engagement: Sorun Etkileşimi
-  Count over time of unique users who performed an action in Superset over the selected time period.: Seçilen zaman diliminde Superset&#39;te bir işlem gerçekleştiren benzersiz kullanıcıların zaman içindeki sayısını sayın.
+  Count over time of unique users who performed an action in Superset over the selected time period.: Seçilen zaman diliminde Superset'te bir işlem gerçekleştiren benzersiz kullanıcıların zaman içindeki sayısını sayın.
   <div>Select a video from the Filters panel to populate these charts.</div>: <div>Bu grafikleri doldurmak için Filtreler panelinden bir video seçin.</div>
   audit: denetim
   Last Name: Soyad
@@ -37,7 +37,7 @@ en:
   Problem Name: Problem Adı
   Superset: Süperset
   Students: Öğrenciler
-  Count of charts created in Superset over the selected time period.: Seçilen zaman diliminde Superset&#39;te oluşturulan grafiklerin sayısı.
+  Count of charts created in Superset over the selected time period.: Seçilen zaman diliminde Superset'te oluşturulan grafiklerin sayısı.
   Responses Per Problem: Sorun Başına Yanıtlar
   ? This chart shows how many unique learners have watched each video, and how many
     repeat views each has gotten. If a video has never been played it will not appear
@@ -75,7 +75,7 @@ en:
   Datasource Type: Veri Kaynağı Türü
   Read Rows: Satırları Oku
   Query: Sorgu
-  Position Json: Json&#39;u konumlandır
+  Position Json: Json'u konumlandır
   Number of Posts: Gönderi Sayısı
   State: Durum
   Last course syncronized: Son ders senkronize edildi
@@ -108,7 +108,7 @@ en:
     the lowest and highest percentage ranges. '
   : 'Bu grafik, bu problem için belirli bir yüzde puan dahilinde puan alan öğrencilerin sayısını gösterir. Başarılı/başarısız olan problemler için yalnızca en düşük ve en yüksek yüzde aralıklarını gösterecektir. '
   Problem Name With Location: Konumla İlgili Sorunun Adı
-  Count of unique users who performed an action in Superset over the selected time period.: Seçilen dönem boyunca Superset&#39;te bir işlem gerçekleştiren benzersiz kullanıcıların sayısı.
+  Count of unique users who performed an action in Superset over the selected time period.: Seçilen dönem boyunca Superset'te bir işlem gerçekleştiren benzersiz kullanıcıların sayısı.
   Distribution Of Problem Grades: Problem Notlarının Dağılımı
   ? This chart displays counts of the number of times hints (including displaying
     the answer itself) were displayed for each learner who eventually answered the
@@ -179,7 +179,7 @@ en:
   Bio: Biyografi
   Login Count: Giriş Sayısı
   Parameters: Parametreler
-  Count of dashboards created in Superset over the selected time period.: Seçilen dönem boyunca Superset&#39;te oluşturulan kontrol panellerinin sayısı.
+  Count of dashboards created in Superset over the selected time period.: Seçilen dönem boyunca Superset'te oluşturulan kontrol panellerinin sayısı.
   Seconds Of Video: Videonun Saniyeleri
   Phone Number: Telefon numarası
   ID: ID
@@ -203,7 +203,7 @@ en:
   Chart showing the number of Superset actions taken on each chart in the selected time period.: Seçilen zaman diliminde her grafikte gerçekleştirilen Süperset eylemlerinin sayısını gösteren grafik.
   Modified: Değiştirilmiş
   External Url: Harici URL
-  Count of the various types of charts created in Superset over the selected time period.: Seçilen zaman diliminde Superset&#39;te oluşturulan çeşitli grafik türlerinin sayısı.
+  Count of the various types of charts created in Superset over the selected time period.: Seçilen zaman diliminde Superset'te oluşturulan çeşitli grafik türlerinin sayısı.
   Posts per user: Kullanıcı başına gönderiler
   Course name: Ders ismi
   Dashboard Status: Kontrol Paneli Durumu
@@ -250,7 +250,7 @@ en:
   ? The current count of active enrollments by their most recent enrollment type,
     so if a learner upgraded from Audit to Verified they will only be counted once
     as Verified. Learners who have un-enrolled in the course are not counted.
-  : En son kayıt türüne göre etkin kayıtların mevcut sayısı; yani bir öğrenci Denetimden Doğrulanmış&#39;a yükseltilirse yalnızca bir kez Doğrulanmış olarak sayılır. Derse kaydını sildiren öğrenciler sayılmaz.
+  : En son kayıt türüne göre etkin kayıtların mevcut sayısı; yani bir öğrenci Denetimden Doğrulanmış'a yükseltilirse yalnızca bir kez Doğrulanmış olarak sayılır. Derse kaydını sildiren öğrenciler sayılmaz.
   Course Data JSON: Kurs Verileri JSON
   Number of Hints Displayed: Görüntülenen İpucu Sayısı
   Attempts: Denemeler

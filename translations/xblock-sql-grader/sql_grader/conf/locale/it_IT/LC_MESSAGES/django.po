@@ -86,7 +86,7 @@ msgid ""
 "before the verify_query."
 msgstr ""
 "Istruzioni SQL facoltative, da eseguire dopo la query inviata "
-"dall&#39;utente, ma prima di verify_query."
+"dall'utente, ma prima di verify_query."
 
 #: mixins/grading.py:212
 msgid "Is Ordered?"

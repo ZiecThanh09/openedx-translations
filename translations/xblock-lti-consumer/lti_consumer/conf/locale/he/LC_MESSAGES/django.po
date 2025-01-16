@@ -97,8 +97,8 @@ msgid ""
 "staff provided you with a pre-configured LTI reusable Tool ID, "
 "select'Reusable Configuration' and enter it in the text field below."
 msgstr ""
-"בחר &#39;תצורה בבלוק&#39; כדי להגדיר כלי LTI חדש. אם צוות התמיכה סיפק לך "
-"מזהה כלי לשימוש חוזר LTI שהוגדר מראש, בחר &#39;תצורה לשימוש חוזר&#39; והזן "
+"בחר 'תצורה בבלוק' כדי להגדיר כלי LTI חדש. אם צוות התמיכה סיפק לך "
+"מזהה כלי לשימוש חוזר LTI שהוגדר מראש, בחר 'תצורה לשימוש חוזר' והזן "
 "אותו בשדה הטקסט למטה."
 
 #: lti_xblock.py:293
@@ -250,7 +250,7 @@ msgid ""
 "specify one, use the same value as 'Tool Launch URL'."
 msgstr ""
 "הזן את כתובת האתר של השקת קישור עמוק של LTI Advantage. אם הכלי לא מציין אחת,"
-" השתמש באותו ערך כמו &#39;כתובת אתר להפעלת כלי&#39;."
+" השתמש באותו ערך כמו 'כתובת אתר להפעלת כלי'."
 
 #: lti_xblock.py:423
 msgid "LTI Assignment and Grades Service"
@@ -276,8 +276,8 @@ msgid ""
 "tools to manage, create and link the grades."
 msgstr ""
 "הפעל את שירות LTI-AGS ובחר את הפונקציונליות המופעלת עבור כלי LTI. המצב "
-"ה&#39;הצהרתי&#39; (ברירת מחדל) יספק כלי עם LineItem שנוצר מהגדרות XBlock, "
-"בעוד ה&#39;פרוגרמטי&#39; יאפשר לכלים לנהל, ליצור ולקשר את הציונים."
+"ה'הצהרתי' (ברירת מחדל) יספק כלי עם LineItem שנוצר מהגדרות XBlock, "
+"בעוד ה'פרוגרמטי' יאפשר לכלים לנהל, ליצור ולקשר את הציונים."
 
 #: lti_xblock.py:440
 msgid "LTI ID"

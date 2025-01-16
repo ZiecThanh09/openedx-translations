@@ -32,7 +32,7 @@ msgstr ""
 #: api/v1/views.py:89
 #, python-brace-format
 msgid "Key '{key}' not found."
-msgstr "ไม่พบคีย์ &#39;{key}&#39;"
+msgstr "ไม่พบคีย์ '{key}'"
 
 #: api/v1/views.py:97
 msgid "User is not enrolled in course."
@@ -49,7 +49,7 @@ msgstr "รหัสบล็อกไม่ถูกต้อง: {}"
 #: api/v1/views.py:132
 #, python-brace-format
 msgid "Block with key: '{key}' is not in context {context}"
-msgstr "บล็อกด้วยคีย์: &#39;{key}&#39; ไม่ได้อยู่ในบริบท {context}"
+msgstr "บล็อกด้วยคีย์: '{key}' ไม่ได้อยู่ในบริบท {context}"
 
 #: api/v1/views.py:174
 msgid " "

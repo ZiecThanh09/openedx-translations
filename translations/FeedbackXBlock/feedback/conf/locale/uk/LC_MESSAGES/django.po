@@ -109,7 +109,7 @@ msgstr "Дякуємо за голосування!"
 
 #: feedback.py:122 templates/html/studio_view.html:25
 msgid "Feedback message"
-msgstr "Повідомлення зворотного зв&#39;язку"
+msgstr "Повідомлення зворотного зв'язку"
 
 #: feedback.py:123
 msgid "Thank you for your feedback!"
@@ -157,7 +157,7 @@ msgstr "Середня оцінка"
 
 #: static/html/feedback_instructor.html:19
 msgid "Feedback "
-msgstr "Зворотній зв&#39;язок "
+msgstr "Зворотній зв'язок "
 
 #: static/html/feedback_instructor.html:27
 msgid "See Unit"

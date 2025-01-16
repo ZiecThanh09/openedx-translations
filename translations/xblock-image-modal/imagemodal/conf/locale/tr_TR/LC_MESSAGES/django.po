@@ -27,11 +27,11 @@ msgstr "Görünen Ad"
 
 #: models.py:28
 msgid "This is the XBlock's display name"
-msgstr "Bu XBlock&#39;un görünen adıdır"
+msgstr "Bu XBlock'un görünen adıdır"
 
 #: models.py:32
 msgid "Image URL"
-msgstr "Resim URL&#39;si"
+msgstr "Resim URL'si"
 
 #: models.py:41
 msgid "This is the location of the full-screen image to be displayed."
@@ -39,7 +39,7 @@ msgstr "Bu, görüntülenecek tam ekran görüntünün konumudur."
 
 #: models.py:46
 msgid "Thumbnail URL"
-msgstr "Küçük resim URL&#39;si"
+msgstr "Küçük resim URL'si"
 
 #: models.py:50
 msgid ""

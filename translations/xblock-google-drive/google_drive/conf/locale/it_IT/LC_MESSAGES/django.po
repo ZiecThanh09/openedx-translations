@@ -46,7 +46,7 @@ msgid ""
 "into this field."
 msgstr ""
 "Google fornisce un ID per i calendari disponibili pubblicamente. In Google "
-"Calendar, apri Impostazioni e copia l&#39;ID dalla sezione Indirizzo del "
+"Calendar, apri Impostazioni e copia l'ID dalla sezione Indirizzo del "
 "calendario in questo campo."
 
 #: google_calendar.py:60 templates/html/google_calendar_edit.html:41
@@ -84,8 +84,8 @@ msgstr "Testo alternativo"
 msgid ""
 "Alternative text describes an image and appears if the image is unavailable."
 msgstr ""
-"Il testo alternativo descrive un&#39;immagine e viene visualizzato se "
-"l&#39;immagine non è disponibile."
+"Il testo alternativo descrive un'immagine e viene visualizzato se "
+"l'immagine non è disponibile."
 
 #: templates/html/google_calendar_edit.html:9
 msgid "Invalid Google Calendar"
@@ -109,7 +109,7 @@ msgid ""
 "into this field. You can "
 msgstr ""
 "Google fornisce un ID per i calendari disponibili pubblicamente. In Google "
-"Calendar, apri Impostazioni e copia l&#39;ID dalla sezione Indirizzo del "
+"Calendar, apri Impostazioni e copia l'ID dalla sezione Indirizzo del "
 "calendario in questo campo. Puoi "
 
 #: templates/html/google_calendar_edit.html:60

@@ -258,7 +258,7 @@ msgstr "מימוש"
 msgid ""
 "Caution! Using the back button on this page may cause you to be charged "
 "again."
-msgstr "זְהִירוּת! שימוש בלחצן &#39;הקודם&#39; בדף זה עלול לגרום לחיוב שוב."
+msgstr "זְהִירוּת! שימוש בלחצן 'הקודם' בדף זה עלול לגרום לחיוב שוב."
 
 #. Translators: Do not translate "Apple Pay".
 #: static/js/payment_processors/cybersource.js:225

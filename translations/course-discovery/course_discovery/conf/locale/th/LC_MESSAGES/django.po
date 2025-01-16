@@ -1431,7 +1431,7 @@ msgid ""
 msgstr ""
 "ตัวระบุสำหรับตัวเลือกสินค้า "
 "ใช้เพื่อเชื่อมโยงการดำเนินหลักสูตรกับตัวเลือกผลิตภัณฑ์สำหรับ LOB ภายนอก "
-"(เช่น ExecEd &amp; Bootcamps)"
+"(เช่น ExecEd & Bootcamps)"
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
 msgid "Current"
@@ -2153,7 +2153,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"หลักสูตร &#39; %(course_name)s &#39; ได้รับการตรวจสอบโดย edX เรียบร้อยแล้ว และขณะนี้ได้รับการเผยแพร่บน %(course_publish_date)s หากต้องการดูหลักสูตรสด ไปที่นี่: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"หลักสูตร ' %(course_name)s ' ได้รับการตรวจสอบโดย edX เรียบร้อยแล้ว และขณะนี้ได้รับการเผยแพร่บน %(course_publish_date)s หากต้องการดูหลักสูตรสด ไปที่นี่: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:12
@@ -2165,7 +2165,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"หลักสูตร &#39; %(course_name)s &#39; ได้รับการตรวจสอบโดย edX เรียบร้อยแล้ว และพร้อมสำหรับการเผยแพร่แล้ว หลักสูตรนี้จะเผยแพร่ในวันที่ %(course_publish_date)s .\n"
+"หลักสูตร ' %(course_name)s ' ได้รับการตรวจสอบโดย edX เรียบร้อยแล้ว และพร้อมสำหรับการเผยแพร่แล้ว หลักสูตรนี้จะเผยแพร่ในวันที่ %(course_publish_date)s .\n"
 " หากต้องการดูตัวอย่างหน้าเกี่ยวกับหลักสูตร ไปที่นี่: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
@@ -2176,7 +2176,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"หลักสูตร &#39; %(course_name)s &#39; ได้รับการตรวจสอบโดย edX เรียบร้อยแล้ว และขณะนี้ได้รับการเผยแพร่บน %(course_publish_date)s หากต้องการดูหลักสูตรสด ไปที่นี่: %(course_marketing_url)s\n"
+"หลักสูตร ' %(course_name)s ' ได้รับการตรวจสอบโดย edX เรียบร้อยแล้ว และขณะนี้ได้รับการเผยแพร่บน %(course_publish_date)s หากต้องการดูหลักสูตรสด ไปที่นี่: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format
@@ -2186,7 +2186,7 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"หลักสูตร &#39; %(course_name)s &#39; ได้รับการตรวจสอบโดย edX เรียบร้อยแล้ว และพร้อมสำหรับการเผยแพร่แล้ว หลักสูตรนี้จะเผยแพร่ในวันที่ %(course_publish_date)s .\n"
+"หลักสูตร ' %(course_name)s ' ได้รับการตรวจสอบโดย edX เรียบร้อยแล้ว และพร้อมสำหรับการเผยแพร่แล้ว หลักสูตรนี้จะเผยแพร่ในวันที่ %(course_publish_date)s .\n"
 " หากต้องการดูตัวอย่างหน้าเกี่ยวกับหลักสูตร ไปที่นี่: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:380

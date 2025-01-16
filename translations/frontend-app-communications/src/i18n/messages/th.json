@@ -45,7 +45,7 @@
   "bulk.email.content.history.table.modal.timeSent": "เวลาที่ส่ง:",
   "bulk.email.content.history.table.modal.sentTo": "ส่งไปยัง:",
   "bulk.email.content.history.table.modal.messageBody": "ข้อความ:",
-  "bulk.email.content.history.table.viewMessageInstructions": "หากต้องการอ่านข้อความอีเมลที่ส่ง ให้คลิกปุ่ม &#39;ดูข้อความ&#39; ภายในตาราง",
+  "bulk.email.content.history.table.viewMessageInstructions": "หากต้องการอ่านข้อความอีเมลที่ส่ง ให้คลิกปุ่ม 'ดูข้อความ' ภายในตาราง",
   "bulk.email.content.history.table.column.header.subject": "หัวข้อ:",
   "bulk.email.content.history.table.column.header.author": "ส่งโดย:",
   "bulk.email.content.history.table.column.header.recipients": "Sent To",

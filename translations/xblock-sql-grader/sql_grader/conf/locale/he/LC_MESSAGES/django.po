@@ -72,7 +72,7 @@ msgid ""
 "query here, which is used for matching the answer"
 msgstr ""
 "שאילתת SQL אימות משנית, לשימוש אם ה-answer_query משנה את מסד הנתונים "
-"(UPDATE, INSERT, DELETE וכו&#39;). הזן כאן שאילתת SELECT יחידה בלבד, המשמשת "
+"(UPDATE, INSERT, DELETE וכו'). הזן כאן שאילתת SELECT יחידה בלבד, המשמשת "
 "להתאמת התשובה"
 
 #: mixins/grading.py:202

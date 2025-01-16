@@ -689,7 +689,7 @@ msgid ""
 "completion."
 msgstr ""
 "Cuando se establece en Verdadero, la integración utilizará el usuario del "
-"servicio edX genérico (&#39;sapsf_user_id&#39;) definido en la Configuración"
+"servicio edX genérico ('sapsf_user_id') definido en la Configuración"
 " del cliente de SAP para completar el curso."
 
 #: integrated_channels/xapi/models.py:33
@@ -868,9 +868,9 @@ msgstr ""
 "El sitio del proveedor de identidad seleccionado ( {identity_provider_site} "
 ") no coincide con el sitio de este cliente empresarial ( "
 "{enterprise_customer_site} ). Para corregir este problema, seleccione un "
-"sitio que tenga un dominio de &#39; {identity_provider_site} &#39; o "
-"actualice el proveedor de identidad a &#39; {enterprise_customer_site} "
-"&#39;."
+"sitio que tenga un dominio de ' {identity_provider_site} ' o "
+"actualice el proveedor de identidad a ' {enterprise_customer_site} "
+"'."
 
 #: enterprise/admin/forms.py:611
 #, python-brace-format
@@ -1736,7 +1736,7 @@ msgid ""
 msgstr ""
 "Especifica si el catálogo puede incluir cursos exec ed (2U). Esto significa "
 "que, cuando content_filter especifica que los tipos de contenido de "
-"&#39;curso&#39; deben incluirse en el catálogo, los tipos de cursos de "
+"'curso' deben incluirse en el catálogo, los tipos de cursos de "
 "educación ejecutiva-2u no se excluirán del contenido del catálogo asociado."
 
 #: enterprise/models.py:2370
@@ -2485,7 +2485,7 @@ msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
 "No se puede analizar el archivo CSV. Asegúrese de que sea un archivo "
-"codificado en CSV &#39;utf-8&#39;."
+"codificado en CSV 'utf-8'."
 
 #: enterprise/utils.py:187
 msgid "Discount percentage should be from 0 to 100."

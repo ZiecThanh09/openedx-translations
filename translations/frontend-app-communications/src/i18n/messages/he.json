@@ -45,7 +45,7 @@
   "bulk.email.content.history.table.modal.timeSent": "זמן נשלח:",
   "bulk.email.content.history.table.modal.sentTo": "נשלח ל:",
   "bulk.email.content.history.table.modal.messageBody": "הודעה:",
-  "bulk.email.content.history.table.viewMessageInstructions": "כדי לקרוא הודעת דואר אלקטרוני שנשלחה, לחץ על הלחצן &#39;הצג הודעה&#39; בטבלה.",
+  "bulk.email.content.history.table.viewMessageInstructions": "כדי לקרוא הודעת דואר אלקטרוני שנשלחה, לחץ על הלחצן 'הצג הודעה' בטבלה.",
   "bulk.email.content.history.table.column.header.subject": "נושא",
   "bulk.email.content.history.table.column.header.author": "נשלח על ידי",
   "bulk.email.content.history.table.column.header.recipients": "נשלח אל",

@@ -5,7 +5,7 @@ en:
   Forum Interaction: Interazione del forum
   Changed By Fk: Modificato da Fk
   Problem Engagement: Coinvolgimento del problema
-  Count over time of unique users who performed an action in Superset over the selected time period.: Conteggio nel tempo degli utenti unici che hanno eseguito un&#39;azione in Superset nel periodo di tempo selezionato.
+  Count over time of unique users who performed an action in Superset over the selected time period.: Conteggio nel tempo degli utenti unici che hanno eseguito un'azione in Superset nel periodo di tempo selezionato.
   <div>Select a video from the Filters panel to populate these charts.</div>: <div>Seleziona un video dal pannello Filtri per popolare questi grafici.</div>
   audit: verifica
   Last Name: Cognome
@@ -21,7 +21,7 @@ en:
   Charts by Type: Grafici per tipo
   Certification Details: Dettagli della certificazione
   Video Performance: Prestazioni video
-  User Actions: Azioni dell&#39;utente
+  User Actions: Azioni dell'utente
   Video Title: Titolo del video
   Certified By: Certificato da
   Enrollments: Iscrizioni
@@ -48,7 +48,7 @@ en:
   Number Of Users: Numero di utenti
   Username: Nome utente
   xAPI Events Over Time: Eventi xAPI nel tempo
-  Actor ID: Identificativo dell&#39;attore
+  Actor ID: Identificativo dell'attore
   Slug: Slug
   Created On: Creato
   Object Type: Tipo di oggetto
@@ -60,14 +60,14 @@ en:
   Enrollment Status Date: Data dello stato di iscrizione
   Grade Type: Tipo di grado
   Display Name: Mostra il nome
-  Action Date: Data dell&#39;azione
+  Action Date: Data dell'azione
   Actor IDs over time: ID degli attori nel tempo
   ? The cumulative total of unique enrolled learners based on their enrollment state
     at the end of each day. If a learner was enrolled previously, but has left the
     course since, they are not counted as of the date they left. If they re-enroll
     in the course they will be counted again.
   : "Il totale cumulativo degli studenti iscritti unici in base al loro stato di iscrizione alla fine di ogni giornata. Se uno studente era iscritto in precedenza, ma da allora ha abbandonato il corso, non viene conteggiato a partire dalla data in cui ha lasciato il corso. Se si iscrivono nuovamente al corso verranno conteggiati nuovamente."
-  Entity Name: Nome dell&#39;entità
+  Entity Name: Nome dell'entità
   Description: Descrizione
   Verb: Verbo
   Datasource ID: ID origine dati
@@ -88,7 +88,7 @@ en:
   : Questo grafico mostra il numero di tentativi che gli studenti hanno dovuto fare prima di ottenere la risposta corretta al problema. Vengono conteggiati solo gli studenti che alla fine hanno risposto correttamente.
   Profile Image Uploaded At: Immagine del profilo caricata su
   Action Count: Conteggio delle azioni
-  Datasource Name: Nome dell&#39;origine dati
+  Datasource Name: Nome dell'origine dati
   <div>Select a course from the Filters panel to populate these charts.</div>: <div>Seleziona un corso dal pannello Filtri per popolare questi grafici.</div>
   Language: Lingua
   Repeat Views: Ripeti visualizzazioni
@@ -96,19 +96,19 @@ en:
   Most-used Charts: Grafici più utilizzati
   Dump ID: Scarica ID
   Event String: Stringa di eventi
-  Object ID: Identificativo dell&#39;oggetto
+  Object ID: Identificativo dell'oggetto
   Segment Start: Inizio segmento
   Number Of Students: Numero di studenti
   '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}': '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}'
   Self Paced: Apprendimento autonomo
   Action Cluster: Gruppo di azioni
-  Time Last Dumped: Ora dell&#39;ultimo dumping
+  Time Last Dumped: Ora dell'ultimo dumping
   ? 'This chart shows the number of students who scored within a certain percentage
     of points for this problem. For problems that are pass/fail it will only show
     the lowest and highest percentage ranges. '
   : 'Questo grafico mostra il numero di studenti che hanno ottenuto un punteggio entro una certa percentuale di punti per questo problema. Per i problemi superati/falliti verranno mostrati solo gli intervalli percentuali più bassi e più alti. '
   Problem Name With Location: Nome del problema con posizione
-  Count of unique users who performed an action in Superset over the selected time period.: Conteggio di utenti unici che hanno eseguito un&#39;azione in Superset nel periodo di tempo selezionato.
+  Count of unique users who performed an action in Superset over the selected time period.: Conteggio di utenti unici che hanno eseguito un'azione in Superset nel periodo di tempo selezionato.
   Distribution Of Problem Grades: Distribuzione dei voti problematici
   ? This chart displays counts of the number of times hints (including displaying
     the answer itself) were displayed for each learner who eventually answered the
@@ -135,10 +135,10 @@ en:
   Unique Viewers: Spettatori unici
   Actor Id: Attore Id
   Responses: Risposte
-  Event Time: Orario dell&#39;evento
+  Event Time: Orario dell'evento
   Active Users Over Time v2: Utenti attivi nel tempo v2
   Watches Per Video: Orologi per video
-  User Registration Date: Data di registrazione dell&#39;utente
+  User Registration Date: Data di registrazione dell'utente
   '{{ASPECTS_INSTRUCTOR_HELP_MARKDOWN}}': '{{ASPECTS_INSTRUCTOR_HELP_MARKDOWN}}'
   ClickHouse metrics: Metriche ClickHouse
   Answers Chosen: Risposte scelte
@@ -147,7 +147,7 @@ en:
   ? A count of the number of enrollments and un-enrollments per day. Learners can
     enroll and unenroll multiple times, in this chart each individual enrollment and
     unenrollment will be counted.
-  : "Conteggio del numero di iscrizioni e cancellazioni giornaliere. Gli studenti possono iscriversi e annullare l&#39;iscrizione più volte, in questa tabella verrà conteggiata ogni singola iscrizione e cancellazione."
+  : "Conteggio del numero di iscrizioni e cancellazioni giornaliere. Gli studenti possono iscriversi e annullare l'iscrizione più volte, in questa tabella verrà conteggiata ogni singola iscrizione e cancellazione."
   Enrollments By Type: Iscrizioni per tipologia
   XBlock Data JSON: Dati XBlock JSON
   Country: Paese
@@ -187,7 +187,7 @@ en:
   Dashboard ID: Identificativo del cruscotto
   Course Enrollments Over Time: Iscrizioni ai corsi nel tempo
   External ID Type: Tipo ID esterno
-  Instance Health: Salute dell&#39;istanza
+  Instance Health: Salute dell'istanza
   Total transcript usage: Utilizzo totale della trascrizione
   Total Organizations: Organizzazioni totali
   Video Id: ID video
@@ -240,7 +240,7 @@ en:
   : Questo grafico aiuta a capire quanti studenti utilizzano le trascrizioni o i sottotitoli del video. Se il video non ha trascrizioni o didascalie la tabella sarà vuota.
   Enrollment Status: Stato di iscrizione
   Query performance: Interrogare le prestazioni
-  Operator Dashboard: Cruscotto dell&#39;operatore
+  Operator Dashboard: Cruscotto dell'operatore
   Problem Id: ID problema
   Course run: Corsa del corso
   Number Of Viewers / Views: Numero di spettatori/visualizzazioni
@@ -250,7 +250,7 @@ en:
   ? The current count of active enrollments by their most recent enrollment type,
     so if a learner upgraded from Audit to Verified they will only be counted once
     as Verified. Learners who have un-enrolled in the course are not counted.
-  : "Il conteggio attuale delle iscrizioni attive in base al tipo di iscrizione più recente, quindi se uno studente è passato da Verifica a Verificato verrà conteggiato come Verificato solo una volta. Non vengono conteggiati gli studenti che hanno rinunciato all&#39;iscrizione al corso."
+  : "Il conteggio attuale delle iscrizioni attive in base al tipo di iscrizione più recente, quindi se uno studente è passato da Verifica a Verificato verrà conteggiato come Verificato solo una volta. Non vengono conteggiati gli studenti che hanno rinunciato all'iscrizione al corso."
   Course Data JSON: Dati del corso JSON
   Number of Hints Displayed: Numero di suggerimenti visualizzati
   Attempts: "Tentativi "

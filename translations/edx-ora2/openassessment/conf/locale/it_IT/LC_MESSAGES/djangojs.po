@@ -570,7 +570,7 @@ msgid ""
 "criterion in the Learner Training step. To do this, click the Assessment "
 "Steps tab."
 msgstr ""
-"Hai aggiunto un criterio. Dovrai selezionare un&#39;opzione per il criterio "
+"Hai aggiunto un criterio. Dovrai selezionare un'opzione per il criterio "
 "nella fase di formazione dello studente. Per fare ciò, fare clic sulla "
 "scheda Passi di valutazione."
 

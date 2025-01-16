@@ -26,7 +26,7 @@ msgstr "Chính sách pháp luật"
 
 #: templates/edx.org/_footer.html:11
 msgid "Terms of Service & Honor Code"
-msgstr "Điều khoản dịch vụ &amp; Mã danh dự"
+msgstr "Điều khoản dịch vụ & Mã danh dự"
 
 #: templates/edx.org/_footer.html:16
 msgid "Privacy Policy"

@@ -77,7 +77,7 @@ msgstr "Це список рекомендованих ресурсів. Якщ�
 
 #: templates/recommender.html:84 static/js/src/cats.js:158
 msgid "Show related resources"
-msgstr "Показати пов&#39;язані ресурси"
+msgstr "Показати пов'язані ресурси"
 
 #: templates/recommender.html:91
 msgid ""
@@ -128,7 +128,7 @@ msgstr "скасувати та повернутися до списку рес�
 
 #: templates/recommender.html:139
 msgid "&lt; Related resources"
-msgstr "&lt; Пов&#39;язані ресурси"
+msgstr "&lt; Пов'язані ресурси"
 
 #: templates/recommender.html:145
 msgid "Resources (in JSON format):"
@@ -450,7 +450,7 @@ msgstr "Видаліть цей ресурс і вкажіть причину, �
 
 #: static/js/src/cats.js:157
 msgid "Hide related resources"
-msgstr "Приховати пов&#39;язані ресурси"
+msgstr "Приховати пов'язані ресурси"
 
 #: static/js/src/cats.js:191
 msgid "From page {fromPage} To page {toPage}"

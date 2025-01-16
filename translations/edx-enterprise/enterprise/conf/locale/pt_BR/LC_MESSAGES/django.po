@@ -676,7 +676,7 @@ msgid ""
 "completion."
 msgstr ""
 "Quando definido como True, a integração usará o usuário genérico do serviço "
-"edX (&#39;sapsf_user_id&#39;) definido na configuração do cliente SAP para "
+"edX ('sapsf_user_id') definido na configuração do cliente SAP para "
 "conclusão do curso."
 
 #: integrated_channels/xapi/models.py:33
@@ -732,7 +732,7 @@ msgstr ""
 "O arquivo .csv deve conter uma coluna de endereços de email, indicada pelo "
 "título ‘email’ na primeira linha. Opcionalmente, o arquivo .csv pode conter "
 "uma coluna de chaves de execução do curso, indicada pelo título "
-"&#39;course_id&#39; na primeira linha, para inscrever alunos em vários "
+"'course_id' na primeira linha, para inscrever alunos em vários "
 "cursos."
 
 #: enterprise/admin/forms.py:68
@@ -852,8 +852,8 @@ msgstr ""
 "O site do provedor de identidade selecionado ( {identity_provider_site} ) "
 "não corresponde ao site deste cliente corporativo ( "
 "{enterprise_customer_site} ). Para corrigir esse problema, selecione um site"
-" que tenha o domínio &#39; {identity_provider_site} &#39; ou atualize o "
-"provedor de identidade para &#39; {enterprise_customer_site} &#39;."
+" que tenha o domínio ' {identity_provider_site} ' ou atualize o "
+"provedor de identidade para ' {enterprise_customer_site} '."
 
 #: enterprise/admin/forms.py:611
 #, python-brace-format
@@ -1708,7 +1708,7 @@ msgid ""
 msgstr ""
 "Especifica se o catálogo pode incluir cursos de educação executiva (2U). "
 "Isso significa que, quando o content_filter especifica que os tipos de "
-"conteúdo &#39;curso&#39; devem ser incluídos no catálogo, os tipos de curso "
+"conteúdo 'curso' devem ser incluídos no catálogo, os tipos de curso "
 "executive-education-2u não serão excluídos do conteúdo do catálogo "
 "associado."
 
@@ -2442,7 +2442,7 @@ msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
 "Não foi possível analisar o arquivo CSV. Certifique-se de que seja um "
-"arquivo CSV codificado &#39;utf-8&#39;."
+"arquivo CSV codificado 'utf-8'."
 
 #: enterprise/utils.py:187
 msgid "Discount percentage should be from 0 to 100."

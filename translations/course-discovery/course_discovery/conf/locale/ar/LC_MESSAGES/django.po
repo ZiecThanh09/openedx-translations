@@ -1431,7 +1431,7 @@ msgid ""
 " product variant for external LOBs (i.e; ExecEd & Bootcamps)."
 msgstr ""
 "معرف متغير المنتج. يتم استخدام هذا لربط دورة تدريبية يتم تشغيلها بمتغير منتج"
-" لـ LOBs الخارجية (على سبيل المثال؛ ExecEd &amp; Bootcamps)."
+" لـ LOBs الخارجية (على سبيل المثال؛ ExecEd & Bootcamps)."
 
 #: apps/course_metadata/models.py:2552 apps/course_metadata/models.py:2565
 msgid "Current"
@@ -2160,7 +2160,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"تمت مراجعة الدورة التدريبية &#39; %(course_name)s &#39; بنجاح بواسطة edX وتم نشرها الآن على %(course_publish_date)s . لمشاهدة الدورة الحية ، انتقل هنا: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
+"تمت مراجعة الدورة التدريبية ' %(course_name)s ' بنجاح بواسطة edX وتم نشرها الآن على %(course_publish_date)s . لمشاهدة الدورة الحية ، انتقل هنا: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:12
 #, python-format
@@ -2180,7 +2180,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"تمت مراجعة الدورة التدريبية &#39; %(course_name)s &#39; بنجاح بواسطة edX وتم نشرها الآن على %(course_publish_date)s . لمشاهدة الدورة الحية ، انتقل هنا: %(course_marketing_url)s\n"
+"تمت مراجعة الدورة التدريبية ' %(course_name)s ' بنجاح بواسطة edX وتم نشرها الآن على %(course_publish_date)s . لمشاهدة الدورة الحية ، انتقل هنا: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format

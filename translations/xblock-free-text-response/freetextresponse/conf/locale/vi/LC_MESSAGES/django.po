@@ -163,7 +163,7 @@ msgstr "Lưu"
 
 #: templates/view.html:34
 msgid "Hide"
-msgstr "Trốn"
+msgstr "Ẩn"
 
 #: templates/view.html:35
 msgid "Show"

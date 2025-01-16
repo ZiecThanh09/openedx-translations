@@ -935,7 +935,7 @@ msgid ""
 "Your order {} can not be refunded as '{}' coupon are not supported to "
 "refund."
 msgstr ""
-"Ваш заказ {} не может быть возвращен, поскольку купон &#39;{}&#39; не "
+"Ваш заказ {} не может быть возвращен, поскольку купон '{}' не "
 "поддерживается для возврата средств."
 
 #: extensions/api/serializers.py:2163

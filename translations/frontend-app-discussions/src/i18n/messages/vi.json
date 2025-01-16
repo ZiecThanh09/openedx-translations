@@ -59,7 +59,7 @@
   "discussions.learner.previouslyReported": "{previouslyReported} đã báo cáo trước đó",
   "discussions.learner.lastLogin": "Hoạt động lần cuối {lastActiveTime}",
   "discussions.learner.loadMostLearners": "Tải thêm",
-  "discussions.learner.back": "Mặt sau",
+  "discussions.learner.back": "Trở về",
   "discussions.learner.activityForLearner": "Hoạt động cho {username}",
   "discussions.learner.mostActivity": "Hoạt động nhiều nhất",
   "discussions.learner.reportedActivity": "Hoạt động được báo cáo",

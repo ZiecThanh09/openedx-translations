@@ -724,7 +724,7 @@ msgstr "Kunakili"
 
 #: cms/static/js/views/course_outline.js:328
 msgid "Copy of '{componentDisplayName}'"
-msgstr "Nakala ya &#39;{componentDisplayName}&#39;"
+msgstr "Nakala ya '{componentDisplayName}'"
 
 #: cms/static/js/views/course_outline.js:364
 #: cms/static/js/views/pages/container.js:285
@@ -2928,7 +2928,7 @@ msgstr "Weka Kiungo"
 
 #: lms/static/js/Markdown.Editor.js:28
 msgid "e.g. 'http://google.com'"
-msgstr "kwa mfano &#39;http://google.com&#39;"
+msgstr "kwa mfano 'http://google.com'"
 
 #: lms/static/js/Markdown.Editor.js:29
 msgid "Link Description"
@@ -2936,7 +2936,7 @@ msgstr "Maelezo ya Kiungo"
 
 #: lms/static/js/Markdown.Editor.js:30
 msgid "e.g. 'google'"
-msgstr "mfano &#39;google&#39;"
+msgstr "mfano 'google'"
 
 #: lms/static/js/Markdown.Editor.js:31
 msgid "Please provide a description of the link destination."
@@ -2952,7 +2952,7 @@ msgid ""
 "machine. (e.g. 'http://example.com/img/clouds.jpg')"
 msgstr ""
 "Andika URL au utumie kitufe cha &quot;Chagua Faili&quot; ili kupakia faili "
-"kutoka kwa mashine yako. (mfano &#39;http://example.com/img/clouds.jpg&#39;)"
+"kutoka kwa mashine yako. (mfano 'http://example.com/img/clouds.jpg')"
 
 #: lms/static/js/Markdown.Editor.js:37
 msgid "Image Description"
@@ -2971,7 +2971,7 @@ msgid ""
 "e.g. 'Sky with clouds'. The description is helpful for users who cannot see "
 "the image."
 msgstr ""
-"kwa mfano &#39;Anga yenye mawingu&#39;. Maelezo ni muhimu kwa watumiaji "
+"kwa mfano 'Anga yenye mawingu'. Maelezo ni muhimu kwa watumiaji "
 "ambao hawawezi kuona picha."
 
 #: lms/static/js/Markdown.Editor.js:43
@@ -4295,7 +4295,7 @@ msgstr ""
 msgid "Entrance exam attempts is being reset for student '{student_id}'."
 msgstr ""
 "Majaribio ya mitihani ya kuingia yanawekwa upya kwa mwanafunzi "
-"&#39;{student_id}&#39;."
+"'{student_id}'."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:295
 msgid ""
@@ -4303,7 +4303,7 @@ msgid ""
 " student identifier is correct."
 msgstr ""
 "Hitilafu ya kuweka upya majaribio ya mtihani wa kujiunga na mwanafunzi "
-"&#39;{student_id}&#39;. Hakikisha kuwa kitambulisho cha mwanafunzi ni "
+"'{student_id}'. Hakikisha kuwa kitambulisho cha mwanafunzi ni "
 "sahihi."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:313
@@ -4316,7 +4316,7 @@ msgid ""
 "Do you want to allow this student ('{student_id}') to skip the entrance "
 "exam?"
 msgstr ""
-"Je, ungependa kumruhusu mwanafunzi huyu (&#39;{student_id}&#39;) kuruka "
+"Je, ungependa kumruhusu mwanafunzi huyu ('{student_id}') kuruka "
 "mtihani wa kujiunga?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:333
@@ -4330,7 +4330,7 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/student_admin.js:359
 msgid "Entrance exam state is being deleted for student '{student_id}'."
 msgstr ""
-"Hali ya mtihani wa kuingia inafutwa kwa mwanafunzi &#39;{student_id}&#39;."
+"Hali ya mtihani wa kuingia inafutwa kwa mwanafunzi '{student_id}'."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:367
 msgid ""
@@ -4338,7 +4338,7 @@ msgid ""
 "student identifier is correct."
 msgstr ""
 "Hitilafu katika kufuta hali ya mtihani wa kuingia kwa mwanafunzi "
-"&#39;{student_id}&#39;. Hakikisha kuwa kitambulisho cha mwanafunzi ni "
+"'{student_id}'. Hakikisha kuwa kitambulisho cha mwanafunzi ni "
 "sahihi."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:396
@@ -4347,7 +4347,7 @@ msgid ""
 "sure student identifier is correct."
 msgstr ""
 "Hitilafu katika kupata historia ya kazi ya mtihani wa kuingia kwa mwanafunzi"
-" &#39;{student_id}&#39;. Hakikisha kuwa kitambulisho cha mwanafunzi ni "
+" '{student_id}'. Hakikisha kuwa kitambulisho cha mwanafunzi ni "
 "sahihi."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:413
@@ -4362,7 +4362,7 @@ msgid ""
 " Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "Imefaulu kuanza kazi ya kuweka upya majaribio ya tatizo '<%- problem_id %>'."
-" Bofya kitufe cha &#39;Onyesha Hali ya Kazi&#39; ili kuona hali ya kazi."
+" Bofya kitufe cha 'Onyesha Hali ya Kazi' ili kuona hali ya kazi."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:426
 msgid ""
@@ -4386,8 +4386,8 @@ msgid ""
 "of the task."
 msgstr ""
 "Alianza kazi ya tatizo la matokeo kwa tatizo '<%- problem_id %>' na "
-"mwanafunzi '<%- student_id %>'. Bofya kitufe cha &#39;Onyesha Hali ya "
-"Kazi&#39; ili kuona hali ya kazi."
+"mwanafunzi '<%- student_id %>'. Bofya kitufe cha 'Onyesha Hali ya "
+"Kazi' ili kuona hali ya kazi."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:508
 msgid ""
@@ -4410,8 +4410,8 @@ msgid ""
 "status of the task."
 msgstr ""
 "Ilianza kazi ya kubatilisha alama za tatizo '<%- problem_id %>' na "
-"mwanafunzi '<%- student_id %>'. Bofya kitufe cha &#39;Onyesha Hali ya "
-"Kazi&#39; ili kuona hali ya kazi."
+"mwanafunzi '<%- student_id %>'. Bofya kitufe cha 'Onyesha Hali ya "
+"Kazi' ili kuona hali ya kazi."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:562
 msgid ""
@@ -4429,7 +4429,7 @@ msgid ""
 "'Show Task Status' button to see the status of the task."
 msgstr ""
 "Ameanza kazi ya matokeo ya mtihani wa kuingia kwa mwanafunzi "
-"&#39;{student_id}&#39;. Bofya kitufe cha &#39;Onyesha Hali ya Kazi&#39; ili "
+"'{student_id}'. Bofya kitufe cha 'Onyesha Hali ya Kazi' ili "
 "kuona hali ya kazi."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:612
@@ -4439,7 +4439,7 @@ msgid ""
 "correct."
 msgstr ""
 "Hitilafu katika kuanzisha kazi ya kurejesha mtihani wa kujiunga na "
-"mwanafunzi &#39;{student_id}&#39;. Hakikisha kuwa mtihani wa kuingia una "
+"mwanafunzi '{student_id}'. Hakikisha kuwa mtihani wa kuingia una "
 "matatizo ndani yake na kitambulisho cha mwanafunzi ni sahihi."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:632
@@ -4452,7 +4452,7 @@ msgid ""
 "students. Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "Imefaulu kuanza kazi ya kupata tena tatizo la '<%- problem_id %>' kwa "
-"wanafunzi wote. Bofya kitufe cha &#39;Onyesha Hali ya Kazi&#39; ili kuona "
+"wanafunzi wote. Bofya kitufe cha 'Onyesha Hali ya Kazi' ili kuona "
 "hali ya kazi."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:646
@@ -4690,7 +4690,7 @@ msgstr "Tazama programu"
 
 #: lms/static/js/learner_dashboard/views/program_alert_list_view.js:42
 msgid "Enroll in a {programName}'s course"
-msgstr "Jiandikishe katika kozi ya {programName} &#39;s"
+msgstr "Jiandikishe katika kozi ya {programName} 's"
 
 #: lms/static/js/learner_dashboard/views/program_alert_list_view.js:48
 msgid ""
@@ -9046,7 +9046,7 @@ msgid ""
 msgstr ""
 "Mtihani huu wa proctored umetolewa kwa wanafunzi. Huwezi kuibadilisha kuwa "
 "aina nyingine ya mtihani maalum. Unaweza kurudisha kifungu hiki kuwa mtihani"
-" wa kimsingi kwa kuchagua &#39;Hakuna&#39;, au mtihani ulioratibiwa, lakini "
+" wa kimsingi kwa kuchagua 'Hakuna', au mtihani ulioratibiwa, lakini "
 "HUWEZA kukisanidi kama mtihani wa proctored katika siku zijazo."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:29
@@ -11425,7 +11425,7 @@ msgid ""
 msgstr ""
 "Unahitaji kifaa ambacho kina kamera ya wavuti. Ukipokea kidokezo cha "
 "kivinjari cha ufikiaji wa kamera yako, tafadhali hakikisha kuwa umebofya "
-"&#39;Ruhusu&#39;."
+"'Ruhusu'."
 
 #: lms/templates/verify_student/face_photo_step.underscore:10
 msgid "Photo Identification"
@@ -11466,7 +11466,7 @@ msgid ""
 "need to try again, click 'Retake Photo'."
 msgstr ""
 "Ili kupiga picha ya uso wako, bofya kitufe cha kamera {icon} . Iwapo "
-"unahitaji kujaribu tena, bofya &#39;Piga Picha&#39;."
+"unahitaji kujaribu tena, bofya 'Piga Picha'."
 
 #: lms/templates/verify_student/face_photo_step.underscore:38
 #: lms/templates/verify_student/id_photo_step.underscore:30

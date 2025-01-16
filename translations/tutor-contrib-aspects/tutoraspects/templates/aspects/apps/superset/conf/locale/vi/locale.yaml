@@ -234,4 +234,4 @@ en:
   unregistered: chưa đăng ký
   verified: đã xác minh
   '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}': '{{ASPECTS_OPERATOR_HELP_MARKDOWN}}'
-  ⏲️ Use the ‘Time Grain’ filter to update the time frame intervals shown in the following graph(s): ⏲️ Sử dụng bộ lọc &#39;Time Grain&#39; để cập nhật các khoảng thời gian được hiển thị trong (các) biểu đồ sau
+  ⏲️ Use the ‘Time Grain’ filter to update the time frame intervals shown in the following graph(s): ⏲️ Sử dụng bộ lọc 'Time Grain' để cập nhật các khoảng thời gian được hiển thị trong (các) biểu đồ sau

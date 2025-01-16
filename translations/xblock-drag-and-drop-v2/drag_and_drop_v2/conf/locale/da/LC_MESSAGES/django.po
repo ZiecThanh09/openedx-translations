@@ -193,7 +193,7 @@ msgid ""
 " option."
 msgstr ""
 "Definerer, hvornår svaret på problemet skal vises. En standardværdi kan "
-"indstilles i Avancerede indstillinger. Vælg indstillingen &#39;Standard&#39;"
+"indstilles i Avancerede indstillinger. Vælg indstillingen 'Standard'"
 " for at vende tilbage til indstilling af en brugerdefineret værdi."
 
 #: drag_and_drop_v2.py:152
@@ -262,7 +262,7 @@ msgid ""
 "'#0000ff')."
 msgstr ""
 "Baggrundsfarven på elementer, der kan trækkes i problemet (eksempel: "
-"&#39;blå&#39; eller &#39;#0000ff&#39;)."
+"'blå' eller '#0000ff')."
 
 #: drag_and_drop_v2.py:185
 msgid "Item text color"
@@ -271,8 +271,8 @@ msgstr "Varens tekstfarve"
 #: drag_and_drop_v2.py:186
 msgid "Text color to use for draggable items (example: 'white' or '#ffffff')."
 msgstr ""
-"Tekstfarve til brug for elementer, der kan trækkes (eksempel: &#39;hvid&#39;"
-" eller &#39;#ffffff&#39;)."
+"Tekstfarve til brug for elementer, der kan trækkes (eksempel: 'hvid'"
+" eller '#ffffff')."
 
 #: drag_and_drop_v2.py:193
 msgid "Maximum items per zone"
@@ -411,8 +411,8 @@ msgid ""
 "For example, 'http://example.com/background.png' or "
 "'/static/background.png'."
 msgstr ""
-"For eksempel &#39;http://example.com/background.png&#39; eller "
-"&#39;/static/background.png&#39;."
+"For eksempel 'http://example.com/background.png' eller "
+"'/static/background.png'."
 
 #: templates/html/drag_and_drop_edit.html:140
 msgid "Zone Layout"

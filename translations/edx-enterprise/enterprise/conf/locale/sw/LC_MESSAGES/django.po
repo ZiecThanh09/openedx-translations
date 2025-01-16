@@ -672,7 +672,7 @@ msgid ""
 "completion."
 msgstr ""
 "Ikiwekwa kuwa Ndivyo, muunganisho huo utatumia mtumiaji wa huduma ya edX ya "
-"jumla (&#39;sapsf_user_id&#39;) iliyofafanuliwa katika Usanidi wa Mteja wa "
+"jumla ('sapsf_user_id') iliyofafanuliwa katika Usanidi wa Mteja wa "
 "SAP ili kukamilisha kozi."
 
 #: integrated_channels/xapi/models.py:33
@@ -727,9 +727,9 @@ msgid ""
 " row, to enroll learners in multiple courses."
 msgstr ""
 "Faili ya .csv lazima iwe na safu wima ya anwani za barua pepe, inayoonyeshwa"
-" na kichwa &#39;barua pepe&#39; katika safu mlalo ya kwanza. Kwa hiari, "
+" na kichwa 'barua pepe' katika safu mlalo ya kwanza. Kwa hiari, "
 "faili ya .csv inaweza kuwa na safu wima ya vitufe vya kukimbia, "
-"vinavyoonyeshwa na kichwa &#39;course_id&#39; katika safu mlalo ya kwanza, "
+"vinavyoonyeshwa na kichwa 'course_id' katika safu mlalo ya kwanza, "
 "ili kuandikisha wanafunzi katika kozi nyingi."
 
 #: enterprise/admin/forms.py:68
@@ -849,9 +849,9 @@ msgid ""
 msgstr ""
 "Tovuti ya mtoaji kitambulisho aliyechaguliwa ( {identity_provider_site} ) "
 "hailingani na tovuti ya mteja huyu wa biashara ( {enterprise_customer_site} "
-"). Ili kurekebisha tatizo hili, chagua tovuti ambayo ina kikoa cha &#39; "
-"{identity_provider_site} &#39;, au usasishe mtoa kitambulisho kuwa &#39; "
-"{enterprise_customer_site} &#39;."
+"). Ili kurekebisha tatizo hili, chagua tovuti ambayo ina kikoa cha ' "
+"{identity_provider_site} ', au usasishe mtoa kitambulisho kuwa ' "
+"{enterprise_customer_site} '."
 
 #: enterprise/admin/forms.py:611
 #, python-brace-format
@@ -1699,7 +1699,7 @@ msgid ""
 msgstr ""
 "Hubainisha kama katalogi inaruhusiwa kujumuisha kozi za exec ed (2U). Hii "
 "ina maana kwamba, content_filter inapobainisha kuwa aina za maudhui ya "
-"&#39;kozi&#39; zinapaswa kujumuishwa kwenye katalogi, aina za kozi za "
+"'kozi' zinapaswa kujumuishwa kwenye katalogi, aina za kozi za "
 "executive-education-2u hazitatengwa kwenye maudhui ya katalogi "
 "inayohusishwa."
 
@@ -2432,7 +2432,7 @@ msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
 "Imeshindwa kuchanganua faili ya CSV. Tafadhali hakikisha kuwa ni faili "
-"iliyosimbwa ya CSV &#39;utf-8&#39;."
+"iliyosimbwa ya CSV 'utf-8'."
 
 #: enterprise/utils.py:187
 msgid "Discount percentage should be from 0 to 100."

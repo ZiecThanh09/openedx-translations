@@ -27,11 +27,11 @@
   "ecommerce.order.history.subscription.upsell.button": "Esplora le opzioni di abbonamento",
   "ecommerce.order.history.subscription.upsell.badge": "Nuovo",
   "ecommerce.order.history.subscription.upsell.heading": "Abbonamenti mensili ai programmi {emDash} più flessibili, più convenienti",
-  "ecommerce.order.history.subscription.upsell.message": "Ora disponibile per molti programmi popolari, il prezzo conveniente dell&#39;abbonamento mensile può aiutarti a gestire il tuo budget in modo più efficace. Gli abbonamenti partono da {minSubscriptionPrice}/mese USD per programma, dopo una prova gratuita di accesso completo di {trialLength} giorni. Annulla in qualsiasi momento.",
+  "ecommerce.order.history.subscription.upsell.message": "Ora disponibile per molti programmi popolari, il prezzo conveniente dell'abbonamento mensile può aiutarti a gestire il tuo budget in modo più efficace. Gli abbonamenti partono da {minSubscriptionPrice}/mese USD per programma, dopo una prova gratuita di accesso completo di {trialLength} giorni. Annulla in qualsiasi momento.",
   "ecommerce.order.history.subscriptions.subtitle.empty": "Non hai abbonamenti attivi o precedenti.",
   "ecommerce.order.history.subscriptions.heading": "Abbonamenti",
   "ecommerce.order.history.subscriptions.subtitle.zero": "Non hai un abbonamento attivo. Per visualizzare le ricevute precedenti, fai clic su {buttonLabel}.",
-  "ecommerce.order.history.subscriptions.subtitle.one": "Hai {activeCount} abbonamento attivo. Per visualizzare le ricevute, modificare il metodo di pagamento o annullare l&#39;abbonamento, fare clic su {buttonLabel}.",
-  "ecommerce.order.history.subscriptions.subtitle.multiple": "Hai {activeCount} abbonamenti attivi. Per visualizzare le ricevute, modificare il metodo di pagamento o annullare l&#39;abbonamento, fare clic su {buttonLabel}.",
+  "ecommerce.order.history.subscriptions.subtitle.one": "Hai {activeCount} abbonamento attivo. Per visualizzare le ricevute, modificare il metodo di pagamento o annullare l'abbonamento, fare clic su {buttonLabel}.",
+  "ecommerce.order.history.subscriptions.subtitle.multiple": "Hai {activeCount} abbonamenti attivi. Per visualizzare le ricevute, modificare il metodo di pagamento o annullare l'abbonamento, fare clic su {buttonLabel}.",
   "ecommerce.order.history.subscriptions.manage.button": "Gestisci i miei abbonamenti"
 }

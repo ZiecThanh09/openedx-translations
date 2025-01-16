@@ -9140,7 +9140,7 @@ msgid ""
 msgstr ""
 "Este examen supervisado se ha publicado para los estudiantes. No puede "
 "convertirlo en otro tipo de examen especial. Puede revertir esta subsección "
-"a un examen básico seleccionando &#39;Ninguno&#39; o un examen cronometrado,"
+"a un examen básico seleccionando 'Ninguno' o un examen cronometrado,"
 " pero NO podrá configurarlo como un examen supervisado en el futuro."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:29

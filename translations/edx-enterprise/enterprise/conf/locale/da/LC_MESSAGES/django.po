@@ -233,7 +233,7 @@ msgid ""
 "The API Client ID provided to edX by the enterprise customer to be used to "
 "make API calls to Canvas on behalf of the customer."
 msgstr ""
-"API-klient-id&#39;et givet til edX af virksomhedskunden, som skal bruges til"
+"API-klient-id'et givet til edX af virksomhedskunden, som skal bruges til"
 " at foretage API-kald til Canvas på vegne af kunden."
 
 #: integrated_channels/canvas/models.py:53
@@ -518,7 +518,7 @@ msgid ""
 "APIs."
 msgstr ""
 "Enterprise channel worker-brugernavn for at få JWT-tokens til godkendelse af"
-" LMS API&#39;er."
+" LMS API'er."
 
 #: integrated_channels/integrated_channel/models.py:168
 msgid ""
@@ -527,7 +527,7 @@ msgid ""
 "customer catalogs, the overlapping course metadata will be selected from the"
 " newest catalog."
 msgstr ""
-"En kommasepareret liste over katalog-UUID&#39;er, der skal sendes. Hvis tom,"
+"En kommasepareret liste over katalog-UUID'er, der skal sendes. Hvis tom,"
 " vil alle kundekataloger blive sendt. Hvis der er overlappende kurser i "
 "kundekatalogerne, vil de overlappende kursusmetadata blive valgt fra det "
 "nyeste katalog."
@@ -563,7 +563,7 @@ msgstr "Det korte navn for Moodle-webservicen."
 
 #: integrated_channels/moodle/models.py:55
 msgid "The category ID for what edX courses should be associated with."
-msgstr "Kategori-id&#39;et for, hvad edX-kurser skal knyttes til."
+msgstr "Kategori-id'et for, hvad edX-kurser skal knyttes til."
 
 #: integrated_channels/moodle/models.py:64
 msgid ""
@@ -662,7 +662,7 @@ msgid ""
 "completion."
 msgstr ""
 "Når den er indstillet til True, vil integrationen bruge den generiske edX-"
-"tjenestebruger (&#39;sapsf_user_id&#39;) defineret i SAP-"
+"tjenestebruger ('sapsf_user_id') defineret i SAP-"
 "kundekonfigurationen til kursusgennemførelse."
 
 #: integrated_channels/xapi/models.py:33
@@ -717,9 +717,9 @@ msgid ""
 " row, to enroll learners in multiple courses."
 msgstr ""
 ".csv-filen skal have en kolonne med e-mail-adresser, angivet med "
-"overskriften &#39;e-mail&#39; i første række. Eventuelt kan .csv-filen "
+"overskriften 'e-mail' i første række. Eventuelt kan .csv-filen "
 "indeholde en kolonne med kursuskørselsnøgler, angivet med overskriften "
-"&#39;kursus_id&#39; i første række, for at tilmelde elever til flere kurser."
+"'kursus_id' i første række, for at tilmelde elever til flere kurser."
 
 #: enterprise/admin/forms.py:68
 msgid "Enroll these learners in this course"
@@ -838,8 +838,8 @@ msgstr ""
 "Webstedet for den valgte identitetsudbyder ( {identity_provider_site} ) "
 "matcher ikke webstedet for denne virksomhedskunde ( "
 "{enterprise_customer_site} ). For at løse dette problem skal du vælge et "
-"websted, der har domænet &#39; {identity_provider_site} &#39;, eller "
-"opdatere identitetsudbyderen til &#39; {enterprise_customer_site} &#39;."
+"websted, der har domænet ' {identity_provider_site} ', eller "
+"opdatere identitetsudbyderen til ' {enterprise_customer_site} '."
 
 #: enterprise/admin/forms.py:611
 #, python-brace-format
@@ -1528,7 +1528,7 @@ msgid ""
 "ecommerce when creating orders for financial data reporting."
 msgstr ""
 "Angiver rabatprocenten, der bruges til tilmeldinger fra tilmeldings-"
-"API&#39;en, hvor det ikke er muligt at hente rabatten pr. ordre. Dette "
+"API'en, hvor det ikke er muligt at hente rabatten pr. ordre. Dette "
 "overføres til e-handel ved oprettelse af ordrer til rapportering af "
 "finansielle data."
 
@@ -1673,7 +1673,7 @@ msgid ""
 " won't be excluded from the content of the associated catalog."
 msgstr ""
 "Angiver, om kataloget må inkludere udførte (2U) kurser. Dette betyder, at "
-"når content_filter angiver, at &#39;kursus&#39; indholdstyper skal "
+"når content_filter angiver, at 'kursus' indholdstyper skal "
 "inkluderes i kataloget, vil executive-education-2u kursustyper ikke blive "
 "udelukket fra indholdet af det tilknyttede katalog."
 
@@ -2082,7 +2082,7 @@ msgstr "Identitetsudbyderens metadata xml."
 
 #: enterprise/models.py:3948
 msgid "The entity id of the identity provider."
-msgstr "Enheds-id&#39;et for identitetsudbyderen."
+msgstr "Enheds-id'et for identitetsudbyderen."
 
 #: enterprise/models.py:3957
 msgid ""
@@ -2140,18 +2140,18 @@ msgstr ""
 
 #: enterprise/models.py:4064
 msgid "SAP specific configuration: the root url of the OData API."
-msgstr "SAP-specifik konfiguration: root-url&#39;en til OData API."
+msgstr "SAP-specifik konfiguration: root-url'en til OData API."
 
 #: enterprise/models.py:4073
 msgid "SAP specific configuration: the company id of the OData API."
-msgstr "SAP-specifik konfiguration: firma-id&#39;et for OData API."
+msgstr "SAP-specifik konfiguration: firma-id'et for OData API."
 
 #: enterprise/models.py:4082
 msgid ""
 "SAP specific configuration: the root url of the SAP SuccessFactors OAuth "
 "API."
 msgstr ""
-"SAP-specifik konfiguration: root-url&#39;en til SAP SuccessFactors OAuth "
+"SAP-specifik konfiguration: root-url'en til SAP SuccessFactors OAuth "
 "API."
 
 #: enterprise/models.py:4099
@@ -2163,11 +2163,11 @@ msgstr ""
 
 #: enterprise/models.py:4108
 msgid "SAP specific configuration: the client id of the OData API."
-msgstr "SAP-specifik konfiguration: klient-id&#39;et for OData API."
+msgstr "SAP-specifik konfiguration: klient-id'et for OData API."
 
 #: enterprise/models.py:4117
 msgid "SAP specific configuration: the user id of the OAuth API."
-msgstr "SAP-specifik konfiguration: bruger-id&#39;et for OAuth API."
+msgstr "SAP-specifik konfiguration: bruger-id'et for OAuth API."
 
 #: enterprise/models.py:4139
 msgid "Field is locked as the configuration has already been submitted."
@@ -2400,7 +2400,7 @@ msgstr ""
 msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
-"Kan ikke parse CSV-fil. Sørg for, at det er en CSV &#39;utf-8&#39;-kodet "
+"Kan ikke parse CSV-fil. Sørg for, at det er en CSV 'utf-8'-kodet "
 "fil."
 
 #: enterprise/utils.py:187

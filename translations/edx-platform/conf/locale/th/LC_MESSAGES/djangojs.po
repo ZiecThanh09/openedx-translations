@@ -700,7 +700,7 @@ msgstr "กำลังคัดลอก"
 
 #: cms/static/js/views/course_outline.js:328
 msgid "Copy of '{componentDisplayName}'"
-msgstr "สำเนาของ &#39;{componentDisplayName}&#39;"
+msgstr "สำเนาของ '{componentDisplayName}'"
 
 #: cms/static/js/views/course_outline.js:364
 #: cms/static/js/views/pages/container.js:285
@@ -4227,7 +4227,7 @@ msgid ""
 " Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "เริ่มงานเพื่อรีเซ็ตความพยายามสำหรับปัญหา '<%- problem_id %>' ได้สำเร็จ "
-"คลิกปุ่ม &#39;แสดงสถานะงาน&#39; เพื่อดูสถานะของงาน"
+"คลิกปุ่ม 'แสดงสถานะงาน' เพื่อดูสถานะของงาน"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:426
 msgid ""
@@ -4249,7 +4249,7 @@ msgid ""
 "of the task."
 msgstr ""
 "เริ่มงานปัญหาคะแนนใหม่สำหรับปัญหา '<%- problem_id %>' และนักเรียน '<%- "
-"student_id %>' คลิกปุ่ม &#39;แสดงสถานะงาน&#39; เพื่อดูสถานะของงาน"
+"student_id %>' คลิกปุ่ม 'แสดงสถานะงาน' เพื่อดูสถานะของงาน"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:508
 msgid ""
@@ -4272,7 +4272,7 @@ msgid ""
 "status of the task."
 msgstr ""
 "เริ่มงานเพื่อแทนที่คะแนนสำหรับปัญหา '<%- problem_id %>' และนักเรียน '<%- "
-"student_id %>' คลิกปุ่ม &#39;แสดงสถานะงาน&#39; เพื่อดูสถานะของงาน"
+"student_id %>' คลิกปุ่ม 'แสดงสถานะงาน' เพื่อดูสถานะของงาน"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:562
 msgid ""
@@ -4289,8 +4289,8 @@ msgid ""
 "Started entrance exam rescore task for student '{student_id}'. Click the "
 "'Show Task Status' button to see the status of the task."
 msgstr ""
-"เริ่มงานคืนคะแนนสอบเข้าสำหรับนักเรียน &#39;{student_id}&#39; คลิกปุ่ม "
-"&#39;แสดงสถานะงาน&#39; เพื่อดูสถานะของงาน"
+"เริ่มงานคืนคะแนนสอบเข้าสำหรับนักเรียน '{student_id}' คลิกปุ่ม "
+"'แสดงสถานะงาน' เพื่อดูสถานะของงาน"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:612
 msgid ""
@@ -4311,7 +4311,7 @@ msgid ""
 "students. Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "เริ่มงานเพื่อให้คะแนนปัญหา '<%- problem_id %>' "
-"สำหรับนักเรียนทุกคนเรียบร้อยแล้ว คลิกปุ่ม &#39;แสดงสถานะงาน&#39; "
+"สำหรับนักเรียนทุกคนเรียบร้อยแล้ว คลิกปุ่ม 'แสดงสถานะงาน' "
 "เพื่อดูสถานะของงาน"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:646
@@ -8829,7 +8829,7 @@ msgstr ""
 "ข้อสอบคุมสอบนี้เผยแพร่แก่ผู้เรียนแล้ว "
 "คุณไม่สามารถแปลงเป็นการสอบพิเศษประเภทอื่นได้ "
 "คุณสามารถเปลี่ยนส่วนย่อยนี้กลับไปเป็นการสอบพื้นฐานได้โดยเลือก "
-"&#39;ไม่มี&#39; หรือการสอบแบบกำหนดเวลา "
+"'ไม่มี' หรือการสอบแบบกำหนดเวลา "
 "แต่คุณจะไม่สามารถกำหนดค่าให้เป็นการสอบคุมได้ในอนาคต"
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:29
@@ -11174,7 +11174,7 @@ msgid ""
 msgstr ""
 "คุณต้องมีอุปกรณ์ที่มีเว็บแคม "
 "หากคุณได้รับข้อความเตือนจากเบราว์เซอร์ให้เข้าถึงกล้องของคุณ โปรดอย่าลืมคลิก "
-"&#39;อนุญาต&#39;"
+"'อนุญาต'"
 
 #: lms/templates/verify_student/face_photo_step.underscore:10
 msgid "Photo Identification"
@@ -11214,7 +11214,7 @@ msgid ""
 "need to try again, click 'Retake Photo'."
 msgstr ""
 "หากต้องการถ่ายภาพใบหน้าของคุณ ให้คลิกที่ปุ่มกล้อง {icon} . "
-"หากคุณต้องการลองอีกครั้ง ให้คลิก &#39;ถ่ายภาพใหม่&#39;"
+"หากคุณต้องการลองอีกครั้ง ให้คลิก 'ถ่ายภาพใหม่'"
 
 #: lms/templates/verify_student/face_photo_step.underscore:38
 #: lms/templates/verify_student/id_photo_step.underscore:30

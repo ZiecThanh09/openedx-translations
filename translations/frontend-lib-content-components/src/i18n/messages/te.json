@@ -100,7 +100,7 @@
   "authoring.problemeditor.settings.reset.title": "రీసెట్ ఎంపికను చూపు",
   "authoring.problemeditor.settings.reset.true": "నిజమే",
   "authoring.problemeditor.settings.reset.false": "తప్పు",
-  "authoring.problemeditor.settings.reset.text": "సాధారణంగా ప్రాక్టీస్‌లో లేదా ఫార్మేటివ్ అసెస్‌మెంట్‌ల కోసం వినియోగదారు వారి సమాధానాన్ని రీసెట్ చేసేలా &#39;రీసెట్&#39; బటన్ చూపబడుతుందో లేదో నిర్ణయిస్తుంది.",
+  "authoring.problemeditor.settings.reset.text": "సాధారణంగా ప్రాక్టీస్‌లో లేదా ఫార్మేటివ్ అసెస్‌మెంట్‌ల కోసం వినియోగదారు వారి సమాధానాన్ని రీసెట్ చేసేలా 'రీసెట్' బటన్ చూపబడుతుందో లేదో నిర్ణయిస్తుంది.",
   "authoring.problemeditor.settings.scoring.title": "స్కోరింగ్",
   "authoring.problemeditor.settings.scoring.attempts.inputLabel": "ప్రయత్నాలు",
   "authoring.problemeditor.settings.scoring.weight.inputLabel": "పాయింట్లు",

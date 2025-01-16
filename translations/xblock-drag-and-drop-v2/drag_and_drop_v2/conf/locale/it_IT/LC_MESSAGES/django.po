@@ -109,7 +109,7 @@ msgstr "Non appartengo a nessun posto"
 
 #: default_data.py:35
 msgid "Drag the items onto the image above."
-msgstr "Trascina gli elementi sull&#39;immagine sopra."
+msgstr "Trascina gli elementi sull'immagine sopra."
 
 #: default_data.py:36
 msgid "Good work! You have completed this drag and drop problem."
@@ -186,12 +186,12 @@ msgstr "Descrizione del problema o istruzioni mostrate al discente."
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "Mostra l&#39;intestazione &quot;Problema&quot;."
+msgstr "Mostra l'intestazione &quot;Problema&quot;."
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
 msgstr ""
-"Visualizzare l&#39;intestazione &quot;Problema&quot; sopra il testo del "
+"Visualizzare l'intestazione &quot;Problema&quot; sopra il testo del "
 "problema?"
 
 #: drag_and_drop_v2.py:145
@@ -206,7 +206,7 @@ msgid ""
 msgstr ""
 "Definisce quando mostrare la risposta al problema. È possibile impostare un "
 "valore predefinito in Impostazioni avanzate. Per ripristinare "
-"l&#39;impostazione di un valore personalizzato, scegli l&#39;opzione "
+"l'impostazione di un valore personalizzato, scegli l'opzione "
 "&quot;Predefinito&quot;."
 
 #: drag_and_drop_v2.py:152
@@ -274,7 +274,7 @@ msgid ""
 "The background color of draggable items in the problem (example: 'blue' or "
 "'#0000ff')."
 msgstr ""
-"Il colore di sfondo degli elementi trascinabili nell&#39;attività (esempio: "
+"Il colore di sfondo degli elementi trascinabili nell'attività (esempio: "
 "&quot;blu&quot; o &quot;#0000ff&quot;)."
 
 #: drag_and_drop_v2.py:185
@@ -310,8 +310,8 @@ msgid ""
 "author provides via the interactive editor when configuring the problem."
 msgstr ""
 "Informazioni su zone, elementi, feedback, spiegazione e immagine di sfondo "
-"per questo problema. Queste informazioni derivano dall&#39;input che "
-"l&#39;autore del corso fornisce tramite l&#39;editor interattivo durante la "
+"per questo problema. Queste informazioni derivano dall'input che "
+"l'autore del corso fornisce tramite l'editor interattivo durante la "
 "configurazione del problema."
 
 #: drag_and_drop_v2.py:213
@@ -320,7 +320,7 @@ msgid ""
 "the target image."
 msgstr ""
 "Informazioni sulle posizioni attuali degli elementi che uno studente ha "
-"lasciato cadere sull&#39;immagine target."
+"lasciato cadere sull'immagine target."
 
 #: drag_and_drop_v2.py:220
 msgid "Number of attempts learner used"
@@ -414,7 +414,7 @@ msgstr "Immagine di sfondo"
 
 #: templates/html/drag_and_drop_edit.html:117
 msgid "Provide custom image"
-msgstr "Fornisci un&#39;immagine personalizzata"
+msgstr "Fornisci un'immagine personalizzata"
 
 #: templates/html/drag_and_drop_edit.html:121
 msgid "Generate image automatically"
@@ -485,9 +485,9 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"Si prega di fornire una descrizione dell&#39;immagine per gli utenti non visivi.\n"
+"Si prega di fornire una descrizione dell'immagine per gli utenti non visivi.\n"
 " La descrizione dovrebbe fornire informazioni sufficienti per consentire a chiunque\n"
-" per risolvere il problema anche senza vedere l&#39;immagine.\n"
+" per risolvere il problema anche senza vedere l'immagine.\n"
 "                        "
 
 #: templates/html/drag_and_drop_edit.html:199
@@ -504,7 +504,7 @@ msgstr "Bordi della zona"
 
 #: templates/html/drag_and_drop_edit.html:209
 msgid "Display zone borders on the image"
-msgstr "Visualizza i bordi della zona sull&#39;immagine"
+msgstr "Visualizza i bordi della zona sull'immagine"
 
 #: templates/html/drag_and_drop_edit.html:215
 msgid "Display zone borders when dragging an item"
@@ -578,7 +578,7 @@ msgid_plural ""
 "Misplaced {misplaced_count} items (misplaced items were returned to the item"
 " bank)"
 msgstr[0] ""
-"Articolo {misplaced_count} smarrito (l&#39;articolo smarrito è stato "
+"Articolo {misplaced_count} smarrito (l'articolo smarrito è stato "
 "restituito alla banca degli articoli)"
 msgstr[1] ""
 "Articoli {misplaced_count} smarriti (gli articoli smarriti sono stati "
@@ -591,7 +591,7 @@ msgstr[2] ""
 #, python-brace-format
 msgid "Did not place {missing_count} required item"
 msgid_plural "Did not place {missing_count} required items"
-msgstr[0] "Non è stato inserito l&#39;elemento richiesto {missing_count}"
+msgstr[0] "Non è stato inserito l'elemento richiesto {missing_count}"
 msgstr[1] "Non ho inserito gli elementi richiesti {missing_count}"
 msgstr[2] "Non ho inserito gli elementi richiesti {missing_count}"
 
@@ -701,7 +701,7 @@ msgid ""
 "Press ESC if you want to cancel the drop operation (for example, to select a"
 " different item)."
 msgstr ""
-"Premere ESC se si desidera annullare l&#39;operazione di rilascio (ad "
+"Premere ESC se si desidera annullare l'operazione di rilascio (ad "
 "esempio per selezionare una voce diversa)."
 
 #: public/js/drag_and_drop.js:371
@@ -709,7 +709,7 @@ msgid ""
 "TAB back to the list of draggable items and repeat this process until all of"
 " the draggable items have been placed on their respective dropzones."
 msgstr ""
-"TAB torna all&#39;elenco degli elementi trascinabili e ripeti questo "
+"TAB torna all'elenco degli elementi trascinabili e ripeti questo "
 "processo finché tutti gli elementi trascinabili non sono stati posizionati "
 "nelle rispettive zone di rilascio."
 
@@ -731,7 +731,7 @@ msgstr "Azioni"
 
 #: public/js/drag_and_drop.js:466
 msgid "Go to Beginning"
-msgstr "Vai all&#39;inizio"
+msgstr "Vai all'inizio"
 
 #: public/js/drag_and_drop.js:472
 msgid "Reset"
