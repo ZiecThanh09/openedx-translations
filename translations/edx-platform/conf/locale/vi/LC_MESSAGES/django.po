@@ -25232,7 +25232,7 @@ msgstr "Vị trí có vấn đề"
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:146
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:209
 msgid "Attempts"
-msgstr "Nỗ lực"
+msgstr "Số lần trả lời"
 
 #: lms/templates/instructor/instructor_dashboard_2/student_admin.html:82
 msgid ""
