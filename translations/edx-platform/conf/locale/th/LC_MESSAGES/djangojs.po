@@ -1530,7 +1530,7 @@ msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
 msgstr ""
-"ยกเลิกการย้ายแล้ว &quot; {sourceDisplayName} &quot; "
+"ยกเลิกการย้ายแล้ว ' {sourceDisplayName} ' "
 "ถูกย้ายกลับไปยังตำแหน่งเดิมแล้ว"
 
 #: cms/static/js/views/utils/move_xblock_utils.js:76
@@ -2430,7 +2430,7 @@ msgid ""
 "Select a course or select \"Not specific to a course\" for your support "
 "request."
 msgstr ""
-"เลือกหลักสูตรหรือเลือก &quot;ไม่เฉพาะเจาะจงกับหลักสูตร&quot; "
+"เลือกหลักสูตรหรือเลือก 'ไม่เฉพาะเจาะจงกับหลักสูตร' "
 "สำหรับการร้องขอการสนับสนุนของคุณ"
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:48
@@ -3499,7 +3499,7 @@ msgstr "กิจกรรมไม่่นานมานี้"
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:36
 msgid "No results found for \"{query_string}\". Please try searching again."
-msgstr "ไม่พบผลลัพธ์สำหรับ &quot; {query_string} &quot;. โปรดลองค้นหาอีกครั้ง"
+msgstr "ไม่พบผลลัพธ์สำหรับ ' {query_string} '. โปรดลองค้นหาอีกครั้ง"
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:50
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:2
@@ -4789,7 +4789,7 @@ msgid ""
 " data is permanent and cannot be undone. {platformName} will not be able to "
 "recover your account or the data that is deleted."
 msgstr ""
-"คุณได้เลือก &quot;ลบบัญชีของฉัน&quot; "
+"คุณได้เลือก 'ลบบัญชีของฉัน' "
 "การลบบัญชีและข้อมูลส่วนบุคคลของคุณถือเป็นการลบถาวรและไม่สามารถยกเลิกได้ "
 "{platformName} จะไม่สามารถกู้คืนบัญชีของคุณหรือข้อมูลที่ถูกลบได้"
 
@@ -5459,7 +5459,7 @@ msgstr "บุ๊คมาร์คแล้ว"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
-msgstr[0] "พบผลการค้นหา {total_results} สำหรับ &quot; {search_term} &quot;"
+msgstr[0] "พบผลการค้นหา {total_results} สำหรับ ' {search_term} '"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -7583,7 +7583,7 @@ msgid ""
 "this subsection become available to learners unless they are explicitly "
 "hidden."
 msgstr ""
-"หากคุณเลือกตัวเลือกอื่นที่ไม่ใช่ &quot; %(hide_label)s &quot; "
+"หากคุณเลือกตัวเลือกอื่นที่ไม่ใช่ ' %(hide_label)s ' "
 "หน่วยที่เผยแพร่ในส่วนย่อยนี้จะพร้อมใช้งานสำหรับผู้เรียน "
 "เว้นแต่จะถูกซ่อนไว้อย่างชัดเจน"
 
@@ -7838,7 +7838,7 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"ส่วนย่อยนี้ได้รับการกำหนดค่าเป็น \\&quot; %(gradingType)s \\&quot; "
+"ส่วนย่อยนี้ได้รับการกำหนดค่าเป็น \\' %(gradingType)s \\' "
 "ซึ่งไม่มีอยู่ในนโยบายการให้เกรดปัจจุบัน"
 
 #: cms/templates/js/course-outline.underscore:457
@@ -8863,7 +8863,7 @@ msgstr ""
 "จากนั้นวิดีโอจะได้รับการตรวจสอบเพื่อให้แน่ใจว่าผู้เรียนปฏิบัติตามกฎการสอบทั้งหมด"
 " "
 "โปรดทราบว่าการตั้งค่าการสอบนี้เป็นแบบคุมสอบจะเปลี่ยนการตั้งค่าการมองเห็นเป็น"
-" &quot;ซ่อนเนื้อหาหลังจากวันครบกำหนด&quot;"
+" 'ซ่อนเนื้อหาหลังจากวันครบกำหนด'"
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:49
 msgid "Onboarding"
@@ -9996,7 +9996,7 @@ msgstr "ซ่อนตัวจับเวลา"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "You are taking \"{exam_link}\" as {exam_type}. "
-msgstr "คุณกำลังใช้ &quot; {exam_link} &quot; เป็น {exam_type} "
+msgstr "คุณกำลังใช้ ' {exam_link} ' เป็น {exam_type} "
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "a timed exam"
@@ -10011,8 +10011,8 @@ msgid ""
 "To receive credit for problems, you must select \"Submit\" for each problem "
 "before you select \"End My Exam\"."
 msgstr ""
-"หากต้องการรับเครดิตสำหรับปัญหา คุณต้องเลือก &quot;ส่ง&quot; "
-"สำหรับแต่ละปัญหาก่อนจึงจะเลือก &quot;สิ้นสุดการสอบของฉัน&quot;"
+"หากต้องการรับเครดิตสำหรับปัญหา คุณต้องเลือก 'ส่ง' "
+"สำหรับแต่ละปัญหาก่อนจึงจะเลือก 'สิ้นสุดการสอบของฉัน'"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
 msgid "Show More"
@@ -11732,7 +11732,7 @@ msgid ""
 "page, click \"Bookmark this page\" under the page title."
 msgstr ""
 "ใช้บุ๊กมาร์กเพื่อช่วยให้คุณกลับไปยังหน้าบทเรียนได้อย่างง่ายดาย "
-"หากต้องการบุ๊กมาร์กหน้า ให้คลิก &quot;บุ๊กมาร์กหน้านี้&quot; ใต้ชื่อหน้า"
+"หากต้องการบุ๊กมาร์กหน้า ให้คลิก 'บุ๊กมาร์กหน้านี้' ใต้ชื่อหน้า"
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:14

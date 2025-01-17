@@ -474,7 +474,7 @@ msgid ""
 "The \"{name}\" problem is configured to require a minimum of {min_grades} "
 "peer grades, and asks to review {min_graded} peers."
 msgstr ""
-"ปัญหา &quot; {name} &quot; ได้รับการกำหนดค่าให้ต้องใช้เกรดเพียร์ "
+"ปัญหา ' {name} ' ได้รับการกำหนดค่าให้ต้องใช้เกรดเพียร์ "
 "{min_grades} ขั้นต่ำ และขอให้ตรวจสอบเพียร์ {min_graded}"
 
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:383

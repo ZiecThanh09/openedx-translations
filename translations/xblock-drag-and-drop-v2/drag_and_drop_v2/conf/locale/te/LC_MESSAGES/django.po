@@ -177,11 +177,11 @@ msgstr "సమస్య యొక్క వివరణ లేదా అభ్�
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "&quot;సమస్య&quot; శీర్షికను చూపు"
+msgstr "'సమస్య' శీర్షికను చూపు"
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
-msgstr "సమస్య వచనం పైన &quot;సమస్య&quot; శీర్షికను ప్రదర్శించాలా?"
+msgstr "సమస్య వచనం పైన 'సమస్య' శీర్షికను ప్రదర్శించాలా?"
 
 #: drag_and_drop_v2.py:145
 msgid "Show answer"

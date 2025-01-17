@@ -1246,9 +1246,9 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"Esta é uma atribuição de equipe para o conjunto de equipe &quot;%(teamset_name)s&quot;. \n"
-"No momento, você não está em uma equipe no conjunto de equipes &quot;%(teamset_name)s&quot;. \n"
-"Você deve estar em uma equipe no conjunto de equipe &quot;%(teamset_name)s&quot; para acessar esta atribuição de equipe."
+"Esta é uma atribuição de equipe para o conjunto de equipe '%(teamset_name)s'. \n"
+"No momento, você não está em uma equipe no conjunto de equipes '%(teamset_name)s'. \n"
+"Você deve estar em uma equipe no conjunto de equipe '%(teamset_name)s' para acessar esta atribuição de equipe."
 
 #: templates/legacy/message/oa_message_open.html:7
 #, python-format

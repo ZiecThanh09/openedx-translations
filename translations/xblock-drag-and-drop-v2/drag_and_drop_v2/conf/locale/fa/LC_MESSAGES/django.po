@@ -173,11 +173,11 @@ msgstr "شرح مسئله یا دستورالعمل هایی که به یادگ�
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "نمایش عنوان &quot;مشکل&quot;."
+msgstr "نمایش عنوان 'مشکل'."
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
-msgstr "عنوان &quot;مشکل&quot; در بالای متن مشکل نمایش داده شود؟"
+msgstr "عنوان 'مشکل' در بالای متن مشکل نمایش داده شود؟"
 
 #: drag_and_drop_v2.py:145
 msgid "Show answer"
@@ -258,8 +258,8 @@ msgid ""
 "The background color of draggable items in the problem (example: 'blue' or "
 "'#0000ff')."
 msgstr ""
-"رنگ پس‌زمینه موارد قابل کشیدن در مشکل (مثال: &quot;آبی&quot; یا "
-"&quot;#0000ff&quot;)."
+"رنگ پس‌زمینه موارد قابل کشیدن در مشکل (مثال: 'آبی' یا "
+"'#0000ff')."
 
 #: drag_and_drop_v2.py:185
 msgid "Item text color"
@@ -268,8 +268,8 @@ msgstr "رنگ متن مورد"
 #: drag_and_drop_v2.py:186
 msgid "Text color to use for draggable items (example: 'white' or '#ffffff')."
 msgstr ""
-"رنگ متن برای استفاده برای موارد قابل کشیدن (مثال: &quot;سفید&quot; یا "
-"&quot;#ffffff&quot;)."
+"رنگ متن برای استفاده برای موارد قابل کشیدن (مثال: 'سفید' یا "
+"'#ffffff')."
 
 #: drag_and_drop_v2.py:193
 msgid "Maximum items per zone"

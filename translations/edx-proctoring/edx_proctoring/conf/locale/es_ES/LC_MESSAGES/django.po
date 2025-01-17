@@ -1183,7 +1183,7 @@ msgid ""
 "      "
 msgstr ""
 "\n"
-"• Tiene %(total_time)s para completar este examen.</br> • Una vez que comience el examen, no podrá detener el cronómetro.</br> • Para todos los tipos de preguntas, debe hacer clic en &quot;enviar&quot; para completar su respuesta.</br> • Si se agota el tiempo antes de hacer clic en \"Terminar mi examen\" solo se calificarán las respuestas enviadas."
+"• Tiene %(total_time)s para completar este examen.</br> • Una vez que comience el examen, no podrá detener el cronómetro.</br> • Para todos los tipos de preguntas, debe hacer clic en 'enviar' para completar su respuesta.</br> • Si se agota el tiempo antes de hacer clic en \"Terminar mi examen\" solo se calificarán las respuestas enviadas."
 
 #: templates/proctored_exam/ready_to_start.html:18
 msgid ""
@@ -1259,7 +1259,7 @@ msgid ""
 "Make sure that you have selected \"Submit\" for each answer before you "
 "submit your exam."
 msgstr ""
-"Asegúrese de haber seleccionado &quot;Enviar&quot; para cada respuesta antes"
+"Asegúrese de haber seleccionado 'Enviar' para cada respuesta antes"
 " de enviar su examen."
 
 #: templates/proctored_exam/ready_to_submit.html:12

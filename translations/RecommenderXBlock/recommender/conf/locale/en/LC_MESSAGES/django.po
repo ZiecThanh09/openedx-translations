@@ -79,7 +79,7 @@ msgid ""
 msgstr ""
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
+msgid "Add new resource >;>;"
 msgstr ""
 
 #: templates/recommender.html:119

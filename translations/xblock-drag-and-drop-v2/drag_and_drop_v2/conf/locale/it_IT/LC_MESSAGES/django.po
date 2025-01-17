@@ -186,12 +186,12 @@ msgstr "Descrizione del problema o istruzioni mostrate al discente."
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "Mostra l'intestazione &quot;Problema&quot;."
+msgstr "Mostra l'intestazione 'Problema'."
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
 msgstr ""
-"Visualizzare l'intestazione &quot;Problema&quot; sopra il testo del "
+"Visualizzare l'intestazione 'Problema' sopra il testo del "
 "problema?"
 
 #: drag_and_drop_v2.py:145
@@ -207,7 +207,7 @@ msgstr ""
 "Definisce quando mostrare la risposta al problema. È possibile impostare un "
 "valore predefinito in Impostazioni avanzate. Per ripristinare "
 "l'impostazione di un valore personalizzato, scegli l'opzione "
-"&quot;Predefinito&quot;."
+"'Predefinito'."
 
 #: drag_and_drop_v2.py:152
 msgid "Default"
@@ -275,7 +275,7 @@ msgid ""
 "'#0000ff')."
 msgstr ""
 "Il colore di sfondo degli elementi trascinabili nell'attività (esempio: "
-"&quot;blu&quot; o &quot;#0000ff&quot;)."
+"'blu' o '#0000ff')."
 
 #: drag_and_drop_v2.py:185
 msgid "Item text color"
@@ -285,7 +285,7 @@ msgstr "Coloro del testo dell'oggetto"
 msgid "Text color to use for draggable items (example: 'white' or '#ffffff')."
 msgstr ""
 "Colore del testo da utilizzare per gli elementi trascinabili (esempio: "
-"&quot;bianco&quot; o &quot;#ffffff&quot;)."
+"'bianco' o '#ffffff')."
 
 #: drag_and_drop_v2.py:193
 msgid "Maximum items per zone"
@@ -433,8 +433,8 @@ msgid ""
 "For example, 'http://example.com/background.png' or "
 "'/static/background.png'."
 msgstr ""
-"Ad esempio, &quot;http://example.com/ background.png&quot; o &quot;/static/ "
-"background.png&quot;."
+"Ad esempio, 'http://example.com/ background.png' o '/static/ "
+"background.png'."
 
 #: templates/html/drag_and_drop_edit.html:140
 msgid "Zone Layout"

@@ -337,7 +337,7 @@ msgid ""
 msgstr ""
 "Tilføj nøgle/værdi-parret for eventuelle tilpassede parametre, såsom den "
 "side, din e-bog skal åbne til eller baggrundsfarven for denne komponent. "
-"Eks. [&quot;side=1&quot;, &quot;farve=hvid&quot;]<br /> Se "
+"Eks. ['side=1', 'farve=hvid']<br /> Se "
 "{docs_anchor_open} edX LTI-dokumentationen {anchor_close} for flere detaljer"
 " om denne indstilling."
 
@@ -527,7 +527,7 @@ msgstr "Brugerdefinerede parametre skal være en liste"
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
 msgstr ""
-"Brugerdefinerede parametre skal være strenge i formatet &quot;x=y&quot;."
+"Brugerdefinerede parametre skal være strenge i formatet 'x=y'."
 
 #: lti_xblock.py:703
 msgid ""
@@ -535,7 +535,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "Genanvendeligt konfigurations-id skal indstilles, når du bruger ekstern "
-"konfiguration (eksempel: &quot;x:y&quot;)."
+"konfiguration (eksempel: 'x:y')."
 
 #: lti_xblock.py:726
 msgid ""
@@ -554,7 +554,7 @@ msgid ""
 "string."
 msgstr ""
 "Kunne ikke parse LTI-pas: {lti_passport!r}. Bør være "
-"&quot;id:nøgle:hemmelig&quot; streng."
+"'id:nøgle:hemmelig' streng."
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
 msgid "Could not get user id for current request"
@@ -566,7 +566,7 @@ msgid ""
 "string."
 msgstr ""
 "Kunne ikke parse tilpasset parameter: {custom_parameter!r}. Bør være "
-"&quot;x=y&quot; streng."
+"'x=y' streng."
 
 #: lti_xblock.py:1428
 msgid "[LTI]: Real user not found against anon_id: {}"
@@ -627,7 +627,7 @@ msgid ""
 "\"x:y\" format."
 msgstr ""
 "LTI-konfiguration, der bruger genbrugelig konfiguration, kræver et eksternt "
-"ID i &quot;x:y&quot;-format."
+"ID i 'x:y'-format."
 
 #: models.py:267
 msgid ""

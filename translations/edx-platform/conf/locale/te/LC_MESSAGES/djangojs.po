@@ -266,7 +266,7 @@ msgstr "అప్పటికే లైబ్రరీ టీమ్ మెంబ
 msgid ""
 "Are you sure you want to delete {email} from the library “{container}”?"
 msgstr ""
-"మీరు &quot; {container} &quot; లైబ్రరీ నుండి {email} ఖచ్చితంగా "
+"మీరు ' {container} ' లైబ్రరీ నుండి {email} ఖచ్చితంగా "
 "తొలగించాలనుకుంటున్నారా?"
 
 #: cms/static/js/factories/manage_users_lib.js:21
@@ -1029,7 +1029,7 @@ msgid ""
 msgstr ""
 "ఇతరులను కాపీ చేయడానికి, పంపిణీ చేయడానికి, ప్రదర్శించడానికి మరియు మీ పని "
 "యొక్క పదజాల కాపీలను మాత్రమే నిర్వహించడానికి అనుమతించండి, దాని ఆధారంగా "
-"ఉత్పన్నమైన పనులను కాదు. ఈ ఐచ్చికము &quot;అలైక్ షేర్&quot;కి అనుకూలంగా లేదు."
+"ఉత్పన్నమైన పనులను కాదు. ఈ ఐచ్చికము 'అలైక్ షేర్'కి అనుకూలంగా లేదు."
 
 #: cms/static/js/views/license.js:42
 msgid "Share Alike"
@@ -1042,8 +1042,8 @@ msgid ""
 " Derivatives\"."
 msgstr ""
 "మీ పనిని నియంత్రించే లైసెన్స్‌కు సమానమైన లైసెన్స్ కింద మాత్రమే డెరివేటివ్ "
-"వర్క్‌లను పంపిణీ చేయడానికి ఇతరులను అనుమతించండి. ఈ ఐచ్ఛికం &quot;ఉత్పన్నాలు "
-"లేవు&quot;కి అనుకూలంగా లేదు."
+"వర్క్‌లను పంపిణీ చేయడానికి ఇతరులను అనుమతించండి. ఈ ఐచ్ఛికం 'ఉత్పన్నాలు "
+"లేవు'కి అనుకూలంగా లేదు."
 
 #. Translators: "item_display_name" is the name of the item to be deleted.
 #: cms/static/js/views/list_item.js:51
@@ -1561,14 +1561,14 @@ msgstr ""
 
 #: cms/static/js/views/utils/move_xblock_utils.js:33
 msgid "Success! \"{displayName}\" has been moved."
-msgstr "విజయం! &quot; {displayName} &quot; తరలించబడింది."
+msgstr "విజయం! ' {displayName} ' తరలించబడింది."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:58
 msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
 msgstr ""
-"తరలింపు రద్దు చేయబడింది. &quot; {sourceDisplayName} &quot; దాని అసలు "
+"తరలింపు రద్దు చేయబడింది. ' {sourceDisplayName} ' దాని అసలు "
 "స్థానానికి తిరిగి తరలించబడింది."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:76
@@ -2514,8 +2514,8 @@ msgid ""
 "Select a course or select \"Not specific to a course\" for your support "
 "request."
 msgstr ""
-"మీ మద్దతు అభ్యర్థన కోసం కోర్సును ఎంచుకోండి లేదా &quot;కోర్సుకు "
-"నిర్దిష్టమైనది కాదు&quot; ఎంచుకోండి."
+"మీ మద్దతు అభ్యర్థన కోసం కోర్సును ఎంచుకోండి లేదా 'కోర్సుకు "
+"నిర్దిష్టమైనది కాదు' ఎంచుకోండి."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:48
 msgid "Select a subject for your support request."
@@ -2703,7 +2703,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:59
 msgid "Team \"{team}\" successfully deleted."
-msgstr "బృందం &quot; {team} &quot; విజయవంతంగా తొలగించబడింది."
+msgstr "బృందం ' {team} ' విజయవంతంగా తొలగించబడింది."
 
 #: lms/djangoapps/teams/static/teams/js/views/manage.js:17
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:165
@@ -2853,7 +2853,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:390
 msgid "Showing results for \"{searchString}\""
-msgstr "&quot; {searchString} &quot; కోసం ఫలితాలను చూపుతోంది"
+msgstr "' {searchString} ' కోసం ఫలితాలను చూపుతోంది"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:408
 msgid "Search teams"
@@ -2888,15 +2888,15 @@ msgstr "అన్ని అంశాలు"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:686
 msgid "The page \"{route}\" could not be found."
-msgstr "&quot; {route} &quot; పేజీ కనుగొనబడలేదు."
+msgstr "' {route} ' పేజీ కనుగొనబడలేదు."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:695
 msgid "The topic \"{topic}\" could not be found."
-msgstr "అంశం &quot; {topic} &quot; కనుగొనబడలేదు."
+msgstr "అంశం ' {topic} ' కనుగొనబడలేదు."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:704
 msgid "The team \"{team}\" could not be found."
-msgstr "&quot; {team} &quot; బృందం కనుగొనబడలేదు."
+msgstr "' {team} ' బృందం కనుగొనబడలేదు."
 
 #: lms/djangoapps/teams/static/teams/js/views/topic_card.js:28
 msgid "{team_count} Team"
@@ -2966,7 +2966,7 @@ msgid ""
 "machine. (e.g. 'http://example.com/img/clouds.jpg')"
 msgstr ""
 "మీ మెషీన్ నుండి ఫైల్‌ను అప్‌లోడ్ చేయడానికి URLని టైప్ చేయండి లేదా "
-"&quot;ఫైల్‌ను ఎంచుకోండి&quot; బటన్‌ను ఉపయోగించండి. (ఉదా "
+"'ఫైల్‌ను ఎంచుకోండి' బటన్‌ను ఉపయోగించండి. (ఉదా "
 "'http://example.com/img/clouds.jpg')"
 
 #: lms/static/js/Markdown.Editor.js:37
@@ -3168,8 +3168,8 @@ msgid ""
 "in username/email and then press \"Add to Exception List\" button."
 msgstr ""
 "విద్యార్థి వినియోగదారు పేరు/ఇమెయిల్ ఫీల్డ్ అవసరం మరియు ఖాళీగా ఉండకూడదు. "
-"దయచేసి వినియోగదారు పేరు/ఇమెయిల్‌ని పూరించండి, ఆపై &quot;మినహాయింపు జాబితాకు "
-"జోడించు&quot; బటన్‌ను నొక్కండి."
+"దయచేసి వినియోగదారు పేరు/ఇమెయిల్‌ని పూరించండి, ఆపై 'మినహాయింపు జాబితాకు "
+"జోడించు' బటన్‌ను నొక్కండి."
 
 #: lms/static/js/certificates/models/certificate_invalidation.js:28
 msgid ""
@@ -3177,8 +3177,8 @@ msgid ""
 "in username/email and then press \"Invalidate Certificate\" button."
 msgstr ""
 "విద్యార్థి వినియోగదారు పేరు/ఇమెయిల్ ఫీల్డ్ అవసరం మరియు ఖాళీగా ఉండకూడదు. "
-"దయచేసి వినియోగదారు పేరు/ఇమెయిల్‌ని పూరించండి, ఆపై &quot;సర్టిఫికేట్ "
-"చెల్లుబాటు కాదు&quot; బటన్‌ను నొక్కండి."
+"దయచేసి వినియోగదారు పేరు/ఇమెయిల్‌ని పూరించండి, ఆపై 'సర్టిఫికేట్ "
+"చెల్లుబాటు కాదు' బటన్‌ను నొక్కండి."
 
 #: lms/static/js/certificates/views/certificate_allowlist.js:59
 msgid "Student Removed from certificate allowlist successfully."
@@ -3295,7 +3295,7 @@ msgstr " అభ్యాసకుడు తెలియని లోపాన్
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:163
 msgid "Uploaded file issues. Click on \"+\" to view."
 msgstr ""
-"ఫైల్ సమస్యలు అప్‌లోడ్ చేయబడ్డాయి. వీక్షించడానికి &quot;+&quot;పై క్లిక్ "
+"ఫైల్ సమస్యలు అప్‌లోడ్ చేయబడ్డాయి. వీక్షించడానికి '+'పై క్లిక్ "
 "చేయండి."
 
 #: lms/static/js/certificates/views/certificate_invalidation_view.js:50
@@ -3474,7 +3474,7 @@ msgstr[1] "%s కోర్సులను వీక్షిస్తోంద�
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format
 msgid "We couldn't find any results for \"%s\"."
-msgstr "మేము &quot; %s &quot; కోసం ఎలాంటి ఫలితాలను కనుగొనలేకపోయాము."
+msgstr "మేము ' %s ' కోసం ఎలాంటి ఫలితాలను కనుగొనలేకపోయాము."
 
 #: lms/static/js/discovery/views/search_form.js:66
 #: openedx/features/course_search/static/course_search/templates/search_error.underscore:1
@@ -3601,7 +3601,7 @@ msgstr "ఇటీవలి కార్యాచరణ"
 #: lms/static/js/edxnotes/views/tabs/search_results.js:36
 msgid "No results found for \"{query_string}\". Please try searching again."
 msgstr ""
-"&quot; {query_string} &quot; కోసం ఫలితాలు కనుగొనబడలేదు. దయచేసి మళ్లీ "
+"' {query_string} ' కోసం ఫలితాలు కనుగొనబడలేదు. దయచేసి మళ్లీ "
 "వెతకడానికి ప్రయత్నించండి."
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:50
@@ -3897,7 +3897,7 @@ msgid ""
 " to try again."
 msgstr ""
 "నివేదికను సృష్టించడంలో సమస్య ఏర్పడింది. మళ్లీ ప్రయత్నించడానికి "
-"&quot;ఎగ్జిక్యూటివ్ సారాంశాన్ని సృష్టించు&quot;ని ఎంచుకోండి."
+"'ఎగ్జిక్యూటివ్ సారాంశాన్ని సృష్టించు'ని ఎంచుకోండి."
 
 #: lms/static/js/instructor_dashboard/ecommerce.js:91
 msgid "Enter the enrollment code."
@@ -4956,7 +4956,7 @@ msgid ""
 " data is permanent and cannot be undone. {platformName} will not be able to "
 "recover your account or the data that is deleted."
 msgstr ""
-"మీరు &quot;నా ఖాతాను తొలగించు&quot;ని ఎంచుకున్నారు. మీ ఖాతా మరియు వ్యక్తిగత "
+"మీరు 'నా ఖాతాను తొలగించు'ని ఎంచుకున్నారు. మీ ఖాతా మరియు వ్యక్తిగత "
 "డేటా తొలగింపు శాశ్వతమైనది మరియు రద్దు చేయబడదు. {platformName} మీ ఖాతాను లేదా"
 " తొలగించబడిన డేటాను తిరిగి పొందలేరు."
 
@@ -5651,9 +5651,9 @@ msgstr "బుక్‌మార్క్ చేయబడింది"
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
 msgstr[0] ""
-"&quot; {search_term} &quot; కోసం {total_results} ఫలితం కనుగొనబడింది"
+"' {search_term} ' కోసం {total_results} ఫలితం కనుగొనబడింది"
 msgstr[1] ""
-"&quot; {search_term} &quot; కోసం {total_results} ఫలితాలు కనుగొనబడ్డాయి"
+"' {search_term} ' కోసం {total_results} ఫలితాలు కనుగొనబడ్డాయి"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -7808,7 +7808,7 @@ msgid ""
 "this subsection become available to learners unless they are explicitly "
 "hidden."
 msgstr ""
-"మీరు &quot; %(hide_label)s &quot; కాకుండా వేరే ఎంపికను ఎంచుకుంటే, ఈ "
+"మీరు ' %(hide_label)s ' కాకుండా వేరే ఎంపికను ఎంచుకుంటే, ఈ "
 "ఉపవిభాగంలో ప్రచురించబడిన యూనిట్లు స్పష్టంగా దాచబడితే తప్ప అభ్యాసకులకు "
 "అందుబాటులో ఉంటాయి."
 
@@ -8066,7 +8066,7 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"ఈ ఉపవిభాగం \\&quot; %(gradingType)s \\&quot;గా కాన్ఫిగర్ చేయబడింది, ఇది "
+"ఈ ఉపవిభాగం \\' %(gradingType)s \\'గా కాన్ఫిగర్ చేయబడింది, ఇది "
 "ప్రస్తుత గ్రేడింగ్ విధానంలో లేదు."
 
 #: cms/templates/js/course-outline.underscore:457
@@ -9104,7 +9104,7 @@ msgstr ""
 "పాల్గొనే వీడియోను రికార్డ్ చేస్తారు. అభ్యాసకులు అన్ని పరీక్షా నియమాలను "
 "పాటిస్తున్నారని నిర్ధారించుకోవడానికి వీడియోలు సమీక్షించబడతాయి. దయచేసి ఈ "
 "పరీక్షను ప్రోక్టార్డ్‌గా సెట్ చేయడం వలన విజిబిలిటీ సెట్టింగ్‌లు "
-"&quot;నిర్ణీత తేదీ తర్వాత కంటెంట్‌ను దాచిపెట్టు&quot;కి మారుస్తాయని "
+"'నిర్ణీత తేదీ తర్వాత కంటెంట్‌ను దాచిపెట్టు'కి మారుస్తాయని "
 "గమనించండి."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:49
@@ -10268,7 +10268,7 @@ msgstr "టైమర్‌ను దాచు"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "You are taking \"{exam_link}\" as {exam_type}. "
-msgstr "మీరు &quot; {exam_link} &quot;ని {exam_type} గా తీసుకుంటున్నారు . "
+msgstr "మీరు ' {exam_link} 'ని {exam_type} గా తీసుకుంటున్నారు . "
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "a timed exam"
@@ -10283,9 +10283,9 @@ msgid ""
 "To receive credit for problems, you must select \"Submit\" for each problem "
 "before you select \"End My Exam\"."
 msgstr ""
-"సమస్యల కోసం క్రెడిట్‌ని స్వీకరించడానికి, మీరు &quot;నా పరీక్షను "
-"ముగించు&quot;ని ఎంచుకునే ముందు ప్రతి సమస్యకు తప్పనిసరిగా "
-"&quot;సమర్పించు&quot; ఎంచుకోవాలి."
+"సమస్యల కోసం క్రెడిట్‌ని స్వీకరించడానికి, మీరు 'నా పరీక్షను "
+"ముగించు'ని ఎంచుకునే ముందు ప్రతి సమస్యకు తప్పనిసరిగా "
+"'సమర్పించు' ఎంచుకోవాలి."
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
 msgid "Show More"
@@ -12043,8 +12043,8 @@ msgid ""
 "page, click \"Bookmark this page\" under the page title."
 msgstr ""
 "కోర్స్‌వేర్ పేజీలకు సులభంగా తిరిగి రావడంలో మీకు సహాయపడటానికి బుక్‌మార్క్‌లను"
-" ఉపయోగించండి. పేజీని బుక్‌మార్క్ చేయడానికి, పేజీ శీర్షిక క్రింద ఉన్న &quot;ఈ"
-" పేజీని బుక్‌మార్క్ చేయి&quot;ని క్లిక్ చేయండి."
+" ఉపయోగించండి. పేజీని బుక్‌మార్క్ చేయడానికి, పేజీ శీర్షిక క్రింద ఉన్న 'ఈ"
+" పేజీని బుక్‌మార్క్ చేయి'ని క్లిక్ చేయండి."
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:14

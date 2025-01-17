@@ -66,7 +66,7 @@ msgid ""
 "If set to true, hotspot coordinates interpreted to point to the center of "
 "the hotspot"
 msgstr ""
-"إذا تم التعيين على &quot;صحيح&quot;، فسيتم تفسير إحداثيات نقطة الاتصال "
+"إذا تم التعيين على 'صحيح'، فسيتم تفسير إحداثيات نقطة الاتصال "
 "للإشارة إلى مركز نقطة الاتصال"
 
 #: templates/html/image_explorer_edit.html:19

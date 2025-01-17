@@ -328,8 +328,8 @@ msgid ""
 "documentation{anchor_close} for more details on this setting."
 msgstr ""
 "เพิ่มคู่คีย์/ค่าสำหรับพารามิเตอร์ที่กำหนดเอง เช่น หน้าที่ eBook "
-"ของคุณควรเปิดหรือสีพื้นหลังสำหรับส่วนประกอบนี้ อดีต. [&quot;หน้า=1&quot;, "
-"&quot;สี=ขาว&quot;]<br /> ดูเอกสารประกอบ {docs_anchor_open} edX LTI "
+"ของคุณควรเปิดหรือสีพื้นหลังสำหรับส่วนประกอบนี้ อดีต. ['หน้า=1', "
+"'สี=ขาว']<br /> ดูเอกสารประกอบ {docs_anchor_open} edX LTI "
 "{anchor_close} สำหรับรายละเอียดเพิ่มเติมเกี่ยวกับการตั้งค่านี้"
 
 #: lti_xblock.py:481
@@ -507,7 +507,7 @@ msgstr "พารามิเตอร์ที่กำหนดเองต้
 
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
-msgstr "พารามิเตอร์ที่กำหนดเองควรเป็นสตริงในรูปแบบ &quot;x=y&quot;"
+msgstr "พารามิเตอร์ที่กำหนดเองควรเป็นสตริงในรูปแบบ 'x=y'"
 
 #: lti_xblock.py:703
 msgid ""
@@ -515,7 +515,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "ต้องตั้งค่า ID การกำหนดค่าที่ใช้ซ้ำได้เมื่อใช้การกำหนดค่าภายนอก (ตัวอย่าง: "
-"&quot;x:y&quot;)"
+"'x:y')"
 
 #: lti_xblock.py:726
 msgid ""
@@ -532,7 +532,7 @@ msgid ""
 "string."
 msgstr ""
 "ไม่สามารถแยกวิเคราะห์หนังสือเดินทาง LTI: {lti_passport!r} ควรเป็นสตริง "
-"&quot;id:key:secret&quot;"
+"'id:key:secret'"
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
 msgid "Could not get user id for current request"
@@ -544,7 +544,7 @@ msgid ""
 "string."
 msgstr ""
 "ไม่สามารถแยกวิเคราะห์พารามิเตอร์ที่กำหนดเอง: {custom_parameter!r} "
-"ควรเป็นสตริง &quot;x=y&quot;"
+"ควรเป็นสตริง 'x=y'"
 
 #: lti_xblock.py:1428
 msgid "[LTI]: Real user not found against anon_id: {}"
@@ -605,7 +605,7 @@ msgid ""
 "\"x:y\" format."
 msgstr ""
 "การกำหนดค่า LTI ที่ใช้การกำหนดค่าแบบใช้ซ้ำได้จำเป็นต้องมี ID ภายนอกในรูปแบบ "
-"&quot;x:y&quot;"
+"'x:y'"
 
 #: models.py:267
 msgid ""

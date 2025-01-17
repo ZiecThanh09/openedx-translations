@@ -69,7 +69,7 @@ msgid ""
 "needed, click Publish, and copy the embed code into this field."
 msgstr ""
 "توفر Google رمز تضمين لمستندات Drive. في مستند Google Drive، من القائمة "
-"&quot;ملف&quot;، حدد &quot;نشر على الويب&quot;. قم بتعديل الإعدادات حسب "
+"'ملف'، حدد 'نشر على الويب'. قم بتعديل الإعدادات حسب "
 "الحاجة، وانقر فوق نشر، وانسخ رمز التضمين في هذا الحقل."
 
 #: google_docs.py:75

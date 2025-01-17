@@ -339,7 +339,7 @@ msgid ""
 msgstr ""
 "E-kitabınızın açılması gereken sayfa veya bu bileşenin arka plan rengi gibi "
 "özel parametreler için anahtar/değer çiftini ekleyin. Eski. "
-"[&quot;sayfa=1&quot;, &quot;renk=beyaz&quot;]<br /> Bu ayarla ilgili daha "
+"['sayfa=1', 'renk=beyaz']<br /> Bu ayarla ilgili daha "
 "fazla ayrıntı için {docs_anchor_open} edX LTI belgelerine {anchor_close} "
 "bakın."
 
@@ -525,7 +525,7 @@ msgstr "Özel Parametreler bir liste olmalıdır"
 
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
-msgstr "Özel Parametreler &quot;x=y&quot; biçiminde dizeler olmalıdır."
+msgstr "Özel Parametreler 'x=y' biçiminde dizeler olmalıdır."
 
 #: lti_xblock.py:703
 msgid ""
@@ -533,7 +533,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "Harici yapılandırma kullanılırken yeniden kullanılabilir yapılandırma "
-"kimliği ayarlanmalıdır (Örnek: &quot;x:y&quot;)."
+"kimliği ayarlanmalıdır (Örnek: 'x:y')."
 
 #: lti_xblock.py:726
 msgid ""
@@ -551,7 +551,7 @@ msgid ""
 "Could not parse LTI passport: {lti_passport!r}. Should be \"id:key:secret\" "
 "string."
 msgstr ""
-"LTI pasaportu ayrıştırılamadı: {lti_passport!r}. &quot;id:key:secret&quot; "
+"LTI pasaportu ayrıştırılamadı: {lti_passport!r}. 'id:key:secret' "
 "dizesi olmalıdır."
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
@@ -563,7 +563,7 @@ msgid ""
 "Could not parse custom parameter: {custom_parameter!r}. Should be \"x=y\" "
 "string."
 msgstr ""
-"Özel parametre ayrıştırılamadı: {custom_parameter!r}. &quot;x=y&quot; dizesi"
+"Özel parametre ayrıştırılamadı: {custom_parameter!r}. 'x=y' dizesi"
 " olmalıdır."
 
 #: lti_xblock.py:1428
@@ -626,7 +626,7 @@ msgid ""
 "\"x:y\" format."
 msgstr ""
 "Yeniden kullanılabilir yapılandırmayı kullanan LTI Yapılandırması, "
-"&quot;x:y&quot; biçiminde harici bir kimliğe ihtiyaç duyar."
+"'x:y' biçiminde harici bir kimliğe ihtiyaç duyar."
 
 #: models.py:267
 msgid ""

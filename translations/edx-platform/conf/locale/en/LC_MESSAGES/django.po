@@ -3289,7 +3289,7 @@ msgid ""
 "Certificates issued by {platform_name} are signed by a gpg key so that they "
 "can be validated independently by anyone with the {platform_name} public "
 "key. For independent verification, {platform_name} uses what is called a "
-"\"detached signature\"&quot;\"."
+"\"detached signature\"'\"."
 msgstr ""
 
 #: lms/djangoapps/certificates/views/webview.py:221

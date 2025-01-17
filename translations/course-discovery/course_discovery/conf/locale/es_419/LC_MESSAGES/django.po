@@ -1060,7 +1060,7 @@ msgid ""
 msgstr ""
 "El valor hexadecimal de 6 caracteres del color del tema de la organización, "
 "todos los cursos relacionados bajo la misma organización usarán este color "
-"como color del tema. (por ejemplo, &quot;#ff0000&quot; que es igual a rojo) "
+"como color del tema. (por ejemplo, '#ff0000' que es igual a rojo) "
 "No es necesario proporcionar el `#`"
 
 #: apps/course_metadata/models.py:301

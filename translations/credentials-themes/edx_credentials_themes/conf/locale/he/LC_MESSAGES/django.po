@@ -52,7 +52,7 @@ msgstr ""
 
 #: templates/edx.org/_footer.html:46
 msgid "Powered by"
-msgstr "מונע ע&quot;י"
+msgstr "מונע ע'י"
 
 #: templates/edx.org/credentials/programs/base.html:30
 msgid "About edX"

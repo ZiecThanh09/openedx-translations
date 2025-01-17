@@ -174,11 +174,11 @@ msgstr "Maelezo ya tatizo au maelekezo yaliyoonyeshwa kwa mwanafunzi."
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "Onyesha kichwa cha &quot;Tatizo&quot;."
+msgstr "Onyesha kichwa cha 'Tatizo'."
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
-msgstr "Onyesha kichwa &quot;Tatizo&quot; juu ya maandishi ya tatizo?"
+msgstr "Onyesha kichwa 'Tatizo' juu ya maandishi ya tatizo?"
 
 #: drag_and_drop_v2.py:145
 msgid "Show answer"

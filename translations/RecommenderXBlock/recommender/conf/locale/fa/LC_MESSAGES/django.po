@@ -86,8 +86,8 @@ msgstr ""
 "جای دیگر، لطفاً آن را اضافه کنید."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "افزودن منبع جدید &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "افزودن منبع جدید >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

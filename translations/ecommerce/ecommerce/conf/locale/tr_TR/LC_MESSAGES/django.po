@@ -2991,7 +2991,7 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"%(course_title)s için %(credit_provider)s %(credit_hours)s kredi saatlerini satın aldığınız için teşekkür ederiz. Kredi veya banka kartı ekstrenizde &quot; %(platform_name)s &quot; şirket adını taşıyan bir ödeme görünecektir.\n"
+"%(course_title)s için %(credit_provider)s %(credit_hours)s kredi saatlerini satın aldığınız için teşekkür ederiz. Kredi veya banka kartı ekstrenizde ' %(platform_name)s ' şirket adını taşıyan bir ödeme görünecektir.\n"
 "                        "
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.html:67
@@ -3053,7 +3053,7 @@ msgid ""
 msgstr ""
 "%(course_title)s için %(credit_provider)s %(credit_hours)s kredi saatlerini "
 "satın aldığınız için teşekkür ederiz. Kredi veya banka kartı ekstrenizde "
-"&quot; %(platform_name)s &quot; şirket adını taşıyan bir ödeme görünecektir."
+"' %(platform_name)s ' şirket adını taşıyan bir ödeme görünecektir."
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.txt:18
 #, python-format

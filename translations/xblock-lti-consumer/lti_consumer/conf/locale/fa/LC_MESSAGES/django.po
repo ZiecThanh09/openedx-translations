@@ -332,7 +332,7 @@ msgid ""
 msgstr ""
 "جفت کلید/مقدار را برای هر پارامتر سفارشی، مانند صفحه ای که کتاب الکترونیکی "
 "شما باید در آن باز کند یا رنگ پس زمینه این مؤلفه، اضافه کنید. سابق. "
-"[&quot;page=1&quot;، &quot;color=white&quot;]<br /> برای جزئیات بیشتر در "
+"['page=1'، 'color=white']<br /> برای جزئیات بیشتر در "
 "مورد این تنظیم، به مستندات {docs_anchor_open} edX LTI {anchor_close} مراجعه "
 "کنید."
 
@@ -516,7 +516,7 @@ msgstr "پارامترهای سفارشی باید یک لیست باشند"
 
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
-msgstr "پارامترهای سفارشی باید رشته هایی در قالب &quot;x=y&quot; باشند."
+msgstr "پارامترهای سفارشی باید رشته هایی در قالب 'x=y' باشند."
 
 #: lti_xblock.py:703
 msgid ""
@@ -524,7 +524,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "شناسه پیکربندی قابل استفاده مجدد باید هنگام استفاده از پیکربندی خارجی تنظیم "
-"شود (مثال: &quot;x:y&quot;)."
+"شود (مثال: 'x:y')."
 
 #: lti_xblock.py:726
 msgid ""
@@ -540,7 +540,7 @@ msgid ""
 "Could not parse LTI passport: {lti_passport!r}. Should be \"id:key:secret\" "
 "string."
 msgstr ""
-"گذرنامه LTI تجزیه نشد: {lti_passport!r}. باید رشته &quot;id:key:secret&quot;"
+"گذرنامه LTI تجزیه نشد: {lti_passport!r}. باید رشته 'id:key:secret'"
 " باشد."
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
@@ -552,7 +552,7 @@ msgid ""
 "Could not parse custom parameter: {custom_parameter!r}. Should be \"x=y\" "
 "string."
 msgstr ""
-"پارامتر سفارشی تجزیه نشد: {custom_parameter!r}. باید رشته &quot;x=y&quot; "
+"پارامتر سفارشی تجزیه نشد: {custom_parameter!r}. باید رشته 'x=y' "
 "باشد."
 
 #: lti_xblock.py:1428
@@ -613,7 +613,7 @@ msgid ""
 "\"x:y\" format."
 msgstr ""
 "پیکربندی LTI با استفاده از پیکربندی قابل استفاده مجدد نیاز به شناسه خارجی در"
-" قالب &quot;x:y&quot; دارد."
+" قالب 'x:y' دارد."
 
 #: models.py:267
 msgid ""

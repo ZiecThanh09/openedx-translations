@@ -872,11 +872,11 @@ msgstr ""
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
 msgstr ""
-"Đối số không đúng định dạng &quot;{}&quot;, phải ở dạng UUID:TARGET_UUID"
+"Đối số không đúng định dạng '{}', phải ở dạng UUID:TARGET_UUID"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "Đối số không đúng định dạng &quot;{}&quot;, UUID không thể bằng nhau"
+msgstr "Đối số không đúng định dạng '{}', UUID không thể bằng nhau"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
@@ -1042,7 +1042,7 @@ msgid ""
 msgstr ""
 "Giá trị hex 6 ký tự của màu chủ đề tổ chức,\n"
 " tất cả các khóa học liên quan trong cùng một tổ chức sẽ sử dụng màu này làm màu chủ đề.\n"
-" (ví dụ: &quot;#ff0000&quot; tương đương với màu đỏ) Không cần cung cấp `#`"
+" (ví dụ: '#ff0000' tương đương với màu đỏ) Không cần cung cấp `#`"
 
 #: apps/course_metadata/models.py:301
 msgid "The timestamp of the last time the organization data was modified."
@@ -1423,8 +1423,8 @@ msgid ""
 " in Studio via Refresh Course Metadata."
 msgstr ""
 "Liệu hoạt động này có nên bị ẩn khỏi các phản hồi API hay không. Không chỉnh"
-" sửa ở đây - giá trị này sẽ bị ghi đè bởi trường &quot;Chế độ hiển thị khóa "
-"học trong danh mục&quot; trong Studio thông qua Làm mới siêu dữ liệu khóa "
+" sửa ở đây - giá trị này sẽ bị ghi đè bởi trường 'Chế độ hiển thị khóa "
+"học trong danh mục' trong Studio thông qua Làm mới siêu dữ liệu khóa "
 "học."
 
 #: apps/course_metadata/models.py:2164
@@ -1665,7 +1665,7 @@ msgstr "URL gọi lại tới luồng ứng dụng của đối tác"
 
 #: apps/course_metadata/models.py:3809
 msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
-msgstr "Xếp hạng chương trình tổng thể (ví dụ: &quot;#1 ở Mỹ&quot;)"
+msgstr "Xếp hạng chương trình tổng thể (ví dụ: '#1 ở Mỹ')"
 
 #: apps/course_metadata/models.py:3814
 msgid ""
@@ -1673,7 +1673,7 @@ msgid ""
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr ""
 "Giá trị hex 6 ký tự của màu để làm viền biểu ngữ\n"
-" (ví dụ: &quot;#ff0000&quot; tương đương với màu đỏ) Không cần cung cấp `#`"
+" (ví dụ: '#ff0000' tương đương với màu đỏ) Không cần cung cấp `#`"
 
 #: apps/course_metadata/models.py:3823
 msgid "Provide a campus image for the header of the degree"
@@ -1734,11 +1734,11 @@ msgstr "Hiển thị thứ hạng cho thẻ tìm kiếm (ví dụ: “#1 in the 
 
 #: apps/course_metadata/models.py:3911
 msgid "Cost display for search card (e.g. \"$9,999\""
-msgstr "Hiển thị chi phí cho thẻ tìm kiếm (ví dụ: &quot;$9,999&quot;"
+msgstr "Hiển thị chi phí cho thẻ tìm kiếm (ví dụ: '$9,999'"
 
 #: apps/course_metadata/models.py:3917
 msgid "Number of courses for search card (e.g. \"11 Courses\""
-msgstr "Số khóa học cho thẻ tìm kiếm (ví dụ: &quot;11 Khóa học&quot;"
+msgstr "Số khóa học cho thẻ tìm kiếm (ví dụ: '11 Khóa học'"
 
 #: apps/course_metadata/models.py:3925
 msgid ""
@@ -1847,8 +1847,8 @@ msgid ""
 "            text is the first 750 characters of \"marketing_text\" and must be\n"
 "            valid HTML."
 msgstr ""
-"Tổng quan cấp cao về chương trình học của bằng cấp. Tóm tắt&quot;\n"
-" văn bản là 750 ký tự đầu tiên của &quot;marketing_text&quot; và phải\n"
+"Tổng quan cấp cao về chương trình học của bằng cấp. Tóm tắt'\n"
+" văn bản là 750 ký tự đầu tiên của 'marketing_text' và phải\n"
 " HTML hợp lệ."
 
 #: apps/course_metadata/models.py:4091

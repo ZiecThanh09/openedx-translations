@@ -265,7 +265,7 @@ msgstr "قبلاً عضو تیم کتابخانه هستید"
 msgid ""
 "Are you sure you want to delete {email} from the library “{container}”?"
 msgstr ""
-"آیا مطمئن هستید که می خواهید {email} از کتابخانه &quot; {container} &quot; "
+"آیا مطمئن هستید که می خواهید {email} از کتابخانه ' {container} ' "
 "حذف کنید؟"
 
 #: cms/static/js/factories/manage_users_lib.js:21
@@ -1009,8 +1009,8 @@ msgid ""
 "incompatible with \"Share Alike\"."
 msgstr ""
 "به دیگران اجازه دهید کپی، توزیع، نمایش و اجرا کنند فقط به صورت کلمه به کلمه "
-"از کار شما، نه آثار مشتق شده بر اساس آن. این گزینه با &quot;اشتراک گذاری "
-"یکسان&quot; ناسازگار است."
+"از کار شما، نه آثار مشتق شده بر اساس آن. این گزینه با 'اشتراک گذاری "
+"یکسان' ناسازگار است."
 
 #: cms/static/js/views/license.js:42
 msgid "Share Alike"
@@ -1023,7 +1023,7 @@ msgid ""
 " Derivatives\"."
 msgstr ""
 "به دیگران اجازه دهید آثار مشتق شده را فقط تحت مجوزی مشابه مجوزی که بر کار "
-"شما حاکم است، توزیع کنند. این گزینه با &quot;بدون مشتقات&quot; ناسازگار است."
+"شما حاکم است، توزیع کنند. این گزینه با 'بدون مشتقات' ناسازگار است."
 
 #. Translators: "item_display_name" is the name of the item to be deleted.
 #: cms/static/js/views/list_item.js:51
@@ -1536,14 +1536,14 @@ msgstr ""
 
 #: cms/static/js/views/utils/move_xblock_utils.js:33
 msgid "Success! \"{displayName}\" has been moved."
-msgstr "موفقیت! &quot; {displayName} &quot; منتقل شده است."
+msgstr "موفقیت! ' {displayName} ' منتقل شده است."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:58
 msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
 msgstr ""
-"حرکت لغو شد. &quot; {sourceDisplayName} &quot; به مکان اصلی خود منتقل شده "
+"حرکت لغو شد. ' {sourceDisplayName} ' به مکان اصلی خود منتقل شده "
 "است."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:76
@@ -2471,8 +2471,8 @@ msgid ""
 "Select a course or select \"Not specific to a course\" for your support "
 "request."
 msgstr ""
-"یک دوره را انتخاب کنید یا برای درخواست پشتیبانی خود &quot;غیر اختصاصی به یک "
-"دوره&quot; را انتخاب کنید."
+"یک دوره را انتخاب کنید یا برای درخواست پشتیبانی خود 'غیر اختصاصی به یک "
+"دوره' را انتخاب کنید."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:48
 msgid "Select a subject for your support request."
@@ -2660,7 +2660,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:59
 msgid "Team \"{team}\" successfully deleted."
-msgstr "تیم &quot; {team} &quot; با موفقیت حذف شد."
+msgstr "تیم ' {team} ' با موفقیت حذف شد."
 
 #: lms/djangoapps/teams/static/teams/js/views/manage.js:17
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:165
@@ -2811,7 +2811,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:390
 msgid "Showing results for \"{searchString}\""
-msgstr "نمایش نتایج برای &quot; {searchString} &quot;"
+msgstr "نمایش نتایج برای ' {searchString} '"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:408
 msgid "Search teams"
@@ -2846,15 +2846,15 @@ msgstr "همه موضوعات"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:686
 msgid "The page \"{route}\" could not be found."
-msgstr "صفحه &quot; {route} &quot; یافت نشد."
+msgstr "صفحه ' {route} ' یافت نشد."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:695
 msgid "The topic \"{topic}\" could not be found."
-msgstr "موضوع &quot; {topic} &quot; یافت نشد."
+msgstr "موضوع ' {topic} ' یافت نشد."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:704
 msgid "The team \"{team}\" could not be found."
-msgstr "تیم &quot; {team} &quot; یافت نشد."
+msgstr "تیم ' {team} ' یافت نشد."
 
 #: lms/djangoapps/teams/static/teams/js/views/topic_card.js:28
 msgid "{team_count} Team"
@@ -2897,7 +2897,7 @@ msgstr "درج هایپرلینک"
 
 #: lms/static/js/Markdown.Editor.js:28
 msgid "e.g. 'http://google.com'"
-msgstr "به عنوان مثال &quot;http://google.com&quot;"
+msgstr "به عنوان مثال 'http://google.com'"
 
 #: lms/static/js/Markdown.Editor.js:29
 msgid "Link Description"
@@ -2905,7 +2905,7 @@ msgstr "توضیحات لینک"
 
 #: lms/static/js/Markdown.Editor.js:30
 msgid "e.g. 'google'"
-msgstr "به عنوان مثال &quot;گوگل&quot;"
+msgstr "به عنوان مثال 'گوگل'"
 
 #: lms/static/js/Markdown.Editor.js:31
 msgid "Please provide a description of the link destination."
@@ -2920,7 +2920,7 @@ msgid ""
 "Type in a URL or use the \"Choose File\" button to upload a file from your "
 "machine. (e.g. 'http://example.com/img/clouds.jpg')"
 msgstr ""
-"URL را تایپ کنید یا از دکمه &quot;انتخاب فایل&quot; برای آپلود فایل از "
+"URL را تایپ کنید یا از دکمه 'انتخاب فایل' برای آپلود فایل از "
 "دستگاه خود استفاده کنید. (به عنوان مثال "
 "'http://example.com/img/clouds.jpg')"
 
@@ -2941,7 +2941,7 @@ msgid ""
 "e.g. 'Sky with clouds'. The description is helpful for users who cannot see "
 "the image."
 msgstr ""
-"به عنوان مثال &quot;آسمان با ابرها&quot;. توضیحات برای کاربرانی که نمی "
+"به عنوان مثال 'آسمان با ابرها'. توضیحات برای کاربرانی که نمی "
 "توانند تصویر را ببینند مفید است."
 
 #: lms/static/js/Markdown.Editor.js:43
@@ -3123,7 +3123,7 @@ msgid ""
 "in username/email and then press \"Add to Exception List\" button."
 msgstr ""
 "فیلد نام کاربری/ایمیل دانشجو الزامی است و نمی‌تواند خالی باشد. لطفا نام "
-"کاربری/ایمیل را وارد کنید و سپس دکمه &quot;افزودن به لیست استثنایی&quot; را "
+"کاربری/ایمیل را وارد کنید و سپس دکمه 'افزودن به لیست استثنایی' را "
 "فشار دهید."
 
 #: lms/static/js/certificates/models/certificate_invalidation.js:28
@@ -3132,7 +3132,7 @@ msgid ""
 "in username/email and then press \"Invalidate Certificate\" button."
 msgstr ""
 "فیلد نام کاربری/ایمیل دانشجو الزامی است و نمی‌تواند خالی باشد. لطفا نام "
-"کاربری/ایمیل را وارد کنید و سپس دکمه &quot;بی اعتبار کردن گواهی&quot; را "
+"کاربری/ایمیل را وارد کنید و سپس دکمه 'بی اعتبار کردن گواهی' را "
 "فشار دهید."
 
 #: lms/static/js/certificates/views/certificate_allowlist.js:59
@@ -3245,7 +3245,7 @@ msgstr " یادگیرنده با یک خطای ناشناخته مواجه شد"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:163
 msgid "Uploaded file issues. Click on \"+\" to view."
-msgstr "مشکلات فایل آپلود شده برای مشاهده بر روی &quot;+&quot; کلیک کنید."
+msgstr "مشکلات فایل آپلود شده برای مشاهده بر روی '+' کلیک کنید."
 
 #: lms/static/js/certificates/views/certificate_invalidation_view.js:50
 msgid ""
@@ -3424,7 +3424,7 @@ msgstr[1] "مشاهده دوره های %s"
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format
 msgid "We couldn't find any results for \"%s\"."
-msgstr "هیچ نتیجه ای برای &quot; %s &quot; پیدا نکردیم."
+msgstr "هیچ نتیجه ای برای ' %s ' پیدا نکردیم."
 
 #: lms/static/js/discovery/views/search_form.js:66
 #: openedx/features/course_search/static/course_search/templates/search_error.underscore:1
@@ -3548,7 +3548,7 @@ msgstr "فعالیت اخیر"
 #: lms/static/js/edxnotes/views/tabs/search_results.js:36
 msgid "No results found for \"{query_string}\". Please try searching again."
 msgstr ""
-"هیچ نتیجه ای برای &quot; {query_string} &quot; یافت نشد. لطفاً دوباره جستجو "
+"هیچ نتیجه ای برای ' {query_string} ' یافت نشد. لطفاً دوباره جستجو "
 "کنید."
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:50
@@ -3723,7 +3723,7 @@ msgstr "آپلود فایل و اختصاص دانش آموزان"
 msgid ""
 "Your file '{file}' has been uploaded. Allow a few minutes for processing."
 msgstr ""
-"فایل &quot;{file}&quot; شما آپلود شده است. چند دقیقه برای پردازش زمان "
+"فایل '{file}' شما آپلود شده است. چند دقیقه برای پردازش زمان "
 "بگذارید."
 
 #: lms/static/js/groups/views/course_cohort_settings_notification.js:31
@@ -4261,14 +4261,14 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/student_admin.js:359
 msgid "Entrance exam state is being deleted for student '{student_id}'."
 msgstr ""
-"وضعیت امتحان ورودی برای دانش آموز &quot;{student_id}&quot; در حال حذف است."
+"وضعیت امتحان ورودی برای دانش آموز '{student_id}' در حال حذف است."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:367
 msgid ""
 "Error deleting entrance exam state for student '{student_id}'. Make sure "
 "student identifier is correct."
 msgstr ""
-"خطا در حذف وضعیت امتحان ورودی دانش آموز &quot;{student_id}&quot;. مطمئن شوید"
+"خطا در حذف وضعیت امتحان ورودی دانش آموز '{student_id}'. مطمئن شوید"
 " که شناسه دانش آموز درست است."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:396
@@ -4276,7 +4276,7 @@ msgid ""
 "Error getting entrance exam task history for student '{student_id}'. Make "
 "sure student identifier is correct."
 msgstr ""
-"خطا در گرفتن سابقه وظایف کنکور برای دانش آموز &quot;{student_id}&quot;. "
+"خطا در گرفتن سابقه وظایف کنکور برای دانش آموز '{student_id}'. "
 "مطمئن شوید که شناسه دانش آموز درست است."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:413
@@ -4290,7 +4290,7 @@ msgid ""
 " Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "کار برای بازنشانی تلاش‌ها برای مشکل '<%- problem_id %>' با موفقیت شروع شد. "
-"برای مشاهده وضعیت کار، روی دکمه &quot;نمایش وضعیت کار&quot; کلیک کنید."
+"برای مشاهده وضعیت کار، روی دکمه 'نمایش وضعیت کار' کلیک کنید."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:426
 msgid ""
@@ -4312,7 +4312,7 @@ msgid ""
 "of the task."
 msgstr ""
 "کار بازیابی مشکل برای مشکل '<%- problem_id %>' و دانش آموز '<%- student_id "
-"%>' آغاز شد. برای مشاهده وضعیت کار، روی دکمه &quot;نمایش وضعیت کار&quot; "
+"%>' آغاز شد. برای مشاهده وضعیت کار، روی دکمه 'نمایش وضعیت کار' "
 "کلیک کنید."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:508
@@ -4335,7 +4335,7 @@ msgid ""
 "status of the task."
 msgstr ""
 "کار شروع شد تا امتیاز مشکل '<%- problem_id %>' و دانش آموز '<%- student_id "
-"%>' لغو شود. برای مشاهده وضعیت کار، روی دکمه &quot;نمایش وضعیت کار&quot; "
+"%>' لغو شود. برای مشاهده وضعیت کار، روی دکمه 'نمایش وضعیت کار' "
 "کلیک کنید."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:562
@@ -4353,8 +4353,8 @@ msgid ""
 "Started entrance exam rescore task for student '{student_id}'. Click the "
 "'Show Task Status' button to see the status of the task."
 msgstr ""
-"کار نمره مجدد کنکور برای دانش آموز &quot;{student_id}&quot; شروع شد. برای "
-"مشاهده وضعیت کار، روی دکمه &quot;نمایش وضعیت کار&quot; کلیک کنید."
+"کار نمره مجدد کنکور برای دانش آموز '{student_id}' شروع شد. برای "
+"مشاهده وضعیت کار، روی دکمه 'نمایش وضعیت کار' کلیک کنید."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:612
 msgid ""
@@ -4363,7 +4363,7 @@ msgid ""
 "correct."
 msgstr ""
 "خطا در شروع کار برای کسب امتیاز مجدد در آزمون ورودی دانش آموز "
-"&quot;{student_id}&quot;. مطمئن شوید که کنکور دارای اشکال بوده و شناسه دانش "
+"'{student_id}'. مطمئن شوید که کنکور دارای اشکال بوده و شناسه دانش "
 "آموزی صحیح است."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:632
@@ -4376,7 +4376,7 @@ msgid ""
 "students. Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "کار برای بازیابی مشکل '<%- problem_id %>' برای همه دانش آموزان با موفقیت "
-"آغاز شد. برای مشاهده وضعیت کار، روی دکمه &quot;نمایش وضعیت کار&quot; کلیک "
+"آغاز شد. برای مشاهده وضعیت کار، روی دکمه 'نمایش وضعیت کار' کلیک "
 "کنید."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:646
@@ -4860,7 +4860,7 @@ msgid ""
 " data is permanent and cannot be undone. {platformName} will not be able to "
 "recover your account or the data that is deleted."
 msgstr ""
-"شما &quot;حذف حساب من&quot; را انتخاب کرده اید. حذف حساب و اطلاعات شخصی شما "
+"شما 'حذف حساب من' را انتخاب کرده اید. حذف حساب و اطلاعات شخصی شما "
 "دائمی است و قابل لغو نیست. {platformName} نمی تواند حساب شما یا داده های حذف"
 " شده را بازیابی کند."
 
@@ -5453,11 +5453,11 @@ msgstr "جای جای"
 
 #: lms/static/js/views/file_uploader.js:85
 msgid "Your upload of '{file}' succeeded."
-msgstr "آپلود &quot;{file}&quot; شما با موفقیت انجام شد."
+msgstr "آپلود '{file}' شما با موفقیت انجام شد."
 
 #: lms/static/js/views/file_uploader.js:111
 msgid "Your upload of '{file}' failed."
-msgstr "آپلود &quot;{file}&quot; شما ناموفق بود."
+msgstr "آپلود '{file}' شما ناموفق بود."
 
 #: lms/static/js/views/image_field.js:17
 msgid "Upload an image"
@@ -5539,8 +5539,8 @@ msgstr "نشانک گذاری شده است"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
-msgstr[0] "نتیجه {total_results} برای &quot; {search_term} &quot; یافت شد"
-msgstr[1] "نتایج {total_results} برای &quot; {search_term} &quot; یافت شد"
+msgstr[0] "نتیجه {total_results} برای ' {search_term} ' یافت شد"
+msgstr[1] "نتایج {total_results} برای ' {search_term} ' یافت شد"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -7680,7 +7680,7 @@ msgid ""
 "this subsection become available to learners unless they are explicitly "
 "hidden."
 msgstr ""
-"اگر گزینه ای غیر از &quot; %(hide_label)s &quot; را انتخاب کنید، واحدهای "
+"اگر گزینه ای غیر از ' %(hide_label)s ' را انتخاب کنید، واحدهای "
 "منتشر شده در این بخش فرعی در دسترس زبان آموزان قرار می گیرند مگر اینکه به "
 "صراحت پنهان باشند."
 
@@ -7937,7 +7937,7 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"این بخش فرعی به عنوان \\&quot; %(gradingType)s \\&quot; پیکربندی شده است که "
+"این بخش فرعی به عنوان \\' %(gradingType)s \\' پیکربندی شده است که "
 "در خط مشی درجه بندی فعلی وجود ندارد."
 
 #: cms/templates/js/course-outline.underscore:457
@@ -10122,7 +10122,7 @@ msgstr "مخفی کردن تایمر"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "You are taking \"{exam_link}\" as {exam_type}. "
-msgstr "شما &quot; {exam_link} &quot; را به عنوان {exam_type} می گیرید. "
+msgstr "شما ' {exam_link} ' را به عنوان {exam_type} می گیرید. "
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "a timed exam"
@@ -10137,8 +10137,8 @@ msgid ""
 "To receive credit for problems, you must select \"Submit\" for each problem "
 "before you select \"End My Exam\"."
 msgstr ""
-"برای دریافت اعتبار برای مشکلات، قبل از انتخاب گزینه &quot;End My Exam&quot; "
-"باید برای هر مشکل &quot;Submit&quot; را انتخاب کنید."
+"برای دریافت اعتبار برای مشکلات، قبل از انتخاب گزینه 'End My Exam' "
+"باید برای هر مشکل 'Submit' را انتخاب کنید."
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
 msgid "Show More"
@@ -11869,7 +11869,7 @@ msgid ""
 "page, click \"Bookmark this page\" under the page title."
 msgstr ""
 "از نشانک‌ها برای کمک به بازگشت آسان به صفحات دوره‌های آموزشی استفاده کنید. "
-"برای نشانک کردن یک صفحه، روی &quot;نشانک گذاری این صفحه&quot; در زیر عنوان "
+"برای نشانک کردن یک صفحه، روی 'نشانک گذاری این صفحه' در زیر عنوان "
 "صفحه کلیک کنید."
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13

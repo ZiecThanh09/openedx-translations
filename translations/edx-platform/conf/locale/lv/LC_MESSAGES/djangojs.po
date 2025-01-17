@@ -1541,14 +1541,14 @@ msgstr ""
 
 #: cms/static/js/views/utils/move_xblock_utils.js:33
 msgid "Success! \"{displayName}\" has been moved."
-msgstr "Veiksmi! &quot; {displayName} &quot; ir pārvietots."
+msgstr "Veiksmi! ' {displayName} ' ir pārvietots."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:58
 msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
 msgstr ""
-"Pārvietošanās atcelta. &quot; {sourceDisplayName} &quot; ir pārvietots "
+"Pārvietošanās atcelta. ' {sourceDisplayName} ' ir pārvietots "
 "atpakaļ uz sākotnējo atrašanās vietu."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:76
@@ -2678,7 +2678,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:59
 msgid "Team \"{team}\" successfully deleted."
-msgstr "Komanda &quot; {team} &quot; veiksmīgi izdzēsta."
+msgstr "Komanda ' {team} ' veiksmīgi izdzēsta."
 
 #: lms/djangoapps/teams/static/teams/js/views/manage.js:17
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:165
@@ -2831,7 +2831,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:390
 msgid "Showing results for \"{searchString}\""
-msgstr "Rāda rezultātus vaicājumam &quot; {searchString} &quot;"
+msgstr "Rāda rezultātus vaicājumam ' {searchString} '"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:408
 msgid "Search teams"
@@ -2867,15 +2867,15 @@ msgstr "Visas tēmas"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:686
 msgid "The page \"{route}\" could not be found."
-msgstr "Lapu &quot; {route} &quot; nevarēja atrast."
+msgstr "Lapu ' {route} ' nevarēja atrast."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:695
 msgid "The topic \"{topic}\" could not be found."
-msgstr "Tēmu &quot; {topic} &quot; nevarēja atrast."
+msgstr "Tēmu ' {topic} ' nevarēja atrast."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:704
 msgid "The team \"{team}\" could not be found."
-msgstr "Komanda &quot; {team} &quot; netika atrasta."
+msgstr "Komanda ' {team} ' netika atrasta."
 
 #: lms/djangoapps/teams/static/teams/js/views/topic_card.js:28
 msgid "{team_count} Team"
@@ -3278,7 +3278,7 @@ msgstr " kursa dalībniekam radās nezināma kļūda"
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:163
 msgid "Uploaded file issues. Click on \"+\" to view."
 msgstr ""
-"Augšupielādētā faila uzdevumi. Noklikšķiniet uz &quot;+&quot;, lai skatītu."
+"Augšupielādētā faila uzdevumi. Noklikšķiniet uz '+', lai skatītu."
 
 #: lms/static/js/certificates/views/certificate_invalidation_view.js:50
 msgid ""
@@ -3457,7 +3457,7 @@ msgstr[2] "%s kursu skatīšana"
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format
 msgid "We couldn't find any results for \"%s\"."
-msgstr "Vaicājumam &quot; %s &quot; netika atrasti rezultāti."
+msgstr "Vaicājumam ' %s ' netika atrasti rezultāti."
 
 #: lms/static/js/discovery/views/search_form.js:66
 #: openedx/features/course_search/static/course_search/templates/search_error.underscore:1
@@ -3586,7 +3586,7 @@ msgstr "Pēdējās aktivitātes"
 #: lms/static/js/edxnotes/views/tabs/search_results.js:36
 msgid "No results found for \"{query_string}\". Please try searching again."
 msgstr ""
-"Vaicājumam &quot; {query_string} &quot; nav atrasts neviens rezultāts. "
+"Vaicājumam ' {query_string} ' nav atrasts neviens rezultāts. "
 "Lūdzu, mēģiniet meklēt vēlreiz."
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:50
@@ -3879,8 +3879,8 @@ msgid ""
 "There was a problem creating the report. Select \"Create Executive Summary\""
 " to try again."
 msgstr ""
-"Veidojot pārskatu, radās problēma. Atlasiet &quot;Izveidot "
-"kopsavilkumu&quot;, lai mēģinātu vēlreiz."
+"Veidojot pārskatu, radās problēma. Atlasiet 'Izveidot "
+"kopsavilkumu', lai mēģinātu vēlreiz."
 
 #: lms/static/js/instructor_dashboard/ecommerce.js:91
 msgid "Enter the enrollment code."
@@ -5618,11 +5618,11 @@ msgstr "Atzīmēts ar grāmatzīmi"
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
 msgstr[0] ""
-"{total_results} rezultāti atrasti vaicājumam &quot; {search_term} &quot;"
+"{total_results} rezultāti atrasti vaicājumam ' {search_term} '"
 msgstr[1] ""
-"{total_results} rezultāts atrasts vaicājumam &quot; {search_term} &quot;"
+"{total_results} rezultāts atrasts vaicājumam ' {search_term} '"
 msgstr[2] ""
-"{total_results} rezultāti atrasti vaicājumam &quot; {search_term} &quot;"
+"{total_results} rezultāti atrasti vaicājumam ' {search_term} '"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -8033,7 +8033,7 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"Šī apakšsadaļa ir konfigurēta kā \\&quot; %(gradingType)s \\&quot;, kas "
+"Šī apakšsadaļa ir konfigurēta kā \\' %(gradingType)s \\', kas "
 "pašreizējā vērtēšanas politikā nepastāv."
 
 #: cms/templates/js/course-outline.underscore:457
@@ -9072,7 +9072,7 @@ msgstr ""
 " kurā katrs kursa dalībnieks kārto eksāmenu. Pēc tam videoklipi tiek "
 "pārskatīti, lai nodrošinātu, ka dalībnieki ievēro visus eksāmena noteikumus."
 " Lūdzu, ņemiet vērā, ka, iestatot šo eksāmenu kā uzraudzītu, redzamības "
-"iestatījumi tiks mainīti uz &quot;Slēpt saturu pēc termiņa&quot;."
+"iestatījumi tiks mainīti uz 'Slēpt saturu pēc termiņa'."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:49
 msgid "Onboarding"
@@ -10227,7 +10227,7 @@ msgstr "Paslēpt taimeri"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "You are taking \"{exam_link}\" as {exam_type}. "
-msgstr "Jūs lietojat &quot; {exam_link} &quot; kā {exam_type} . "
+msgstr "Jūs lietojat ' {exam_link} ' kā {exam_type} . "
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "a timed exam"

@@ -325,7 +325,7 @@ msgid ""
 msgstr ""
 "הוסף את צמד המפתח/ערך עבור כל הפרמטרים המותאמים אישית, כגון הדף שהספר "
 "האלקטרוני שלך אמור להיפתח אליו או צבע הרקע של רכיב זה. לְשֶׁעָבַר. "
-"[&quot;page=1&quot;, &quot;color=white&quot;]<br /> עיין בתיעוד "
+"['page=1', 'color=white']<br /> עיין בתיעוד "
 "{docs_anchor_open} edX LTI {anchor_close} לפרטים נוספים על הגדרה זו."
 
 #: lti_xblock.py:481
@@ -500,7 +500,7 @@ msgstr "פרמטרים מותאמים אישית חייבים להיות רשי�
 
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
-msgstr "פרמטרים מותאמים אישית צריכים להיות מחרוזות בפורמט &quot;x=y&quot;."
+msgstr "פרמטרים מותאמים אישית צריכים להיות מחרוזות בפורמט 'x=y'."
 
 #: lti_xblock.py:703
 msgid ""
@@ -508,7 +508,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "יש להגדיר מזהה תצורה לשימוש חוזר בעת שימוש בתצורה חיצונית (דוגמה: "
-"&quot;x:y&quot;)."
+"'x:y')."
 
 #: lti_xblock.py:726
 msgid ""
@@ -525,7 +525,7 @@ msgid ""
 "string."
 msgstr ""
 "לא ניתן לנתח דרכון LTI: {lti_passport!r}. צריכה להיות מחרוזת "
-"&quot;id:key:secret&quot;."
+"'id:key:secret'."
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
 msgid "Could not get user id for current request"
@@ -537,7 +537,7 @@ msgid ""
 "string."
 msgstr ""
 "לא ניתן לנתח פרמטר מותאם אישית: {custom_parameter!r}. צריכה להיות מחרוזת "
-"&quot;x=y&quot;."
+"'x=y'."
 
 #: lti_xblock.py:1428
 msgid "[LTI]: Real user not found against anon_id: {}"
@@ -597,7 +597,7 @@ msgid ""
 "\"x:y\" format."
 msgstr ""
 "תצורת LTI באמצעות תצורה ניתנת לשימוש חוזר זקוקה למזהה חיצוני בפורמט "
-"&quot;x:y&quot;."
+"'x:y'."
 
 #: models.py:267
 msgid ""

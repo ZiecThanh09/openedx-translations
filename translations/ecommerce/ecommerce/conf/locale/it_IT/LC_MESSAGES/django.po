@@ -639,7 +639,7 @@ msgid ""
 "begin with '00k'."
 msgstr ""
 "La riga Opportunità Salesforce deve contenere 18 caratteri alfanumerici e "
-"iniziare con &quot;00k&quot;."
+"iniziare con '00k'."
 
 #: enterprise/forms.py:184 enterprise/forms.py:232
 msgid "Ensure this value is greater than or equal to 0."

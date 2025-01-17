@@ -875,11 +875,11 @@ msgstr ""
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
-msgstr "Неверный аргумент &quot;{}&quot; должен иметь форму UUID:TARGET_UUID."
+msgstr "Неверный аргумент '{}' должен иметь форму UUID:TARGET_UUID."
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "Неверный аргумент &quot;{}&quot;, UUID не могут быть равными"
+msgstr "Неверный аргумент '{}', UUID не могут быть равными"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
@@ -1867,7 +1867,7 @@ msgid ""
 "            valid HTML."
 msgstr ""
 "Общий обзор учебных программ данной степени. «Краткое»\n"
-" текст представляет собой первые 750 символов &quot;marketing_text&quot; и должен быть\n"
+" текст представляет собой первые 750 символов 'marketing_text' и должен быть\n"
 " действительный HTML."
 
 #: apps/course_metadata/models.py:4062

@@ -90,8 +90,8 @@ msgstr ""
 "ressourcer, enten på edx.org eller andre steder, bedes du tilføje dem."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "Tilføj ny ressource &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "Tilføj ny ressource >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

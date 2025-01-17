@@ -5599,8 +5599,8 @@ msgstr "बुकमार्क"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
-msgstr[0] "{total_results} परिणाम &quot; {search_term} &quot; के लिए मिला"
-msgstr[1] "&quot; {search_term} &quot; के लिए {total_results} परिणाम मिले"
+msgstr[0] "{total_results} परिणाम ' {search_term} ' के लिए मिला"
+msgstr[1] "' {search_term} ' के लिए {total_results} परिणाम मिले"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -7999,7 +7999,7 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"यह उपधारा \\&quot; %(gradingType)s \\&quot; के रूप में कॉन्फ़िगर की गई है, "
+"यह उपधारा \\' %(gradingType)s \\' के रूप में कॉन्फ़िगर की गई है, "
 "जो वर्तमान ग्रेडिंग नीति में मौजूद नहीं है।"
 
 #: cms/templates/js/course-outline.underscore:457
@@ -9041,8 +9041,8 @@ msgstr ""
 "प्रॉक्टर्ड परीक्षाएं समयबद्ध हैं और वे परीक्षा देने वाले प्रत्येक शिक्षार्थी"
 " का वीडियो रिकॉर्ड करते हैं। फिर यह सुनिश्चित करने के लिए वीडियो की समीक्षा "
 "की जाती है कि शिक्षार्थी सभी परीक्षा नियमों का पालन करें। कृपया ध्यान दें कि"
-" इस परीक्षा को प्रॉक्टर्ड के रूप में सेट करने से दृश्यता सेटिंग &quot;नियत "
-"तिथि के बाद सामग्री छुपाएं&quot; में बदल जाएगी।"
+" इस परीक्षा को प्रॉक्टर्ड के रूप में सेट करने से दृश्यता सेटिंग 'नियत "
+"तिथि के बाद सामग्री छुपाएं' में बदल जाएगी।"
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:49
 msgid "Onboarding"

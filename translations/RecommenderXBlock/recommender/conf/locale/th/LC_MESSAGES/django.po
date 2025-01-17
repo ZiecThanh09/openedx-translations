@@ -88,8 +88,8 @@ msgstr ""
 "หรือที่อื่น ๆ โปรดเพิ่มเข้าไป"
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "เพิ่มทรัพยากรใหม่ &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "เพิ่มทรัพยากรใหม่ >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

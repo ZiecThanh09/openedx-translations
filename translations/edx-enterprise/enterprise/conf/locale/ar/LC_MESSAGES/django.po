@@ -84,7 +84,7 @@ msgstr ""
 "املأ نصًا للفقرة الأولى من الصفحة. قد تكون المتغيرات التالية متاحة:<br "
 "/><ul><li> Enterprise_customer_name: اسم عميل المؤسسة.</li><li> "
 "Platform_name: اسم النظام الأساسي.</li><li> العنصر: سلسلة عبارة عن "
-"&quot;دورة&quot; أو &quot;برنامج&quot; حسب نوع الموافقة.</li><li> "
+"'دورة' أو 'برنامج' حسب نوع الموافقة.</li><li> "
 "Course_title: عنوان الدورة. متاح عندما يكون نوع الموافقة هو الدورة "
 "التدريبية.</li><li> Course_start_date: تاريخ بدء الدورة. متاح عندما يكون نوع"
 " الموافقة هو الدورة التدريبية.</li></ul>"
@@ -102,7 +102,7 @@ msgstr ""
 "املأ نصًا لفقرة السياسة في أسفل الصفحة. قد تكون المتغيرات التالية متاحة:<br "
 "/><ul><li> Enterprise_customer_name: اسم عميل المؤسسة.</li><li> "
 "Platform_name: اسم النظام الأساسي.</li><li> العنصر: سلسلة عبارة عن "
-"&quot;دورة&quot; أو &quot;برنامج&quot; حسب نوع الموافقة.</li><li> "
+"'دورة' أو 'برنامج' حسب نوع الموافقة.</li><li> "
 "Course_title: عنوان الدورة. متاح عندما يكون نوع الموافقة هو الدورة "
 "التدريبية.</li><li> Course_start_date: تاريخ بدء الدورة. متاح عندما يكون نوع"
 " الموافقة هو الدورة التدريبية.</li></ul>"
@@ -120,7 +120,7 @@ msgstr ""
 "املأ نصًا لفقرة الشريط الجانبي الأيسر. قد تكون المتغيرات التالية متاحة:<br "
 "/><ul><li> Enterprise_customer_name: اسم عميل المؤسسة.</li><li> "
 "Platform_name: اسم النظام الأساسي.</li><li> العنصر: سلسلة عبارة عن "
-"&quot;دورة&quot; أو &quot;برنامج&quot; حسب نوع الموافقة.</li><li> "
+"'دورة' أو 'برنامج' حسب نوع الموافقة.</li><li> "
 "Course_title: عنوان الدورة. متاح عندما يكون نوع الموافقة هو الدورة "
 "التدريبية.</li><li> Course_start_date: تاريخ بدء الدورة. متاح عندما يكون نوع"
 " الموافقة هو الدورة التدريبية.</li></ul>"
@@ -137,8 +137,8 @@ msgid ""
 msgstr ""
 "املأ نص الحوار الذي يظهر عندما يرفض المستخدم تقديم الموافقة. قد تكون "
 "المتغيرات التالية متاحة:<br /><ul><li> Enterprise_customer_name: اسم عميل "
-"المؤسسة.</li><li> العنصر: سلسلة عبارة عن &quot;دورة&quot; أو "
-"&quot;برنامج&quot; حسب نوع الموافقة.</li><li> Course_title: عنوان الدورة. "
+"المؤسسة.</li><li> العنصر: سلسلة عبارة عن 'دورة' أو "
+"'برنامج' حسب نوع الموافقة.</li><li> Course_title: عنوان الدورة. "
 "متاح عندما يكون نوع الموافقة هو الدورة التدريبية.</li><li> "
 "Course_start_date: تاريخ بدء الدورة. متاح عندما يكون نوع الموافقة هو الدورة "
 "التدريبية.</li></ul>"
@@ -704,9 +704,9 @@ msgid ""
 " row, to enroll learners in multiple courses."
 msgstr ""
 "يجب أن يحتوي ملف ‎.csv على عمود من عناوين البريد الإلكتروني، يُشار إليه "
-"بالعنوان &quot;email&quot; في الصف الأول. بشكل اختياري، قد يحتوي ملف .csv "
+"بالعنوان 'email' في الصف الأول. بشكل اختياري، قد يحتوي ملف .csv "
 "على عمود يحتوي على مفاتيح تشغيل الدورة التدريبية، والمشار إليها بالعنوان "
-"&quot;course_id&quot; في الصف الأول، لتسجيل المتعلمين في دورات متعددة."
+"'course_id' في الصف الأول، لتسجيل المتعلمين في دورات متعددة."
 
 #: enterprise/admin/forms.py:68
 msgid "Enroll these learners in this course"
@@ -799,7 +799,7 @@ msgstr "معاينة"
 #: enterprise/admin/forms.py:435
 msgid "Hold Ctrl when clicking on button to open Preview in new tab"
 msgstr ""
-"استمر في الضغط على Ctrl عند النقر فوق الزر لفتح &quot;معاينة&quot; في علامة "
+"استمر في الضغط على Ctrl عند النقر فوق الزر لفتح 'معاينة' في علامة "
 "تبويب جديدة"
 
 #: enterprise/admin/forms.py:498
@@ -832,8 +832,8 @@ msgid ""
 "\"{data_type}\" data type is not supported for enterprise customer "
 "\"{enterprise_customer.name}\". Please select a different data type."
 msgstr ""
-"نوع البيانات &quot;{data_type}&quot; غير مدعوم لعميل المؤسسة "
-"&quot;{enterprise_customer.name}&quot;. الرجاء تحديد نوع بيانات مختلف."
+"نوع البيانات '{data_type}' غير مدعوم لعميل المؤسسة "
+"'{enterprise_customer.name}'. الرجاء تحديد نوع بيانات مختلف."
 
 #: enterprise/admin/forms.py:628
 #, python-brace-format
@@ -853,8 +853,8 @@ msgid ""
 "User specified is not linked to an active Enterprise Customer. Select "
 "`Applies to all contexts` or choose a different user."
 msgstr ""
-"المستخدم المحدد غير مرتبط بعميل مؤسسي نشط. حدد &quot;ينطبق على جميع "
-"السياقات&quot; أو اختر مستخدمًا مختلفًا."
+"المستخدم المحدد غير مرتبط بعميل مؤسسي نشط. حدد 'ينطبق على جميع "
+"السياقات' أو اختر مستخدمًا مختلفًا."
 
 #: enterprise/admin/forms.py:782
 msgid ""
@@ -944,7 +944,7 @@ msgstr "البريد الإلكتروني {email} غير مرتبط بعميل �
 #: enterprise/admin/views.py:976
 msgid ""
 "Successfully written the \"Auth org id\" field for this enterprise customer."
-msgstr "تمت كتابة حقل &quot;Auth org id&quot; بنجاح لعميل المؤسسة هذا."
+msgstr "تمت كتابة حقل 'Auth org id' بنجاح لعميل المؤسسة هذا."
 
 #: enterprise/api/utils.py:87
 #, python-brace-format
@@ -1373,7 +1373,7 @@ msgid ""
 "version of learner credit."
 msgstr ""
 "يحدد ما إذا كان سيتم الإعلان عن عروض المؤسسة للمتعلمين في بوابة المتعلم. "
-"ينطبق هذا فقط على العملاء الذين لديهم &quot;عروض&quot;، الإصدار القديم من "
+"ينطبق هذا فقط على العملاء الذين لديهم 'عروض'، الإصدار القديم من "
 "رصيد المتعلم."
 
 #: enterprise/models.py:367
@@ -1627,8 +1627,8 @@ msgid ""
 " won't be excluded from the content of the associated catalog."
 msgstr ""
 "يحدد ما إذا كان يُسمح للكتالوج بتضمين المقررات الدراسية التنفيذية (2U). وهذا"
-" يعني أنه عندما يحدد content_filter أنه يجب تضمين أنواع محتوى &quot;الدورة "
-"التدريبية&quot; في الكتالوج، فلن يتم استبعاد أنواع دورات التعليم التنفيذي-2u"
+" يعني أنه عندما يحدد content_filter أنه يجب تضمين أنواع محتوى 'الدورة "
+"التدريبية' في الكتالوج، فلن يتم استبعاد أنواع دورات التعليم التنفيذي-2u"
 " من محتوى الكتالوج المرتبط."
 
 #: enterprise/models.py:2391
@@ -1680,7 +1680,7 @@ msgid ""
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
 "املأ قالب Django القياسي الذي، عند عرضه، يُنتج البريد الإلكتروني الذي تريد إرساله إلى متعلمي عملاء Enterprise المسجلين حديثًا. قد تكون المتغيرات التالية متاحة:\n"
-"<ul><li> user_name: اسم يمكن قراءته بواسطة الإنسان للشخص الذي يتم مراسلته عبر البريد الإلكتروني. تأكد من التعامل مع الحالة التي لم يتم فيها تعريف ذلك، لأنه قد يكون مفقودًا في بعض الحالات. وقد يكون أيضًا اسم مستخدم، إذا لم يقم المتعلم بتكوين اسمه &quot;الحقيقي&quot; في النظام.</li><li> Organization_name: اسم المنظمة الراعية للتسجيل.</li><li> Enregistrer_in: تفاصيل الدورة أو البرنامج الذي تم التسجيل فيه. وقد تحتوي على:<ul><li> الاسم: اسم العنصر القابل للتسجيل (على سبيل المثال، &quot;الدورة التدريبية التجريبية&quot;).</li><li> عنوان url: رابط إلى الصفحة الرئيسية للعنصر المسجل.</li><li> العلامة التجارية: اسم علامة تجارية مخصصة للعنصر المسجل. على سبيل المثال، ستكون العلامة التجارية لبرنامج MicroMasters هي &quot;MicroMasters&quot;.</li><li> البدء: التاريخ الذي يصبح فيه العنصر المسجل متاحًا. قم بتحويل هذا إلى نص باستخدام مرشح قالب Django &quot;التاريخ&quot; (راجع <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">وثائق Django</a> ).</li><li> النوع: ما إذا كان العنصر المسجل عبارة عن دورة تدريبية أو برنامج أو أي شيء آخر.</li></ul></ul>"
+"<ul><li> user_name: اسم يمكن قراءته بواسطة الإنسان للشخص الذي يتم مراسلته عبر البريد الإلكتروني. تأكد من التعامل مع الحالة التي لم يتم فيها تعريف ذلك، لأنه قد يكون مفقودًا في بعض الحالات. وقد يكون أيضًا اسم مستخدم، إذا لم يقم المتعلم بتكوين اسمه 'الحقيقي' في النظام.</li><li> Organization_name: اسم المنظمة الراعية للتسجيل.</li><li> Enregistrer_in: تفاصيل الدورة أو البرنامج الذي تم التسجيل فيه. وقد تحتوي على:<ul><li> الاسم: اسم العنصر القابل للتسجيل (على سبيل المثال، 'الدورة التدريبية التجريبية').</li><li> عنوان url: رابط إلى الصفحة الرئيسية للعنصر المسجل.</li><li> العلامة التجارية: اسم علامة تجارية مخصصة للعنصر المسجل. على سبيل المثال، ستكون العلامة التجارية لبرنامج MicroMasters هي 'MicroMasters'.</li><li> البدء: التاريخ الذي يصبح فيه العنصر المسجل متاحًا. قم بتحويل هذا إلى نص باستخدام مرشح قالب Django 'التاريخ' (راجع <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">وثائق Django</a> ).</li><li> النوع: ما إذا كان العنصر المسجل عبارة عن دورة تدريبية أو برنامج أو أي شيء آخر.</li></ul></ul>"
 
 #: enterprise/models.py:2786
 #, python-brace-format
@@ -2243,8 +2243,8 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "both were."
 msgstr ""
-"يجب تحديد إما &quot;البريد الإلكتروني أو اسم المستخدم&quot; أو &quot;التحميل"
-" المجمع لملف CSV&quot;، ولكن تم تحديد كليهما."
+"يجب تحديد إما 'البريد الإلكتروني أو اسم المستخدم' أو 'التحميل"
+" المجمع لملف CSV'، ولكن تم تحديد كليهما."
 
 #: enterprise/utils.py:148
 msgid "Error: Learners could not be added. Correct the following errors."
@@ -2273,7 +2273,7 @@ msgid ""
 "Either \"CSV bulk upload\" or a singular course ID may be used for manual "
 "enrollments, but not both together."
 msgstr ""
-"يمكن استخدام إما &quot;التحميل المجمع لملف CSV&quot; أو معرف الدورة "
+"يمكن استخدام إما 'التحميل المجمع لملف CSV' أو معرف الدورة "
 "التدريبية المفرد للتسجيلات اليدوية، ولكن ليس كلاهما معًا."
 
 #: enterprise/utils.py:161
@@ -2305,8 +2305,8 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "neither were."
 msgstr ""
-"يجب تحديد إما &quot;البريد الإلكتروني أو اسم المستخدم&quot; أو &quot;التحميل"
-" المجمع لملف CSV&quot;، ولكن لم يتم تحديد أي منهما."
+"يجب تحديد إما 'البريد الإلكتروني أو اسم المستخدم' أو 'التحميل"
+" المجمع لملف CSV'، ولكن لم يتم تحديد أي منهما."
 
 #: enterprise/utils.py:176
 #, python-brace-format
@@ -2337,15 +2337,15 @@ msgid ""
 "Enterprise channel worker user with the username "
 "\"{channel_worker_username}\" was not found."
 msgstr ""
-"لم يتم العثور على مستخدم عامل قناة المؤسسة باسم المستخدم &quot; "
-"{channel_worker_username} &quot;."
+"لم يتم العثور على مستخدم عامل قناة المؤسسة باسم المستخدم ' "
+"{channel_worker_username} '."
 
 #: enterprise/utils.py:185
 msgid ""
 "Unable to parse CSV file. Please make sure it is a CSV 'utf-8' encoded file."
 msgstr ""
 "غير قادر على تحليل ملف CSV. الرجاء التأكد من أنه ملف بترميز CSV "
-"&quot;utf-8&quot;."
+"'utf-8'."
 
 #: enterprise/utils.py:188
 msgid "Discount percentage should be from 0 to 100."
@@ -2359,8 +2359,8 @@ msgstr "لقد تم تسجيلك في {course_name} !"
 #: enterprise/utils.py:557 enterprise/utils.py:636
 msgid "`user` must have one of either `email` or `user_email`."
 msgstr ""
-"يجب أن يكون لدى &quot;المستخدم&quot; أحد &quot;البريد الإلكتروني&quot; أو "
-"&quot;بريد_المستخدم&quot;."
+"يجب أن يكون لدى 'المستخدم' أحد 'البريد الإلكتروني' أو "
+"'بريد_المستخدم'."
 
 #: enterprise/validators.py:30
 msgid "Value entered is not a valid hex color code."

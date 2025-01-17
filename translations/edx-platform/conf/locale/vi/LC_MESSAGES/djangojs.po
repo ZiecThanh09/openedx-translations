@@ -1010,8 +1010,8 @@ msgid ""
 msgstr ""
 "Chỉ cho phép người khác sao chép, phân phối, hiển thị và thực hiện các bản "
 "sao nguyên văn tác phẩm của bạn chứ không phải các tác phẩm phái sinh dựa "
-"trên tác phẩm đó. Tùy chọn này không tương thích với &quot;Chia sẻ tương "
-"tự&quot;."
+"trên tác phẩm đó. Tùy chọn này không tương thích với 'Chia sẻ tương "
+"tự'."
 
 #: cms/static/js/views/license.js:42
 msgid "Share Alike"
@@ -1025,7 +1025,7 @@ msgid ""
 msgstr ""
 "Chỉ cho phép người khác phân phối tác phẩm phái sinh theo giấy phép giống "
 "với giấy phép chi phối tác phẩm của bạn. Tùy chọn này không tương thích với "
-"&quot;Không có công cụ phái sinh&quot;."
+"'Không có công cụ phái sinh'."
 
 #. Translators: "item_display_name" is the name of the item to be deleted.
 #: cms/static/js/views/list_item.js:51
@@ -1542,14 +1542,14 @@ msgstr ""
 
 #: cms/static/js/views/utils/move_xblock_utils.js:33
 msgid "Success! \"{displayName}\" has been moved."
-msgstr "Thành công! &quot; {displayName} &quot; đã được di chuyển."
+msgstr "Thành công! ' {displayName} ' đã được di chuyển."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:58
 msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
 msgstr ""
-"Di chuyển bị hủy bỏ. &quot; {sourceDisplayName} &quot; đã được di chuyển trở"
+"Di chuyển bị hủy bỏ. ' {sourceDisplayName} ' đã được di chuyển trở"
 " lại vị trí ban đầu."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:76
@@ -2462,7 +2462,7 @@ msgid ""
 "Select a course or select \"Not specific to a course\" for your support "
 "request."
 msgstr ""
-"Chọn một khóa học hoặc chọn &quot;Không cụ thể cho một khóa học&quot; cho "
+"Chọn một khóa học hoặc chọn 'Không cụ thể cho một khóa học' cho "
 "yêu cầu hỗ trợ của bạn."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:48
@@ -2650,7 +2650,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:59
 msgid "Team \"{team}\" successfully deleted."
-msgstr "Nhóm &quot; {team} &quot; đã xóa thành công."
+msgstr "Nhóm ' {team} ' đã xóa thành công."
 
 #: lms/djangoapps/teams/static/teams/js/views/manage.js:17
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:165
@@ -2834,15 +2834,15 @@ msgstr "Tất cả chủ đề"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:686
 msgid "The page \"{route}\" could not be found."
-msgstr "Không thể tìm thấy trang &quot; {route} &quot;."
+msgstr "Không thể tìm thấy trang ' {route} '."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:695
 msgid "The topic \"{topic}\" could not be found."
-msgstr "Không thể tìm thấy chủ đề &quot; {topic} &quot;."
+msgstr "Không thể tìm thấy chủ đề ' {topic} '."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:704
 msgid "The team \"{team}\" could not be found."
-msgstr "Không thể tìm thấy nhóm &quot; {team} &quot;."
+msgstr "Không thể tìm thấy nhóm ' {team} '."
 
 #: lms/djangoapps/teams/static/teams/js/views/topic_card.js:28
 msgid "{team_count} Team"
@@ -2907,7 +2907,7 @@ msgid ""
 "Type in a URL or use the \"Choose File\" button to upload a file from your "
 "machine. (e.g. 'http://example.com/img/clouds.jpg')"
 msgstr ""
-"Nhập URL hoặc sử dụng nút &quot;Chọn tệp&quot; để tải tệp lên từ máy của "
+"Nhập URL hoặc sử dụng nút 'Chọn tệp' để tải tệp lên từ máy của "
 "bạn. (ví dụ: 'http://example.com/img/clouds.jpg')"
 
 #: lms/static/js/Markdown.Editor.js:37
@@ -3108,8 +3108,8 @@ msgid ""
 "in username/email and then press \"Add to Exception List\" button."
 msgstr ""
 "Trường tên người dùng/email của sinh viên là bắt buộc và không được để "
-"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút &quot;Thêm vào "
-"danh sách ngoại lệ&quot;."
+"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút 'Thêm vào "
+"danh sách ngoại lệ'."
 
 #: lms/static/js/certificates/models/certificate_invalidation.js:28
 msgid ""
@@ -3117,8 +3117,8 @@ msgid ""
 "in username/email and then press \"Invalidate Certificate\" button."
 msgstr ""
 "Trường tên người dùng/email của sinh viên là bắt buộc và không được để "
-"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút &quot;Chứng chỉ"
-" không hợp lệ&quot;."
+"trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút 'Chứng chỉ"
+" không hợp lệ'."
 
 #: lms/static/js/certificates/views/certificate_allowlist.js:59
 msgid "Student Removed from certificate allowlist successfully."
@@ -3239,7 +3239,7 @@ msgstr " người học gặp phải một lỗi không xác định"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:163
 msgid "Uploaded file issues. Click on \"+\" to view."
-msgstr "Vấn đề về tập tin đã tải lên. Bấm vào dấu &quot;+&quot; để xem."
+msgstr "Vấn đề về tập tin đã tải lên. Bấm vào dấu '+' để xem."
 
 #: lms/static/js/certificates/views/certificate_invalidation_view.js:50
 msgid ""
@@ -3417,7 +3417,7 @@ msgstr[1] "Xem %s khóa học"
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format
 msgid "We couldn't find any results for \"%s\"."
-msgstr "Chúng tôi không thể tìm thấy bất kỳ kết quả nào cho &quot; %s &quot;."
+msgstr "Chúng tôi không thể tìm thấy bất kỳ kết quả nào cho ' %s '."
 
 #: lms/static/js/discovery/views/search_form.js:66
 #: openedx/features/course_search/static/course_search/templates/search_error.underscore:1
@@ -3544,7 +3544,7 @@ msgstr "Hoạt động gần đây"
 #: lms/static/js/edxnotes/views/tabs/search_results.js:36
 msgid "No results found for \"{query_string}\". Please try searching again."
 msgstr ""
-"Không tìm thấy kết quả nào cho &quot; {query_string} &quot;. Vui lòng thử "
+"Không tìm thấy kết quả nào cho ' {query_string} '. Vui lòng thử "
 "tìm kiếm lại."
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:50
@@ -3816,7 +3816,7 @@ msgid ""
 "There was a problem creating the report. Select \"Create Executive Summary\""
 " to try again."
 msgstr ""
-"Đã xảy ra sự cố khi tạo báo cáo. Chọn &quot;Tạo Tóm tắt Điều hành&quot; để "
+"Đã xảy ra sự cố khi tạo báo cáo. Chọn 'Tạo Tóm tắt Điều hành' để "
 "thử lại."
 
 #: lms/static/js/instructor_dashboard/ecommerce.js:91
@@ -5548,7 +5548,7 @@ msgstr "Đã đánh dấu"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
-msgstr[0] "Tìm thấy kết quả {total_results} cho &quot; {search_term} &quot;"
+msgstr[0] "Tìm thấy kết quả {total_results} cho ' {search_term} '"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -7680,7 +7680,7 @@ msgid ""
 "this subsection become available to learners unless they are explicitly "
 "hidden."
 msgstr ""
-"Nếu bạn chọn một tùy chọn khác ngoài &quot; %(hide_label)s &quot;, các bài "
+"Nếu bạn chọn một tùy chọn khác ngoài ' %(hide_label)s ', các bài "
 "học đã xuất bản trong tiểu mục này sẽ có sẵn cho người học trừ khi chúng bị "
 "ẩn rõ ràng."
 
@@ -7940,7 +7940,7 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"Tiểu mục này được định cấu hình là \\&quot; %(gradingType)s \\&quot;, không "
+"Tiểu mục này được định cấu hình là \\' %(gradingType)s \\', không "
 "tồn tại trong chính sách chấm điểm hiện tại."
 
 #: cms/templates/js/course-outline.underscore:457
@@ -8979,8 +8979,8 @@ msgstr ""
 "Các bài kiểm tra được giám sát được tính giờ và ghi lại video từng học viên "
 "tham gia bài kiểm tra. Các video sau đó được xem xét để đảm bảo rằng người "
 "học tuân thủ tất cả các quy tắc kiểm tra. Xin lưu ý rằng việc đặt bài kiểm "
-"tra này là giám sát sẽ thay đổi cài đặt hiển thị thành &quot;Ẩn nội dung sau"
-" ngày đến hạn&quot;."
+"tra này là giám sát sẽ thay đổi cài đặt hiển thị thành 'Ẩn nội dung sau"
+" ngày đến hạn'."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:49
 msgid "Onboarding"
@@ -10131,7 +10131,7 @@ msgstr "Ẩn bộ hẹn giờ"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "You are taking \"{exam_link}\" as {exam_type}. "
-msgstr "Bạn đang dùng &quot; {exam_link} &quot; là {exam_type} . "
+msgstr "Bạn đang dùng ' {exam_link} ' là {exam_type} . "
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "a timed exam"
@@ -10146,8 +10146,8 @@ msgid ""
 "To receive credit for problems, you must select \"Submit\" for each problem "
 "before you select \"End My Exam\"."
 msgstr ""
-"Để nhận được điểm cho các bài thi, bạn phải chọn &quot;Gửi&quot; cho từng "
-"bài trước khi chọn &quot;Kết thúc bài kiểm tra của tôi&quot;."
+"Để nhận được điểm cho các bài thi, bạn phải chọn 'Gửi' cho từng "
+"bài trước khi chọn 'Kết thúc bài kiểm tra của tôi'."
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
 msgid "Show More"

@@ -85,8 +85,8 @@ msgid ""
 msgstr "这将是您的同学认为可能有帮助的资源列表，但目前为空。如果您在 edx.org 或其他地方找到有用的资源，请添加它。"
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "添加新资源&gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "添加新资源>;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

@@ -246,7 +246,7 @@ msgid ""
 "Are you sure you want to delete {email} from the course team for "
 "“{container}”?"
 msgstr ""
-"Je, una uhakika unataka kufuta {email} kutoka kwa timu ya kozi ya &quot; "
+"Je, una uhakika unataka kufuta {email} kutoka kwa timu ya kozi ya ' "
 "{container} ?"
 
 #: cms/static/js/factories/manage_users.js:20
@@ -268,7 +268,7 @@ msgstr "Tayari ni mwanachama wa timu ya maktaba"
 msgid ""
 "Are you sure you want to delete {email} from the library “{container}”?"
 msgstr ""
-"Je, una uhakika unataka kufuta {email} kutoka kwa maktaba &quot; {container}"
+"Je, una uhakika unataka kufuta {email} kutoka kwa maktaba ' {container}"
 " ?"
 
 #: cms/static/js/factories/manage_users_lib.js:21
@@ -1030,7 +1030,7 @@ msgid ""
 msgstr ""
 "Ruhusu wengine kunakili, kusambaza, kuonyesha na kutekeleza nakala za neno "
 "moja tu za kazi yako, si kazi zinazotokana nayo. Chaguo hili halioani na "
-"&quot;Shiriki Sawa&quot;."
+"'Shiriki Sawa'."
 
 #: cms/static/js/views/license.js:42
 msgid "Share Alike"
@@ -1043,8 +1043,8 @@ msgid ""
 " Derivatives\"."
 msgstr ""
 "Ruhusu wengine wasambaze kazi zinazotokana na leseni inayofanana na leseni "
-"inayosimamia kazi yako pekee. Chaguo hili haliendani na &quot;No "
-"Derivatives&quot;."
+"inayosimamia kazi yako pekee. Chaguo hili haliendani na 'No "
+"Derivatives'."
 
 #. Translators: "item_display_name" is the name of the item to be deleted.
 #: cms/static/js/views/list_item.js:51
@@ -1118,7 +1118,7 @@ msgstr "Una uhakika?"
 #: cms/static/js/views/manage_users_and_roles.js:31
 msgid "Are you sure you want to restrict {email} access to “{container}”?"
 msgstr ""
-"Je, una uhakika unataka kuzuia ufikiaji wa {email} kwa &quot; {container} ?"
+"Je, una uhakika unataka kuzuia ufikiaji wa {email} kwa ' {container} ?"
 
 #: cms/static/js/views/metadata.js:610 lms/static/js/views/file_uploader.js:47
 msgid "Upload File"
@@ -1561,14 +1561,14 @@ msgstr ""
 
 #: cms/static/js/views/utils/move_xblock_utils.js:33
 msgid "Success! \"{displayName}\" has been moved."
-msgstr "Mafanikio! &quot; {displayName} &quot; imehamishwa."
+msgstr "Mafanikio! ' {displayName} ' imehamishwa."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:58
 msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
 msgstr ""
-"Uhamishaji umeghairiwa. &quot; {sourceDisplayName} &quot; imerudishwa kwenye"
+"Uhamishaji umeghairiwa. ' {sourceDisplayName} ' imerudishwa kwenye"
 " eneo lake la asili."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:76
@@ -2501,7 +2501,7 @@ msgid ""
 "Select a course or select \"Not specific to a course\" for your support "
 "request."
 msgstr ""
-"Chagua kozi au chagua &quot;Si maalum kwa kozi&quot; kwa ombi lako la "
+"Chagua kozi au chagua 'Si maalum kwa kozi' kwa ombi lako la "
 "usaidizi."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:48
@@ -2690,7 +2690,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:59
 msgid "Team \"{team}\" successfully deleted."
-msgstr "Timu &quot; {team} &quot; imefutwa kwa ufanisi."
+msgstr "Timu ' {team} ' imefutwa kwa ufanisi."
 
 #: lms/djangoapps/teams/static/teams/js/views/manage.js:17
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:165
@@ -2840,7 +2840,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:390
 msgid "Showing results for \"{searchString}\""
-msgstr "Inaonyesha matokeo ya &quot; {searchString} &quot;"
+msgstr "Inaonyesha matokeo ya ' {searchString} '"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:408
 msgid "Search teams"
@@ -2875,15 +2875,15 @@ msgstr "Mada Zote"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:686
 msgid "The page \"{route}\" could not be found."
-msgstr "Ukurasa &quot; {route} &quot; haukuweza kupatikana."
+msgstr "Ukurasa ' {route} ' haukuweza kupatikana."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:695
 msgid "The topic \"{topic}\" could not be found."
-msgstr "Mada &quot; {topic} &quot; haikuweza kupatikana."
+msgstr "Mada ' {topic} ' haikuweza kupatikana."
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:704
 msgid "The team \"{team}\" could not be found."
-msgstr "Timu &quot; {team} &quot; haikuweza kupatikana."
+msgstr "Timu ' {team} ' haikuweza kupatikana."
 
 #: lms/djangoapps/teams/static/teams/js/views/topic_card.js:28
 msgid "{team_count} Team"
@@ -2951,7 +2951,7 @@ msgid ""
 "Type in a URL or use the \"Choose File\" button to upload a file from your "
 "machine. (e.g. 'http://example.com/img/clouds.jpg')"
 msgstr ""
-"Andika URL au utumie kitufe cha &quot;Chagua Faili&quot; ili kupakia faili "
+"Andika URL au utumie kitufe cha 'Chagua Faili' ili kupakia faili "
 "kutoka kwa mashine yako. (mfano 'http://example.com/img/clouds.jpg')"
 
 #: lms/static/js/Markdown.Editor.js:37
@@ -3154,7 +3154,7 @@ msgid ""
 msgstr ""
 "Jina la mtumiaji/uga wa barua pepe unahitajika na hauwezi kuwa tupu. "
 "Tafadhali jaza jina la mtumiaji/barua pepe kisha ubonyeze kitufe cha "
-"&quot;Ongeza kwa Orodha ya Vighairi&quot;."
+"'Ongeza kwa Orodha ya Vighairi'."
 
 #: lms/static/js/certificates/models/certificate_invalidation.js:28
 msgid ""
@@ -3163,7 +3163,7 @@ msgid ""
 msgstr ""
 "Jina la mtumiaji/uga wa barua pepe unahitajika na hauwezi kuwa tupu. "
 "Tafadhali jaza jina la mtumiaji/barua pepe kisha ubonyeze kitufe cha "
-"&quot;Batilisha Cheti&quot;."
+"'Batilisha Cheti'."
 
 #: lms/static/js/certificates/views/certificate_allowlist.js:59
 msgid "Student Removed from certificate allowlist successfully."
@@ -3287,7 +3287,7 @@ msgstr " mwanafunzi alipata hitilafu isiyojulikana"
 
 #: lms/static/js/certificates/views/certificate_bulk_allowlist.js:163
 msgid "Uploaded file issues. Click on \"+\" to view."
-msgstr "Masuala ya faili yaliyopakiwa. Bofya &quot;+&quot; ili kutazama."
+msgstr "Masuala ya faili yaliyopakiwa. Bofya '+' ili kutazama."
 
 #: lms/static/js/certificates/views/certificate_invalidation_view.js:50
 msgid ""
@@ -3467,7 +3467,7 @@ msgstr[1] "Kuangalia kozi za %s"
 #: lms/static/js/discovery/views/search_form.js:57
 #, javascript-format
 msgid "We couldn't find any results for \"%s\"."
-msgstr "Hatukuweza kupata matokeo yoyote ya &quot; %s &quot;."
+msgstr "Hatukuweza kupata matokeo yoyote ya ' %s '."
 
 #: lms/static/js/discovery/views/search_form.js:66
 #: openedx/features/course_search/static/course_search/templates/search_error.underscore:1
@@ -3596,7 +3596,7 @@ msgstr "Shughuli ya Hivi Karibuni"
 #: lms/static/js/edxnotes/views/tabs/search_results.js:36
 msgid "No results found for \"{query_string}\". Please try searching again."
 msgstr ""
-"Hakuna matokeo yaliyopatikana ya &quot; {query_string} &quot;. Tafadhali "
+"Hakuna matokeo yaliyopatikana ya ' {query_string} '. Tafadhali "
 "jaribu kutafuta tena."
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:50
@@ -3884,7 +3884,7 @@ msgid ""
 "There was a problem creating the report. Select \"Create Executive Summary\""
 " to try again."
 msgstr ""
-"Kulikuwa na tatizo la kuunda ripoti. Chagua &quot;Unda Muhtasari Mkuu&quot; "
+"Kulikuwa na tatizo la kuunda ripoti. Chagua 'Unda Muhtasari Mkuu' "
 "ili ujaribu tena."
 
 #: lms/static/js/instructor_dashboard/ecommerce.js:91
@@ -4940,7 +4940,7 @@ msgid ""
 " data is permanent and cannot be undone. {platformName} will not be able to "
 "recover your account or the data that is deleted."
 msgstr ""
-"Umechagua &quot;Futa akaunti yangu.&quot; Ufutaji wa akaunti yako na data ya"
+"Umechagua 'Futa akaunti yangu.' Ufutaji wa akaunti yako na data ya"
 " kibinafsi ni wa kudumu na hauwezi kutenduliwa. {platformName} haitaweza "
 "kurejesha akaunti yako au data ambayo imefutwa."
 
@@ -5628,9 +5628,9 @@ msgstr "Alamisho"
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
 msgstr[0] ""
-"{total_results} matokeo yamepatikana ya &quot; {search_term} &quot;"
+"{total_results} matokeo yamepatikana ya ' {search_term} '"
 msgstr[1] ""
-"{total_results} matokeo yamepatikana ya &quot; {search_term} &quot;"
+"{total_results} matokeo yamepatikana ya ' {search_term} '"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -7778,7 +7778,7 @@ msgid ""
 "this subsection become available to learners unless they are explicitly "
 "hidden."
 msgstr ""
-"Ukichagua chaguo isipokuwa &quot; %(hide_label)s &quot;, vitengo "
+"Ukichagua chaguo isipokuwa ' %(hide_label)s ', vitengo "
 "vilivyochapishwa katika kifungu hiki kidogo vinapatikana kwa wanafunzi "
 "isipokuwa kama vimefichwa wazi."
 
@@ -8038,7 +8038,7 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"Kifungu hiki kidogo kimesanidiwa kama \\&quot; %(gradingType)s \\&quot;, "
+"Kifungu hiki kidogo kimesanidiwa kama \\' %(gradingType)s \\', "
 "ambacho hakipo katika sera ya sasa ya kuweka alama."
 
 #: cms/templates/js/course-outline.underscore:457
@@ -9080,7 +9080,7 @@ msgstr ""
 "mwanafunzi anayefanya mtihani. Video hizo hupitiwa upya ili kuhakikisha kuwa"
 " wanafunzi wanafuata sheria zote za mitihani. Tafadhali kumbuka kuwa kuweka "
 "mtihani huu kama proctored kutabadilisha mipangilio ya mwonekano kuwa "
-"&quot;Ficha maudhui baada ya tarehe ya kukamilisha.&quot;"
+"'Ficha maudhui baada ya tarehe ya kukamilisha.'"
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:49
 msgid "Onboarding"
@@ -10232,7 +10232,7 @@ msgstr "Ficha Kipima Muda"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "You are taking \"{exam_link}\" as {exam_type}. "
-msgstr "Unachukua &quot; {exam_link} &quot; kama {exam_type} . "
+msgstr "Unachukua ' {exam_link} ' kama {exam_type} . "
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "a timed exam"
@@ -10249,8 +10249,8 @@ msgid ""
 "To receive credit for problems, you must select \"Submit\" for each problem "
 "before you select \"End My Exam\"."
 msgstr ""
-"Ili kupokea mkopo kwa matatizo, lazima uchague &quot;Wasilisha&quot; kwa "
-"kila tatizo kabla ya kuchagua &quot;Maliza Mtihani Wangu&quot;."
+"Ili kupokea mkopo kwa matatizo, lazima uchague 'Wasilisha' kwa "
+"kila tatizo kabla ya kuchagua 'Maliza Mtihani Wangu'."
 
 #: lms/templates/courseware/proctored-exam-status.underscore:35
 msgid "Show More"
@@ -12012,7 +12012,7 @@ msgid ""
 "page, click \"Bookmark this page\" under the page title."
 msgstr ""
 "Tumia alamisho ili kukusaidia kurudi kwa urahisi kwenye kurasa za programu "
-"ya kozi. Ili kualamisha ukurasa, bofya &quot;Alamisha ukurasa huu&quot; "
+"ya kozi. Ili kualamisha ukurasa, bofya 'Alamisha ukurasa huu' "
 "chini ya kichwa cha ukurasa."
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13

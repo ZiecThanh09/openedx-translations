@@ -86,8 +86,8 @@ msgstr ""
 "כרגע. אם אתה מוצא משאבים שימושיים, ב-edx.org או במקום אחר, הוסף אותם."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "הוסף משאב חדש &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "הוסף משאב חדש >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

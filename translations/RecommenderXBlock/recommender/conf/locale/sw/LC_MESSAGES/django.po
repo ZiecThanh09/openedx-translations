@@ -89,8 +89,8 @@ msgstr ""
 " au kwingineko, tafadhali ongeza."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "Ongeza rasilimali mpya &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "Ongeza rasilimali mpya >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

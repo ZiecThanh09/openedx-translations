@@ -89,8 +89,8 @@ msgstr ""
 "వనరులను కనుగొంటే, దయచేసి దానిని జోడించండి."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "కొత్త వనరుని జోడించండి &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "కొత్త వనరుని జోడించండి >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

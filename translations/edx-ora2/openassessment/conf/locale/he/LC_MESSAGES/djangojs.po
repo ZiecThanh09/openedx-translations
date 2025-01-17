@@ -468,7 +468,7 @@ msgid ""
 "The \"{name}\" problem is configured to require a minimum of {min_grades} "
 "peer grades, and asks to review {min_graded} peers."
 msgstr ""
-"הבעיה &quot; {name} &quot; מוגדרת לדרוש מינימום של ציוני עמיתים {min_grades}"
+"הבעיה ' {name} ' מוגדרת לדרוש מינימום של ציוני עמיתים {min_grades}"
 " , ומבקשת לבדוק עמיתים {min_graded} ."
 
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:383

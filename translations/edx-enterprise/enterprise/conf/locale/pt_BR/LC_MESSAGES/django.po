@@ -861,8 +861,8 @@ msgid ""
 "\"{data_type}\" data type is not supported for enterprise customer "
 "\"{enterprise_customer.name}\". Please select a different data type."
 msgstr ""
-"O tipo de dados &quot;{data_type}&quot; não é compatível com o cliente "
-"corporativo &quot;{enterprise_customer.name}&quot;. Selecione um tipo de "
+"O tipo de dados '{data_type}' não é compatível com o cliente "
+"corporativo '{enterprise_customer.name}'. Selecione um tipo de "
 "dados diferente."
 
 #: enterprise/admin/forms.py:628
@@ -977,7 +977,7 @@ msgstr "O e-mail {email} não está associado ao cliente corporativo {ec_name}"
 msgid ""
 "Successfully written the \"Auth org id\" field for this enterprise customer."
 msgstr ""
-"O campo &quot;Auth org id&quot; foi escrito com sucesso para este cliente "
+"O campo 'Auth org id' foi escrito com sucesso para este cliente "
 "corporativo."
 
 #: enterprise/api/utils.py:87
@@ -1762,7 +1762,7 @@ msgid ""
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
 "Preencha um modelo padrão do Django que, quando renderizado, produz o e-mail que você deseja enviar aos alunos do Enterprise Customer recém-inscritos. As seguintes variáveis podem estar disponíveis:\n"
-"<ul><li> user_name: um nome legível para a pessoa que está sendo enviada por e-mail. Certifique-se de tratar o caso em que isso não está definido, pois pode estar faltando em alguns casos. Também pode ser um nome de usuário, caso o aluno não tenha configurado seu nome “real” no sistema.</li><li> nome_da_organização: o nome da organização que patrocina a inscrição.</li><li> matriculado_in: Detalhes do curso ou programa em que foi matriculado. Pode conter:<ul><li> nome: O nome do item inscrivel (por exemplo, &quot;Curso Demo&quot;).</li><li> url: Um link para a página inicial do item inscrito.</li><li> marca: um nome de marca personalizado para o item inscrito. Por exemplo, a marca de um programa MicroMasters seria &quot;MicroMasters&quot;.</li><li> início: A data em que o item inscrito fica disponível. Renderize isso em texto usando o filtro de template `date` do Django (veja <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">a documentação do Django</a> ).</li><li> tipo: se o item inscrito é um curso, programa ou outra coisa.</li></ul></ul>"
+"<ul><li> user_name: um nome legível para a pessoa que está sendo enviada por e-mail. Certifique-se de tratar o caso em que isso não está definido, pois pode estar faltando em alguns casos. Também pode ser um nome de usuário, caso o aluno não tenha configurado seu nome “real” no sistema.</li><li> nome_da_organização: o nome da organização que patrocina a inscrição.</li><li> matriculado_in: Detalhes do curso ou programa em que foi matriculado. Pode conter:<ul><li> nome: O nome do item inscrivel (por exemplo, 'Curso Demo').</li><li> url: Um link para a página inicial do item inscrito.</li><li> marca: um nome de marca personalizado para o item inscrito. Por exemplo, a marca de um programa MicroMasters seria 'MicroMasters'.</li><li> início: A data em que o item inscrito fica disponível. Renderize isso em texto usando o filtro de template `date` do Django (veja <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">a documentação do Django</a> ).</li><li> tipo: se o item inscrito é um curso, programa ou outra coisa.</li></ul></ul>"
 
 #: enterprise/models.py:2765
 #, python-brace-format
@@ -2334,7 +2334,7 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "both were."
 msgstr ""
-"&quot;E-mail ou nome de usuário&quot; ou &quot;upload em massa de CSV&quot; "
+"'E-mail ou nome de usuário' ou 'upload em massa de CSV' "
 "devem ser especificados, mas ambos foram."
 
 #: enterprise/utils.py:147
@@ -2367,7 +2367,7 @@ msgid ""
 "Either \"CSV bulk upload\" or a singular course ID may be used for manual "
 "enrollments, but not both together."
 msgstr ""
-"Tanto o &quot;upload em massa de CSV&quot; quanto um ID de curso único podem"
+"Tanto o 'upload em massa de CSV' quanto um ID de curso único podem"
 " ser usados para inscrições manuais, mas não ambos juntos."
 
 #: enterprise/utils.py:160
@@ -2401,7 +2401,7 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "neither were."
 msgstr ""
-"&quot;E-mail ou nome de usuário&quot; ou &quot;upload em massa de CSV&quot; "
+"'E-mail ou nome de usuário' ou 'upload em massa de CSV' "
 "devem ser especificados, mas nenhum deles foi especificado."
 
 #: enterprise/utils.py:175
@@ -2434,8 +2434,8 @@ msgid ""
 "Enterprise channel worker user with the username "
 "\"{channel_worker_username}\" was not found."
 msgstr ""
-"O usuário trabalhador do canal corporativo com o nome de usuário &quot; "
-"{channel_worker_username} &quot; não foi encontrado."
+"O usuário trabalhador do canal corporativo com o nome de usuário ' "
+"{channel_worker_username} ' não foi encontrado."
 
 #: enterprise/utils.py:184
 msgid ""

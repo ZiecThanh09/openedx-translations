@@ -174,11 +174,11 @@ msgstr "คำอธิบายปัญหาหรือคำแนะนำ
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "แสดงหัวข้อ &quot;ปัญหา&quot;"
+msgstr "แสดงหัวข้อ 'ปัญหา'"
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
-msgstr "แสดงหัวข้อ &quot;ปัญหา&quot; เหนือข้อความปัญหาหรือไม่"
+msgstr "แสดงหัวข้อ 'ปัญหา' เหนือข้อความปัญหาหรือไม่"
 
 #: drag_and_drop_v2.py:145
 msgid "Show answer"
@@ -193,7 +193,7 @@ msgstr ""
 "กำหนดเวลาที่จะแสดงคำตอบของปัญหา "
 "ค่าเริ่มต้นสามารถตั้งค่าได้ในการตั้งค่าขั้นสูง "
 "หากต้องการเปลี่ยนกลับการตั้งค่าที่กำหนดเอง ให้เลือกตัวเลือก "
-"&quot;ค่าเริ่มต้น&quot;"
+"'ค่าเริ่มต้น'"
 
 #: drag_and_drop_v2.py:152
 msgid "Default"

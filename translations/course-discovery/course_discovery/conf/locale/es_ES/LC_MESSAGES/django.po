@@ -886,12 +886,12 @@ msgstr ""
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
 msgstr ""
-"Argumento mal formado &quot;{}&quot;, debe tener la forma de UUID: "
+"Argumento mal formado '{}', debe tener la forma de UUID: "
 "TARGET_UUID"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "Argumento mal formado &quot;{}&quot;, los UUID no pueden ser iguales"
+msgstr "Argumento mal formado '{}', los UUID no pueden ser iguales"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"

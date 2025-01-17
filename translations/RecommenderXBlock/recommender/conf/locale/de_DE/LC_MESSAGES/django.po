@@ -95,8 +95,8 @@ msgstr ""
 " fügen Sie diese bitte hinzu."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "Neue Ressource hinzufügen &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "Neue Ressource hinzufügen >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

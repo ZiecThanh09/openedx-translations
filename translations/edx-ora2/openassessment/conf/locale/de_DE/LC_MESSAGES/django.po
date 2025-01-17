@@ -1263,7 +1263,7 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"Dies ist eine Teamaufgabe für das Team-Set &quot;%(teamset_name)s&quot;. \n"
+"Dies ist eine Teamaufgabe für das Team-Set '%(teamset_name)s'. \n"
 "Sie sind derzeit nicht in einem Team im Team-Set „%(teamset_name)s“. \n"
 "Sie müssen Mitglied eines Teams im Team-Set „%(teamset_name)s“ sein, um auf diese Teamaufgabe zugreifen zu können."
 

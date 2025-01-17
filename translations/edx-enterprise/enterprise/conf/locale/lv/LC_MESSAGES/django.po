@@ -1712,7 +1712,7 @@ msgid ""
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
 "Aizpildiet standarta Django veidni, kas pēc atveidošanas izveido e-pastu, kuru vēlaties nosūtīt tikko reģistrētajiem Enterprise Customer kursa dalībniekiem. Var būt pieejami šādi mainīgie:\n"
-"<ul><li> user_name: cilvēkam salasāms vārds personai, kurai tiek nosūtīts e-pasts. Noteikti rīkojieties gadījumā, ja tas nav definēts, jo dažos gadījumos tā var nebūt. Tas var būt arī lietotājvārds, ja kursa dalībnieks sistēmā nav konfigurējis savu &quot;īsto&quot; vārdu.</li><li> organizācijas_nosaukums: tās organizācijas nosaukums, kas sponsorē uzņemšanu.</li><li> enrolled_in: informācija par kursu vai programmu, kurā tika reģistrēts. Tajā var būt:<ul><li> nosaukums: reģistrējamās preces nosaukums (piemēram, &quot;Demokurss&quot;).</li><li> url: saite uz reģistrētā vienuma sākumlapu.</li><li> zīmols: pielāgots zīmola nosaukums reģistrētajam vienumam. Piemēram, MicroMasters programmas zīmols būtu &quot;MicroMasters&quot;.</li><li> sākums: datums, kad reģistrētā prece kļūst pieejama. Atveidojiet to tekstā, izmantojot Django datuma veidnes filtru (skatiet <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">Django dokumentāciju</a> ).</li><li> veids: vai reģistrētais vienums ir kurss, programma vai kas cits.</li></ul></ul>"
+"<ul><li> user_name: cilvēkam salasāms vārds personai, kurai tiek nosūtīts e-pasts. Noteikti rīkojieties gadījumā, ja tas nav definēts, jo dažos gadījumos tā var nebūt. Tas var būt arī lietotājvārds, ja kursa dalībnieks sistēmā nav konfigurējis savu 'īsto' vārdu.</li><li> organizācijas_nosaukums: tās organizācijas nosaukums, kas sponsorē uzņemšanu.</li><li> enrolled_in: informācija par kursu vai programmu, kurā tika reģistrēts. Tajā var būt:<ul><li> nosaukums: reģistrējamās preces nosaukums (piemēram, 'Demokurss').</li><li> url: saite uz reģistrētā vienuma sākumlapu.</li><li> zīmols: pielāgots zīmola nosaukums reģistrētajam vienumam. Piemēram, MicroMasters programmas zīmols būtu 'MicroMasters'.</li><li> sākums: datums, kad reģistrētā prece kļūst pieejama. Atveidojiet to tekstā, izmantojot Django datuma veidnes filtru (skatiet <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">Django dokumentāciju</a> ).</li><li> veids: vai reģistrētais vienums ir kurss, programma vai kas cits.</li></ul></ul>"
 
 #: enterprise/models.py:2786
 #, python-brace-format
@@ -2279,8 +2279,8 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "both were."
 msgstr ""
-"Jānorāda vai nu &quot;E-pasts vai lietotājvārds&quot;, vai &quot;CSV "
-"lielapjoma augšupielāde&quot;, taču abi bija."
+"Jānorāda vai nu 'E-pasts vai lietotājvārds', vai 'CSV "
+"lielapjoma augšupielāde', taču abi bija."
 
 #: enterprise/utils.py:148
 msgid "Error: Learners could not be added. Correct the following errors."
@@ -2376,8 +2376,8 @@ msgid ""
 "Enterprise channel worker user with the username "
 "\"{channel_worker_username}\" was not found."
 msgstr ""
-"Uzņēmuma kanāla darbinieka lietotājs ar lietotājvārdu &quot; "
-"{channel_worker_username} &quot; netika atrasts."
+"Uzņēmuma kanāla darbinieka lietotājs ar lietotājvārdu ' "
+"{channel_worker_username} ' netika atrasts."
 
 #: enterprise/utils.py:185
 msgid ""

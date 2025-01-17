@@ -334,7 +334,7 @@ msgid ""
 msgstr ""
 "किसी भी कस्टम पैरामीटर के लिए कुंजी/मान जोड़ी जोड़ें, जैसे वह पृष्ठ जिस पर "
 "आपकी ई-बुक खुलनी चाहिए या इस घटक के लिए पृष्ठभूमि रंग। पूर्व। "
-"[&quot;पेज=1&quot;, &quot;रंग=सफ़ेद&quot;]<br /> इस सेटिंग पर अधिक विवरण के "
+"['पेज=1', 'रंग=सफ़ेद']<br /> इस सेटिंग पर अधिक विवरण के "
 "लिए {docs_anchor_open} edX LTI दस्तावेज़ {anchor_close} देखें।"
 
 #: lti_xblock.py:481
@@ -518,7 +518,7 @@ msgstr "कस्टम पैरामीटर्स की एक सूच�
 
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
-msgstr "कस्टम पैरामीटर्स &quot;x=y&quot; प्रारूप में स्ट्रिंग होने चाहिए।"
+msgstr "कस्टम पैरामीटर्स 'x=y' प्रारूप में स्ट्रिंग होने चाहिए।"
 
 #: lti_xblock.py:703
 msgid ""
@@ -526,7 +526,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "बाहरी कॉन्फ़िगरेशन का उपयोग करते समय पुन: प्रयोज्य कॉन्फ़िगरेशन आईडी सेट की "
-"जानी चाहिए (उदाहरण: &quot;x:y&quot;)।"
+"जानी चाहिए (उदाहरण: 'x:y')।"
 
 #: lti_xblock.py:726
 msgid ""
@@ -543,8 +543,8 @@ msgid ""
 "Could not parse LTI passport: {lti_passport!r}. Should be \"id:key:secret\" "
 "string."
 msgstr ""
-"एलटीआई पासपोर्ट को पार्स नहीं किया जा सका: {lti_passport!r}। &quot;आईडी: "
-"कुंजी: गुप्त&quot; स्ट्रिंग होनी चाहिए।"
+"एलटीआई पासपोर्ट को पार्स नहीं किया जा सका: {lti_passport!r}। 'आईडी: "
+"कुंजी: गुप्त' स्ट्रिंग होनी चाहिए।"
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
 msgid "Could not get user id for current request"
@@ -556,7 +556,7 @@ msgid ""
 "string."
 msgstr ""
 "कस्टम पैरामीटर को पार्स नहीं किया जा सका: {custom_parameter!r}. "
-"&quot;x=y&quot; स्ट्रिंग होनी चाहिए."
+"'x=y' स्ट्रिंग होनी चाहिए."
 
 #: lti_xblock.py:1428
 msgid "[LTI]: Real user not found against anon_id: {}"
@@ -617,7 +617,7 @@ msgid ""
 "\"x:y\" format."
 msgstr ""
 "पुन: प्रयोज्य कॉन्फ़िगरेशन का उपयोग करने वाले एलटीआई कॉन्फ़िगरेशन को "
-"&quot;x:y&quot; प्रारूप में एक बाहरी आईडी की आवश्यकता होती है।"
+"'x:y' प्रारूप में एक बाहरी आईडी की आवश्यकता होती है।"
 
 #: models.py:267
 msgid ""

@@ -45,7 +45,7 @@
   "bulk.email.content.history.table.modal.timeSent": "وقت الإرسال:",
   "bulk.email.content.history.table.modal.sentTo": "تم الإرسال إلى:",
   "bulk.email.content.history.table.modal.messageBody": "الرسالة:",
-  "bulk.email.content.history.table.viewMessageInstructions": "لقراءة رسالة بريد إلكتروني مرسلة، انقر فوق الزر &quot;عرض الرسالة&quot; الموجود داخل الجدول.",
+  "bulk.email.content.history.table.viewMessageInstructions": "لقراءة رسالة بريد إلكتروني مرسلة، انقر فوق الزر 'عرض الرسالة' الموجود داخل الجدول.",
   "bulk.email.content.history.table.column.header.subject": "الموضوع",
   "bulk.email.content.history.table.column.header.author": "المرسِل",
   "bulk.email.content.history.table.column.header.recipients": "مُرسل إلى",

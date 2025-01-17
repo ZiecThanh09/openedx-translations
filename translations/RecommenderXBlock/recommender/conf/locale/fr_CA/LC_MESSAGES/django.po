@@ -92,8 +92,8 @@ msgstr ""
 "utiles, que ce soit sur edx.org ou ailleurs, veuillez les ajouter."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "Ajouter une nouvelle ressource &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "Ajouter une nouvelle ressource >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

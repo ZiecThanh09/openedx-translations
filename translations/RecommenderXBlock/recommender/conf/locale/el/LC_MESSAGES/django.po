@@ -91,8 +91,8 @@ msgstr ""
 "πόρους, είτε στο edx.org είτε αλλού, προσθέστε τους."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "Προσθήκη νέου πόρου &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "Προσθήκη νέου πόρου >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

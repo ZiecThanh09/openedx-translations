@@ -161,7 +161,7 @@
   "authoring.videoeditor.handout.upload.addHandoutMessage": "Pievienojiet šim videoklipam izdales materiālu. Skolēni var lejupielādēt šo failu, noklikšķinot uz \"Lejupielādēt izdales materiālu\" zem videoklipa.",
   "authoring.videoeditor.handout.error.uploadHandoutError": "Neizdevās augšupielādēt izdales materiālu. Lūdzu mēģiniet vēlreiz.",
   "authoring.videoeditor.handout.error.fileSizeError": "Izdales materiāliem jābūt 20 MB vai mazākiem. Lūdzu, mainiet faila lielumu un mēģiniet vēlreiz.",
-  "authoring.videoeditor.handout.handoutHelpMessage": "Dalībnieki var lejupielādēt šo failu, zem videoklipa noklikšķinot uz &quot;Lejupielādēt izdales materiālu&quot;.",
+  "authoring.videoeditor.handout.handoutHelpMessage": "Dalībnieki var lejupielādēt šo failu, zem videoklipa noklikšķinot uz 'Lejupielādēt izdales materiālu'.",
   "authoring.videoeditor.handout.deleteHandout": "Dzēst",
   "authoring.videoeditor.handout.replaceHandout": "Aizvietot",
   "authoring.videoeditor.handout.downloadHandout": "Lejupielādēt",

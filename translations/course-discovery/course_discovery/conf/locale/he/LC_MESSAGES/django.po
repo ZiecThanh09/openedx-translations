@@ -719,7 +719,7 @@ msgid ""
 "Enter a valid “slug” consisting of letters, numbers, slashes, underscores or"
 " hyphens."
 msgstr ""
-"הזן &quot;שבלול&quot; חוקי המורכב מאותיות, מספרים, לוכסנים, קווים תחתונים או"
+"הזן 'שבלול' חוקי המורכב מאותיות, מספרים, לוכסנים, קווים תחתונים או"
 " מקפים."
 
 #: apps/course_metadata/forms.py:66
@@ -850,11 +850,11 @@ msgstr "השתמש בארגומנטים ממודל DeletePersonDupsConfig במק
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
-msgstr "ארגומנט שגוי &quot;{}&quot;, צריך להיות בצורת UUID:TARGET_UUID"
+msgstr "ארגומנט שגוי '{}', צריך להיות בצורת UUID:TARGET_UUID"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "ארגומנט שגוי &quot;{}&quot;, מזהי UUID לא יכולים להיות שווים"
+msgstr "ארגומנט שגוי '{}', מזהי UUID לא יכולים להיות שווים"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
@@ -1014,7 +1014,7 @@ msgid ""
 msgstr ""
 "הערך של 6 תווים-הקסים של צבע ערכת הנושא של הארגון,\n"
 " כל הקורסים הקשורים תחת אותו ארגון ישתמשו בצבע זה כצבע נושא.\n"
-" (למשל &quot;#ff0000&quot; ששווה לאדום) אין צורך לספק את ה-#"
+" (למשל '#ff0000' ששווה לאדום) אין צורך לספק את ה-#"
 
 #: apps/course_metadata/models.py:301
 msgid "The timestamp of the last time the organization data was modified."
@@ -1187,7 +1187,7 @@ msgstr "הוסף את תמונת שותף עריכה, ודא שמידותיה ה
 
 #: apps/course_metadata/models.py:1165
 msgid "U.S. Value Per Lead"
-msgstr "ערך ארה&quot;ב לליד"
+msgstr "ערך ארה'ב לליד"
 
 #: apps/course_metadata/models.py:1166
 msgid "U.S. value per lead in U.S. dollars."
@@ -1203,11 +1203,11 @@ msgstr "ערך בינלאומי לליד בדולרים."
 
 #: apps/course_metadata/models.py:1177
 msgid "U.S. Value Per Click"
-msgstr "ערך ארה&quot;ב לקליק"
+msgstr "ערך ארה'ב לקליק"
 
 #: apps/course_metadata/models.py:1178
 msgid "U.S. value per click in U.S. dollars."
-msgstr "ערך ארה&quot;ב לקליק בדולרים."
+msgstr "ערך ארה'ב לקליק בדולרים."
 
 #: apps/course_metadata/models.py:1183
 msgid "International Value Per Click"
@@ -1374,7 +1374,7 @@ msgid ""
 " in Studio via Refresh Course Metadata."
 msgstr ""
 "האם יש להסתיר את הריצה הזו מתגובות API. אין לערוך כאן - ערך זה יוחלף על ידי "
-"השדה &quot;נראות הקורס בקטלוג&quot; בסטודיו באמצעות רענון מטא נתונים של "
+"השדה 'נראות הקורס בקטלוג' בסטודיו באמצעות רענון מטא נתונים של "
 "הקורס."
 
 #: apps/course_metadata/models.py:2164
@@ -1597,7 +1597,7 @@ msgstr "כתובת URL להתקשרות חזרה לזרימת יישום שות�
 
 #: apps/course_metadata/models.py:3780
 msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
-msgstr "דירוג התוכנית הכולל (למשל &quot;מספר 1 בארה&quot;ב&quot;)"
+msgstr "דירוג התוכנית הכולל (למשל 'מספר 1 בארה'ב')"
 
 #: apps/course_metadata/models.py:3785
 msgid ""
@@ -1605,7 +1605,7 @@ msgid ""
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr ""
 "ערך הקש של 6 תווים של הצבע כדי להפוך את גבולות הבאנר\n"
-" (למשל &quot;#ff0000&quot; ששווה לאדום) אין צורך לספק את ה-#"
+" (למשל '#ff0000' ששווה לאדום) אין צורך לספק את ה-#"
 
 #: apps/course_metadata/models.py:3794
 msgid "Provide a campus image for the header of the degree"
@@ -1625,7 +1625,7 @@ msgstr "האותיות הקטנות שמוצגות בחלק התחתון של ת
 
 #: apps/course_metadata/models.py:3817
 msgid "The sailthru email list name to capture leads"
-msgstr "שם רשימת הדוא&quot;ל של sailthru ללכידת לידים"
+msgstr "שם רשימת הדוא'ל של sailthru ללכידת לידים"
 
 #: apps/course_metadata/models.py:3831
 msgid "Please provide an image file for the lead capture banner."
@@ -1660,15 +1660,15 @@ msgstr ""
 
 #: apps/course_metadata/models.py:3876
 msgid "Ranking display for search card (e.g. \"#1 in the U.S.\""
-msgstr "תצוגת דירוג עבור כרטיס חיפוש (למשל &quot;מספר 1 בארה&quot;ב&quot;"
+msgstr "תצוגת דירוג עבור כרטיס חיפוש (למשל 'מספר 1 בארה'ב'"
 
 #: apps/course_metadata/models.py:3882
 msgid "Cost display for search card (e.g. \"$9,999\""
-msgstr "תצוגת עלות עבור כרטיס חיפוש (למשל &quot;$9,999&quot;"
+msgstr "תצוגת עלות עבור כרטיס חיפוש (למשל '$9,999'"
 
 #: apps/course_metadata/models.py:3888
 msgid "Number of courses for search card (e.g. \"11 Courses\""
-msgstr "מספר הקורסים לכרטיס חיפוש (למשל &quot;11 קורסים&quot;"
+msgstr "מספר הקורסים לכרטיס חיפוש (למשל '11 קורסים'"
 
 #: apps/course_metadata/models.py:3896
 msgid ""
@@ -1774,8 +1774,8 @@ msgid ""
 "            text is the first 750 characters of \"marketing_text\" and must be\n"
 "            valid HTML."
 msgstr ""
-"סקירה ברמה גבוהה של כלי הקורס של התואר. ה&quot;קצר&quot;\n"
-" text הוא 750 התווים הראשונים של &quot;marketing_text&quot; וחייב להיות\n"
+"סקירה ברמה גבוהה של כלי הקורס של התואר. ה'קצר'\n"
+" text הוא 750 התווים הראשונים של 'marketing_text' וחייב להיות\n"
 " HTML חוקי."
 
 #: apps/course_metadata/models.py:4062

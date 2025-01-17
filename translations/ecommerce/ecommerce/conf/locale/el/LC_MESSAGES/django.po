@@ -640,7 +640,7 @@ msgid ""
 "begin with '00k'."
 msgstr ""
 "Το στοιχείο γραμμής ευκαιρίας Salesforce πρέπει να αποτελείται από 18 "
-"αλφαριθμητικούς χαρακτήρες και να ξεκινά με &quot;00k&quot;."
+"αλφαριθμητικούς χαρακτήρες και να ξεκινά με '00k'."
 
 #: enterprise/forms.py:184 enterprise/forms.py:232
 msgid "Ensure this value is greater than or equal to 0."
@@ -2949,7 +2949,7 @@ msgid ""
 msgstr ""
 "Σας ευχαριστούμε που αγοράσατε %(course_title)s . Θα εμφανιστεί μια χρέωση "
 "στο αντίγραφο κίνησης της πιστωτικής ή χρεωστικής σας κάρτας με όνομα "
-"εταιρείας &quot; %(platform_name)s &quot;."
+"εταιρείας ' %(platform_name)s '."
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.html:13
 #: templates/oscar/communication/emails/commtype_course_purchased_body.txt:8

@@ -456,7 +456,7 @@ msgid ""
 "complete. If you need additional assistance, please contact the {site_name} "
 "Support Team."
 msgstr ""
-"Tín dụng hiện không có sẵn cho &quot; {course_name} &quot;. Nếu bạn hiện "
+"Tín dụng hiện không có sẵn cho ' {course_name} '. Nếu bạn hiện "
 "đang đăng ký khóa học, vui lòng thử lại sau khi hoàn tất việc chấm điểm. Nếu"
 " bạn cần hỗ trợ thêm, vui lòng liên hệ với Nhóm hỗ trợ {site_name} ."
 
@@ -2901,8 +2901,8 @@ msgid ""
 "credit or debit card statement with a company name of \"%(platform_name)s\"."
 msgstr ""
 "Cảm ơn bạn đã mua %(course_title)s . Khoản phí sẽ xuất hiện trên bảng sao kê"
-" thẻ tín dụng hoặc thẻ ghi nợ của bạn với tên công ty là &quot; "
-"%(platform_name)s &quot;."
+" thẻ tín dụng hoặc thẻ ghi nợ của bạn với tên công ty là ' "
+"%(platform_name)s '."
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.html:13
 #: templates/oscar/communication/emails/commtype_course_purchased_body.txt:8
@@ -2994,7 +2994,7 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"Cảm ơn bạn đã mua %(credit_hours)s giờ tín dụng từ %(credit_provider)s cho %(course_title)s . Khoản phí sẽ xuất hiện trên bảng sao kê thẻ tín dụng hoặc thẻ ghi nợ của bạn với tên công ty là &quot; %(platform_name)s &quot;.\n"
+"Cảm ơn bạn đã mua %(credit_hours)s giờ tín dụng từ %(credit_provider)s cho %(course_title)s . Khoản phí sẽ xuất hiện trên bảng sao kê thẻ tín dụng hoặc thẻ ghi nợ của bạn với tên công ty là ' %(platform_name)s '.\n"
 "                        "
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.html:67
@@ -3056,7 +3056,7 @@ msgid ""
 msgstr ""
 "Cảm ơn bạn đã mua %(credit_hours)s giờ tín dụng từ %(credit_provider)s cho "
 "%(course_title)s . Khoản phí sẽ xuất hiện trên bảng sao kê thẻ tín dụng hoặc"
-" thẻ ghi nợ của bạn với tên công ty là &quot; %(platform_name)s &quot;."
+" thẻ ghi nợ của bạn với tên công ty là ' %(platform_name)s '."
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.txt:18
 #, python-format

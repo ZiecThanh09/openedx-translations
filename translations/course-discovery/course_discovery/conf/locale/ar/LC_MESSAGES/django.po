@@ -723,7 +723,7 @@ msgid ""
 "Enter a valid “slug” consisting of letters, numbers, slashes, underscores or"
 " hyphens."
 msgstr ""
-"أدخل &quot;slug&quot; صالحًا يتكون من أحرف أو أرقام أو شرطات مائلة أو شرطات "
+"أدخل 'slug' صالحًا يتكون من أحرف أو أرقام أو شرطات مائلة أو شرطات "
 "سفلية أو واصلات."
 
 #: apps/course_metadata/forms.py:66
@@ -1021,7 +1021,7 @@ msgid ""
 msgstr ""
 "القيمة الستة عشرية المكونة من 6 أحرف للون سمة التنظيم ، ستستخدم جميع الدورات"
 " التدريبية ذات الصلة في نفس المؤسسة هذا اللون كلون سمة. (على سبيل المثال ، "
-"&quot;# ff0000&quot; التي تساوي اللون الأحمر) لا حاجة لتقديم `#`"
+"'# ff0000' التي تساوي اللون الأحمر) لا حاجة لتقديم `#`"
 
 #: apps/course_metadata/models.py:301
 msgid "The timestamp of the last time the organization data was modified."
@@ -1308,7 +1308,7 @@ msgstr ""
 #: apps/course_metadata/models.py:1434 apps/course_metadata/models.py:3263
 msgid "If checked, the About Page will have a meta tag with noindex value"
 msgstr ""
-"إذا تم تحديده ، فستحتوي &quot;حول الصفحة&quot; على علامة وصفية بقيمة noindex"
+"إذا تم تحديده ، فستحتوي 'حول الصفحة' على علامة وصفية بقيمة noindex"
 
 #: apps/course_metadata/models.py:1439
 msgid "Watchers"
@@ -2171,7 +2171,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"تمت مراجعة الدورة التدريبية &quot; %(course_name)s &quot; بنجاح بواسطة edX وهي الآن جاهزة للنشر. سيتم نشر الدورة على %(course_publish_date)s . لمشاهدة معاينة للصفحة حول الدورة التدريبية ، انتقل هنا: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
+"تمت مراجعة الدورة التدريبية ' %(course_name)s ' بنجاح بواسطة edX وهي الآن جاهزة للنشر. سيتم نشر الدورة على %(course_publish_date)s . لمشاهدة معاينة للصفحة حول الدورة التدريبية ، انتقل هنا: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:4
 #, python-format
@@ -2190,7 +2190,7 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"تمت مراجعة الدورة التدريبية &quot; %(course_name)s &quot; بنجاح بواسطة edX وهي الآن جاهزة للنشر. سيتم نشر الدورة على %(course_publish_date)s .\n"
+"تمت مراجعة الدورة التدريبية ' %(course_name)s ' بنجاح بواسطة edX وهي الآن جاهزة للنشر. سيتم نشر الدورة على %(course_publish_date)s .\n"
 " لمشاهدة معاينة للصفحة حول الدورة التدريبية ، انتقل هنا: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:380

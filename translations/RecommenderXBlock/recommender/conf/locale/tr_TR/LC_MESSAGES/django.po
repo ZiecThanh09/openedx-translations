@@ -89,8 +89,8 @@ msgstr ""
 "yararlı kaynaklar bulursanız lütfen ekleyin."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "Yeni kaynak ekle &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "Yeni kaynak ekle >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

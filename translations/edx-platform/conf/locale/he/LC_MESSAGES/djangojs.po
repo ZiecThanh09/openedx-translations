@@ -1137,7 +1137,7 @@ msgstr "הבהרה עבור {display_name}"
 
 #: cms/static/js/views/modals/course_outline_modals.js:279
 msgid "Enable Course Highlight Emails"
-msgstr "אפשר הודעות דוא&quot;ל להדגשת קורסים"
+msgstr "אפשר הודעות דוא'ל להדגשת קורסים"
 
 #: cms/static/js/views/modals/course_outline_modals.js:297
 msgid "Enable"
@@ -2434,7 +2434,7 @@ msgstr "יש להתחבר ל-{platform} כדי שנוכל יותר טוב לעז
 msgid ""
 "Select a course or select \"Not specific to a course\" for your support "
 "request."
-msgstr "בחר קורס או בחר &quot;לא ספציפי לקורס&quot; לבקשת התמיכה שלך."
+msgstr "בחר קורס או בחר 'לא ספציפי לקורס' לבקשת התמיכה שלך."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:48
 msgid "Select a subject for your support request."
@@ -3478,7 +3478,7 @@ msgstr "פעילות אחרונה"
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:36
 msgid "No results found for \"{query_string}\". Please try searching again."
-msgstr "לא נמצאו תוצאות עבור &quot; {query_string} &quot;. אנא נסה לחפש שוב."
+msgstr "לא נמצאו תוצאות עבור ' {query_string} '. אנא נסה לחפש שוב."
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:50
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:2
@@ -4701,7 +4701,7 @@ msgstr "לפני שתמשיך, בבקשה {htmlStart} {emailMsg} {htmlEnd} ."
 msgid ""
 "{htmlStart}Want to change your email, name, or password instead?{htmlEnd}"
 msgstr ""
-"{htmlStart} רוצה לשנות את הדוא&quot;ל, השם או הסיסמה שלך במקום זאת? "
+"{htmlStart} רוצה לשנות את הדוא'ל, השם או הסיסמה שלך במקום זאת? "
 "{htmlEnd}"
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx:71
@@ -4713,7 +4713,7 @@ msgid ""
 msgstr ""
 "{strongStart} אזהרה: מחיקת החשבון היא לצמיתות. {strongEnd} אנא קרא את האמור "
 "לעיל בעיון לפני שתמשיך. זוהי פעולה בלתי הפיכה, ו- {strongStart} לא תוכל עוד "
-"להשתמש באותו דוא&quot;ל ב- {platformName} . {strongEnd}"
+"להשתמש באותו דוא'ל ב- {platformName} . {strongEnd}"
 
 #: lms/static/js/student_account/components/StudentAccountDeletion.jsx:80
 msgid ""
@@ -4779,7 +4779,7 @@ msgid ""
 " data is permanent and cannot be undone. {platformName} will not be able to "
 "recover your account or the data that is deleted."
 msgstr ""
-"בחרת &quot;מחק את החשבון שלי&quot;. מחיקת החשבון והנתונים האישיים שלך היא "
+"בחרת 'מחק את החשבון שלי'. מחיקת החשבון והנתונים האישיים שלך היא "
 "לצמיתות ולא ניתן לבטלה. {platformName} לא יוכל לשחזר את חשבונך או את הנתונים"
 " שנמחקו."
 
@@ -4813,7 +4813,7 @@ msgid ""
 "to fully process through our system. If you want to opt-out of emails before"
 " then, please unsubscribe from the footer of any email."
 msgstr ""
-"מחיקת חשבון, כולל הסרה מרשימות דוא&quot;ל, עשויה להימשך מספר שבועות עד "
+"מחיקת חשבון, כולל הסרה מרשימות דוא'ל, עשויה להימשך מספר שבועות עד "
 "לעיבוד מלא במערכת שלנו. אם ברצונך לבטל את הסכמתך לאימיילים לפני כן, אנא בטל "
 "את הרישום בכותרת התחתונה של כל אימייל."
 
@@ -4873,10 +4873,10 @@ msgid ""
 "or check your spam folder.{paragraphEnd}{paragraphStart}If you need further "
 "assistance, {anchorStart}contact technical support{anchorEnd}.{paragraphEnd}"
 msgstr ""
-"{paragraphStart} הזנת {boldStart} {email} {boldEnd} . אם כתובת דוא&quot;ל זו"
+"{paragraphStart} הזנת {boldStart} {email} {boldEnd} . אם כתובת דוא'ל זו"
 " משויכת לחשבון {platform_name} שלך, אנו נשלח הודעה עם הוראות לשחזור סיסמה "
-"לכתובת דוא&quot;ל זו. {paragraphEnd} {paragraphStart} אם אינך מקבל הודעת "
-"איפוס סיסמה לאחר דקה אחת, ודא שהזנת את כתובת הדוא&quot;ל הנכונה, או בדוק את "
+"לכתובת דוא'ל זו. {paragraphEnd} {paragraphStart} אם אינך מקבל הודעת "
+"איפוס סיסמה לאחר דקה אחת, ודא שהזנת את כתובת הדוא'ל הנכונה, או בדוק את "
 "תיקיית הספאם שלך. {paragraphEnd} {paragraphStart} אם אתה זקוק לסיוע נוסף, "
 "{anchorStart} פנה לתמיכה הטכנית {anchorEnd} . {paragraphEnd}"
 
@@ -4896,7 +4896,7 @@ msgid ""
 msgstr ""
 "כדי להיכנס, עליך להפעיל את חשבונך. {line_break} {line_break} שלחנו זה עתה "
 "קישור הפעלה אל {strong_start} {email} {strong_end} . אם אינך מקבל "
-"דוא&quot;ל, בדוק את תיקיות הספאם שלך או {anchorStart} צור קשר עם "
+"דוא'ל, בדוק את תיקיות הספאם שלך או {anchorStart} צור קשר עם "
 "{platform_name} תמיכה {anchorEnd} ."
 
 #: lms/static/js/student_account/views/LoginView.js:249
@@ -4962,7 +4962,7 @@ msgid ""
 "You may access your account with this address if single-sign on or access to"
 " your primary email is not available."
 msgstr ""
-"אתה יכול לגשת לחשבון שלך עם כתובת זו אם כניסה יחידה או גישה לדוא&quot;ל "
+"אתה יכול לגשת לחשבון שלך עם כתובת זו אם כניסה יחידה או גישה לדוא'ל "
 "הראשי שלך אינה זמינה."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:103
@@ -5067,7 +5067,7 @@ msgid ""
 "the link in the message to update your secondary email address."
 msgstr ""
 "שלחנו הודעת אישור אל {new_secondary_email_address} . לחץ על הקישור בהודעה "
-"כדי לעדכן את כתובת הדוא&quot;ל המשנית שלך."
+"כדי לעדכן את כתובת הדוא'ל המשנית שלך."
 
 #: lms/static/js/student_account/views/account_settings_factory.js:320
 msgid "Social Media Links"
@@ -5433,9 +5433,9 @@ msgstr "מסומן בסימניה"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
-msgstr[0] "נמצאה תוצאה {total_results} עבור &quot; {search_term} &quot;"
-msgstr[1] "נמצאו תוצאות {total_results} עבור &quot; {search_term} &quot;"
-msgstr[2] "נמצאו תוצאות {total_results} עבור &quot; {search_term} &quot;"
+msgstr[0] "נמצאה תוצאה {total_results} עבור ' {search_term} '"
+msgstr[1] "נמצאו תוצאות {total_results} עבור ' {search_term} '"
+msgstr[2] "נמצאו תוצאות {total_results} עבור ' {search_term} '"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -7822,7 +7822,7 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"סעיף משנה זה מוגדר כ&quot; %(gradingType)s &quot;, שאינו קיים במדיניות "
+"סעיף משנה זה מוגדר כ' %(gradingType)s ', שאינו קיים במדיניות "
 "הדירוג הנוכחית."
 
 #: cms/templates/js/course-outline.underscore:457
@@ -8254,7 +8254,7 @@ msgid ""
 "Enter 3-5 highlights to include in the email message that learners receive "
 "for this section (250 character limit)."
 msgstr ""
-"הזן 3-5 דגשים לכלול בהודעת הדוא&quot;ל שהלומדים מקבלים עבור חלק זה (מגבלת "
+"הזן 3-5 דגשים לכלול בהודעת הדוא'ל שהלומדים מקבלים עבור חלק זה (מגבלת "
 "250 תווים)."
 
 #: cms/templates/js/highlights-editor.underscore:36
@@ -8832,8 +8832,8 @@ msgid ""
 msgstr ""
 "הבחינות המוגדרות מתוכננות בזמן והן מקליטות וידאו של כל לומד שניגש לבחינה. "
 "לאחר מכן, הסרטונים נבדקים כדי להבטיח שהלומדים פועלים לפי כל כללי הבחינה. שים"
-" לב שהגדרת הבחינה הזו כמתוחלת תשנה את הגדרות הנראות ל&quot;הסתר תוכן לאחר "
-"תאריך יעד&quot;."
+" לב שהגדרת הבחינה הזו כמתוחלת תשנה את הגדרות הנראות ל'הסתר תוכן לאחר "
+"תאריך יעד'."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:49
 msgid "Onboarding"
@@ -9428,7 +9428,7 @@ msgid ""
 "Discussion admins, moderators, and TAs can make their posts visible to all "
 "students or specify a single group."
 msgstr ""
-"מנהלי דיונים, מנחים ותמ&quot;רים יכולים להפוך את הפוסטים שלהם לגלויים לכל "
+"מנהלי דיונים, מנחים ותמ'רים יכולים להפוך את הפוסטים שלהם לגלויים לכל "
 "התלמידים או לציין קבוצה אחת."
 
 #: common/static/common/templates/discussion/templates.underscore:447
@@ -10977,7 +10977,7 @@ msgstr "היכנס כדי להמשיך ללמוד"
 #: lms/templates/student_account/login.underscore:19
 msgid ""
 "You already have an edX account with your {enterprise_name} email address."
-msgstr "כבר יש לך חשבון edX עם כתובת הדוא&quot;ל שלך {enterprise_name} ."
+msgstr "כבר יש לך חשבון edX עם כתובת הדוא'ל שלך {enterprise_name} ."
 
 #: lms/templates/student_account/login.underscore:21
 msgid ""
@@ -11338,7 +11338,7 @@ msgstr ""
 "ייתכן שתוכל להשלים את הליך לכידת התמונה ללא סיוע, אך ייתכן שיידרשו כמה "
 "ניסיונות הגשה כדי למקם את המצלמה בצורה נכונה. מיקום מצלמה אופטימלי משתנה עם "
 "כל מחשב, אך בדרך כלל, המיקום הטוב ביותר לצילום תעודת זהות הוא 8-12 אינץ'"
-" (20-30 ס&quot;מ) מהמצלמה, כאשר תעודת הזהות ממורכזת ביחס למצלמה. "
+" (20-30 ס'מ) מהמצלמה, כאשר תעודת הזהות ממורכזת ביחס למצלמה. "
 
 #: lms/templates/verify_student/id_photo_step.underscore:54
 msgid ""
@@ -11685,7 +11685,7 @@ msgid ""
 "page, click \"Bookmark this page\" under the page title."
 msgstr ""
 "השתמש בסימניות כדי לעזור לך לחזור בקלות לדפי הקורסים. כדי לסמן דף, לחץ על "
-"&quot;סמן דף זה&quot; מתחת לכותרת העמוד."
+"'סמן דף זה' מתחת לכותרת העמוד."
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:14

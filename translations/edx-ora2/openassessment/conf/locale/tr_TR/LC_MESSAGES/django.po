@@ -1244,9 +1244,9 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"Bu, &quot; %(teamset_name)s &quot; takım seti için bir takım ödevidir.\n"
-" Şu anda &quot; %(teamset_name)s &quot; takım setindeki bir takımda değilsiniz.\n"
-" Bu takım atamasına erişebilmek için &quot; %(teamset_name)s &quot; takım setindeki bir takımda olmanız gerekir.\n"
+"Bu, ' %(teamset_name)s ' takım seti için bir takım ödevidir.\n"
+" Şu anda ' %(teamset_name)s ' takım setindeki bir takımda değilsiniz.\n"
+" Bu takım atamasına erişebilmek için ' %(teamset_name)s ' takım setindeki bir takımda olmanız gerekir.\n"
 "            "
 
 #: templates/legacy/message/oa_message_open.html:7
@@ -2870,7 +2870,7 @@ msgstr "Öğrenci eğitimi için olan her örnek cevap eşsiz olmalıdır."
 #: xblock/utils/validation.py:158
 msgid "The \"required\" value must be true if staff assessment is the only step."
 msgstr ""
-"Personel değerlendirmesi tek adımsa &quot;gerekli&quot; değer doğru "
+"Personel değerlendirmesi tek adımsa 'gerekli' değer doğru "
 "olmalıdır."
 
 #: xblock/utils/validation.py:162

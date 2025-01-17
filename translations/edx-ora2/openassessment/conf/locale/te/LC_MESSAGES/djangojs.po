@@ -483,7 +483,7 @@ msgid ""
 "The \"{name}\" problem is configured to require a minimum of {min_grades} "
 "peer grades, and asks to review {min_graded} peers."
 msgstr ""
-"&quot; {name} &quot; సమస్య కనీసం {min_grades} పీర్ గ్రేడ్‌లు అవసరమయ్యేలా "
+"' {name} ' సమస్య కనీసం {min_grades} పీర్ గ్రేడ్‌లు అవసరమయ్యేలా "
 "కాన్ఫిగర్ చేయబడింది మరియు {min_graded} పీర్‌లను సమీక్షించమని అడుగుతుంది."
 
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:383

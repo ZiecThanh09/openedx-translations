@@ -343,7 +343,7 @@ msgid ""
 msgstr ""
 "Adicione o par chave/valor para quaisquer parâmetros personalizados, como a "
 "página em que seu e-book deve abrir ou a cor de fundo deste componente. Ex. "
-"[&quot;página=1&quot;, &quot;cor=branco&quot;]<br /> Consulte a documentação"
+"['página=1', 'cor=branco']<br /> Consulte a documentação"
 " {docs_anchor_open} edX LTI {anchor_close} para obter mais detalhes sobre "
 "essa configuração."
 
@@ -534,7 +534,7 @@ msgstr "Os parâmetros personalizados devem ser uma lista"
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
 msgstr ""
-"Os parâmetros personalizados devem ser strings no formato &quot;x=y&quot;."
+"Os parâmetros personalizados devem ser strings no formato 'x=y'."
 
 #: lti_xblock.py:703
 msgid ""
@@ -542,7 +542,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "O ID de configuração reutilizável deve ser definido ao usar configuração "
-"externa (exemplo: &quot;x:y&quot;)."
+"externa (exemplo: 'x:y')."
 
 #: lti_xblock.py:726
 msgid ""
@@ -561,7 +561,7 @@ msgid ""
 "string."
 msgstr ""
 "Não foi possível analisar o passaporte LTI: {lti_passport!r}. Deve ser a "
-"string &quot;id:key:secret&quot;."
+"string 'id:key:secret'."
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
 msgid "Could not get user id for current request"
@@ -573,7 +573,7 @@ msgid ""
 "string."
 msgstr ""
 "Não foi possível analisar o parâmetro personalizado: {custom_parameter!r}. "
-"Deve ser uma string &quot;x = y&quot;."
+"Deve ser uma string 'x = y'."
 
 #: lti_xblock.py:1428
 msgid "[LTI]: Real user not found against anon_id: {}"
@@ -635,7 +635,7 @@ msgid ""
 "\"x:y\" format."
 msgstr ""
 "A configuração LTI que usa configuração reutilizável precisa de um ID "
-"externo no formato &quot;x:y&quot;."
+"externo no formato 'x:y'."
 
 #: models.py:267
 msgid ""

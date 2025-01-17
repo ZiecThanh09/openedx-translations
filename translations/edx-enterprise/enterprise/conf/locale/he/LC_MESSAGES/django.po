@@ -80,8 +80,8 @@ msgid ""
 msgstr ""
 "מלא טקסט עבור הפסקה הראשונה של העמוד. המשתנים הבאים עשויים להיות זמינים:<br "
 "/><ul><li> enterprise_customer_name: שם של לקוח ארגוני.</li><li> "
-"platform_name: שם הפלטפורמה.</li><li> פריט: מחרוזת שהיא &quot;קורס&quot; או "
-"&quot;תוכנית&quot; בהתאם לסוג ההסכמה.</li><li> course_title: כותרת כמובן. "
+"platform_name: שם הפלטפורמה.</li><li> פריט: מחרוזת שהיא 'קורס' או "
+"'תוכנית' בהתאם לסוג ההסכמה.</li><li> course_title: כותרת כמובן. "
 "זמין כאשר סוג ההסכמה הוא קורס.</li><li> course_start_date: תאריך תחילת "
 "הקורס. זמין כאשר סוג ההסכמה הוא קורס.</li></ul>"
 
@@ -97,8 +97,8 @@ msgid ""
 msgstr ""
 "מלא טקסט לפסקת מדיניות בתחתית העמוד. המשתנים הבאים עשויים להיות זמינים:<br "
 "/><ul><li> enterprise_customer_name: שם של לקוח ארגוני.</li><li> "
-"platform_name: שם הפלטפורמה.</li><li> פריט: מחרוזת שהיא &quot;קורס&quot; או "
-"&quot;תוכנית&quot; בהתאם לסוג ההסכמה.</li><li> course_title: כותרת כמובן. "
+"platform_name: שם הפלטפורמה.</li><li> פריט: מחרוזת שהיא 'קורס' או "
+"'תוכנית' בהתאם לסוג ההסכמה.</li><li> course_title: כותרת כמובן. "
 "זמין כאשר סוג ההסכמה הוא קורס.</li><li> course_start_date: תאריך תחילת "
 "הקורס. זמין כאשר סוג ההסכמה הוא קורס.</li></ul>"
 
@@ -114,8 +114,8 @@ msgid ""
 msgstr ""
 "מלא טקסט עבור פסקה בסרגל הצד השמאלי. המשתנים הבאים עשויים להיות זמינים:<br "
 "/><ul><li> enterprise_customer_name: שם של לקוח ארגוני.</li><li> "
-"platform_name: שם הפלטפורמה.</li><li> פריט: מחרוזת שהיא &quot;קורס&quot; או "
-"&quot;תוכנית&quot; בהתאם לסוג ההסכמה.</li><li> course_title: כותרת כמובן. "
+"platform_name: שם הפלטפורמה.</li><li> פריט: מחרוזת שהיא 'קורס' או "
+"'תוכנית' בהתאם לסוג ההסכמה.</li><li> course_title: כותרת כמובן. "
 "זמין כאשר סוג ההסכמה הוא קורס.</li><li> course_start_date: תאריך תחילת "
 "הקורס. זמין כאשר סוג ההסכמה הוא קורס.</li></ul>"
 
@@ -131,7 +131,7 @@ msgid ""
 msgstr ""
 "מלא טקסט עבור דו-שיח שמופיע כאשר המשתמש מסרב לספק הסכמה. המשתנים הבאים "
 "עשויים להיות זמינים:<br /><ul><li> enterprise_customer_name: שם של לקוח "
-"ארגוני.</li><li> פריט: מחרוזת שהיא &quot;קורס&quot; או &quot;תוכנית&quot; "
+"ארגוני.</li><li> פריט: מחרוזת שהיא 'קורס' או 'תוכנית' "
 "בהתאם לסוג ההסכמה.</li><li> course_title: כותרת כמובן. זמין כאשר סוג ההסכמה "
 "הוא קורס.</li><li> course_start_date: תאריך תחילת הקורס. זמין כאשר סוג "
 "ההסכמה הוא קורס.</li></ul>"
@@ -674,7 +674,7 @@ msgid ""
 "To add multiple learners, upload a .csv file that contains a column of email"
 " addresses."
 msgstr ""
-"כדי להוסיף מספר לומדים, העלה קובץ .csv המכיל עמודה של כתובות דוא&quot;ל."
+"כדי להוסיף מספר לומדים, העלה קובץ .csv המכיל עמודה של כתובות דוא'ל."
 
 #: enterprise/admin/forms.py:61
 msgid ""
@@ -683,7 +683,7 @@ msgid ""
 "column of course run keys, indicated by the heading 'course_id' in the first"
 " row, to enroll learners in multiple courses."
 msgstr ""
-"על קובץ ה-csv לכלול עמודה של כתובות דוא&quot;ל, המצוינת בכותרת "
+"על קובץ ה-csv לכלול עמודה של כתובות דוא'ל, המצוינת בכותרת "
 "'אימייל' בשורה הראשונה. לחלופין, קובץ ה-.csv עשוי להכיל עמודה של "
 "מפתחות הפעלה של קורסים, המצוינים בכותרת 'Course_id' בשורה הראשונה, "
 "כדי לרשום לומדים למספר קורסים."
@@ -811,8 +811,8 @@ msgid ""
 "\"{data_type}\" data type is not supported for enterprise customer "
 "\"{enterprise_customer.name}\". Please select a different data type."
 msgstr ""
-"סוג הנתונים &quot;{data_type}&quot; אינו נתמך עבור לקוח ארגוני "
-"&quot;{enterprise_customer.name}&quot;. אנא בחר סוג נתונים אחר."
+"סוג הנתונים '{data_type}' אינו נתמך עבור לקוח ארגוני "
+"'{enterprise_customer.name}'. אנא בחר סוג נתונים אחר."
 
 #: enterprise/admin/forms.py:628
 #, python-brace-format
@@ -908,12 +908,12 @@ msgstr ""
 #: enterprise/admin/views.py:912
 #, python-brace-format
 msgid "Email {email} is not associated with Enterprise Customer {ec_name}"
-msgstr "דוא&quot;ל {email} אינו משויך ללקוח ארגוני {ec_name}"
+msgstr "דוא'ל {email} אינו משויך ללקוח ארגוני {ec_name}"
 
 #: enterprise/admin/views.py:976
 msgid ""
 "Successfully written the \"Auth org id\" field for this enterprise customer."
-msgstr "נכתב בהצלחה את השדה &quot;מזהה ארגון&quot; עבור לקוח ארגוני זה."
+msgstr "נכתב בהצלחה את השדה 'מזהה ארגון' עבור לקוח ארגוני זה."
 
 #: enterprise/api/utils.py:87
 #, python-brace-format
@@ -982,8 +982,8 @@ msgid ""
 "{token_cs_email}, UserEmail: {token_email}, EnterpriseName: "
 "{token_enterprise_name}"
 msgstr ""
-"[Enterprise API] כשל בשליחת דואר אלקטרוני לתמיכה. דוא&quot;ל תמיכה: "
-"{token_cs_email} , דוא&quot;ל משתמש: {token_email} , שם ארגוני: "
+"[Enterprise API] כשל בשליחת דואר אלקטרוני לתמיכה. דוא'ל תמיכה: "
+"{token_cs_email} , דוא'ל משתמש: {token_email} , שם ארגוני: "
 "{token_enterprise_name}"
 
 #: enterprise/api/v1/views/enterprise_customer_catalog.py:189
@@ -1330,7 +1330,7 @@ msgid ""
 "version of learner credit."
 msgstr ""
 "מציין אם הצעות ארגוניות יפורסמו ללומדים בפורטל הלומדים. זה חל רק על לקוחות "
-"עם &quot;הצעות&quot;, הגרסה הישנה של אשראי לומדים."
+"עם 'הצעות', הגרסה הישנה של אשראי לומדים."
 
 #: enterprise/models.py:367
 msgid ""
@@ -1421,7 +1421,7 @@ msgid ""
 "Email linked on learner portal as public point of contact, will default to "
 "all admin users associated with this customer if left blank."
 msgstr ""
-"דוא&quot;ל המקושר בפורטל הלומדים כנקודת קשר ציבורית, יוגדר כברירת מחדל לכל "
+"דוא'ל המקושר בפורטל הלומדים כנקודת קשר ציבורית, יוגדר כברירת מחדל לכל "
 "משתמשי המנהל המשויכים ללקוח זה אם יישאר ריק."
 
 #: enterprise/models.py:464
@@ -1440,12 +1440,12 @@ msgstr "מציין את שפת ברירת המחדל עבור לומדי האר�
 
 #: enterprise/models.py:488
 msgid "Specifies the sender alias for automated emails from the edX system."
-msgstr "מציין את כינוי השולח עבור הודעות דוא&quot;ל אוטומטיות ממערכת edX."
+msgstr "מציין את כינוי השולח עבור הודעות דוא'ל אוטומטיות ממערכת edX."
 
 #: enterprise/models.py:496
 msgid ""
 "Email address that will receive learner replies to automated edX emails."
-msgstr "כתובת דוא&quot;ל שתקבל תשובות ללומדים למיילים אוטומטיים של edX."
+msgstr "כתובת דוא'ל שתקבל תשובות ללומדים למיילים אוטומטיים של edX."
 
 #: enterprise/models.py:507
 msgid ""
@@ -1611,7 +1611,7 @@ msgid ""
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
 "מלא תבנית Django סטנדרטית, שעם רינדור מייצרת את האימייל שברצונך לשלוח ללומדי Enterprise Customer שנרשמו לאחרונה. המשתנים הבאים עשויים להיות זמינים:\n"
-"<ul><li> user_name: שם הניתן לקריאה על ידי אדם עבור האדם שנשלח לדוא&quot;ל. הקפד לטפל במקרה שבו זה לא מוגדר, מכיוון שהוא עשוי להיות חסר במקרים מסוימים. זה יכול להיות גם שם משתמש, אם הלומד לא הגדיר את השם ה&quot;אמיתי&quot; שלו במערכת.</li><li> organisation_name: שם הארגון המממן את ההרשמה.</li><li> enrolled_in: פרטי הקורס או התוכנית שנרשמו אליו. הם עשויים להכיל:<ul><li> name: שם הפריט הניתן לרישום (למשל, &quot;קורס הדגמה&quot;).</li><li> url: קישור לדף הבית של הפריט הרשום.</li><li> מיתוג: שם מיתוג מותאם אישית עבור הפריט הרשום. לדוגמה, המיתוג של תוכנית MicroMasters יהיה &quot;MicroMasters&quot;.</li><li> התחלה: התאריך שבו הפריט הרשום הופך לזמין. עבד את זה לטקסט באמצעות מסנן תבנית 'תאריך' של Django (ראה <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">תיעוד של Django</a> ).</li><li> סוג: האם הפריט הרשום הוא קורס, תוכנית או משהו אחר.</li></ul></ul>"
+"<ul><li> user_name: שם הניתן לקריאה על ידי אדם עבור האדם שנשלח לדוא'ל. הקפד לטפל במקרה שבו זה לא מוגדר, מכיוון שהוא עשוי להיות חסר במקרים מסוימים. זה יכול להיות גם שם משתמש, אם הלומד לא הגדיר את השם ה'אמיתי' שלו במערכת.</li><li> organisation_name: שם הארגון המממן את ההרשמה.</li><li> enrolled_in: פרטי הקורס או התוכנית שנרשמו אליו. הם עשויים להכיל:<ul><li> name: שם הפריט הניתן לרישום (למשל, 'קורס הדגמה').</li><li> url: קישור לדף הבית של הפריט הרשום.</li><li> מיתוג: שם מיתוג מותאם אישית עבור הפריט הרשום. לדוגמה, המיתוג של תוכנית MicroMasters יהיה 'MicroMasters'.</li><li> התחלה: התאריך שבו הפריט הרשום הופך לזמין. עבד את זה לטקסט באמצעות מסנן תבנית 'תאריך' של Django (ראה <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">תיעוד של Django</a> ).</li><li> סוג: האם הפריט הרשום הוא קורס, תוכנית או משהו אחר.</li></ul></ul>"
 
 #: enterprise/models.py:2786
 #, python-brace-format
@@ -1621,7 +1621,7 @@ msgid ""
 " name of the course or program that was enrolled in."
 msgstr ""
 "הזן מחרוזת שניתן להשתמש בה כדי ליצור שורת נושא דינמית עבור הודעות "
-"דוא&quot;ל. מציין המיקום {course_name} יוחלף בשם הקורס או התוכנית שנרשמו "
+"דוא'ל. מציין המיקום {course_name} יוחלף בשם הקורס או התוכנית שנרשמו "
 "אליו."
 
 #: enterprise/models.py:2928
@@ -1795,7 +1795,7 @@ msgstr "יש להגדיר את התדירות ליום, שבועי או חודש
 
 #: enterprise/models.py:3181
 msgid "Email(s) must be set if the delivery method is email."
-msgstr "יש להגדיר דוא&quot;ל אם שיטת המשלוח היא דוא&quot;ל."
+msgstr "יש להגדיר דוא'ל אם שיטת המשלוח היא דוא'ל."
 
 #: enterprise/models.py:3185
 msgid "Decrypted password must be set if the delivery method is email."
@@ -2115,7 +2115,7 @@ msgstr "לְהִרָשֵׁם"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:139
 msgid "Learner Email"
-msgstr "דוא&quot;ל ללמידה"
+msgstr "דוא'ל ללמידה"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:140
 msgid "Date Added"
@@ -2151,8 +2151,8 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "both were."
 msgstr ""
-"יש לציין &quot;אימייל או שם משתמש&quot; או &quot;העלאת CSV בכמות "
-"גדולה&quot;, אבל שניהם היו."
+"יש לציין 'אימייל או שם משתמש' או 'העלאת CSV בכמות "
+"גדולה', אבל שניהם היו."
 
 #: enterprise/utils.py:148
 msgid "Error: Learners could not be added. Correct the following errors."
@@ -2180,19 +2180,19 @@ msgid ""
 "Either \"CSV bulk upload\" or a singular course ID may be used for manual "
 "enrollments, but not both together."
 msgstr ""
-"ניתן להשתמש ב&quot;העלאת CSV בכמות גדולה&quot; או במזהה יחיד של קורס עבור "
+"ניתן להשתמש ב'העלאת CSV בכמות גדולה' או במזהה יחיד של קורס עבור "
 "הרשמות ידניות, אך לא בשניהם יחד."
 
 #: enterprise/utils.py:161
 #, python-brace-format
 msgid "{argument} does not appear to be a valid email address."
-msgstr "נראה כי {argument} אינה כתובת דוא&quot;ל חוקית."
+msgstr "נראה כי {argument} אינה כתובת דוא'ל חוקית."
 
 #: enterprise/utils.py:163
 #, python-brace-format
 msgid ""
 "{argument} does not appear to be a valid email address or known username"
-msgstr "נראה כי {argument} אינו כתובת דוא&quot;ל חוקית או שם משתמש ידוע"
+msgstr "נראה כי {argument} אינו כתובת דוא'ל חוקית או שם משתמש ידוע"
 
 #: enterprise/utils.py:166
 #, python-brace-format
@@ -2212,8 +2212,8 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "neither were."
 msgstr ""
-"יש לציין &quot;אימייל או שם משתמש&quot; או &quot;העלאה בכמות גדולה של "
-"CSV&quot;, אך לא היו."
+"יש לציין 'אימייל או שם משתמש' או 'העלאה בכמות גדולה של "
+"CSV', אך לא היו."
 
 #: enterprise/utils.py:176
 #, python-brace-format
@@ -2221,7 +2221,7 @@ msgid ""
 "User with email address {email} is already registered with Enterprise "
 "Customer {ec_name}"
 msgstr ""
-"משתמש עם כתובת דוא&quot;ל {email} כבר רשום אצל לקוח Enterprise {ec_name}"
+"משתמש עם כתובת דוא'ל {email} כבר רשום אצל לקוח Enterprise {ec_name}"
 
 #: enterprise/utils.py:178
 msgid "User is not linked with Enterprise Customer"
@@ -2230,7 +2230,7 @@ msgstr "המשתמש אינו מקושר ללקוח הארגוני"
 #: enterprise/utils.py:179
 #, python-brace-format
 msgid "User with email address {email} doesn't exist."
-msgstr "משתמש עם כתובת דוא&quot;ל {email} אינו קיים."
+msgstr "משתמש עם כתובת דוא'ל {email} אינו קיים."
 
 #: enterprise/utils.py:180
 #, python-brace-format
@@ -2243,8 +2243,8 @@ msgid ""
 "Enterprise channel worker user with the username "
 "\"{channel_worker_username}\" was not found."
 msgstr ""
-"לא נמצא משתמש ערוץ ארגוני עם שם המשתמש &quot; {channel_worker_username} "
-"&quot;."
+"לא נמצא משתמש ערוץ ארגוני עם שם המשתמש ' {channel_worker_username} "
+"'."
 
 #: enterprise/utils.py:185
 msgid ""
@@ -2342,7 +2342,7 @@ msgid ""
 "My email address for my {platform_name} account, and the date when I created"
 " my {platform_name} account"
 msgstr ""
-"כתובת הדוא&quot;ל שלי עבור חשבון {platform_name} שלי, והתאריך שבו יצרתי את "
+"כתובת הדוא'ל שלי עבור חשבון {platform_name} שלי, והתאריך שבו יצרתי את "
 "חשבון {platform_name} שלי"
 
 #: enterprise/views.py:389

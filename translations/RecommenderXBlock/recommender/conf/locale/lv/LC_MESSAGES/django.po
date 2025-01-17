@@ -88,8 +88,8 @@ msgstr ""
 "lūdzu, pievienojiet tos."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "Pievienot jaunu resursu &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "Pievienot jaunu resursu >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

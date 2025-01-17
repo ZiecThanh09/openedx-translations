@@ -32,7 +32,7 @@ msgstr ""
 #: api/v1/views.py:89
 #, python-brace-format
 msgid "Key '{key}' not found."
-msgstr "کلید &quot;{key}&quot; یافت نشد."
+msgstr "کلید '{key}' یافت نشد."
 
 #: api/v1/views.py:97
 msgid "User is not enrolled in course."

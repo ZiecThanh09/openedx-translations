@@ -179,11 +179,11 @@ msgstr "शिक्षार्थी को दिखाई गई समस�
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "&quot;समस्या&quot; शीर्षक दिखाएँ"
+msgstr "'समस्या' शीर्षक दिखाएँ"
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
-msgstr "समस्या पाठ के ऊपर &quot;समस्या&quot; शीर्षक प्रदर्शित करें?"
+msgstr "समस्या पाठ के ऊपर 'समस्या' शीर्षक प्रदर्शित करें?"
 
 #: drag_and_drop_v2.py:145
 msgid "Show answer"

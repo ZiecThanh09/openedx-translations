@@ -487,7 +487,7 @@ msgid ""
 "The \"{name}\" problem is configured to require a minimum of {min_grades} "
 "peer grades, and asks to review {min_graded} peers."
 msgstr ""
-"Το πρόβλημα &quot; {name} &quot; έχει ρυθμιστεί ώστε να απαιτεί ελάχιστους "
+"Το πρόβλημα ' {name} ' έχει ρυθμιστεί ώστε να απαιτεί ελάχιστους "
 "βαθμούς {min_grades} ομοτίμους και ζητά τον έλεγχο {min_graded} ομοτίμων."
 
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:383

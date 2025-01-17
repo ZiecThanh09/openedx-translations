@@ -867,7 +867,7 @@ msgstr "Acceso restringido a: {list_of_groups}"
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:464
 msgid "Transcripts are supported only for \"video\" blocks."
 msgstr ""
-"Las transcripciones solo se admiten para bloques de &quot;video&quot;."
+"Las transcripciones solo se admiten para bloques de 'video'."
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:149
 msgid "Cannot find item by locator."
@@ -3667,13 +3667,13 @@ msgid ""
 "Certificates issued by {platform_name} are signed by a gpg key so that they "
 "can be validated independently by anyone with the {platform_name} public "
 "key. For independent verification, {platform_name} uses what is called a "
-"\"detached signature\"&quot;\"."
+"\"detached signature\"'\"."
 msgstr ""
 "Los certificados emitidos por {platform_name} son firmados con una clave gpg"
 " de modo que puedan ser validados de forma independiente por cualquiera que "
 "tenga la llave pública de {platform_name}. Para la verificación "
 "independiente, {platform_name} utiliza lo que se denomina una \"Firma "
-"separada\"&quot;\"."
+"separada\"'\"."
 
 #: lms/djangoapps/certificates/views/webview.py:221
 msgid "Validate this certificate for yourself"

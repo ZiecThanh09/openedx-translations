@@ -698,8 +698,8 @@ msgid ""
 " row, to enroll learners in multiple courses."
 msgstr ""
 "فایل csv. باید ستونی از آدرس های ایمیل داشته باشد که با عنوان "
-"&quot;ایمیل&quot; در ردیف اول مشخص شده است. در صورت تمایل، فایل csv. ممکن "
-"است شامل ستونی از کلیدهای اجرای دوره باشد که با عنوان &quot;course_id&quot; "
+"'ایمیل' در ردیف اول مشخص شده است. در صورت تمایل، فایل csv. ممکن "
+"است شامل ستونی از کلیدهای اجرای دوره باشد که با عنوان 'course_id' "
 "در ردیف اول نشان داده شده است تا زبان آموزان را در چندین دوره ثبت نام کند."
 
 #: enterprise/admin/forms.py:68
@@ -818,8 +818,8 @@ msgid ""
 msgstr ""
 "سایت ارائه‌دهنده هویت انتخابی ( {identity_provider_site} ) با سایت این مشتری"
 " سازمانی ( {enterprise_customer_site} ) مطابقت ندارد. برای اصلاح این مشکل، "
-"سایتی را انتخاب کنید که دامنه &quot; {identity_provider_site} &quot; دارد یا"
-" ارائه دهنده هویت را به &quot; {enterprise_customer_site} &quot; به روز "
+"سایتی را انتخاب کنید که دامنه ' {identity_provider_site} ' دارد یا"
+" ارائه دهنده هویت را به ' {enterprise_customer_site} ' به روز "
 "کنید."
 
 #: enterprise/admin/forms.py:611
@@ -828,8 +828,8 @@ msgid ""
 "\"{data_type}\" data type is not supported for enterprise customer "
 "\"{enterprise_customer.name}\". Please select a different data type."
 msgstr ""
-"نوع داده &quot;{data_type}&quot; برای مشتری سازمانی "
-"&quot;{enterprise_customer.name}&quot; پشتیبانی نمی شود. لطفاً نوع داده "
+"نوع داده '{data_type}' برای مشتری سازمانی "
+"'{enterprise_customer.name}' پشتیبانی نمی شود. لطفاً نوع داده "
 "دیگری را انتخاب کنید."
 
 #: enterprise/admin/forms.py:628
@@ -934,7 +934,7 @@ msgstr "ایمیل {email} با مشتری سازمانی {ec_name} مرتبط �
 msgid ""
 "Successfully written the \"Auth org id\" field for this enterprise customer."
 msgstr ""
-"فیلد &quot;Auth org id&quot; برای این مشتری سازمانی با موفقیت نوشته شد."
+"فیلد 'Auth org id' برای این مشتری سازمانی با موفقیت نوشته شد."
 
 #: enterprise/api/utils.py:87
 #, python-brace-format
@@ -1677,7 +1677,7 @@ msgid ""
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
 "یک الگوی استاندارد جنگو را پر کنید که پس از رندر شدن، ایمیلی را که می خواهید برای یادگیرندگان Enterprise Customer تازه ثبت نام شده ارسال شود، تولید کند. متغیرهای زیر ممکن است در دسترس باشند:\n"
-"<ul><li> user_name: نامی قابل خواندن توسط انسان برای شخصی که ایمیل می شود. مطمئن شوید که در مواردی که این مورد تعریف نشده است رسیدگی کنید، زیرا ممکن است در برخی موارد وجود نداشته باشد. همچنین ممکن است یک نام کاربری باشد، اگر یادگیرنده نام &quot;واقعی&quot; خود را در سیستم پیکربندی نکرده باشد.</li><li> Organization_name: نام سازمانی که از ثبت نام حمایت می کند.</li><li> enrolled_in: جزئیات دوره یا برنامه ای که در آن ثبت نام شده است. ممکن است شامل موارد زیر باشد:<ul><li> name: نام مورد قابل ثبت نام (به عنوان مثال، &quot;دوره آزمایشی&quot;).</li><li> url: پیوندی به صفحه اصلی مورد ثبت‌شده.</li><li> نام تجاری: نام تجاری سفارشی برای کالای ثبت‌شده. به عنوان مثال، نام تجاری یک برنامه MicroMasters &quot;MicroMasters&quot; خواهد بود.</li><li> start: تاریخی که مورد ثبت نام شده در دسترس می شود. این را با استفاده از فیلتر الگوی «تاریخ» جنگو به متن ارائه دهید (به <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">مستندات جنگو</a> مراجعه کنید).</li><li> نوع: آیا مورد ثبت نام شده یک دوره، یک برنامه یا چیز دیگری است.</li></ul></ul>"
+"<ul><li> user_name: نامی قابل خواندن توسط انسان برای شخصی که ایمیل می شود. مطمئن شوید که در مواردی که این مورد تعریف نشده است رسیدگی کنید، زیرا ممکن است در برخی موارد وجود نداشته باشد. همچنین ممکن است یک نام کاربری باشد، اگر یادگیرنده نام 'واقعی' خود را در سیستم پیکربندی نکرده باشد.</li><li> Organization_name: نام سازمانی که از ثبت نام حمایت می کند.</li><li> enrolled_in: جزئیات دوره یا برنامه ای که در آن ثبت نام شده است. ممکن است شامل موارد زیر باشد:<ul><li> name: نام مورد قابل ثبت نام (به عنوان مثال، 'دوره آزمایشی').</li><li> url: پیوندی به صفحه اصلی مورد ثبت‌شده.</li><li> نام تجاری: نام تجاری سفارشی برای کالای ثبت‌شده. به عنوان مثال، نام تجاری یک برنامه MicroMasters 'MicroMasters' خواهد بود.</li><li> start: تاریخی که مورد ثبت نام شده در دسترس می شود. این را با استفاده از فیلتر الگوی «تاریخ» جنگو به متن ارائه دهید (به <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">مستندات جنگو</a> مراجعه کنید).</li><li> نوع: آیا مورد ثبت نام شده یک دوره، یک برنامه یا چیز دیگری است.</li></ul></ul>"
 
 #: enterprise/models.py:2786
 #, python-brace-format
@@ -2230,7 +2230,7 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "both were."
 msgstr ""
-"&quot;ایمیل یا نام کاربری&quot; یا &quot;آپلود انبوه CSV&quot; باید مشخص "
+"'ایمیل یا نام کاربری' یا 'آپلود انبوه CSV' باید مشخص "
 "شود، اما هر دو مشخص شدند."
 
 #: enterprise/utils.py:148
@@ -2294,7 +2294,7 @@ msgid ""
 "Either \"Email or Username\" or \"CSV bulk upload\" must be specified, but "
 "neither were."
 msgstr ""
-"&quot;ایمیل یا نام کاربری&quot; یا &quot;آپلود انبوه CSV&quot; باید مشخص "
+"'ایمیل یا نام کاربری' یا 'آپلود انبوه CSV' باید مشخص "
 "شود، اما هیچکدام مشخص نشدند."
 
 #: enterprise/utils.py:176
@@ -2326,8 +2326,8 @@ msgid ""
 "Enterprise channel worker user with the username "
 "\"{channel_worker_username}\" was not found."
 msgstr ""
-"کاربر کارگر کانال سازمانی با نام کاربری &quot; {channel_worker_username} "
-"&quot; یافت نشد."
+"کاربر کارگر کانال سازمانی با نام کاربری ' {channel_worker_username} "
+"' یافت نشد."
 
 #: enterprise/utils.py:185
 msgid ""

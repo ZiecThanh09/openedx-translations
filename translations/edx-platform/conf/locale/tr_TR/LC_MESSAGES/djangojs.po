@@ -5584,8 +5584,8 @@ msgstr "Yer imi kondu"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
-msgstr[0] "{total_results} &quot; {search_term} &quot; için bulunan sonuç"
-msgstr[1] "&quot; {search_term} &quot; için bulunan sonuçlar {total_results}"
+msgstr[0] "{total_results} ' {search_term} ' için bulunan sonuç"
+msgstr[1] "' {search_term} ' için bulunan sonuçlar {total_results}"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -7986,8 +7986,8 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"Bu alt bölüm, mevcut not verme politikasında bulunmayan \\&quot; "
-"%(gradingType)s \\&quot; olarak yapılandırılmıştır."
+"Bu alt bölüm, mevcut not verme politikasında bulunmayan \\' "
+"%(gradingType)s \\' olarak yapılandırılmıştır."
 
 #: cms/templates/js/course-outline.underscore:457
 #: cms/templates/js/xblock-outline.underscore:57

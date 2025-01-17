@@ -337,7 +337,7 @@ msgid ""
 msgstr ""
 "మీ ఇ-బుక్ తెరవాల్సిన పేజీ లేదా ఈ కాంపోనెంట్ కోసం బ్యాక్‌గ్రౌండ్ కలర్ వంటి "
 "ఏదైనా అనుకూల పారామీటర్‌ల కోసం కీ/విలువ జతని జోడించండి. ఉదా. "
-"[&quot;పేజీ=1&quot;, &quot;రంగు=తెలుపు&quot;]<br /> ఈ సెట్టింగ్‌పై మరిన్ని "
+"['పేజీ=1', 'రంగు=తెలుపు']<br /> ఈ సెట్టింగ్‌పై మరిన్ని "
 "వివరాల కోసం {docs_anchor_open} edX LTI డాక్యుమెంటేషన్ {anchor_close} ని "
 "చూడండి."
 
@@ -522,7 +522,7 @@ msgstr "కస్టమ్ పారామీటర్‌లు తప్పన�
 
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
-msgstr "అనుకూల పారామితులు &quot;x=y&quot; ఆకృతిలో స్ట్రింగ్‌లుగా ఉండాలి."
+msgstr "అనుకూల పారామితులు 'x=y' ఆకృతిలో స్ట్రింగ్‌లుగా ఉండాలి."
 
 #: lti_xblock.py:703
 msgid ""
@@ -530,7 +530,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "బాహ్య కాన్ఫిగరేషన్‌ను ఉపయోగిస్తున్నప్పుడు పునర్వినియోగ కాన్ఫిగరేషన్ IDని "
-"తప్పనిసరిగా సెట్ చేయాలి (ఉదాహరణ: &quot;x:y&quot;)."
+"తప్పనిసరిగా సెట్ చేయాలి (ఉదాహరణ: 'x:y')."
 
 #: lti_xblock.py:726
 msgid ""
@@ -548,7 +548,7 @@ msgid ""
 "string."
 msgstr ""
 "LTI పాస్‌పోర్ట్‌ని అన్వయించడం సాధ్యపడలేదు: {lti_passport!r}. "
-"&quot;id:key:secret&quot; స్ట్రింగ్ అయి ఉండాలి."
+"'id:key:secret' స్ట్రింగ్ అయి ఉండాలి."
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
 msgid "Could not get user id for current request"
@@ -560,7 +560,7 @@ msgid ""
 "string."
 msgstr ""
 "అనుకూల పరామితిని అన్వయించడం సాధ్యం కాలేదు: {custom_parameter!r}. "
-"&quot;x=y&quot; స్ట్రింగ్ అయి ఉండాలి."
+"'x=y' స్ట్రింగ్ అయి ఉండాలి."
 
 #: lti_xblock.py:1428
 msgid "[LTI]: Real user not found against anon_id: {}"
@@ -619,7 +619,7 @@ msgid ""
 "LTI Configuration using reusable configuration needs a external ID in "
 "\"x:y\" format."
 msgstr ""
-"పునర్వినియోగ కాన్ఫిగరేషన్‌ని ఉపయోగించే LTI కాన్ఫిగరేషన్‌కు &quot;x:y&quot; "
+"పునర్వినియోగ కాన్ఫిగరేషన్‌ని ఉపయోగించే LTI కాన్ఫిగరేషన్‌కు 'x:y' "
 "ఆకృతిలో బాహ్య ID అవసరం."
 
 #: models.py:267

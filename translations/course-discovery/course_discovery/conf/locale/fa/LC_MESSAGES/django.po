@@ -161,7 +161,7 @@ msgid ""
 "Course creation was unsuccessful. The course URL slug ‘[{url_slug}]’ is "
 "already in use. Please update this field and try again."
 msgstr ""
-"ایجاد دوره ناموفق بود. اسلاگ URL دوره &quot;[ {url_slug} ]&quot; در حال حاضر"
+"ایجاد دوره ناموفق بود. اسلاگ URL دوره '[ {url_slug} ]' در حال حاضر"
 " در حال استفاده است. لطفاً این فیلد را به روز کنید و دوباره امتحان کنید."
 
 #: apps/api/v1/views/courses.py:284
@@ -178,7 +178,7 @@ msgid ""
 "Course edit was unsuccessful. The course URL slug ‘[{url_slug}]’ is already "
 "in use. Please update this field and try again."
 msgstr ""
-"ویرایش دوره ناموفق بود. اسلاگ URL دوره &quot;[ {url_slug} ]&quot; در حال "
+"ویرایش دوره ناموفق بود. اسلاگ URL دوره '[ {url_slug} ]' در حال "
 "حاضر در حال استفاده است. لطفاً این فیلد را به روز کنید و دوباره امتحان کنید."
 
 #: apps/api/views.py:58
@@ -254,8 +254,8 @@ msgstr "دوره باید یکی از {period_choices} باشد."
 #: apps/core/forms.py:26
 msgid "'rate' must be in the format defined by DRF, such as '100/hour'."
 msgstr ""
-"&quot;نرخ&quot; باید در قالب تعریف شده توسط DRF باشد، مانند "
-"&quot;100/hour&quot;."
+"'نرخ' باید در قالب تعریف شده توسط DRF باشد، مانند "
+"'100/hour'."
 
 #: apps/core/models.py:17
 msgid "Full Name"
@@ -729,7 +729,7 @@ msgid ""
 "Enter a valid “slug” consisting of letters, numbers, slashes, underscores or"
 " hyphens."
 msgstr ""
-"یک &quot;Slug&quot; معتبر متشکل از حروف، اعداد، اسلش، زیرخط یا خط تیره وارد "
+"یک 'Slug' معتبر متشکل از حروف، اعداد، اسلش، زیرخط یا خط تیره وارد "
 "کنید."
 
 #: apps/course_metadata/forms.py:66
@@ -863,11 +863,11 @@ msgstr ""
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
-msgstr "آرگومان نادرست &quot;{}&quot; باید به شکل UUID:TARGET_UUID باشد"
+msgstr "آرگومان نادرست '{}' باید به شکل UUID:TARGET_UUID باشد"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "آرگومان نادرست &quot;{}&quot;، UUID ها نمی توانند برابر باشند"
+msgstr "آرگومان نادرست '{}'، UUID ها نمی توانند برابر باشند"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
@@ -1033,7 +1033,7 @@ msgid ""
 msgstr ""
 "6 کاراکتر-هگز-مقدار رنگ تم سازمانی،\n"
 " همه دوره های مرتبط تحت یک سازمان از این رنگ به عنوان رنگ تم استفاده می کنند.\n"
-" (به عنوان مثال &quot;#ff0000&quot; که برابر با قرمز است) نیازی به ارائه &quot;#&quot; نیست"
+" (به عنوان مثال '#ff0000' که برابر با قرمز است) نیازی به ارائه '#' نیست"
 
 #: apps/course_metadata/models.py:301
 msgid "The timestamp of the last time the organization data was modified."
@@ -1405,7 +1405,7 @@ msgid ""
 " in Studio via Refresh Course Metadata."
 msgstr ""
 "آیا این اجرا باید از پاسخ‌های API پنهان شود یا خیر. اینجا را ویرایش نکنید - "
-"این مقدار توسط فیلد &quot;Visibility Course In Catalog&quot; در استودیو از "
+"این مقدار توسط فیلد 'Visibility Course In Catalog' در استودیو از "
 "طریق Refresh Course Metadata بازنویسی می شود."
 
 #: apps/course_metadata/models.py:2164
@@ -1418,7 +1418,7 @@ msgid ""
 "'What You Will Learn' description for this particular course run. Leave this"
 " value blank to default to the parent course's Outcome attribute."
 msgstr ""
-"شرح &quot;آنچه شما خواهید آموخت&quot; برای این دوره خاص اجرا می شود. این "
+"شرح 'آنچه شما خواهید آموخت' برای این دوره خاص اجرا می شود. این "
 "مقدار را خالی بگذارید تا به‌طور پیش‌فرض در ویژگی Outcome دوره اصلی باشد."
 
 #: apps/course_metadata/models.py:2184 apps/course_metadata/models.py:3291
@@ -1640,7 +1640,7 @@ msgstr "URL بازگشت به تماس به جریان برنامه شریک"
 
 #: apps/course_metadata/models.py:3780
 msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
-msgstr "رتبه بندی کلی برنامه (به عنوان مثال &quot;#1 در ایالات متحده&quot;)"
+msgstr "رتبه بندی کلی برنامه (به عنوان مثال '#1 در ایالات متحده')"
 
 #: apps/course_metadata/models.py:3785
 msgid ""
@@ -1648,7 +1648,7 @@ msgid ""
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr ""
 "مقدار 6 کاراکتری هگز رنگ برای ایجاد حاشیه های بنر\n"
-" (به عنوان مثال &quot;#ff0000&quot; که برابر با قرمز است) نیازی به ارائه &quot;#&quot; نیست"
+" (به عنوان مثال '#ff0000' که برابر با قرمز است) نیازی به ارائه '#' نیست"
 
 #: apps/course_metadata/models.py:3794
 msgid "Provide a campus image for the header of the degree"
@@ -1705,16 +1705,16 @@ msgstr ""
 #: apps/course_metadata/models.py:3876
 msgid "Ranking display for search card (e.g. \"#1 in the U.S.\""
 msgstr ""
-"صفحه نمایش رتبه بندی برای کارت جستجو (به عنوان مثال &quot;#1 در ایالات "
-"متحده&quot;"
+"صفحه نمایش رتبه بندی برای کارت جستجو (به عنوان مثال '#1 در ایالات "
+"متحده'"
 
 #: apps/course_metadata/models.py:3882
 msgid "Cost display for search card (e.g. \"$9,999\""
-msgstr "نمایش هزینه برای کارت جستجو (به عنوان مثال &quot;9999 دلار&quot;"
+msgstr "نمایش هزینه برای کارت جستجو (به عنوان مثال '9999 دلار'"
 
 #: apps/course_metadata/models.py:3888
 msgid "Number of courses for search card (e.g. \"11 Courses\""
-msgstr "تعداد دوره ها برای کارت جستجو (به عنوان مثال &quot;11 دوره&quot;"
+msgstr "تعداد دوره ها برای کارت جستجو (به عنوان مثال '11 دوره'"
 
 #: apps/course_metadata/models.py:3896
 msgid ""
@@ -1822,8 +1822,8 @@ msgid ""
 "            text is the first 750 characters of \"marketing_text\" and must be\n"
 "            valid HTML."
 msgstr ""
-"یک نمای کلی در سطح بالا از دوره های آموزشی مدرک. خلاصه&quot;\n"
-" متن 750 کاراکتر اول &quot;متن_marketing&quot; است و باید باشد\n"
+"یک نمای کلی در سطح بالا از دوره های آموزشی مدرک. خلاصه'\n"
+" متن 750 کاراکتر اول 'متن_marketing' است و باید باشد\n"
 " HTML معتبر"
 
 #: apps/course_metadata/models.py:4062
@@ -2170,7 +2170,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"دوره &quot; %(course_name)s &quot; با موفقیت توسط edX بررسی شد و اکنون در %(course_publish_date)s منتشر شده است. برای دیدن دوره زنده به اینجا بروید: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
+"دوره ' %(course_name)s ' با موفقیت توسط edX بررسی شد و اکنون در %(course_publish_date)s منتشر شده است. برای دیدن دوره زنده به اینجا بروید: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.html:12
@@ -2182,7 +2182,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"دوره &quot; %(course_name)s &quot; با موفقیت توسط edX بررسی شد و اکنون برای انتشار آماده است. دوره در %(course_publish_date)s منتشر خواهد شد.\n"
+"دوره ' %(course_name)s ' با موفقیت توسط edX بررسی شد و اکنون برای انتشار آماده است. دوره در %(course_publish_date)s منتشر خواهد شد.\n"
 " برای مشاهده پیش نمایش صفحه درباره دوره، به اینجا بروید: <a href=\"%(course_marketing_url)s\">%(course_marketing_url)s</a>\n"
 "    "
 
@@ -2193,7 +2193,7 @@ msgid ""
 "    Course '%(course_name)s' has been successfully reviewed by edX and is now published on %(course_publish_date)s. To see live course, go here: %(course_marketing_url)s\n"
 msgstr ""
 "\n"
-"دوره &quot; %(course_name)s &quot; با موفقیت توسط edX بررسی شد و اکنون در %(course_publish_date)s منتشر شده است. برای دیدن دوره زنده به اینجا بروید: %(course_marketing_url)s\n"
+"دوره ' %(course_name)s ' با موفقیت توسط edX بررسی شد و اکنون در %(course_publish_date)s منتشر شده است. برای دیدن دوره زنده به اینجا بروید: %(course_marketing_url)s\n"
 
 #: apps/course_metadata/templates/course_metadata/email/watchers_course_url.txt:8
 #, python-format
@@ -2203,7 +2203,7 @@ msgid ""
 "    To see a preview of the Course About Page, go here: %(course_preview_url)s\n"
 msgstr ""
 "\n"
-"دوره &quot; %(course_name)s &quot; با موفقیت توسط edX بررسی شد و اکنون برای انتشار آماده است. دوره در %(course_publish_date)s منتشر خواهد شد.\n"
+"دوره ' %(course_name)s ' با موفقیت توسط edX بررسی شد و اکنون برای انتشار آماده است. دوره در %(course_publish_date)s منتشر خواهد شد.\n"
 " برای مشاهده پیش نمایش صفحه درباره دوره، به اینجا بروید: %(course_preview_url)s\n"
 
 #: apps/course_metadata/utils.py:380

@@ -745,7 +745,7 @@ msgid ""
 "Enter a valid “slug” consisting of letters, numbers, slashes, underscores or"
 " hyphens."
 msgstr ""
-"Digite um &quot;slug&quot; válido que consiste em letras, números, barras, "
+"Digite um 'slug' válido que consiste em letras, números, barras, "
 "sublinhados ou hífens."
 
 #: apps/course_metadata/forms.py:66
@@ -884,12 +884,12 @@ msgstr ""
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
 msgstr ""
-"O argumento malformado &quot;{}&quot; deve estar na forma de "
+"O argumento malformado '{}' deve estar na forma de "
 "UUID:TARGET_UUID"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "Argumento malformado &quot;{}&quot;, UUIDs não podem ser iguais"
+msgstr "Argumento malformado '{}', UUIDs não podem ser iguais"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
@@ -1056,7 +1056,7 @@ msgid ""
 msgstr ""
 "O valor hexadecimal de 6 caracteres da cor do tema da organização, todos os "
 "cursos relacionados na mesma organização usarão essa cor como cor do tema. "
-"(por exemplo, &quot;#ff0000&quot; que é igual a vermelho) Não há necessidade"
+"(por exemplo, '#ff0000' que é igual a vermelho) Não há necessidade"
 " de fornecer o `#`"
 
 #: apps/course_metadata/models.py:301
@@ -1451,8 +1451,8 @@ msgid ""
 " in Studio via Refresh Course Metadata."
 msgstr ""
 "Se esta execução deve ser ocultada das respostas da API. Não edite aqui - "
-"este valor será substituído pelo campo &quot;Visibilidade do curso no "
-"catálogo&quot; no Studio por meio de Atualizar metadados do curso."
+"este valor será substituído pelo campo 'Visibilidade do curso no "
+"catálogo' no Studio por meio de Atualizar metadados do curso."
 
 #: apps/course_metadata/models.py:2164
 msgid "Indicates whether the course relation has been manually overridden."
@@ -1697,7 +1697,7 @@ msgstr "URL de retorno de chamada para o fluxo do aplicativo parceiro"
 
 #: apps/course_metadata/models.py:3780
 msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
-msgstr "Classificação geral do programa (por exemplo, &quot;#1 nos EUA&quot;)"
+msgstr "Classificação geral do programa (por exemplo, '#1 nos EUA')"
 
 #: apps/course_metadata/models.py:3785
 msgid ""
@@ -1705,7 +1705,7 @@ msgid ""
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr ""
 "O valor hexadecimal de 6 caracteres da cor para fazer as bordas do banner "
-"(por exemplo, &quot;#ff0000&quot; que é igual a vermelho) Não é necessário "
+"(por exemplo, '#ff0000' que é igual a vermelho) Não é necessário "
 "fornecer o `#`"
 
 #: apps/course_metadata/models.py:3794
@@ -1763,19 +1763,19 @@ msgstr ""
 #: apps/course_metadata/models.py:3876
 msgid "Ranking display for search card (e.g. \"#1 in the U.S.\""
 msgstr ""
-"Exibição de classificação para cartão de pesquisa (por exemplo, &quot;# 1 "
-"nos EUA&quot;"
+"Exibição de classificação para cartão de pesquisa (por exemplo, '# 1 "
+"nos EUA'"
 
 #: apps/course_metadata/models.py:3882
 msgid "Cost display for search card (e.g. \"$9,999\""
 msgstr ""
-"Exibição de custo para cartão de pesquisa (por exemplo, &quot;$ 9.999&quot;"
+"Exibição de custo para cartão de pesquisa (por exemplo, '$ 9.999'"
 
 #: apps/course_metadata/models.py:3888
 msgid "Number of courses for search card (e.g. \"11 Courses\""
 msgstr ""
-"Número de cursos para o cartão de pesquisa (por exemplo, &quot;11 "
-"cursos&quot;"
+"Número de cursos para o cartão de pesquisa (por exemplo, '11 "
+"cursos'"
 
 #: apps/course_metadata/models.py:3896
 msgid ""
@@ -1886,8 +1886,8 @@ msgid ""
 "            valid HTML."
 msgstr ""
 "Uma visão geral de alto nível do material didático do curso. O texto "
-"&quot;breve&quot; são os primeiros 750 caracteres de "
-"&quot;texto_de_marketing&quot; e deve ser um HTML válido."
+"'breve' são os primeiros 750 caracteres de "
+"'texto_de_marketing' e deve ser um HTML válido."
 
 #: apps/course_metadata/models.py:4062
 msgid "A high-level overview of the degree's courseware."

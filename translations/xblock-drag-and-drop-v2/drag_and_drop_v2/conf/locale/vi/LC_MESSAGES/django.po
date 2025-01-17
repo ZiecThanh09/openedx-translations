@@ -174,11 +174,11 @@ msgstr "Mô tả vấn đề hoặc hướng dẫn hiển thị cho người h�
 
 #: drag_and_drop_v2.py:136
 msgid "Show \"Problem\" heading"
-msgstr "Hiển thị tiêu đề &quot;Sự cố&quot;"
+msgstr "Hiển thị tiêu đề 'Sự cố'"
 
 #: drag_and_drop_v2.py:137
 msgid "Display the heading \"Problem\" above the problem text?"
-msgstr "Hiển thị tiêu đề &quot;Sự cố&quot; phía trên văn bản sự cố?"
+msgstr "Hiển thị tiêu đề 'Sự cố' phía trên văn bản sự cố?"
 
 #: drag_and_drop_v2.py:143
 msgid "Show answer"

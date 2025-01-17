@@ -344,8 +344,8 @@ msgid ""
 msgstr ""
 "Fügen Sie das Schlüssel/Wert-Paar für alle benutzerdefinierten Parameter "
 "hinzu, z. B. die Seite, auf der Ihr E-Book geöffnet werden soll, oder die "
-"Hintergrundfarbe für diese Komponente. Ex. [&quot;page=1&quot;, "
-"&quot;color=white&quot;]<br /> Weitere Einzelheiten zu dieser Einstellung "
+"Hintergrundfarbe für diese Komponente. Ex. ['page=1', "
+"'color=white']<br /> Weitere Einzelheiten zu dieser Einstellung "
 "finden Sie in der {docs_anchor_open} edX LTI-Dokumentation {anchor_close} ."
 
 #: lti_xblock.py:481

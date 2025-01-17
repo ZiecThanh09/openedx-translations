@@ -857,13 +857,13 @@ msgstr "ใช้อาร์กิวเมนต์จากโมเดล De
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
 msgstr ""
-"อาร์กิวเมนต์ที่มีรูปแบบไม่ถูกต้อง &quot;{}&quot; ควรอยู่ในรูปแบบ "
+"อาร์กิวเมนต์ที่มีรูปแบบไม่ถูกต้อง '{}' ควรอยู่ในรูปแบบ "
 "UUID:TARGET_UUID"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
 msgstr ""
-"อาร์กิวเมนต์ที่มีรูปแบบไม่ถูกต้อง &quot;{}&quot; UUID ไม่สามารถเท่ากันได้"
+"อาร์กิวเมนต์ที่มีรูปแบบไม่ถูกต้อง '{}' UUID ไม่สามารถเท่ากันได้"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
@@ -1025,7 +1025,7 @@ msgid ""
 msgstr ""
 "ค่าเลขฐานสิบหกอักขระ 6 ตัวของสีธีมขององค์กร\n"
 " หลักสูตรที่เกี่ยวข้องทั้งหมดภายใต้องค์กรเดียวกันจะใช้สีนี้เป็นสีของธีม\n"
-" (เช่น &quot;#ff0000&quot; ซึ่งเท่ากับสีแดง) ไม่จำเป็นต้องระบุ `#`"
+" (เช่น '#ff0000' ซึ่งเท่ากับสีแดง) ไม่จำเป็นต้องระบุ `#`"
 
 #: apps/course_metadata/models.py:301
 msgid "The timestamp of the last time the organization data was modified."
@@ -1398,7 +1398,7 @@ msgid ""
 " in Studio via Refresh Course Metadata."
 msgstr ""
 "ควรซ่อนการเรียกใช้นี้จากการตอบกลับของ API หรือไม่ อย่าแก้ไขที่นี่ - "
-"ค่านี้จะถูกเขียนทับโดยช่อง &quot;การมองเห็นหลักสูตรในแคตตาล็อก&quot; ใน "
+"ค่านี้จะถูกเขียนทับโดยช่อง 'การมองเห็นหลักสูตรในแคตตาล็อก' ใน "
 "Studio ผ่านการรีเฟรชข้อมูลเมตาของหลักสูตร"
 
 #: apps/course_metadata/models.py:2164
@@ -1637,7 +1637,7 @@ msgid ""
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr ""
 "ค่าสีฐานสิบหก 6 อักขระที่ใช้สร้างเส้นขอบแบนเนอร์\n"
-" (เช่น &quot;#ff0000&quot; ซึ่งเท่ากับสีแดง) ไม่จำเป็นต้องระบุ `#`"
+" (เช่น '#ff0000' ซึ่งเท่ากับสีแดง) ไม่จำเป็นต้องระบุ `#`"
 
 #: apps/course_metadata/models.py:3794
 msgid "Provide a campus image for the header of the degree"
@@ -1807,8 +1807,8 @@ msgid ""
 "            text is the first 750 characters of \"marketing_text\" and must be\n"
 "            valid HTML."
 msgstr ""
-"ภาพรวมระดับสูงของบทเรียนระดับปริญญา &quot;เรื่องย่อ&quot;\n"
-" text คืออักขระ 750 ตัวแรกของ &quot;marketing_text&quot; และต้องเป็น\n"
+"ภาพรวมระดับสูงของบทเรียนระดับปริญญา 'เรื่องย่อ'\n"
+" text คืออักขระ 750 ตัวแรกของ 'marketing_text' และต้องเป็น\n"
 " HTML ที่ถูกต้อง"
 
 #: apps/course_metadata/models.py:4062

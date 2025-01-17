@@ -341,7 +341,7 @@ msgid ""
 msgstr ""
 "Додайте пару ключ/значення для будь-яких спеціальних параметрів, як-от "
 "сторінка, на якій має відкриватися ваша електронна книга, або колір фону для"
-" цього компонента. Пр. [&quot;сторінка=1&quot;, &quot;колір=білий&quot;]<br "
+" цього компонента. Пр. ['сторінка=1', 'колір=білий']<br "
 "/> Перегляньте документацію {docs_anchor_open} edX LTI {anchor_close} , щоб "
 "дізнатися більше про цей параметр."
 
@@ -533,7 +533,7 @@ msgstr "Спеціальні параметри мають бути списко
 
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
-msgstr "Спеціальні параметри мають бути рядками у форматі &quot;x=y&quot;."
+msgstr "Спеціальні параметри мають бути рядками у форматі 'x=y'."
 
 #: lti_xblock.py:703
 msgid ""
@@ -541,7 +541,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "Ідентифікатор багаторазової конфігурації має бути встановлений під час "
-"використання зовнішньої конфігурації (приклад: &quot;x:y&quot;)."
+"використання зовнішньої конфігурації (приклад: 'x:y')."
 
 #: lti_xblock.py:726
 msgid ""
@@ -560,7 +560,7 @@ msgid ""
 "string."
 msgstr ""
 "Не вдалося проаналізувати паспорт LTI: {lti_passport!r}. Має бути рядок "
-"&quot;id:key:secret&quot;."
+"'id:key:secret'."
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
 msgid "Could not get user id for current request"
@@ -572,7 +572,7 @@ msgid ""
 "string."
 msgstr ""
 "Не вдалося проаналізувати спеціальний параметр: {custom_parameter!r}. Має "
-"бути рядок &quot;x=y&quot;."
+"бути рядок 'x=y'."
 
 #: lti_xblock.py:1428
 msgid "[LTI]: Real user not found against anon_id: {}"

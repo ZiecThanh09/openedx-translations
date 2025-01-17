@@ -50,7 +50,7 @@
   "learn.coursewareSerch.searchBarPlaceholderText": "جستجو کردن",
   "learn.coursewareSerch.loading": "جستجوکردن...",
   "learn.coursewareSerch.searchResultsNone": "نتیجه ای پیدا نشد.",
-  "learn.coursewareSerch.searchResultsLabel": "نتایج برای &quot; {keyword} &quot;:",
+  "learn.coursewareSerch.searchResultsLabel": "نتایج برای ' {keyword} ':",
   "learn.coursewareSerch.searchResultsError": "در روند جستجو خطایی وجود داشت. لطفا چند دقیقه ی دیگر دوباره سعی کنید. اگر مشکل همچنان ادامه داشت، لطفا با تیم پشتیبانی تماس بگیرید.",
   "learn.coursewareSerch.filter:all": "همه مطالب",
   "learn.coursewareSerch.filter:text": "متن",

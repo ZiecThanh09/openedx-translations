@@ -65,7 +65,7 @@
   "lcm.budget.detail.page.catalog.tab.course.card.learners.must.complete.enrollment": "Kursa dalībniekiem jāreģistrējas šim uzdevumam līdz {courseEnrollmentDeadline}. Šis termiņš tiek aprēķināts, pamatojoties uz kursa uzņemšanas termiņu vai {assignmentEnrollmentDeadlione} dienas pēc uzdevuma datuma, atkarībā no tā, kurš no šiem datumiem ir agrāks.",
   "lcm.budget.detail.page.catalog.tab.course.card.impact.on.your.learner.credit.budget": "Ietekme uz jūsu mācību kredītpunktu budžetu",
   "lcm.budget.detail.page.catalog.tab.course.card.total.assignment.cost": "Kopējās uzdevuma izmaksas",
-  "lcm.budget.detail.page.catalog.tab.course.card.course.cost.will.convert": "Kursa izmaksas tiks automātiski konvertētas no &quot;piešķirtajiem&quot; uz &quot;iztērētajiem&quot; līdzekļiem, kad jūsu kursa dalībnieki pabeigs reģistrāciju.",
+  "lcm.budget.detail.page.catalog.tab.course.card.course.cost.will.convert": "Kursa izmaksas tiks automātiski konvertētas no 'piešķirtajiem' uz 'iztērētajiem' līdzekļiem, kad jūsu kursa dalībnieki pabeigs reģistrāciju.",
   "lcm.budget.detail.page.catalog.tab.course.card.managing.this.assignment": "Pārvalda šo uzdevumu",
   "lcm.budget.detail.page.catalog.tab.course.card.monitor.status": "Jūs varēsiet sekot līdzi šī uzdevuma statusam, pārskatot savu Dalībnieka kredītpunktu budžeta aktivitāti.",
   "lcm.budget.detail.page.catalog.tab.course.card.cancel.assignment": "Varat atcelt šo kursa uzdevumu vai nosūtīt e-pasta atgādinājumus jebkurā laikā, pirms dalībnieki pabeidz reģistrāciju.",

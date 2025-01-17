@@ -412,8 +412,8 @@ msgid ""
 "For example, 'http://example.com/background.png' or "
 "'/static/background.png'."
 msgstr ""
-"Наприклад, &quot;http://example.com/background.png&quot; або "
-"&quot;/static/background.png&quot;."
+"Наприклад, 'http://example.com/background.png' або "
+"'/static/background.png'."
 
 #: templates/html/drag_and_drop_edit.html:140
 msgid "Zone Layout"

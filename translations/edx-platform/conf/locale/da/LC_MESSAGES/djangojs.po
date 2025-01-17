@@ -243,8 +243,8 @@ msgid ""
 "Are you sure you want to delete {email} from the course team for "
 "“{container}”?"
 msgstr ""
-"Er du sikker på, at du vil slette {email} fra kursusholdet for &quot; "
-"{container} &quot;?"
+"Er du sikker på, at du vil slette {email} fra kursusholdet for ' "
+"{container} '?"
 
 #: cms/static/js/factories/manage_users.js:20
 #: cms/static/js/factories/manage_users_lib.js:22
@@ -265,8 +265,8 @@ msgstr "Allerede medlem af bibliotekets team"
 msgid ""
 "Are you sure you want to delete {email} from the library “{container}”?"
 msgstr ""
-"Er du sikker på, at du vil slette {email} fra biblioteket &quot; {container}"
-" &quot;?"
+"Er du sikker på, at du vil slette {email} fra biblioteket ' {container}"
+" '?"
 
 #: cms/static/js/factories/manage_users_lib.js:21
 msgid "Library User"
@@ -1019,7 +1019,7 @@ msgid ""
 msgstr ""
 "Tillad kun andre at kopiere, distribuere, vise og udføre ordret kopier af "
 "dit arbejde, ikke afledte værker baseret på det. Denne mulighed er "
-"inkompatibel med &quot;Del på samme måde&quot;."
+"inkompatibel med 'Del på samme måde'."
 
 #: cms/static/js/views/license.js:42
 msgid "Share Alike"
@@ -1033,7 +1033,7 @@ msgid ""
 msgstr ""
 "Tillad kun andre at distribuere afledte værker under en licens, der er "
 "identisk med den licens, der styrer dit arbejde. Denne mulighed er "
-"inkompatibel med &quot;Ingen derivater&quot;."
+"inkompatibel med 'Ingen derivater'."
 
 #. Translators: "item_display_name" is the name of the item to be deleted.
 #: cms/static/js/views/list_item.js:51
@@ -1107,8 +1107,8 @@ msgstr "Er du sikker?"
 #: cms/static/js/views/manage_users_and_roles.js:31
 msgid "Are you sure you want to restrict {email} access to “{container}”?"
 msgstr ""
-"Er du sikker på, at du vil begrænse {email} adgang til &quot; {container} "
-"&quot;?"
+"Er du sikker på, at du vil begrænse {email} adgang til ' {container} "
+"'?"
 
 #: cms/static/js/views/metadata.js:610 lms/static/js/views/file_uploader.js:47
 msgid "Upload File"
@@ -1551,14 +1551,14 @@ msgstr ""
 
 #: cms/static/js/views/utils/move_xblock_utils.js:33
 msgid "Success! \"{displayName}\" has been moved."
-msgstr "Succes! &quot; {displayName} &quot; er blevet flyttet."
+msgstr "Succes! ' {displayName} ' er blevet flyttet."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:58
 msgid ""
 "Move cancelled. \"{sourceDisplayName}\" has been moved back to its original "
 "location."
 msgstr ""
-"Flytningen blev annulleret. &quot; {sourceDisplayName} &quot; er blevet "
+"Flytningen blev annulleret. ' {sourceDisplayName} ' er blevet "
 "flyttet tilbage til sin oprindelige placering."
 
 #: cms/static/js/views/utils/move_xblock_utils.js:76
@@ -2475,7 +2475,7 @@ msgid ""
 "Select a course or select \"Not specific to a course\" for your support "
 "request."
 msgstr ""
-"Vælg et kursus eller vælg &quot;Ikke specifikt for et kursus&quot; for din "
+"Vælg et kursus eller vælg 'Ikke specifikt for et kursus' for din "
 "supportanmodning."
 
 #: lms/djangoapps/support/static/support/jsx/single_support_form.jsx:48
@@ -2665,7 +2665,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:59
 msgid "Team \"{team}\" successfully deleted."
-msgstr "Teamet &quot;{team}&quot; blev slettet."
+msgstr "Teamet '{team}' blev slettet."
 
 #: lms/djangoapps/teams/static/teams/js/views/manage.js:17
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:165
@@ -2815,7 +2815,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:390
 msgid "Showing results for \"{searchString}\""
-msgstr "Viser resultater for &quot;{searchString}&quot;"
+msgstr "Viser resultater for '{searchString}'"
 
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:408
 msgid "Search teams"
@@ -3559,7 +3559,7 @@ msgstr "Seneste aktivitet"
 #: lms/static/js/edxnotes/views/tabs/search_results.js:36
 msgid "No results found for \"{query_string}\". Please try searching again."
 msgstr ""
-"Der blev ikke fundet nogen resultater for &quot;{query_string}&quot;. Prøv "
+"Der blev ikke fundet nogen resultater for '{query_string}'. Prøv "
 "at søge igen."
 
 #: lms/static/js/edxnotes/views/tabs/search_results.js:50
@@ -5578,8 +5578,8 @@ msgstr "Bogmærke"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
-msgstr[0] "{total_results} resultat fundet for &quot; {search_term} &quot;"
-msgstr[1] "{total_results} resultater fundet for &quot; {search_term} &quot;"
+msgstr[0] "{total_results} resultat fundet for ' {search_term} '"
+msgstr[1] "{total_results} resultater fundet for ' {search_term} '"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -11939,7 +11939,7 @@ msgid ""
 "page, click \"Bookmark this page\" under the page title."
 msgstr ""
 "Brug bogmærker to hjælper dig med nemt Return to Courseware sider. to "
-"Bookmark a page, click &quot; Bookmark this page&quot; under siden title ."
+"Bookmark a page, click ' Bookmark this page' under siden title ."
 
 #: openedx/features/course_search/static/course_search/templates/course_search_results.underscore:13
 #: openedx/features/course_search/static/course_search/templates/dashboard_search_results.underscore:14

@@ -5616,12 +5616,12 @@ msgstr "تم التأشير على الصفحة"
 #: openedx/features/course_search/static/course_search/js/views/search_results_view.js:69
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
-msgstr[0] "تم العثور على نتائج {total_results} لـ &quot; {search_term} &quot;"
-msgstr[1] "تم العثور على نتيجة {total_results} لـ &quot; {search_term} &quot;"
-msgstr[2] "تم العثور على نتائج {total_results} لـ &quot; {search_term} &quot;"
-msgstr[3] "تم العثور على نتائج {total_results} لـ &quot; {search_term} &quot;"
-msgstr[4] "تم العثور على نتائج {total_results} لـ &quot; {search_term} &quot;"
-msgstr[5] "تم العثور على نتائج {total_results} لـ &quot; {search_term} &quot;"
+msgstr[0] "تم العثور على نتائج {total_results} لـ ' {search_term} '"
+msgstr[1] "تم العثور على نتيجة {total_results} لـ ' {search_term} '"
+msgstr[2] "تم العثور على نتائج {total_results} لـ ' {search_term} '"
+msgstr[3] "تم العثور على نتائج {total_results} لـ ' {search_term} '"
+msgstr[4] "تم العثور على نتائج {total_results} لـ ' {search_term} '"
+msgstr[5] "تم العثور على نتائج {total_results} لـ ' {search_term} '"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -9045,7 +9045,7 @@ msgid ""
 msgstr ""
 "تم إصدار هذا الاختبار المراقب للمتعلمين. لا يجوز لك تحويله إلى نوع آخر من "
 "الاختبارات الخاصة. يمكنك إعادة هذا القسم الفرعي إلى كونه اختبارًا أساسيًا عن"
-" طريق تحديد &quot;لا شيء&quot; ، أو اختبار محدد بوقت ، ولكن لن تتمكن من "
+" طريق تحديد 'لا شيء' ، أو اختبار محدد بوقت ، ولكن لن تتمكن من "
 "تهيئته كاختبار مراقب في المستقبل."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:29

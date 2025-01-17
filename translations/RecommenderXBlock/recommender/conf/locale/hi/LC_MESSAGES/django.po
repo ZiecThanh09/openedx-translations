@@ -91,8 +91,8 @@ msgstr ""
 "अन्यत्र उपयोगी संसाधन मिलते हैं, तो कृपया उसे जोड़ें।"
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "नया संसाधन जोड़ें &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "नया संसाधन जोड़ें >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

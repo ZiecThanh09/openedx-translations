@@ -875,11 +875,11 @@ msgstr ""
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
 msgstr ""
-"తప్పుగా రూపొందించబడిన వాదన &quot;{}&quot;, UUID:TARGET_UUID రూపంలో ఉండాలి"
+"తప్పుగా రూపొందించబడిన వాదన '{}', UUID:TARGET_UUID రూపంలో ఉండాలి"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "తప్పుగా రూపొందించబడిన వాదన &quot;{}&quot;, UUIDలు సమానంగా ఉండకూడదు"
+msgstr "తప్పుగా రూపొందించబడిన వాదన '{}', UUIDలు సమానంగా ఉండకూడదు"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
@@ -1048,7 +1048,7 @@ msgid ""
 msgstr ""
 "ఆర్గనైజేషన్ థీమ్ రంగు యొక్క 6 అక్షర-హెక్స్-విలువ,\n"
 " ఒకే సంస్థ క్రింద అన్ని సంబంధిత కోర్సులు ఈ రంగును థీమ్ రంగుగా ఉపయోగిస్తాయి.\n"
-" (ఉదా &quot;#ff0000&quot; ఇది ఎరుపుకు సమానం) `#`ని అందించాల్సిన అవసరం లేదు"
+" (ఉదా '#ff0000' ఇది ఎరుపుకు సమానం) `#`ని అందించాల్సిన అవసరం లేదు"
 
 #: apps/course_metadata/models.py:301
 msgid "The timestamp of the last time the organization data was modified."
@@ -1429,7 +1429,7 @@ msgid ""
 " in Studio via Refresh Course Metadata."
 msgstr ""
 "ఈ రన్ API ప్రతిస్పందనల నుండి దాచబడాలా వద్దా. ఇక్కడ సవరించవద్దు - ఈ విలువ "
-"స్టూడియోలోని &quot;కోర్సు విజిబిలిటీ ఇన్ కేటలాగ్&quot; ఫీల్డ్ ద్వారా "
+"స్టూడియోలోని 'కోర్సు విజిబిలిటీ ఇన్ కేటలాగ్' ఫీల్డ్ ద్వారా "
 "రిఫ్రెష్ కోర్స్ మెటాడేటా ద్వారా భర్తీ చేయబడుతుంది."
 
 #: apps/course_metadata/models.py:2164
@@ -1667,7 +1667,7 @@ msgstr "పార్టనర్ అప్లికేషన్ ఫ్లోక�
 
 #: apps/course_metadata/models.py:3780
 msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
-msgstr "మొత్తం ప్రోగ్రామ్ ర్యాంకింగ్ (ఉదా &quot;USలో #1&quot;)"
+msgstr "మొత్తం ప్రోగ్రామ్ ర్యాంకింగ్ (ఉదా 'USలో #1')"
 
 #: apps/course_metadata/models.py:3785
 msgid ""
@@ -1675,7 +1675,7 @@ msgid ""
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr ""
 "బ్యానర్ అంచులను చేయడానికి రంగు యొక్క 6 అక్షరాల హెక్స్ విలువ\n"
-" (ఉదా &quot;#ff0000&quot; ఇది ఎరుపుకు సమానం) `#`ని అందించాల్సిన అవసరం లేదు"
+" (ఉదా '#ff0000' ఇది ఎరుపుకు సమానం) `#`ని అందించాల్సిన అవసరం లేదు"
 
 #: apps/course_metadata/models.py:3794
 msgid "Provide a campus image for the header of the degree"
@@ -1731,15 +1731,15 @@ msgstr ""
 
 #: apps/course_metadata/models.py:3876
 msgid "Ranking display for search card (e.g. \"#1 in the U.S.\""
-msgstr "శోధన కార్డ్ కోసం ర్యాంకింగ్ ప్రదర్శన (ఉదా &quot;USలో #1&quot;"
+msgstr "శోధన కార్డ్ కోసం ర్యాంకింగ్ ప్రదర్శన (ఉదా 'USలో #1'"
 
 #: apps/course_metadata/models.py:3882
 msgid "Cost display for search card (e.g. \"$9,999\""
-msgstr "శోధన కార్డ్ కోసం ధర ప్రదర్శన (ఉదా &quot;$9,999&quot;"
+msgstr "శోధన కార్డ్ కోసం ధర ప్రదర్శన (ఉదా '$9,999'"
 
 #: apps/course_metadata/models.py:3888
 msgid "Number of courses for search card (e.g. \"11 Courses\""
-msgstr "శోధన కార్డ్ కోసం కోర్సుల సంఖ్య (ఉదా &quot;11 కోర్సులు&quot;"
+msgstr "శోధన కార్డ్ కోసం కోర్సుల సంఖ్య (ఉదా '11 కోర్సులు'"
 
 #: apps/course_metadata/models.py:3896
 msgid ""
@@ -1846,8 +1846,8 @@ msgid ""
 "            text is the first 750 characters of \"marketing_text\" and must be\n"
 "            valid HTML."
 msgstr ""
-"డిగ్రీ యొక్క కోర్సు యొక్క ఉన్నత-స్థాయి అవలోకనం. &quot;సంక్షిప్త&quot;\n"
-" టెక్స్ట్ అనేది &quot;మార్కెటింగ్_టెక్స్ట్&quot; యొక్క మొదటి 750 అక్షరాలు మరియు తప్పనిసరిగా ఉండాలి\n"
+"డిగ్రీ యొక్క కోర్సు యొక్క ఉన్నత-స్థాయి అవలోకనం. 'సంక్షిప్త'\n"
+" టెక్స్ట్ అనేది 'మార్కెటింగ్_టెక్స్ట్' యొక్క మొదటి 750 అక్షరాలు మరియు తప్పనిసరిగా ఉండాలి\n"
 " చెల్లుబాటు అయ్యే HTML."
 
 #: apps/course_metadata/models.py:4062

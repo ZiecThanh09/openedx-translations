@@ -2724,7 +2724,7 @@ msgstr ""
 
 #: lms/djangoapps/teams/static/teams/js/views/instructor_tools.js:59
 msgid "Team \"{team}\" successfully deleted."
-msgstr "El equipo &quot;{team}&quot; se eliminó con éxito."
+msgstr "El equipo '{team}' se eliminó con éxito."
 
 #: lms/djangoapps/teams/static/teams/js/views/manage.js:17
 #: lms/djangoapps/teams/static/teams/js/views/teams_tab.js:165
@@ -5696,11 +5696,11 @@ msgstr "Marcado como favorito"
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
 msgstr[0] ""
-"{total_results} resultado encontrado para &quot; {search_term} &quot;"
+"{total_results} resultado encontrado para ' {search_term} '"
 msgstr[1] ""
-"{total_results} resultados encontrados para &quot; {search_term} &quot;"
+"{total_results} resultados encontrados para ' {search_term} '"
 msgstr[2] ""
-"{total_results} resultados encontrados para &quot; {search_term} &quot;"
+"{total_results} resultados encontrados para ' {search_term} '"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"

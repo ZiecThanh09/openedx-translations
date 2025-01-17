@@ -732,7 +732,7 @@ msgid ""
 " hyphens."
 msgstr ""
 "Harflerden, rakamlardan, eğik çizgilerden, alt çizgilerden veya kısa "
-"çizgilerden oluşan geçerli bir &quot;bilgi&quot; girin."
+"çizgilerden oluşan geçerli bir 'bilgi' girin."
 
 #: apps/course_metadata/forms.py:66
 msgid "Programs can only be activated if they have a banner image."
@@ -872,13 +872,13 @@ msgstr ""
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
 msgstr ""
-"Hatalı biçimlendirilmiş bağımsız değişken &quot;{}&quot;, UUID:TARGET_UUID "
+"Hatalı biçimlendirilmiş bağımsız değişken '{}', UUID:TARGET_UUID "
 "biçiminde olmalıdır"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
 msgstr ""
-"Hatalı biçimlendirilmiş bağımsız değişken &quot;{}&quot;, UUID'ler eşit "
+"Hatalı biçimlendirilmiş bağımsız değişken '{}', UUID'ler eşit "
 "olamaz"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
@@ -1430,7 +1430,7 @@ msgid ""
 msgstr ""
 "Bu çalıştırmanın API yanıtlarından gizlenip gizlenmeyeceği. Burada düzenleme"
 " yapmayın; Kurs Meta Verilerini Yenile aracılığıyla Studio'daki "
-"&quot;Katalogda Kurs Görünürlüğü&quot; alanı bu değerin üzerine "
+"'Katalogda Kurs Görünürlüğü' alanı bu değerin üzerine "
 "yazılacaktır."
 
 #: apps/course_metadata/models.py:2164
@@ -1849,8 +1849,8 @@ msgid ""
 "            text is the first 750 characters of \"marketing_text\" and must be\n"
 "            valid HTML."
 msgstr ""
-"Derecenin eğitim yazılımına üst düzey bir genel bakış. &quot;Kısa&quot;\n"
-" metin, &quot;pazarlama_metni&quot;nin ilk 750 karakteridir ve\n"
+"Derecenin eğitim yazılımına üst düzey bir genel bakış. 'Kısa'\n"
+" metin, 'pazarlama_metni'nin ilk 750 karakteridir ve\n"
 " geçerli HTML'dir."
 
 #: apps/course_metadata/models.py:4062

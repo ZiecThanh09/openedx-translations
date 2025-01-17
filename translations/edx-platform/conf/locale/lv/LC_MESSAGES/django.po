@@ -373,7 +373,7 @@ msgstr ""
 #, python-brace-format
 msgid "A transcript with the \"{language_code}\" language code already exists."
 msgstr ""
-"Transkripcija ar valodas kodu &quot; {language_code} &quot; jau pastāv."
+"Transkripcija ar valodas kodu ' {language_code} ' jau pastāv."
 
 #: cms/djangoapps/contentstore/transcript_storage_handlers.py:237
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:172
@@ -839,7 +839,7 @@ msgstr "Piekļuve ierobežota: {list_of_groups}"
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:147
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:464
 msgid "Transcripts are supported only for \"video\" blocks."
-msgstr "Transkripcijas tiek atbalstītas tikai &quot;video&quot; blokiem."
+msgstr "Transkripcijas tiek atbalstītas tikai 'video' blokiem."
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:149
 msgid "Cannot find item by locator."
@@ -1006,7 +1006,7 @@ msgstr "%"
 #: cms/djangoapps/contentstore/xblock_storage_handlers/view_handlers.py:1562
 #, python-brace-format
 msgid "{section_or_subsection} \"{display_name}\""
-msgstr "{section_or_subsection} &quot; {display_name} &quot;"
+msgstr "{section_or_subsection} ' {display_name} '"
 
 #: cms/djangoapps/course_creators/models.py:40
 msgid "unrequested"
@@ -3024,13 +3024,13 @@ msgid ""
 "Completed the course \"{course_name}\" ({course_mode}, {start_date} - "
 "{end_date})"
 msgstr ""
-"Pabeidza kursu &quot; {course_name} &quot; ( {course_mode} , {start_date} - "
+"Pabeidza kursu ' {course_name} ' ( {course_mode} , {start_date} - "
 "{end_date} )"
 
 #: lms/djangoapps/badges/events/course_complete.py:50
 #, python-brace-format
 msgid "Completed the course \"{course_name}\" ({course_mode})"
-msgstr "Pabeidza kursu &quot; {course_name} &quot; ( {course_mode} )"
+msgstr "Pabeidza kursu ' {course_name} ' ( {course_mode} )"
 
 #: lms/djangoapps/badges/models.py:15
 msgid "The badge image must be square."
@@ -3575,12 +3575,12 @@ msgid ""
 "Certificates issued by {platform_name} are signed by a gpg key so that they "
 "can be validated independently by anyone with the {platform_name} public "
 "key. For independent verification, {platform_name} uses what is called a "
-"\"detached signature\"&quot;\"."
+"\"detached signature\"'\"."
 msgstr ""
 "Sertifikātus, ko izsniedz {platform_name}, paraksta ar gpg atslēgu, lai tos "
 "neatkarīgi varētu apstiprināt jebkurš, kam ir {platform_name} publiskā "
 "atslēga. Neatkarīgai pārbaudei {platform_name} izmanto tā saukto \"atdalīto "
-"parakstu\"&quot;\"."
+"parakstu\"'\"."
 
 #: lms/djangoapps/certificates/views/webview.py:221
 msgid "Validate this certificate for yourself"
@@ -4208,7 +4208,7 @@ msgid ""
 "enrolled in this course."
 msgstr ""
 "Šajā kursā nav reģistrēts neviens lietotājs ar lietotājvārdu vai e-pasta "
-"adresi &quot; {user_identifier} &quot;."
+"adresi ' {user_identifier} '."
 
 #: lms/djangoapps/courseware/masquerade.py:402
 msgid ""
@@ -5333,7 +5333,7 @@ msgid ""
 msgstr ""
 "Dalībnieka lietotājvārda/e-pasta lauks ir nepieciešams, un tas nevar būt "
 "tukšs. Lūdzu, ievadiet lietotājvārdu/e-pastu un pēc tam nospiediet pogu "
-"&quot;Pievienot izņēmumu sarakstam&quot;."
+"'Pievienot izņēmumu sarakstam'."
 
 #: lms/djangoapps/instructor/views/api.py:3224
 msgid ""
@@ -5362,12 +5362,12 @@ msgstr ""
 #: lms/djangoapps/instructor/views/api.py:3334
 #, python-brace-format
 msgid "user \"{user}\" in row# {row}"
-msgstr "lietotājs &quot; {user} &quot; rindā# {row}"
+msgstr "lietotājs ' {user} ' rindā# {row}"
 
 #: lms/djangoapps/instructor/views/api.py:3385
 #, python-brace-format
 msgid "user \"{username}\" in row# {row}"
-msgstr "lietotājs &quot; {username} &quot; rindā# {row}"
+msgstr "lietotājs ' {username} ' rindā# {row}"
 
 #: lms/djangoapps/instructor/views/api.py:3426
 #, python-brace-format
@@ -6330,7 +6330,7 @@ msgstr "Lūdzu, izlabojiet tālāk norādītās kļūdas."
 #, python-format
 msgid "Are you sure you want to cancel retirement for user \"%(username)s\"? "
 msgstr ""
-"Vai tiešām vēlaties atcelt lietotāja &quot; %(username)s &quot; "
+"Vai tiešām vēlaties atcelt lietotāja ' %(username)s ' "
 "pensionēšanos? "
 
 #: lms/templates/admin/user_api/accounts/cancel_retirement_action.html:38
@@ -7937,8 +7937,8 @@ msgid ""
 "Block type \"{block_type}\" is not compatible with library type "
 "\"{library_type}\"."
 msgstr ""
-"Bloka veids &quot; {block_type} &quot; nav saderīgs ar bibliotēkas veidu "
-"&quot; {library_type} &quot;."
+"Bloka veids ' {block_type} ' nav saderīgs ar bibliotēkas veidu "
+"' {library_type} '."
 
 #: openedx/core/djangoapps/content_libraries/api.py:741
 msgid "Library cannot have more than {} Components"
@@ -8928,7 +8928,7 @@ msgstr "Profila attēlam nav paredzēts fails"
 msgid "Path used to construct URLs to programs marketing pages (e.g., \"/foo\")."
 msgstr ""
 "Ceļš, ko izmanto, lai izveidotu vietrāžus URL uz programmu mārketinga lapām "
-"(piemēram, &quot;/foo&quot;)."
+"(piemēram, '/foo')."
 
 #: openedx/core/djangoapps/programs/models.py:41
 msgid "Program UUID"
@@ -11688,7 +11688,7 @@ msgid ""
 "\"id:client_key:client_secret\"."
 msgstr ""
 "Ievadiet kursa LTI rīku pases šādā formātā: "
-"&quot;id:klienta_atslēga:klienta_noslēpums&quot;."
+"'id:klienta_atslēga:klienta_noslēpums'."
 
 #: xmodule/course_block.py:328
 msgid ""
@@ -11789,8 +11789,8 @@ msgstr "Kursu redaktors"
 #: xmodule/course_block.py:392 xmodule/modulestore/inheritance.py:64
 msgid "Enter the method by which this course is edited (\"XML\" or \"Studio\")."
 msgstr ""
-"Ievadiet metodi, ar kādu šis kurss tiek rediģēts (&quot;XML&quot; vai "
-"&quot;Studio&quot;)."
+"Ievadiet metodi, ar kādu šis kurss tiek rediģēts ('XML' vai "
+"'Studio')."
 
 #: xmodule/course_block.py:399
 msgid "Course Survey URL"
@@ -11823,12 +11823,12 @@ msgstr ""
 "Ievadiet datumu pārus, starp kuriem skolēni nevar publicēt ziņojumus "
 "diskusiju forumos. Norādītajās iekavās ievadiet papildu kvadrātiekavu kopu, "
 "kas aptver katru pievienoto datumu pāri. Formatējiet katru datumu pāri kā "
-"[&quot;GGGG-MM-DD&quot;, &quot;GGGG-MM-DD&quot;]. Lai norādītu laikus un "
-"datumus, formatējiet katru pāri kā [&quot;GGGG-MM-DDTHH:MM&quot;, "
-"&quot;GGGG-MM-DDTHH:MM&quot;]. Noteikti iekļaujiet &quot;T&quot; starp "
+"['GGGG-MM-DD', 'GGGG-MM-DD']. Lai norādītu laikus un "
+"datumus, formatējiet katru pāri kā ['GGGG-MM-DDTHH:MM', "
+"'GGGG-MM-DDTHH:MM']. Noteikti iekļaujiet 'T' starp "
 "datumu un laiku. Piemēram, ieraksts, kas definē divus aptumšošanas periodus,"
-" izskatās šādi, iekļaujot ārējo kvadrātiekavas: [[&quot;2015-09-15&quot;, "
-"&quot;2015-09-21&quot;], [&quot;2015-10-01&quot;, &quot; 2015-10-08&quot;]] "
+" izskatās šādi, iekļaujot ārējo kvadrātiekavas: [['2015-09-15', "
+"'2015-09-21'], ['2015-10-01', ' 2015-10-08']] "
 
 #: xmodule/course_block.py:417
 msgid "Discussion Topic Mapping"
@@ -11852,7 +11852,7 @@ msgstr ""
 "MUS101-course-2015_T1\"}. Katras kategorijas “id” vērtībai ir jābūt "
 "unikālai. “ID” vērtībās vienīgās atbalstītās īpašās rakstzīmes ir pasvītra, "
 "defise un punkts. Varat arī norādīt kategoriju kā noklusējuma kategoriju "
-"jaunām ziņām lapā Diskusija, iestatot tās &quot;noklusējuma&quot; atribūtu "
+"jaunām ziņām lapā Diskusija, iestatot tās 'noklusējuma' atribūtu "
 "uz True. Piemēram, \"Lydian Mode\": {\"id\": \"i4x-UniversityX-"
 "MUS101-course-2015_T1\", \"default\": true}."
 
@@ -12565,9 +12565,9 @@ msgid ""
 "'public' (allow access to both outline and course content)."
 msgstr ""
 "Definē piekļuves atļaujas nereģistrētiem apmācāmajiem. To var iestatīt uz "
-"vienu no trim vērtībām: &quot;privāts&quot; (noklusējuma redzamība, atļauta "
-"tikai reģistrētiem studentiem), &quot;public_outline&quot; (atļaut piekļuvi "
-"kursa izklāstam) un &quot;publisks&quot; (atļaut piekļuvi gan izklāstam, gan"
+"vienu no trim vērtībām: 'privāts' (noklusējuma redzamība, atļauta "
+"tikai reģistrētiem studentiem), 'public_outline' (atļaut piekļuvi "
+"kursa izklāstam) un 'publisks' (atļaut piekļuvi gan izklāstam, gan"
 " kursa saturam)."
 
 #: xmodule/course_block.py:978
@@ -13242,11 +13242,11 @@ msgid ""
 "\"never\", and \"per_student\"."
 msgstr ""
 "Norādiet noklusējuma iestatījumu, cik bieži uzdevumi mainīgās vērtības tiek "
-"nejaušinātas. Šim iestatījumam jābūt iestatītam uz &quot;nekad&quot;, ja "
+"nejaušinātas. Šim iestatījumam jābūt iestatītam uz 'nekad', ja "
 "vien neplānojat nodrošināt Python skriptu, lai noteiktu un nejauši izvēlētos"
 " vērtības lielākajā daļā kursa uzdevumu. Derīgās vērtības ir "
-"&quot;always&quot;, &quot;onreset&quot;, &quot;never&quot; un "
-"&quot;per_student&quot;."
+"'always', 'onreset', 'never' un "
+"'per_student'."
 
 #: xmodule/modulestore/inheritance.py:128
 msgid "Days Early for Beta Users"
@@ -14251,12 +14251,12 @@ msgstr "Pāradrese var nesākties ar pasvītrojumu."
 #: wiki/forms.py:231
 #, python-format
 msgid "A deleted article with slug \"%s\" already exists."
-msgstr "Izdzēsts raksts ar pāradresi &quot; %s &quot; jau pastāv."
+msgstr "Izdzēsts raksts ar pāradresi ' %s ' jau pastāv."
 
 #: wiki/forms.py:233
 #, python-format
 msgid "A slug named \"%s\" already exists."
-msgstr "Pāradrese ar nosaukumu &quot; %s &quot; jau pastāv."
+msgstr "Pāradrese ar nosaukumu ' %s ' jau pastāv."
 
 #: wiki/forms.py:246
 msgid "Yes, I am sure"
@@ -14624,7 +14624,7 @@ msgstr "Pašreizējā versija mainīta %s ."
 #: wiki/plugins/attachments/views.py:202
 #, python-format
 msgid "Added a reference to \"%(att)s\" from \"%(art)s\"."
-msgstr "Pievienota atsauce uz &quot; %(att)s &quot; no &quot; %(art)s &quot;."
+msgstr "Pievienota atsauce uz ' %(att)s ' no ' %(art)s '."
 
 #: wiki/plugins/attachments/views.py:232
 #, python-format
@@ -15371,7 +15371,7 @@ msgstr "Atjauno rakstu"
 #: wiki/views/article.py:358
 #, python-format
 msgid "The article \"%s\" and its children are now restored."
-msgstr "Raksts &quot; %s &quot; un tā atvasinājumi tagad ir atjaunoti."
+msgstr "Raksts ' %s ' un tā atvasinājumi tagad ir atjaunoti."
 
 #: wiki/views/article.py:542
 #, python-format
@@ -15404,7 +15404,7 @@ msgid ""
 "Click on the \"Start System Check\" link below to download and run the "
 "proctoring software."
 msgstr ""
-"Noklikšķiniet uz tālāk esošās saites &quot;Sākt sistēmas pārbaudi&quot;, lai"
+"Noklikšķiniet uz tālāk esošās saites 'Sākt sistēmas pārbaudi', lai"
 " lejupielādētu un palaistu pārbaudes programmatūru."
 
 #: edx_proctoring_proctortrack/backends/proctortrack_rest.py:33
@@ -15426,8 +15426,8 @@ msgstr ""
 #: edx_proctoring_proctortrack/backends/proctortrack_rest.py:35
 msgid "Click on the \"Start Proctored Exam\" button below to continue."
 msgstr ""
-"Lai turpinātu, noklikšķiniet uz tālāk esošās pogas &quot;Sākt uzraudzītu "
-"eksāmenu&quot;."
+"Lai turpinātu, noklikšķiniet uz tālāk esošās pogas 'Sākt uzraudzītu "
+"eksāmenu'."
 
 #: cms/templates/404.html:7 cms/templates/error.html:12
 #: lms/templates/static_templates/404.html:9
@@ -19803,7 +19803,7 @@ msgstr "Skatīt resursu jaunā logā"
 msgid ""
 "Please provide launch_url. Click \"Edit\", and fill in the required fields."
 msgstr ""
-"Lūdzu, norādiet launch_url. Noklikšķiniet uz &quot;Rediģēt&quot; un "
+"Lūdzu, norādiet launch_url. Noklikšķiniet uz 'Rediģēt' un "
 "aizpildiet nepieciešamos laukus."
 
 #: lms/templates/lti.html:62
@@ -20193,7 +20193,7 @@ msgstr "Tag"
 #: lms/templates/staff_problem_info.html:46
 msgid "Optional tag (eg \"done\" or \"broken\"):"
 msgstr ""
-"Neobligāts tags (piemēram, &quot;pabeigts&quot; vai &quot;salauzts&quot;):"
+"Neobligāts tags (piemēram, 'pabeigts' vai 'salauzts'):"
 
 #: lms/templates/staff_problem_info.html:47
 msgid "tag"
@@ -20607,10 +20607,10 @@ msgstr ""
 "Šie pakalpojumu sniegšanas noteikumi, visi papildu nosacījumi pievienotajā "
 "API dokumentācijā un visas piemērojamās politikas un vadlīnijas, ko "
 "{platform_name} dara pieejamus un/vai laiku pa laikam atjaunina, ir līgumi "
-"(kopā &quot;Noteikumi&quot;) starp jums un {platform_name} . Šie noteikumi "
+"(kopā 'Noteikumi') starp jums un {platform_name} . Šie noteikumi "
 "ir izdoti saskaņā ar uzņēmuma produktu līgumu, dalībnieku līdzdalības līgumu"
 " vai citu tiešu līgumu, kas reglamentē {platform_name} produktu iegādi, ja "
-"tāds ir (&quot;Līgums&quot;), ko noslēdzat jūs vai puse, kuras vārdā jūs "
+"tāds ir ('Līgums'), ko noslēdzat jūs vai puse, kuras vārdā jūs "
 "piekļūstat API vai to izmantojat. un {platform_name} . Gadījumā, ja jums ir "
 "šāds līgums, kas attiecas uz jūsu API lietošanu, Līgums noteiks jebkādu "
 "pretrunu starp to un šiem Noteikumiem. Piekļūstot vai izmantojot API, jūs "
@@ -20620,7 +20620,7 @@ msgstr ""
 "Noteikumiem attiecībā uz šo juridisko personu un pārstāvat un garantējat "
 "{platform_name} , ka jums ir visas pilnvaras pieņemt šos noteikumus un "
 "piekrist tiem attiecībā uz šādu juridisku personu. , tādā gadījumā termini "
-"&quot;jūs&quot;, &quot;jūsu&quot; vai saistītie termini šeit attiecas uz "
+"'jūs', 'jūsu' vai saistītie termini šeit attiecas uz "
 "tādu vienību, kuras vārdā jūs piekļūstat API vai to izmantojat. Ja jums nav "
 "šādu pilnvaru vai ja jūs nesaprotat vai nevēlaties ievērot noteikumus, jums "
 "nevajadzētu izmantot API."
@@ -21006,9 +21006,9 @@ msgid ""
 msgstr ""
 "Gadījumā, ja {platform_name} nodrošina piekļuvi informācijai, kas raksturīga"
 " {platform_name} un/vai API, kas ir vai nu atzīmēta kā "
-"&quot;Konfidenciāla&quot; vai kuru saprātīga persona uzskatītu par "
+"'Konfidenciāla' vai kuru saprātīga persona uzskatītu par "
 "konfidenciālu vai patentētu, ņemot vērā tās izpaušanas noteikumus "
-"(&quot;Konfidenciāla informācija&quot; ), jūs piekrītat izmantot šo "
+"('Konfidenciāla informācija' ), jūs piekrītat izmantot šo "
 "informāciju tikai, lai izmantotu un izveidotu ar API. Jūs nedrīkstat izpaust"
 " konfidenciālo informāciju nevienam bez {platform_name} iepriekšējas "
 "rakstiskas piekrišanas, un jūs piekrītat aizsargāt Konfidenciālo informāciju"

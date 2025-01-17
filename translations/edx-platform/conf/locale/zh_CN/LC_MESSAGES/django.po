@@ -3306,11 +3306,11 @@ msgid ""
 "Certificates issued by {platform_name} are signed by a gpg key so that they "
 "can be validated independently by anyone with the {platform_name} public "
 "key. For independent verification, {platform_name} uses what is called a "
-"\"detached signature\"&quot;\"."
+"\"detached signature\"'\"."
 msgstr ""
 "通过 {platform_name} 颁发证书由gpg密钥簽署，使他们可以被任何人与 "
 "{platform_name}公钥独立验证。对于独立核查，{platform_name}使用所谓的\"detached "
-"signature\"&quot;\"。"
+"signature\"'\"。"
 
 #: lms/djangoapps/certificates/views/webview.py:221
 msgid "Validate this certificate for yourself"

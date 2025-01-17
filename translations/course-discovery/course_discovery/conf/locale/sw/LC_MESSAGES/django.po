@@ -732,7 +732,7 @@ msgid ""
 "Enter a valid “slug” consisting of letters, numbers, slashes, underscores or"
 " hyphens."
 msgstr ""
-"Weka &quot;slug&quot; halali inayojumuisha herufi, nambari, mikwaju, mistari"
+"Weka 'slug' halali inayojumuisha herufi, nambari, mikwaju, mistari"
 " chini au vistari."
 
 #: apps/course_metadata/forms.py:66
@@ -869,12 +869,12 @@ msgstr ""
 #: apps/course_metadata/management/commands/delete_person_dups.py:60
 msgid "Malformed argument \"{}\", should be in form of UUID:TARGET_UUID"
 msgstr ""
-"Hoja yenye hitilafu &quot;{}&quot;, inapaswa kuwa katika mfumo wa "
+"Hoja yenye hitilafu '{}', inapaswa kuwa katika mfumo wa "
 "UUID:TARGET_UUID"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:62
 msgid "Malformed argument \"{}\", UUIDs cannot be equal"
-msgstr "Hoja yenye hitilafu &quot;{}&quot;, UUID haziwezi kuwa sawa"
+msgstr "Hoja yenye hitilafu '{}', UUID haziwezi kuwa sawa"
 
 #: apps/course_metadata/management/commands/delete_person_dups.py:85
 msgid "Deleting"
@@ -1041,7 +1041,7 @@ msgid ""
 msgstr ""
 "Thamani ya herufi 6 ya rangi ya mandhari ya shirika,\n"
 " kozi zote zinazohusiana chini ya shirika moja zitatumia rangi hii kama rangi ya mandhari.\n"
-" (km &quot;#ff0000&quot; ambayo ni sawa na nyekundu) Hakuna haja ya kutoa `#`"
+" (km '#ff0000' ambayo ni sawa na nyekundu) Hakuna haja ya kutoa `#`"
 
 #: apps/course_metadata/models.py:301
 msgid "The timestamp of the last time the organization data was modified."
@@ -1432,8 +1432,8 @@ msgid ""
 " in Studio via Refresh Course Metadata."
 msgstr ""
 "Ikiwa uendeshaji huu unapaswa kufichwa kutoka kwa majibu ya API. Usihariri "
-"hapa - thamani hii itabatilishwa na sehemu ya &quot;Mwonekano wa Kozi Katika"
-" Katalogi&quot; katika Studio kupitia Onyesha Onyesha Metadata ya Kozi."
+"hapa - thamani hii itabatilishwa na sehemu ya 'Mwonekano wa Kozi Katika"
+" Katalogi' katika Studio kupitia Onyesha Onyesha Metadata ya Kozi."
 
 #: apps/course_metadata/models.py:2164
 msgid "Indicates whether the course relation has been manually overridden."
@@ -1675,7 +1675,7 @@ msgstr "Rudisha URL kwa mtiririko wa programu ya mshirika"
 #: apps/course_metadata/models.py:3780
 msgid "Overall program ranking (e.g. \"#1 in the U.S.\")"
 msgstr ""
-"Kiwango cha jumla cha programu (kwa mfano &quot;#1 nchini Marekani&quot;)"
+"Kiwango cha jumla cha programu (kwa mfano '#1 nchini Marekani')"
 
 #: apps/course_metadata/models.py:3785
 msgid ""
@@ -1683,7 +1683,7 @@ msgid ""
 "            (e.g. \"#ff0000\" which equals red) No need to provide the `#`"
 msgstr ""
 "Thamani ya heksi ya herufi 6 ya rangi ili kufanya bango kuwekewa mipaka\n"
-" (km &quot;#ff0000&quot; ambayo ni sawa na nyekundu) Hakuna haja ya kutoa `#`"
+" (km '#ff0000' ambayo ni sawa na nyekundu) Hakuna haja ya kutoa `#`"
 
 #: apps/course_metadata/models.py:3794
 msgid "Provide a campus image for the header of the degree"
@@ -1740,15 +1740,15 @@ msgstr ""
 #: apps/course_metadata/models.py:3876
 msgid "Ranking display for search card (e.g. \"#1 in the U.S.\""
 msgstr ""
-"Onyesho la daraja la kadi ya utafutaji (km &quot;#1 nchini Marekani&quot;"
+"Onyesho la daraja la kadi ya utafutaji (km '#1 nchini Marekani'"
 
 #: apps/course_metadata/models.py:3882
 msgid "Cost display for search card (e.g. \"$9,999\""
-msgstr "Onyesho la gharama kwa kadi ya utafutaji (km &quot;$9,999&quot;"
+msgstr "Onyesho la gharama kwa kadi ya utafutaji (km '$9,999'"
 
 #: apps/course_metadata/models.py:3888
 msgid "Number of courses for search card (e.g. \"11 Courses\""
-msgstr "Idadi ya kozi za kadi ya utafutaji (km &quot;Kozi 11&quot;"
+msgstr "Idadi ya kozi za kadi ya utafutaji (km 'Kozi 11'"
 
 #: apps/course_metadata/models.py:3896
 msgid ""
@@ -1858,8 +1858,8 @@ msgid ""
 "            text is the first 750 characters of \"marketing_text\" and must be\n"
 "            valid HTML."
 msgstr ""
-"Muhtasari wa hali ya juu wa kozi ya shahada. &quot;Muhtasari&quot;\n"
-" maandishi ni herufi 750 za kwanza za &quot;marketing_text&quot; na lazima iwe\n"
+"Muhtasari wa hali ya juu wa kozi ya shahada. 'Muhtasari'\n"
+" maandishi ni herufi 750 za kwanza za 'marketing_text' na lazima iwe\n"
 " HTML halali."
 
 #: apps/course_metadata/models.py:4062

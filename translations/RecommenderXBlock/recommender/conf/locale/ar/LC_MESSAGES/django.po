@@ -87,8 +87,8 @@ msgstr ""
 "فيرجى إضافتها."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "إضافة مورد جديد &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "إضافة مورد جديد >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

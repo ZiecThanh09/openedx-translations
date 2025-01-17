@@ -90,8 +90,8 @@ msgstr ""
 "trên edx.org hoặc ở nơi khác, vui lòng thêm nó."
 
 #: templates/recommender.html:118
-msgid "Add new resource &gt;&gt;"
-msgstr "Thêm tài nguyên mới &gt;&gt;"
+msgid "Add new resource >;>;"
+msgstr "Thêm tài nguyên mới >;>;"
 
 #: templates/recommender.html:119
 msgid "Download resources"

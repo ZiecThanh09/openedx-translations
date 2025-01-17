@@ -743,7 +743,7 @@ msgid ""
 "Enter a valid “slug” consisting of letters, numbers, slashes, underscores or"
 " hyphens."
 msgstr ""
-"Inserisci uno &quot;slug&quot; valido composto da lettere, numeri, barre, "
+"Inserisci uno 'slug' valido composto da lettere, numeri, barre, "
 "caratteri di sottolineatura o trattini."
 
 #: apps/course_metadata/forms.py:66
@@ -1060,7 +1060,7 @@ msgid ""
 msgstr ""
 "Il valore esadecimale di 6 caratteri del colore del tema "
 "dell'organizzazione, tutti i corsi correlati nella stessa organizzazione"
-" utilizzeranno questo colore come colore del tema. (es. &quot;#ff0000&quot; "
+" utilizzeranno questo colore come colore del tema. (es. '#ff0000' "
 "che equivale a rosso) Non c'è bisogno di fornire il `#`"
 
 #: apps/course_metadata/models.py:301

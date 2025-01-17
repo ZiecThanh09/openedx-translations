@@ -480,7 +480,7 @@ msgid ""
 "The \"{name}\" problem is configured to require a minimum of {min_grades} "
 "peer grades, and asks to review {min_graded} peers."
 msgstr ""
-"&quot; {name} &quot; समस्या को न्यूनतम {min_grades} सहकर्मी ग्रेड की "
+"' {name} ' समस्या को न्यूनतम {min_grades} सहकर्मी ग्रेड की "
 "आवश्यकता के लिए कॉन्फ़िगर किया गया है, और {min_graded} साथियों की समीक्षा "
 "करने के लिए कहता है।"
 

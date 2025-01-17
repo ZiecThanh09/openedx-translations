@@ -176,11 +176,11 @@ msgstr "Beskrivelsen af problemet eller instruktionerne vist til eleven."
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "Vis overskriften &quot;Problem&quot;."
+msgstr "Vis overskriften 'Problem'."
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
-msgstr "Vise overskriften &quot;Problem&quot; over problemteksten?"
+msgstr "Vise overskriften 'Problem' over problemteksten?"
 
 #: drag_and_drop_v2.py:145
 msgid "Show answer"

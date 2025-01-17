@@ -449,7 +449,7 @@ msgid ""
 "complete. If you need additional assistance, please contact the {site_name} "
 "Support Team."
 msgstr ""
-"اعتبار در حال حاضر برای &quot; {course_name} &quot; در دسترس نیست. اگر در "
+"اعتبار در حال حاضر برای ' {course_name} ' در دسترس نیست. اگر در "
 "حال حاضر در دوره ثبت نام کرده اید، لطفاً پس از اتمام تمام نمره دهی دوباره "
 "امتحان کنید. اگر به کمک بیشتری نیاز دارید، لطفاً با تیم پشتیبانی {site_name}"
 " تماس بگیرید."
@@ -915,7 +915,7 @@ msgid ""
 "Your order {} can not be refunded as '{}' coupon are not supported to "
 "refund."
 msgstr ""
-"سفارش شما {} قابل بازپرداخت نیست زیرا کوپن &quot;{}&quot; برای بازپرداخت "
+"سفارش شما {} قابل بازپرداخت نیست زیرا کوپن '{}' برای بازپرداخت "
 "پشتیبانی نمی شود."
 
 #: extensions/api/serializers.py:2163
@@ -1006,7 +1006,7 @@ msgstr "کد کوپن '{code}' برای این سبد معتبر نیست."
 #, python-brace-format
 msgid ""
 "Coupon code '{code}' is not valid for this basket for a bundled purchase."
-msgstr "کد کوپن &quot;{code}&quot; برای این سبد برای خرید همراه معتبر نیست."
+msgstr "کد کوپن '{code}' برای این سبد برای خرید همراه معتبر نیست."
 
 #: extensions/basket/utils.py:582
 #, python-brace-format
@@ -1120,7 +1120,7 @@ msgstr "کد کوپن '{code}' وجود ندارد."
 #: extensions/basket/views.py:1136
 #, python-format
 msgid "No coupon found with id '%s'"
-msgstr "هیچ کوپنی با شناسه &quot; %s &quot; یافت نشد"
+msgstr "هیچ کوپنی با شناسه ' %s ' یافت نشد"
 
 #: extensions/basket/views.py:1140
 #, python-format
@@ -2871,8 +2871,8 @@ msgid ""
 "Thank you for purchasing %(course_title)s. A charge will appear on your "
 "credit or debit card statement with a company name of \"%(platform_name)s\"."
 msgstr ""
-"از خرید %(course_title)s متشکریم. هزینه ای با نام شرکت &quot; "
-"%(platform_name)s &quot; در صورت حساب کارت اعتباری یا نقدی شما ظاهر می شود."
+"از خرید %(course_title)s متشکریم. هزینه ای با نام شرکت ' "
+"%(platform_name)s ' در صورت حساب کارت اعتباری یا نقدی شما ظاهر می شود."
 
 #: templates/oscar/communication/emails/commtype_course_purchased_body.html:13
 #: templates/oscar/communication/emails/commtype_course_purchased_body.txt:8
@@ -2964,7 +2964,7 @@ msgid ""
 "                        "
 msgstr ""
 "\n"
-"از خرید ساعات اعتبار %(credit_hours)s از %(credit_provider)s برای %(course_title)s سپاسگزاریم. هزینه ای با نام شرکت &quot; %(platform_name)s &quot; در صورت حساب کارت اعتباری یا نقدی شما ظاهر می شود.\n"
+"از خرید ساعات اعتبار %(credit_hours)s از %(credit_provider)s برای %(course_title)s سپاسگزاریم. هزینه ای با نام شرکت ' %(platform_name)s ' در صورت حساب کارت اعتباری یا نقدی شما ظاهر می شود.\n"
 "                        "
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.html:67
@@ -3024,8 +3024,8 @@ msgid ""
 "credit or debit card statement with a company name of \"%(platform_name)s\"."
 msgstr ""
 "از خرید ساعات اعتبار %(credit_hours)s از %(credit_provider)s برای "
-"%(course_title)s سپاسگزاریم. هزینه ای با نام شرکت &quot; %(platform_name)s "
-"&quot; در صورت حساب کارت اعتباری یا نقدی شما ظاهر می شود."
+"%(course_title)s سپاسگزاریم. هزینه ای با نام شرکت ' %(platform_name)s "
+"' در صورت حساب کارت اعتباری یا نقدی شما ظاهر می شود."
 
 #: templates/oscar/communication/emails/commtype_credit_receipt_body.txt:18
 #, python-format
@@ -3256,7 +3256,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"نوع محصول &quot; %(name)s &quot; ایجاد شد.\n"
+"نوع محصول ' %(name)s ' ایجاد شد.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:17
@@ -3267,7 +3267,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"نوع &quot; %(parent_name)s &quot; ایجاد شد.\n"
+"نوع ' %(parent_name)s ' ایجاد شد.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:25
@@ -3278,7 +3278,7 @@ msgid ""
 "                    "
 msgstr ""
 "\n"
-"نوع محصول به روز شده &quot; %(name)s &quot;.\n"
+"نوع محصول به روز شده ' %(name)s '.\n"
 "                    "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:31
@@ -3300,7 +3300,7 @@ msgid ""
 "                "
 msgstr ""
 "\n"
-"محصول &quot; %(name)s &quot; ایجاد شد.\n"
+"محصول ' %(name)s ' ایجاد شد.\n"
 "                "
 
 #: templates/oscar/dashboard/catalogue/messages/product_saved.html:48

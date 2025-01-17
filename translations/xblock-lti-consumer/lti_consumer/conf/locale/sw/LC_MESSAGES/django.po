@@ -339,8 +339,8 @@ msgid ""
 msgstr ""
 "Ongeza jozi ya ufunguo/thamani kwa vigezo vyovyote maalum, kama vile ukurasa"
 " ambao kitabu chako cha kielektroniki kinapaswa kufungua au rangi ya usuli "
-"ya kijenzi hiki. Kwa mfano. [&quot;ukurasa=1&quot;, "
-"&quot;rangi=nyeupe&quot;]<br /> Tazama hati za {docs_anchor_open} edX LTI "
+"ya kijenzi hiki. Kwa mfano. ['ukurasa=1', "
+"'rangi=nyeupe']<br /> Tazama hati za {docs_anchor_open} edX LTI "
 "{anchor_close} kwa maelezo zaidi juu ya mpangilio huu."
 
 #: lti_xblock.py:481
@@ -528,7 +528,7 @@ msgstr "Vigezo Maalum lazima iwe orodha"
 #: lti_xblock.py:693
 msgid "Custom Parameters should be strings in \"x=y\" format."
 msgstr ""
-"Vigezo Maalum vinapaswa kuwa mifuatano katika umbizo la &quot;x=y&quot;."
+"Vigezo Maalum vinapaswa kuwa mifuatano katika umbizo la 'x=y'."
 
 #: lti_xblock.py:703
 msgid ""
@@ -536,7 +536,7 @@ msgid ""
 "\"x:y\")."
 msgstr ""
 "Kitambulisho cha usanidi kinachoweza kutumika tena lazima kiwekwe unapotumia"
-" usanidi wa nje (Mfano: &quot;x:y&quot;)."
+" usanidi wa nje (Mfano: 'x:y')."
 
 #: lti_xblock.py:726
 msgid ""
@@ -555,7 +555,7 @@ msgid ""
 "string."
 msgstr ""
 "Haikuweza kuchanganua pasipoti ya LTI: {lti_passport!r}. Inapaswa kuwa "
-"&quot;id:key:secret&quot; kamba."
+"'id:key:secret' kamba."
 
 #: lti_xblock.py:900 lti_xblock.py:914 lti_xblock.py:930
 msgid "Could not get user id for current request"
@@ -567,7 +567,7 @@ msgid ""
 "string."
 msgstr ""
 "Haikuweza kuchanganua kigezo maalum: {custom_parameter!r}. Inapaswa kuwa "
-"&quot;x=y&quot; kamba."
+"'x=y' kamba."
 
 #: lti_xblock.py:1428
 msgid "[LTI]: Real user not found against anon_id: {}"
@@ -629,7 +629,7 @@ msgid ""
 "\"x:y\" format."
 msgstr ""
 "Usanidi wa LTI kwa kutumia usanidi unaoweza kutumika tena unahitaji "
-"kitambulisho cha nje katika umbizo la &quot;x:y&quot;."
+"kitambulisho cha nje katika umbizo la 'x:y'."
 
 #: models.py:267
 msgid ""

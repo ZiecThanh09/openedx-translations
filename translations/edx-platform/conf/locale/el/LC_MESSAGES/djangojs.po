@@ -5758,9 +5758,9 @@ msgstr "Αποθηκεύτηκε στους σελιδοδείκτες σας"
 msgid "{total_results} result found for \"{search_term}\""
 msgid_plural "{total_results} results found for \"{search_term}\""
 msgstr[0] ""
-"{total_results} το αποτέλεσμα βρέθηκε για &quot; {search_term} &quot;"
+"{total_results} το αποτέλεσμα βρέθηκε για ' {search_term} '"
 msgstr[1] ""
-"{total_results} βρέθηκαν αποτελέσματα για &quot; {search_term} &quot;"
+"{total_results} βρέθηκαν αποτελέσματα για ' {search_term} '"
 
 #: openedx/features/learner_profile/static/learner_profile/js/learner_profile_factory.js:68
 msgid "Profile Visibility:"
@@ -8191,7 +8191,7 @@ msgid ""
 "This subsection is configured as \\\"%(gradingType)s\\\", which doesn't "
 "exist in the current grading policy."
 msgstr ""
-"Αυτή η υποενότητα έχει ρυθμιστεί ως \\&quot; %(gradingType)s \\&quot;, το "
+"Αυτή η υποενότητα έχει ρυθμιστεί ως \\' %(gradingType)s \\', το "
 "οποίο δεν υπάρχει στην τρέχουσα πολιτική βαθμολόγησης."
 
 #: cms/templates/js/course-outline.underscore:457
@@ -9256,8 +9256,8 @@ msgstr ""
 "μαθητή που δίνει την εξέταση. Στη συνέχεια, τα βίντεο εξετάζονται για να "
 "διασφαλιστεί ότι οι μαθητές ακολουθούν όλους τους κανόνες εξέτασης. Λάβετε "
 "υπόψη ότι η ρύθμιση αυτής της εξέτασης ως προβλεπόμενης θα αλλάξει τις "
-"ρυθμίσεις ορατότητας σε &quot;Απόκρυψη περιεχόμενο μετά την ημερομηνία "
-"λήξης&quot;."
+"ρυθμίσεις ορατότητας σε 'Απόκρυψη περιεχόμενο μετά την ημερομηνία "
+"λήξης'."
 
 #: cms/templates/js/timed-examination-preference-editor.underscore:49
 msgid "Onboarding"
@@ -10426,7 +10426,7 @@ msgstr "Απόκρυψη χρονόμετρου"
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "You are taking \"{exam_link}\" as {exam_type}. "
-msgstr "Λαμβάνετε το &quot; {exam_link} &quot; ως {exam_type} ."
+msgstr "Λαμβάνετε το ' {exam_link} ' ως {exam_type} ."
 
 #: lms/templates/courseware/proctored-exam-status.underscore:30
 msgid "a timed exam"

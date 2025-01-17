@@ -837,7 +837,7 @@ msgstr "الدخول مقيّد إلى: {list_of_groups}"
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:147
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:464
 msgid "Transcripts are supported only for \"video\" blocks."
-msgstr "يتم دعم النصوص فقط لحظر &quot;الفيديو&quot;."
+msgstr "يتم دعم النصوص فقط لحظر 'الفيديو'."
 
 #: cms/djangoapps/contentstore/views/transcripts_ajax.py:149
 msgid "Cannot find item by locator."
@@ -2305,7 +2305,7 @@ msgid_plural ""
 "The file must end with one of the following extensions: '{file_types}'."
 msgstr[0] ""
 "يجب أن ينتهي الملف بأحد الامتدادات التالية: '{file_types}'."
-msgstr[1] "يجب أن ينتهي الملف بالامتداد &quot;{file_types}&quot;."
+msgstr[1] "يجب أن ينتهي الملف بالامتداد '{file_types}'."
 msgstr[2] ""
 "يجب أن ينتهي الملف بأحد الامتدادات التالية: '{file_types}'."
 msgstr[3] ""
@@ -3696,7 +3696,7 @@ msgid ""
 "Certificates issued by {platform_name} are signed by a gpg key so that they "
 "can be validated independently by anyone with the {platform_name} public "
 "key. For independent verification, {platform_name} uses what is called a "
-"\"detached signature\"&quot;\"."
+"\"detached signature\"'\"."
 msgstr ""
 "تُوسَم الشهادات الصادرة عن {platform_name} بمفتاح ’gpg‘ للسماح لأي شخص يحمل "
 "مفتاح {platform_name} العام من تصديقها بشكل مستقلّ. بالنسبة لعمليّة التصديق "
@@ -4659,7 +4659,7 @@ msgstr ""
 " تتوفر المساعدة في معظم الدورات التدريبية التي تقدم شهادات تم التحقق منها، وبعض الدورات والبرامج غير مؤهلة. يجب عليك إكمال تطبيق منفصل\n"
 " لكل دورة تأخذها. قد تتم الموافقة على حصولك على مساعدة مالية خمس (5) مرات كل عام (على أساس فترة 12 شهرًا من تاريخ موافقتك الأولى).\n"
 " لتقديم طلب المساعدة المالية:\n"
-" 1. قم بالتسجيل في مسار حضر الدروس كمستمع استمتع&quot; لدورة مؤهلة تقدم شهادات معتمدة\n"
+" 1. قم بالتسجيل في مسار حضر الدروس كمستمع استمتع' لدورة مؤهلة تقدم شهادات معتمدة\n"
 " 2. أكمل هذا تطبيق\n"
 " 3. تحقق من بريدك الإلكتروني، وستتم مراجعة تطبيق خلال 3-4 أيام عمل"
 
@@ -4999,7 +4999,7 @@ msgid ""
 " valid usage key for `problem_locations`."
 msgstr ""
 "المعلمات المقدمة غير صالحة. تأكد من أنك قدمت مفتاح استخدام صالحًا واحدًا على"
-" الأقل لـ &quot;مواقع_المشكلة&quot;."
+" الأقل لـ 'مواقع_المشكلة'."
 
 #: lms/djangoapps/instructor/views/api.py:1186
 #: lms/djangoapps/instructor/views/api.py:2242
@@ -8157,8 +8157,8 @@ msgid ""
 "The LTI platform unique identifier of this resource, also known as the "
 "\"resource link id\"."
 msgstr ""
-"المعرف الفريد لمنصة LTI لهذا المورد ، والمعروف أيضًا باسم &quot;معرف ارتباط "
-"المورد&quot;."
+"المعرف الفريد لمنصة LTI لهذا المورد ، والمعروف أيضًا باسم 'معرف ارتباط "
+"المورد'."
 
 #: openedx/core/djangoapps/content_libraries/models.py:495
 msgid "The LTI platform descriptive title for this resource."
@@ -8866,11 +8866,11 @@ msgstr "تم وضع علامة على الإخطارات على أنها شوه�
 
 #: openedx/core/djangoapps/notifications/views.py:467
 msgid "Notification marked read."
-msgstr "تم وضع علامة &quot;مقروءة&quot; على الإخطار."
+msgstr "تم وضع علامة 'مقروءة' على الإخطار."
 
 #: openedx/core/djangoapps/notifications/views.py:479
 msgid "Notifications marked read."
-msgstr "تم وضع علامة &quot;مقروءة&quot; على الإخطارات."
+msgstr "تم وضع علامة 'مقروءة' على الإخطارات."
 
 #: openedx/core/djangoapps/notifications/views.py:481
 msgid "Invalid app_name or notification_id."
@@ -11695,8 +11695,8 @@ msgid ""
 msgstr ""
 "الرسالة التي تظهر للمتعلمين في حالة عدم استيفاء جميع الشروط لإظهار محتوى هذه"
 " الكتلة الشرطية. قم بتضمين {link} في نص رسالتك لمنح المتعلمين رابطًا مباشرًا"
-" للوحدات المطلوبة. على سبيل المثال ، &quot;يجب عليك إكمال {link} قبل أن "
-"تتمكن من الوصول إلى هذه الوحدة&quot;."
+" للوحدات المطلوبة. على سبيل المثال ، 'يجب عليك إكمال {link} قبل أن "
+"تتمكن من الوصول إلى هذه الوحدة'."
 
 #: xmodule/conditional_block.py:131
 #, python-brace-format
@@ -12606,8 +12606,8 @@ msgid ""
 "default."
 msgstr ""
 "حدد خيارات مشاركة الفيديو للدورة التدريبية. يمكن تعيين هذا على واحدة من ثلاث"
-" قيم: &quot;الكل على&quot; و &quot;كل إيقاف&quot; و &quot;لكل فيديو&quot;. "
-"مع &quot;لكل فيديو&quot; كخيار افتراضي."
+" قيم: 'الكل على' و 'كل إيقاف' و 'لكل فيديو'. "
+"مع 'لكل فيديو' كخيار افتراضي."
 
 #: xmodule/course_block.py:994
 msgid "Force Flexible Grading for Peer ORAs"
@@ -12784,7 +12784,7 @@ msgid ""
 "ERROR: \"{block_type}\" is an unknown component type. This component will be"
 " hidden in LMS."
 msgstr ""
-"خطأ: &quot;{block_type}&quot; هو نوع مكون غير معروف. سيتم إخفاء هذا المكون "
+"خطأ: '{block_type}' هو نوع مكون غير معروف. سيتم إخفاء هذا المكون "
 "في LMS."
 
 #: xmodule/html_block.py:61 xmodule/html_block.py:370
@@ -12892,7 +12892,7 @@ msgid ""
 "Determines whether a 'Reset Problems' button is shown, so users may reset "
 "their answers and reshuffle selected items."
 msgstr ""
-"يحدد ما إذا كان زر &quot;إعادة تعيين المشكلات&quot; سيظهر أم لا ، بحيث يمكن "
+"يحدد ما إذا كان زر 'إعادة تعيين المشكلات' سيظهر أم لا ، بحيث يمكن "
 "للمستخدمين إعادة تعيين إجاباتهم وتعديل العناصر المحددة."
 
 #: xmodule/library_content_block.py:539

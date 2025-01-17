@@ -179,11 +179,11 @@ msgstr "Öğrenciye gösterilen problemin veya talimatların açıklaması."
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "&quot;Sorun&quot; başlığını göster"
+msgstr "'Sorun' başlığını göster"
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
-msgstr "Sorun metninin üzerinde &quot;Sorun&quot; başlığı gösterilsin mi?"
+msgstr "Sorun metninin üzerinde 'Sorun' başlığı gösterilsin mi?"
 
 #: drag_and_drop_v2.py:145
 msgid "Show answer"

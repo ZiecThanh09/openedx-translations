@@ -180,12 +180,12 @@ msgstr "La descripción del problema o las instrucciones mostradas al alumno."
 
 #: drag_and_drop_v2.py:138
 msgid "Show \"Problem\" heading"
-msgstr "Mostrar el encabezado &quot;Problema&quot;"
+msgstr "Mostrar el encabezado 'Problema'"
 
 #: drag_and_drop_v2.py:139
 msgid "Display the heading \"Problem\" above the problem text?"
 msgstr ""
-"¿Mostrar el título &quot;Problema&quot; encima del texto del problema?"
+"¿Mostrar el título 'Problema' encima del texto del problema?"
 
 #: drag_and_drop_v2.py:145
 msgid "Show answer"
@@ -199,7 +199,7 @@ msgid ""
 msgstr ""
 "Define cuándo mostrar la respuesta al problema. Se puede establecer un valor"
 " predeterminado en Configuración avanzada. Para revertir la configuración de"
-" un valor personalizado, elija la opción &quot;Predeterminado&quot;."
+" un valor personalizado, elija la opción 'Predeterminado'."
 
 #: drag_and_drop_v2.py:152
 msgid "Default"

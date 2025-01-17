@@ -44,20 +44,20 @@ msgid ""
 "Example {example_number} has an invalid option for \"{criterion_name}\": "
 "\"{option_name}\""
 msgstr ""
-"Ví dụ {example_number} có tùy chọn không hợp lệ cho &quot; {criterion_name} "
-"&quot;: &quot; {option_name} &quot;"
+"Ví dụ {example_number} có tùy chọn không hợp lệ cho ' {criterion_name} "
+"': ' {option_name} '"
 
 #: assessment/api/student_training.py:227
 #, python-brace-format
 msgid "Example {example_number} has an extra option for \"{criterion_name}\""
 msgstr ""
-"Ví dụ {example_number} có thêm tùy chọn cho &quot; {criterion_name} &quot;"
+"Ví dụ {example_number} có thêm tùy chọn cho ' {criterion_name} '"
 
 #: assessment/api/student_training.py:240
 #, python-brace-format
 msgid "Example {example_number} is missing an option for \"{criterion_name}\""
 msgstr ""
-"Ví dụ {example_number} thiếu tùy chọn cho &quot; {criterion_name} &quot;"
+"Ví dụ {example_number} thiếu tùy chọn cho ' {criterion_name} '"
 
 #: assessment/score_type_constants.py:21 xblock/grade_mixin.py:524
 msgid "Peer"
@@ -1228,9 +1228,9 @@ msgid ""
 "            "
 msgstr ""
 "\n"
-"Đây là bài tập nhóm dành cho nhóm &quot; %(teamset_name)s &quot;.\n"
-" Bạn hiện không ở trong nhóm trong nhóm &quot; %(teamset_name)s &quot;.\n"
-" Bạn phải ở trong một nhóm trong nhóm &quot; %(teamset_name)s &quot; để truy cập vào nhiệm vụ nhóm này.\n"
+"Đây là bài tập nhóm dành cho nhóm ' %(teamset_name)s '.\n"
+" Bạn hiện không ở trong nhóm trong nhóm ' %(teamset_name)s '.\n"
+" Bạn phải ở trong một nhóm trong nhóm ' %(teamset_name)s ' để truy cập vào nhiệm vụ nhóm này.\n"
 "            "
 
 #: templates/legacy/message/oa_message_open.html:7
@@ -2830,13 +2830,13 @@ msgstr "Thứ tự đánh giá bạn đã chọn không hợp lệ."
 #: xblock/utils/validation.py:132
 msgid "In peer assessment, the \"Must Grade\" value must be a positive integer."
 msgstr ""
-"Trong đánh giá ngang hàng, giá trị &quot;Phải xếp hạng&quot; phải là số "
+"Trong đánh giá ngang hàng, giá trị 'Phải xếp hạng' phải là số "
 "nguyên dương."
 
 #: xblock/utils/validation.py:135
 msgid "In peer assessment, the \"Graded By\" value must be a positive integer."
 msgstr ""
-"Trong đánh giá ngang hàng, giá trị &quot;Được xếp loại theo&quot; phải là số"
+"Trong đánh giá ngang hàng, giá trị 'Được xếp loại theo' phải là số"
 " nguyên dương."
 
 #: xblock/utils/validation.py:139
@@ -2844,8 +2844,8 @@ msgid ""
 "In peer assessment, the \"Must Grade\" value must be greater than or equal "
 "to the \"Graded By\" value."
 msgstr ""
-"Trong đánh giá ngang hàng, giá trị &quot;Phải xếp loại&quot; phải lớn hơn "
-"hoặc bằng giá trị &quot;Được xếp loại theo&quot;."
+"Trong đánh giá ngang hàng, giá trị 'Phải xếp loại' phải lớn hơn "
+"hoặc bằng giá trị 'Được xếp loại theo'."
 
 #: xblock/utils/validation.py:148
 msgid "You must provide at least one example response for learner training."
@@ -2858,7 +2858,7 @@ msgstr "Mỗi câu trả lời ví dụ cho việc đào tạo người học ph
 #: xblock/utils/validation.py:158
 msgid "The \"required\" value must be true if staff assessment is the only step."
 msgstr ""
-"Giá trị &quot;bắt buộc&quot; phải đúng nếu đánh giá nhân viên là bước duy "
+"Giá trị 'bắt buộc' phải đúng nếu đánh giá nhân viên là bước duy "
 "nhất."
 
 #: xblock/utils/validation.py:162
