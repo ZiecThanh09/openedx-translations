@@ -11549,7 +11549,7 @@ msgstr "Vấn đề phải được trả lời trước khi nó có thể đư�
 
 #: xmodule/conditional_block.py:91
 msgid "Conditional"
-msgstr "có điều kiện"
+msgstr "Điều kiện"
 
 #: xmodule/conditional_block.py:95
 msgid "List of urls of children that are references to external modules"
