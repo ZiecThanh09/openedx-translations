@@ -22438,6 +22438,13 @@ msgstr "Video YouTube"
 msgid "View Courses"
 msgstr "Xem các khóa học"
 
+#: lms/static/js/discovery/views/search_form.js:47
+#, javascript-format
+msgid "Viewing %s course"
+msgid_plural "Viewing %s courses"
+msgstr[0] "Xem %s khóa học"
+msgstr[1] "Xem %s khóa học"
+
 #: lms/templates/courseware/program_marketing.html:145
 msgid "Meet the Instructors"
 msgstr "Gặp gỡ các giảng viên"

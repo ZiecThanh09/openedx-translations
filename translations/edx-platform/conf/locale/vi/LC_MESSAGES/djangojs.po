@@ -8578,7 +8578,7 @@ msgstr "Bản nháp (Những thay đổi chưa được công bố)"
 
 #: cms/templates/js/publish-xblock.underscore:13
 msgid "Release:"
-msgstr "Giải phóng:"
+msgstr "Ngày bắt đầu khóa học:"
 
 #: cms/templates/js/publish-xblock.underscore:23
 msgid "Publishing Status"

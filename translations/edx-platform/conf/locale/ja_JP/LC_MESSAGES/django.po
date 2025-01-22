@@ -6944,7 +6944,7 @@ msgstr "他の記事からファイルを再利用できます。これらのフ
 #: lms/templates/ux/reference/bootstrap/course-skeleton.html:47
 #: themes/stanford-style/lms/templates/index.html:26
 msgid "Search"
-msgstr "検索 (けんさく)"
+msgstr "検索です"
 
 #: lms/templates/wiki/plugins/attachments/index.html:65
 #: wiki/plugins/attachments/templates/wiki/plugins/attachments/index.html:9
@@ -20637,6 +20637,13 @@ msgstr "YouTubeのビデオ"
 #: lms/templates/courseware/program_marketing.html:140
 msgid "View Courses"
 msgstr "コースを見る"
+
+#: lms/static/js/discovery/views/search_form.js:47
+#, javascript-format
+msgid "Viewing %s course"
+msgid_plural "Viewing %s courses"
+msgstr[0] "%s コースを見る"
+msgstr[1] "%s コースを見る"
 
 #: lms/templates/courseware/program_marketing.html:145
 msgid "Meet the Instructors"
