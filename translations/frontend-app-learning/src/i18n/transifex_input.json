@@ -479,5 +479,6 @@
   "courseOutline.tray.title": "Course Outline",
   "courseOutline.completedUnit": "Completed unit",
   "courseOutline.incompleteUnit": "Incomplete unit",
-  "discussions.sidebar.open.button": "Show discussions tray"
+  "discussions.sidebar.open.button": "Show discussions tray",
+  "video.completion.warning": "You need to complete the video before proceeding."
 }

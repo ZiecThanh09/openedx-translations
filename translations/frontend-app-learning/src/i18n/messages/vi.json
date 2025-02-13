@@ -479,5 +479,6 @@
   "courseOutline.tray.title": "Tóm tắt nội dung chương trình",
   "courseOutline.completedUnit": "Đơn vị đã hoàn thành",
   "courseOutline.incompleteUnit": "Đơn vị chưa hoàn chỉnh",
-  "discussions.sidebar.open.button": "Hiển thị khay thảo luận"
+  "discussions.sidebar.open.button": "Hiển thị khay thảo luận",
+  "video.completion.warning": "Bạn cần hoàn thành video trước khi tiếp tục."
 }

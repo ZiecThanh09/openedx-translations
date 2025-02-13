@@ -479,5 +479,6 @@
   "courseOutline.tray.title": "コース概要",
   "courseOutline.completedUnit": "完成したユニット",
   "courseOutline.incompleteUnit": "不完全なユニット",
-  "discussions.sidebar.open.button": "ディスカッショントレイを表示する"
+  "discussions.sidebar.open.button": "ディスカッショントレイを表示する",
+  "video.completion.warning": "ビデオを完了してから次に進んでください。"
 }
