@@ -480,5 +480,5 @@
   "courseOutline.completedUnit": "完成したユニット",
   "courseOutline.incompleteUnit": "不完全なユニット",
   "discussions.sidebar.open.button": "ディスカッショントレイを表示する",
-  "video.completion.warning": "この操作を行う前に、動画を少なくとも一度最後まで視聴する必要があります"
+  "video.completion.warning": "この動画に対して操作を行う前に、少なくとも一度最後まで視聴する必要があります"
 }
