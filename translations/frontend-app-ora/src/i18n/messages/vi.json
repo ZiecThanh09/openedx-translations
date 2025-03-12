@@ -59,7 +59,7 @@
     "frontend-app-ora.FilePopoverCellContent.filePopoverDescriptionTitle": "Mô tả tệp",
     "frontend-app-ora.InfoPopover.rubricDetails": "Chi tiết tiêu chí đánh giá",
     "frontend-app-ora.InfoPopover.alt-text": "Hiển thị thêm thông tin",
-    "frontend-app-ora.instructions.submission": "Nhập câu trả lời của bạn cho lời nhắc. Công việc của bạn sẽ được lưu tự động và bạn có thể quay lại để hoàn thành trước hạn nộp. Sau khi nộp bài, bạn không thể chỉnh sửa.",
+    "frontend-app-ora.instructions.submission": "Nhập câu trả lời của bạn cho lời nhắc. Đánh giá của bạn sẽ được lưu tự động và bạn có thể quay lại để hoàn thành trước hạn nộp. Sau khi nộp bài, bạn không thể chỉnh sửa.",
     "frontend-app-ora.instructions.studentTraining": "Trước khi bắt đầu đánh giá bài của bạn bè, bạn sẽ học cách thực hiện đánh giá bằng cách xem xét các phản hồi đã được giảng viên đánh giá. Nếu bạn chọn cùng một tùy chọn với giảng viên, bạn sẽ chuyển sang bước tiếp theo. Nếu không, bạn cần xem lại và thử lại.",
     "frontend-app-ora.instructions.selfAssessment": "Đánh giá câu trả lời của bạn",
     "frontend-app-ora.instructions.peerAssessment": "Đọc và đánh giá phản hồi từ một trong những người học khác.",

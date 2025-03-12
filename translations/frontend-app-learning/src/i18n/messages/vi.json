@@ -480,5 +480,6 @@
   "courseOutline.completedUnit": "Đơn vị đã hoàn thành",
   "courseOutline.incompleteUnit": "Đơn vị chưa hoàn chỉnh",
   "discussions.sidebar.open.button": "Hiển thị khay thảo luận",
-  "video.completion.warning": "Bạn cần xem hết video ít nhất một lần trước khi thực hiện hành động đối với video"
+  "video.completion.warning": "Bạn cần xem hết video ít nhất một lần trước khi thực hiện hành động đối với video",
+  "learner-dash.courseCard.banners.progressLabel": "Tiến độ hoàn thành"
 }

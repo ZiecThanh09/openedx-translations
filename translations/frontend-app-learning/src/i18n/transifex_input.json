@@ -480,5 +480,6 @@
   "courseOutline.completedUnit": "Completed unit",
   "courseOutline.incompleteUnit": "Incomplete unit",
   "discussions.sidebar.open.button": "Show discussions tray",
-  "video.completion.warning": "You need to watch the entire video at least once before performing any action on it"
+  "video.completion.warning": "You need to watch the entire video at least once before performing any action on it",
+  "learner-dash.courseCard.banners.progressLabel": "Progress status"
 }
