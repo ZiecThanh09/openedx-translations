@@ -481,5 +481,7 @@
   "courseOutline.incompleteUnit": "不完全なユニット",
   "discussions.sidebar.open.button": "ディスカッショントレイを表示する",
   "video.completion.warning": "この動画に対して操作を行う前に、少なくとも一度最後まで視聴する必要があります",
-  "learner-dash.courseCard.banners.progressLabel": "進捗状況"
+  "learner-dash.courseCard.banners.progressLabel": "進捗状況",
+  "learner-dash.courseFilterControl.grid": "グリッド",
+  "learner-dash.courseFilterControl.list": "リスト"
 }

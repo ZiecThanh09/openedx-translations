@@ -481,5 +481,7 @@
   "courseOutline.incompleteUnit": "Incomplete unit",
   "discussions.sidebar.open.button": "Show discussions tray",
   "video.completion.warning": "You need to watch the entire video at least once before performing any action on it",
-  "learner-dash.courseCard.banners.progressLabel": "Progress status"
+  "learner-dash.courseCard.banners.progressLabel": "Progress status",
+  "learner-dash.courseFilterControl.grid": "Grid",
+  "learner-dash.courseFilterControl.list": "List"
 }
