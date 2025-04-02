@@ -26643,3 +26643,33 @@ msgstr "Đặt Văn bản Bản quyền của bạn ở đây!"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "Trình chỉnh sửa mã"
+
+msgid "Unit Name"
+msgstr "Tên Bài Học"
+
+msgid "Assessment"
+msgstr "Đánh Giá"
+
+msgid "Total Responses"
+msgstr "Tổng Số Phản Hồi"
+
+msgid "Training"
+msgstr "Bài Đánh Giá Mẫu"
+
+msgid "Peer"
+msgstr "Đánh Giá Từ Bạn Học"
+
+msgid "Self"
+msgstr "Tự Đánh Giá"
+
+msgid "Waiting"
+msgstr "Đang Chờ Xử Lý"
+
+msgid "Final Grade Received"
+msgstr "Điểm Cuối Cùng Nhận Được"
+
+msgid "Staff Grader"
+msgstr "Giảng Viên Chấm Điểm"
+
+msgid "View and grade responses"
+msgstr "Xem và chấm phản hồi"
