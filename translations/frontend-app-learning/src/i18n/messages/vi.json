@@ -206,7 +206,7 @@
   "tours.upgradeCheckpoint.title": "Mở khóa khóa học của bạn",
   "tours.weeklyGoalsCheckpoint.body": "Đặt mục tiêu giúp bạn có nhiều khả năng hoàn thành khóa học hơn.",
   "tours.weeklyGoalsCheckpoint.title": "Đặt mục tiêu khóa học",
-  "tours.newUserModal.title": "Khóa học {welcome} {siteName}!",
+  "tours.newUserModal.title": "{welcome} {siteName}!",
   "learning.effortEstimation.combinedEstimate": "{minutes} + {activities}",
   "learning.effortEstimation.activities": "{activityCount, plural, other {# các hoạt động}}",
   "learning.effortEstimation.minutesAbbreviated": "{minuteCount, plural, other {# phút}}",
