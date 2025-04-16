@@ -5432,7 +5432,7 @@ msgstr "Thảo luận"
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:566
 #: lms/templates/ccx/coach_dashboard.html:66
 msgid "Student Admin"
-msgstr "Quản trị viên sinh viên"
+msgstr "Quản trị học viên"
 
 #: lms/djangoapps/instructor/views/instructor_dashboard.py:612
 msgid "Extensions"
@@ -24109,7 +24109,7 @@ msgstr "Không có ngày kết thúc được đặt"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:111
 msgid "Has the course started?"
-msgstr "Khóa học đã bắt đầu chưa?"
+msgstr "Khóa học đã bắt đầu:"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:113
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:120
@@ -24123,7 +24123,7 @@ msgstr "KHÔNG"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:118
 msgid "Has the course ended?"
-msgstr "Khóa học đã kết thúc chưa?"
+msgstr "Khóa học đã kết thúc:"
 
 #: lms/templates/instructor/instructor_dashboard_2/course_info.html:127
 msgid "Number of sections:"
