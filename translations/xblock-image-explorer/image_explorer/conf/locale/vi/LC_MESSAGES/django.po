@@ -38,7 +38,7 @@ msgstr "Điểm nóng Tọa độ được căn giữa"
 
 #: image_explorer.py:73
 msgid "Store hotspots opened by student, for completion"
-msgstr "Lưu trữ các điểm nóng do sinh viên mở để hoàn thành"
+msgstr "Lưu trữ các điểm nóng do học viên mở để hoàn thành"
 
 #: image_explorer.py:78
 msgid "XML contents to display for this module"

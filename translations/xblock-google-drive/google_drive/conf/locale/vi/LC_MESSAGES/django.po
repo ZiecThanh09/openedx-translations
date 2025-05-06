@@ -54,7 +54,7 @@ msgid ""
 "The calendar view that students see by default. A student can change this "
 "view."
 msgstr ""
-"Chế độ xem lịch mà học sinh nhìn thấy theo mặc định. Một sinh viên có thể "
+"Chế độ xem lịch mà học viên nhìn thấy theo mặc định. Một học viên có thể "
 "thay đổi quan điểm này."
 
 #: google_docs.py:65 templates/html/google_docs_edit.html:28

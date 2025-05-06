@@ -1308,20 +1308,20 @@ msgstr "Loại bỏ các thay đổi"
 
 #: cms/static/js/views/pages/container_subviews.js:283
 msgid "Hiding from Students"
-msgstr "Ẩn khỏi sinh viên"
+msgstr "Ẩn khỏi học viên"
 
 #: cms/static/js/views/pages/container_subviews.js:286
 msgid "Explicitly Hiding from Students"
-msgstr "Rõ ràng trốn học sinh"
+msgstr "Rõ ràng trốn học viên"
 
 #: cms/static/js/views/pages/container_subviews.js:289
 msgid "Inheriting Student Visibility"
-msgstr "Kế thừa khả năng hiển thị của sinh viên"
+msgstr "Kế thừa khả năng hiển thị của học viên"
 
 #: cms/static/js/views/pages/container_subviews.js:292
 #: cms/static/js/views/pages/container_subviews.js:294
 msgid "Make Visible to Students"
-msgstr "Hiển thị cho sinh viên"
+msgstr "Hiển thị cho học viên"
 
 #: cms/static/js/views/pages/container_subviews.js:293
 msgid ""
@@ -1329,13 +1329,13 @@ msgid ""
 "you made to the unit when it was hidden will now be visible to students. Do "
 "you want to proceed?"
 msgstr ""
-"Nếu bài học trước đây đã được xuất bản và phát hành cho học sinh thì mọi "
+"Nếu bài học trước đây đã được xuất bản và phát hành cho học viên thì mọi "
 "thay đổi bạn thực hiện đối với bài học khi nó bị ẩn sẽ hiển thị cho học "
 "sinh. Bạn có muốn tiếp tục?"
 
 #: cms/static/js/views/pages/container_subviews.js:296
 msgid "Making Visible to Students"
-msgstr "Hiển thị cho sinh viên"
+msgstr "Hiển thị cho học viên"
 
 #: cms/static/js/views/pages/course_outline.js:237
 msgid "Course Index"
@@ -3107,7 +3107,7 @@ msgid ""
 "Student username/email field is required and can not be empty. Kindly fill "
 "in username/email and then press \"Add to Exception List\" button."
 msgstr ""
-"Trường tên người dùng/email của sinh viên là bắt buộc và không được để "
+"Trường tên người dùng/email của học viên là bắt buộc và không được để "
 "trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút 'Thêm vào "
 "danh sách ngoại lệ'."
 
@@ -3116,13 +3116,13 @@ msgid ""
 "Student username/email field is required and can not be empty. Kindly fill "
 "in username/email and then press \"Invalidate Certificate\" button."
 msgstr ""
-"Trường tên người dùng/email của sinh viên là bắt buộc và không được để "
+"Trường tên người dùng/email của học viên là bắt buộc và không được để "
 "trống. Vui lòng điền tên người dùng/email và sau đó nhấn nút 'Chứng chỉ"
 " không hợp lệ'."
 
 #: lms/static/js/certificates/views/certificate_allowlist.js:59
 msgid "Student Removed from certificate allowlist successfully."
-msgstr "Đã xóa thành công sinh viên khỏi danh sách cho phép chứng chỉ."
+msgstr "Đã xóa thành công học viên khỏi danh sách cho phép chứng chỉ."
 
 #: lms/static/js/certificates/views/certificate_allowlist.js:69
 msgid ""
@@ -3688,12 +3688,12 @@ msgid ""
 "The {cohortGroupName} cohort has been created. You can manually add students"
 " to this cohort below."
 msgstr ""
-"Nhóm lớp {cohortGroupName} đã được tạo. Bạn có thể thêm học sinh vào "
+"Nhóm lớp {cohortGroupName} đã được tạo. Bạn có thể thêm học viên vào "
 "nhóm này theo cách thủ công bên dưới."
 
 #: lms/static/js/groups/views/cohorts.js:269
 msgid "Assign students to cohorts by uploading a CSV file."
-msgstr "Chỉ định học sinh vào nhóm lớp bằng cách tải lên tệp CSV."
+msgstr "Chỉ định học viên vào nhóm lớp bằng cách tải lên tệp CSV."
 
 #: lms/static/js/groups/views/cohorts.js:270
 msgid "Choose a .csv file"
@@ -3705,7 +3705,7 @@ msgstr "Chỉ các tệp .csv được định dạng đúng mới được ch�
 
 #: lms/static/js/groups/views/cohorts.js:272
 msgid "Upload File and Assign Students"
-msgstr "Tải tệp lên và phân công học sinh"
+msgstr "Tải tệp lên và phân công học viên"
 
 #: lms/static/js/groups/views/cohorts.js:278
 msgid ""
@@ -3724,11 +3724,11 @@ msgstr "Nhóm lớp bị vô hiệu hóa"
 
 #: lms/static/js/instructor_dashboard/certificates.js:20
 msgid "Allow students to generate certificates for this course?"
-msgstr "Cho phép sinh viên tạo chứng chỉ cho khóa học này?"
+msgstr "Cho phép học viên tạo chứng chỉ cho khóa học này?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:22
 msgid "Prevent students from generating certificates in this course?"
-msgstr "Ngăn chặn sinh viên tạo chứng chỉ trong khóa học này?"
+msgstr "Ngăn chặn học viên tạo chứng chỉ trong khóa học này?"
 
 #: lms/static/js/instructor_dashboard/certificates.js:45
 msgid "Start generating certificates for all students in this course?"
@@ -3773,7 +3773,7 @@ msgstr "Lỗi tạo kết quả khảo sát. Vui lòng thử lại."
 #: lms/static/js/instructor_dashboard/data_download.js:201
 #: lms/static/js/instructor_dashboard/data_download_2.js:47
 msgid "Error generating student profile information. Please try again."
-msgstr "Lỗi tạo thông tin hồ sơ sinh viên. Vui lòng thử lại."
+msgstr "Lỗi tạo thông tin hồ sơ học viên. Vui lòng thử lại."
 
 #: lms/static/js/instructor_dashboard/data_download.js:227
 #: openedx/features/course_bookmarks/static/course_bookmarks/js/views/bookmarks_list.js:23
@@ -3784,12 +3784,12 @@ msgstr "Đang tải"
 
 #: lms/static/js/instructor_dashboard/data_download.js:235
 msgid "Error getting student list."
-msgstr "Lỗi lấy danh sách sinh viên."
+msgstr "Lỗi lấy danh sách học viên."
 
 #: lms/static/js/instructor_dashboard/data_download.js:301
 #: lms/static/js/instructor_dashboard/data_download_2.js:50
 msgid "Error generating list of students who may enroll. Please try again."
-msgstr "Lỗi khi tạo danh sách sinh viên có thể đăng ký. Vui lòng thử lại."
+msgstr "Lỗi khi tạo danh sách học viên có thể đăng ký. Vui lòng thử lại."
 
 #: lms/static/js/instructor_dashboard/data_download.js:333
 msgid "Error retrieving grading configuration."
@@ -4140,7 +4140,7 @@ msgstr "Gửi đến:"
 #: lms/static/js/instructor_dashboard/student_admin.js:539
 #: lms/static/js/instructor_dashboard/student_admin.js:590
 msgid "Please enter a student email address or username."
-msgstr "Vui lòng nhập địa chỉ email hoặc tên người dùng của sinh viên."
+msgstr "Vui lòng nhập địa chỉ email hoặc tên người dùng của học viên."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:87
 msgid ""
@@ -4148,7 +4148,7 @@ msgid ""
 "student identifier is spelled correctly."
 msgstr ""
 "Lỗi nhận trạng thái đăng ký cho '<%- student_id %>'. Đảm bảo rằng mã định "
-"danh học sinh được viết đúng chính tả."
+"danh học viên được viết đúng chính tả."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:91
 msgid "Retrieving enrollment status..."
@@ -4160,7 +4160,7 @@ msgid ""
 "the student identifier is spelled correctly."
 msgstr ""
 "Lỗi khi lấy url tiến độ học tập cho '<%- student_id %>'. Hãy chắc chắn rằng "
-"mã định danh học sinh được viết đúng chính tả."
+"mã định danh học viên được viết đúng chính tả."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:149
 #: lms/static/js/instructor_dashboard/student_admin.js:191
@@ -4188,14 +4188,14 @@ msgid ""
 " complete and correct."
 msgstr ""
 "Lỗi đặt lại các lần thử giải quyết vấn đề cho vấn đề '<%- problem_id %>' và "
-"học sinh '<%- student_id %>'. Đảm bảo rằng bài toán và mã nhận dạng học sinh"
+"học viên '<%- student_id %>'. Đảm bảo rằng bài toán và mã nhận dạng học viên"
 " là đầy đủ và chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:194
 msgid ""
 "Delete student '<%- student_id %>'s state on problem '<%- problem_id %>'?"
 msgstr ""
-"Xóa trạng thái của học sinh '<%- student_id %>' về bài toán '<%- problem_id "
+"Xóa trạng thái của học viên '<%- student_id %>' về bài toán '<%- problem_id "
 "%>'?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:205
@@ -4204,8 +4204,8 @@ msgid ""
 " %>'. Make sure that the problem and student identifiers are complete and "
 "correct."
 msgstr ""
-"Lỗi xóa trạng thái của học sinh '<%- student_id %>' trên bài toán '<%- "
-"problem_id %>'. Đảm bảo rằng bài toán và mã nhận dạng học sinh là đầy đủ và "
+"Lỗi xóa trạng thái của học viên '<%- student_id %>' trên bài toán '<%- "
+"problem_id %>'. Đảm bảo rằng bài toán và mã nhận dạng học viên là đầy đủ và "
 "chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:216
@@ -4218,34 +4218,34 @@ msgid ""
 "student_id %>'. Make sure that the problem and student identifiers are "
 "complete and correct."
 msgstr ""
-"Lỗi lấy lịch sử nhiệm vụ cho bài toán '<%- problem_id %>' và học sinh '<%- "
-"student_id %>'. Đảm bảo rằng bài toán và mã nhận dạng học sinh là đầy đủ và "
+"Lỗi lấy lịch sử nhiệm vụ cho bài toán '<%- problem_id %>' và học viên '<%- "
+"student_id %>'. Đảm bảo rằng bài toán và mã nhận dạng học viên là đầy đủ và "
 "chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:287
 msgid "Entrance exam attempts is being reset for student '{student_id}'."
 msgstr ""
-"Các lần thi đầu vào đang được đặt lại cho sinh viên '{student_id}'."
+"Các lần thi đầu vào đang được đặt lại cho học viên '{student_id}'."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:295
 msgid ""
 "Error resetting entrance exam attempts for student '{student_id}'. Make sure"
 " student identifier is correct."
 msgstr ""
-"Lỗi đặt lại các lần thi đầu vào của học sinh '{student_id}'. Đảm bảo"
-" mã định danh học sinh là chính xác."
+"Lỗi đặt lại các lần thi đầu vào của học viên '{student_id}'. Đảm bảo"
+" mã định danh học viên là chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:313
 #: lms/static/js/instructor_dashboard/student_admin.js:380
 msgid "Enter a student's username or email address."
-msgstr "Nhập tên người dùng hoặc địa chỉ email của sinh viên."
+msgstr "Nhập tên người dùng hoặc địa chỉ email của học viên."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:315
 msgid ""
 "Do you want to allow this student ('{student_id}') to skip the entrance "
 "exam?"
 msgstr ""
-"Bạn có muốn cho phép sinh viên này ('{student_id}') bỏ qua bài kiểm "
+"Bạn có muốn cho phép học viên này ('{student_id}') bỏ qua bài kiểm "
 "tra đầu vào không?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:333
@@ -4259,7 +4259,7 @@ msgstr ""
 #: lms/static/js/instructor_dashboard/student_admin.js:359
 msgid "Entrance exam state is being deleted for student '{student_id}'."
 msgstr ""
-"Trạng thái kỳ thi tuyển sinh đang bị xóa đối với sinh viên "
+"Trạng thái kỳ thi tuyển sinh đang bị xóa đối với học viên "
 "'{student_id}'."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:367
@@ -4267,21 +4267,21 @@ msgid ""
 "Error deleting entrance exam state for student '{student_id}'. Make sure "
 "student identifier is correct."
 msgstr ""
-"Lỗi xóa trạng thái bài kiểm tra đầu vào của sinh viên "
-"'{student_id}'. Đảm bảo mã định danh học sinh là chính xác."
+"Lỗi xóa trạng thái bài kiểm tra đầu vào của học viên "
+"'{student_id}'. Đảm bảo mã định danh học viên là chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:396
 msgid ""
 "Error getting entrance exam task history for student '{student_id}'. Make "
 "sure student identifier is correct."
 msgstr ""
-"Lỗi tải lịch sử bài thi đầu vào của học sinh '{student_id}'. Đảm bảo"
-" mã định danh học sinh là chính xác."
+"Lỗi tải lịch sử bài thi đầu vào của học viên '{student_id}'. Đảm bảo"
+" mã định danh học viên là chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:413
 msgid "Reset attempts for all students on problem '<%- problem_id %>'?"
 msgstr ""
-"Đặt lại các lần thử cho tất cả học sinh về vấn đề '<%- problem_id %>'?"
+"Đặt lại các lần thử cho tất cả học viên về vấn đề '<%- problem_id %>'?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:422
 msgid ""
@@ -4298,13 +4298,13 @@ msgid ""
 "problem_id %>'. Make sure that the problem identifier is complete and "
 "correct."
 msgstr ""
-"Lỗi khi bắt đầu nhiệm vụ đặt lại các lần thử cho tất cả học sinh về vấn đề "
+"Lỗi khi bắt đầu nhiệm vụ đặt lại các lần thử cho tất cả học viên về vấn đề "
 "'<%- problem_id %>'. Đảm bảo rằng mã định danh vấn đề là đầy đủ và chính "
 "xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:475
 msgid "Error listing task history for this student and problem."
-msgstr "Lỗi liệt kê lịch sử nhiệm vụ của học sinh này và vấn đề."
+msgstr "Lỗi liệt kê lịch sử nhiệm vụ của học viên này và vấn đề."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:503
 msgid ""
@@ -4313,7 +4313,7 @@ msgid ""
 "of the task."
 msgstr ""
 "Đã bắt đầu tính lại nhiệm vụ giải bài toán cho bài toán '<%- problem_id %>' "
-"và học sinh '<%- student_id %>'. Nhấp vào nút 'Hiển thị trạng thái tác "
+"và học viên '<%- student_id %>'. Nhấp vào nút 'Hiển thị trạng thái tác "
 "vụ' để xem trạng thái của tác vụ."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:508
@@ -4322,8 +4322,8 @@ msgid ""
 "'<%- student_id %>'. Make sure that the the problem and student identifiers "
 "are complete and correct."
 msgstr ""
-"Lỗi khi bắt đầu tác vụ để ghi lại vấn đề '<%- problem_id %>' cho học sinh "
-"'<%- student_id %>'. Đảm bảo rằng bài toán và mã nhận dạng học sinh là đầy "
+"Lỗi khi bắt đầu tác vụ để ghi lại vấn đề '<%- problem_id %>' cho học viên "
+"'<%- student_id %>'. Đảm bảo rằng bài toán và mã nhận dạng học viên là đầy "
 "đủ và chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:549
@@ -4336,7 +4336,7 @@ msgid ""
 "student '<%- student_id %>'. Click the 'Show Task Status' button to see the "
 "status of the task."
 msgstr ""
-"Đã bắt đầu nhiệm vụ ghi đè điểm cho bài toán '<%- problem_id %>' và học sinh"
+"Đã bắt đầu nhiệm vụ ghi đè điểm cho bài toán '<%- problem_id %>' và học viên"
 " '<%- student_id %>'. Nhấp vào nút 'Hiển thị trạng thái tác vụ' để "
 "xem trạng thái của tác vụ."
 
@@ -4347,15 +4347,15 @@ msgid ""
 "and student identifiers are complete and correct."
 msgstr ""
 "Lỗi khi bắt đầu một nhiệm vụ để ghi đè điểm cho bài toán '<%- problem_id %>'"
-" cho học sinh '<%- student_id %>'. Đảm bảo rằng điểm số, bài toán và mã nhận"
-" dạng học sinh là đầy đủ và chính xác."
+" cho học viên '<%- student_id %>'. Đảm bảo rằng điểm số, bài toán và mã nhận"
+" dạng học viên là đầy đủ và chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:604
 msgid ""
 "Started entrance exam rescore task for student '{student_id}'. Click the "
 "'Show Task Status' button to see the status of the task."
 msgstr ""
-"Đã bắt đầu nhiệm vụ chấm lại bài kiểm tra đầu vào cho học sinh "
+"Đã bắt đầu nhiệm vụ chấm lại bài kiểm tra đầu vào cho học viên "
 "'{student_id}'. Nhấp vào nút 'Hiển thị trạng thái tác vụ' để"
 " xem trạng thái của tác vụ."
 
@@ -4365,13 +4365,13 @@ msgid ""
 "Make sure that entrance exam has problems in it and student identifier is "
 "correct."
 msgstr ""
-"Lỗi khi bắt đầu nhiệm vụ chấm điểm bài kiểm tra đầu vào cho học sinh "
+"Lỗi khi bắt đầu nhiệm vụ chấm điểm bài kiểm tra đầu vào cho học viên "
 "'{student_id}'. Đảm bảo rằng bài kiểm tra đầu vào có vấn đề và mã "
-"nhận dạng học sinh là chính xác."
+"nhận dạng học viên là chính xác."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:632
 msgid "Rescore problem '<%- problem_id %>' for all students?"
-msgstr "Ghi lại vấn đề '<%- problem_id %>' cho tất cả học sinh?"
+msgstr "Ghi lại vấn đề '<%- problem_id %>' cho tất cả học viên?"
 
 #: lms/static/js/instructor_dashboard/student_admin.js:642
 msgid ""
@@ -4379,7 +4379,7 @@ msgid ""
 "students. Click the 'Show Task Status' button to see the status of the task."
 msgstr ""
 "Đã bắt đầu thành công nhiệm vụ khắc phục vấn đề '<%- problem_id %>' cho tất "
-"cả học sinh. Nhấp vào nút 'Hiển thị trạng thái tác vụ' để xem trạng "
+"cả học viên. Nhấp vào nút 'Hiển thị trạng thái tác vụ' để xem trạng "
 "thái của tác vụ."
 
 #: lms/static/js/instructor_dashboard/student_admin.js:646
@@ -4506,7 +4506,7 @@ msgid ""
 "sensitive nature of student information."
 msgstr ""
 "Các liên kết được tạo theo yêu cầu và hết hạn trong vòng 5 phút do tính chất"
-" nhạy cảm của thông tin sinh viên."
+" nhạy cảm của thông tin học viên."
 
 #: lms/static/js/learner_dashboard/EnterpriseLearnerPortalModal.jsx:123
 msgid "You have access to the {enterpriseName} dashboard"
@@ -4693,11 +4693,11 @@ msgstr "Không thể đặt lại các lần thử cho người dùng."
 
 #: lms/static/js/staff_debug_actions.js:101
 msgid "Successfully deleted student state for user {user}"
-msgstr "Đã xóa thành công trạng thái sinh viên của người dùng {user}"
+msgstr "Đã xóa thành công trạng thái học viên của người dùng {user}"
 
 #: lms/static/js/staff_debug_actions.js:102
 msgid "Failed to delete student state for user."
-msgstr "Không xóa được trạng thái sinh viên của người dùng."
+msgstr "Không xóa được trạng thái học viên của người dùng."
 
 #: lms/static/js/staff_debug_actions.js:113
 msgid "Successfully rescored problem for user {user}"
@@ -5522,14 +5522,14 @@ msgstr "MB"
 
 #: lms/static/lms/js/preview/preview_factory.js:13
 msgid "Course is not yet visible to students."
-msgstr "Khóa học vẫn chưa được hiển thị cho sinh viên."
+msgstr "Khóa học vẫn chưa được hiển thị cho học viên."
 
 #: lms/static/lms/js/preview/preview_factory.js:24
 msgid ""
 "You cannot view the course as a student or beta tester before the course "
 "release date."
 msgstr ""
-"Bạn không thể xem khóa học với tư cách là sinh viên hoặc người thử nghiệm "
+"Bạn không thể xem khóa học với tư cách là học viên hoặc người thử nghiệm "
 "beta trước ngày phát hành khóa học."
 
 #: lms/templates/courseware/progress_graph.js:294
@@ -8249,7 +8249,7 @@ msgid ""
 "provide the title/name of the text book as you would like your students to "
 "see it"
 msgstr ""
-"cung cấp tiêu đề/tên của sách giáo khoa như bạn muốn học sinh nhìn thấy nó"
+"cung cấp tiêu đề/tên của sách giáo khoa như bạn muốn học viên nhìn thấy nó"
 
 #: cms/templates/js/edit-textbook.underscore:18
 msgid "Chapter information"
@@ -8356,7 +8356,7 @@ msgid ""
 "Name of the groups that students will be assigned to, for example, Control, "
 "Video, Problems. You must have two or more groups."
 msgstr ""
-"Tên của các nhóm mà học sinh sẽ được phân vào, ví dụ: Điều khiển, Video, Vấn"
+"Tên của các nhóm mà học viên sẽ được phân vào, ví dụ: Điều khiển, Video, Vấn"
 " đề. Bạn phải có hai hoặc nhiều nhóm."
 
 #: cms/templates/js/group-configuration-editor.underscore:33
@@ -8776,7 +8776,7 @@ msgid ""
 "Titles more than 100 characters may prevent students from printing their "
 "certificate on a single page."
 msgstr ""
-"Tiêu đề dài hơn 100 ký tự có thể khiến học sinh không thể in chứng chỉ của "
+"Tiêu đề dài hơn 100 ký tự có thể khiến học viên không thể in chứng chỉ của "
 "mình trên một trang."
 
 #: cms/templates/js/signatory-editor.underscore:29
@@ -9203,7 +9203,7 @@ msgstr ""
 "Để đảm bảo tất cả học viên đều có thể truy cập video, chúng tôi khuyên bạn "
 "nên cung cấp cả phiên bản .mp4 và .webm cho video của mình. Nhấp vào bên "
 "dưới để thêm URL cho phiên bản khác. Các URL này không thể là URL YouTube. "
-"Video được liệt kê đầu tiên tương thích với máy tính của học sinh sẽ phát."
+"Video được liệt kê đầu tiên tương thích với máy tính của học viên sẽ phát."
 
 #: cms/templates/js/video/transcripts/metadata-videolist-entry.underscore:25
 msgid "Default Timed Transcript"
@@ -10307,7 +10307,7 @@ msgstr ""
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore:5
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore:6
 msgid "Student email or username"
-msgstr "Email hoặc tên người dùng của sinh viên"
+msgstr "Email hoặc tên người dùng của học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore:8
 #: lms/templates/instructor/instructor_dashboard_2/certificate-allowlist-editor.underscore:9
@@ -10397,7 +10397,7 @@ msgstr "Chứng chỉ không hợp lệ"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:28
 msgid "Student"
-msgstr "Học sinh"
+msgstr "Học viên"
 
 #: lms/templates/instructor/instructor_dashboard_2/certificate-invalidation.underscore:29
 msgid "Invalidated By"
@@ -10487,7 +10487,7 @@ msgstr "Thủ công"
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:56
 msgid ""
 "There must be one cohort to which students can automatically be assigned."
-msgstr "Phải có một nhóm mà học sinh có thể được tự động chỉ định vào."
+msgstr "Phải có một nhóm mà học viên có thể được tự động chỉ định vào."
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-form.underscore:62
 msgid "Associated Content Group"
@@ -10541,7 +10541,7 @@ msgstr "Tạo nhóm nội dung"
 #, python-format
 msgid "(contains %(student_count)s student)"
 msgid_plural "(contains %(student_count)s students)"
-msgstr[0] "(có %(student_count)s sinh viên)"
+msgstr[0] "(có %(student_count)s học viên)"
 
 #: lms/templates/instructor/instructor_dashboard_2/cohort-group-header.underscore:14
 msgid ""
@@ -11273,12 +11273,12 @@ msgstr "Chúc mừng! Bây giờ bạn đã được xác minh trên %(platformN
 
 #: lms/templates/verify_student/enrollment_confirmation_step.underscore:5
 msgid "You are now enrolled as a verified student for:"
-msgstr "Bây giờ bạn đã được ghi danh là sinh viên đã được xác minh cho:"
+msgstr "Bây giờ bạn đã được ghi danh là học viên đã được xác minh cho:"
 
 #: lms/templates/verify_student/enrollment_confirmation_step.underscore:12
 msgid "A list of courses you have just enrolled in as a verified student"
 msgstr ""
-"Danh sách các khóa học bạn vừa đăng ký với tư cách là sinh viên đã được xác "
+"Danh sách các khóa học bạn vừa đăng ký với tư cách là học viên đã được xác "
 "minh"
 
 #: lms/templates/verify_student/enrollment_confirmation_step.underscore:31

@@ -2117,7 +2117,7 @@ msgstr ""
 
 #: templates/courses/menu_options.html:8
 msgid "Student Dashboard"
-msgstr "Bảng thông tin sinh viên"
+msgstr "Bảng thông tin học viên"
 
 #: templates/courses/menu_options.html:11
 msgid "Course Admin Tool"
@@ -4196,7 +4196,7 @@ msgid ""
 "enrollment?"
 msgstr ""
 "Bạn có chắc chắn muốn hoàn lại toàn bộ tiền và thu hồi quyền đăng ký của "
-"sinh viên không?"
+"học viên không?"
 
 #: templates/oscar/dashboard/partials/refund_action_modal.html:14
 msgid ""
@@ -4204,7 +4204,7 @@ msgid ""
 "enrollment?"
 msgstr ""
 "Bạn có chắc chắn muốn hoàn lại toàn bộ tiền mà không thu hồi quyền đăng ký "
-"của sinh viên không?"
+"của học viên không?"
 
 #: templates/oscar/dashboard/partials/refund_action_modal.html:17
 msgid "Are you sure you want to deny this refund request?"

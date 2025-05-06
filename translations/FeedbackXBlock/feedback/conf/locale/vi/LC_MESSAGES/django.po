@@ -116,7 +116,7 @@ msgstr "Cảm ơn phản hôi của bạn!"
 
 #: feedback.py:128
 msgid "Show aggregate to students"
-msgstr "Hiển thị tổng hợp cho sinh viên"
+msgstr "Hiển thị tổng hợp cho học viên"
 
 #: feedback.py:158
 msgid "Please reflect on this course material"
@@ -180,7 +180,7 @@ msgid ""
 "This may be helpful either for course improvement, or to give students a "
 "chance to reflect on what they have done."
 msgstr ""
-"XBlock này cho phép bạn thu thập phản hồi của sinh viên về các phần của khóa"
+"XBlock này cho phép bạn thu thập phản hồi của học viên về các phần của khóa"
 " học. Điều này có thể hữu ích cho việc cải thiện khóa học hoặc giúp sinh "
 "viên có cơ hội suy ngẫm về những gì họ đã làm."
 
@@ -202,7 +202,7 @@ msgstr "Thông báo hiển thị sau phản hồi của người dùng."
 
 #: templates/html/studio_view.html:33
 msgid "Show aggregate report to students"
-msgstr "Hiển thị báo cáo tổng hợp cho sinh viên"
+msgstr "Hiển thị báo cáo tổng hợp cho học viên"
 
 #: templates/html/studio_view.html:35
 msgid "False"
@@ -214,7 +214,7 @@ msgstr "ĐÚNG VẬY"
 
 #: templates/html/studio_view.html:39
 msgid "Wheter to show the aggregate report to students."
-msgstr "Có nên hiển thị báo cáo tổng hợp cho sinh viên hay không."
+msgstr "Có nên hiển thị báo cáo tổng hợp cho học viên hay không."
 
 #: templates/html/studio_view.html:44
 msgid "Freeform prompt"
@@ -232,7 +232,7 @@ msgstr "Trình giữ chỗ dạng tự do"
 #: templates/html/studio_view.html:55
 msgid "This is shown as grayed out text before the student has answered."
 msgstr ""
-"Điều này được hiển thị dưới dạng văn bản màu xám trước khi học sinh trả lời."
+"Điều này được hiển thị dưới dạng văn bản màu xám trước khi học viên trả lời."
 
 #: templates/html/studio_view.html:60
 msgid "Likert icon set"

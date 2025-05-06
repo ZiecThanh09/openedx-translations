@@ -153,7 +153,7 @@ msgid ""
 "Defines the number of times a student can try to answer this problem. If the"
 " value is not set, infinite attempts are allowed."
 msgstr ""
-"Xác định số lần học sinh có thể cố gắng trả lời vấn đề này. Nếu giá trị "
+"Xác định số lần học viên có thể cố gắng trả lời vấn đề này. Nếu giá trị "
 "không được đặt, số lần thử vô hạn được cho phép."
 
 #: drag_and_drop_v2.py:120
@@ -317,14 +317,14 @@ msgstr ""
 msgid ""
 "DEPRECATED. Keeps maximum score achieved by student as a weighted value."
 msgstr ""
-"KHÔNG ĐƯỢC DÙNG. Lưu giữ số điểm tối đa mà học sinh đạt được dưới dạng giá "
+"KHÔNG ĐƯỢC DÙNG. Lưu giữ số điểm tối đa mà học viên đạt được dưới dạng giá "
 "trị có trọng số."
 
 #: drag_and_drop_v2.py:238
 msgid ""
 "Keeps maximum score achieved by student as a raw value between 0 and 1."
 msgstr ""
-"Giữ điểm tối đa mà học sinh đạt được dưới dạng giá trị thô trong khoảng từ 0"
+"Giữ điểm tối đa mà học viên đạt được dưới dạng giá trị thô trong khoảng từ 0"
 " đến 1."
 
 #: drag_and_drop_v2.py:245

@@ -22,7 +22,7 @@ msgstr ""
 
 #: done.py:41
 msgid "Is the student done?"
-msgstr "Học sinh xong chưa?"
+msgstr "Học viên xong chưa?"
 
 #: done.py:47
 msgid "Align left/right/center"
@@ -85,7 +85,7 @@ msgid ""
 "completed and  which still need to be watched or read."
 msgstr ""
 "Đây là một thành phần rất đơn giản không có tùy chọn cấu hình. Nó được sử "
-"dụng để giúp sinh viên theo dõi phần nào của khóa học họ đã hoàn thành. Ví "
+"dụng để giúp học viên theo dõi phần nào của khóa học họ đã hoàn thành. Ví "
 "dụ: bạn có thể đặt phần này bên dưới mỗi thành phần văn bản và video và học "
 "sinh có thể xem trên trang tiến độ của mình phần nào đã hoàn thành và phần "
 "nào vẫn cần xem hoặc đọc."
@@ -95,7 +95,7 @@ msgid ""
 "It is also helpful to give students a way to sign off on having completed "
 "something. They are less likely to skip material that way."
 msgstr ""
-"Việc cung cấp cho học sinh một cách để xác nhận đã hoàn thành một việc gì đó"
+"Việc cung cấp cho học viên một cách để xác nhận đã hoàn thành một việc gì đó"
 " cũng rất hữu ích. Họ ít có khả năng bỏ qua tài liệu theo cách đó."
 
 #: templates/studioview.html:8

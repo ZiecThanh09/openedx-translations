@@ -266,7 +266,7 @@
     "frontend-app-ora.XBlockView.StatusRow.peerCompleted": "Bài đánh giá đồng cấp đã hoàn thành",
     "frontend-app-ora.XBlockView.StatusRow.complete": "Hoàn thành",
     "frontend-app-ora.XBlockView.DueDateMessage.yourResponse": "Phản hồi của bạn",
-    "frontend-app-ora.XBlockView.DueDateMessage.studentAssessment": "Đánh giá của sinh viên",
+    "frontend-app-ora.XBlockView.DueDateMessage.studentAssessment": "Đánh giá của học viên",
     "frontend-app-ora.XBlockView.DueDateMessage.selfAssessment": "Tự đánh giá",
     "frontend-app-ora.XBlockView.DueDateMessage.yourSelfAssessment": "Bài tự đánh giá của bạn",
     "frontend-app-ora.XBlockView.DueDateMessage.peerGrading": "Chấm điểm đồng cấp",

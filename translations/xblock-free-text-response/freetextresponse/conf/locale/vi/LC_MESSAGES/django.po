@@ -29,24 +29,24 @@ msgid ""
 "This is a flag that indicates if the indicator icon should be displayed "
 "after a student enters their response"
 msgstr ""
-"Đây là cờ cho biết liệu biểu tượng chỉ báo có được hiển thị sau khi học sinh"
+"Đây là cờ cho biết liệu biểu tượng chỉ báo có được hiển thị sau khi học viên"
 " nhập câu trả lời hay không"
 
 #: models.py:49
 msgid "Display Other Student Responses"
-msgstr "Hiển thị phản hồi của sinh viên khác"
+msgstr "Hiển thị phản hồi của học viên khác"
 
 #: models.py:51
 msgid ""
 "This will display other student responses to the student after they submit "
 "their response."
 msgstr ""
-"Điều này sẽ hiển thị các câu trả lời của học sinh khác cho học sinh sau khi "
+"Điều này sẽ hiển thị các câu trả lời của học viên khác cho học viên sau khi "
 "họ gửi câu trả lời của mình."
 
 #: models.py:60
 msgid "System selected answers to give to students"
-msgstr "Hệ thống chọn lọc đáp án để cung cấp cho học sinh"
+msgstr "Hệ thống chọn lọc đáp án để cung cấp cho học viên"
 
 #: models.py:63
 msgid "Display Name"
@@ -66,7 +66,7 @@ msgid ""
 "for the student's answer to receive full credit"
 msgstr ""
 "Đây là danh sách các từ hoặc cụm từ, một trong số đó phải có để câu trả lời "
-"của học sinh nhận được tín chỉ đầy đủ"
+"của học viên nhận được tín chỉ đầy đủ"
 
 #: models.py:81
 msgid "Half-Credit Key Phrases"
@@ -78,7 +78,7 @@ msgid ""
 "for the student's answer to receive half credit"
 msgstr ""
 "Đây là danh sách các từ hoặc cụm từ, một trong số đó phải có mặt để câu trả "
-"lời của học sinh nhận được nửa tín chỉ"
+"lời của học viên nhận được nửa tín chỉ"
 
 #: models.py:91
 msgid "Maximum Number of Attempts"
@@ -88,7 +88,7 @@ msgstr "Số lần thử tối đa"
 msgid ""
 "This is the maximum number of times a student is allowed to attempt the "
 "problem"
-msgstr "Đây là số lần tối đa một học sinh được phép làm bài"
+msgstr "Đây là số lần tối đa một học viên được phép làm bài"
 
 #: models.py:101
 msgid "Maximum Word Count"
@@ -114,7 +114,7 @@ msgstr "Lời nhắc"
 msgid ""
 "This is the prompt students will see when asked to enter their response"
 msgstr ""
-"Đây là lời nhắc mà học sinh sẽ nhìn thấy khi được yêu cầu nhập câu trả lời "
+"Đây là lời nhắc mà học viên sẽ nhìn thấy khi được yêu cầu nhập câu trả lời "
 "của mình"
 
 #: models.py:131
@@ -123,7 +123,7 @@ msgstr "Gửi tin nhắn đã nhận"
 
 #: models.py:133
 msgid "This is the message students will see upon submitting their response"
-msgstr "Đây là thông báo mà sinh viên sẽ thấy khi gửi câu trả lời của mình"
+msgstr "Đây là thông báo mà học viên sẽ thấy khi gửi câu trả lời của mình"
 
 #: models.py:140
 msgid "Weight"
@@ -139,7 +139,7 @@ msgstr "Bản nháp tin nhắn đã nhận"
 
 #: models.py:152
 msgid "This is the message students will see upon submitting a draft response"
-msgstr "Đây là thông báo mà sinh viên sẽ thấy khi gửi câu trả lời nháp"
+msgstr "Đây là thông báo mà học viên sẽ thấy khi gửi câu trả lời nháp"
 
 #: templates/view.html:15
 msgid ""

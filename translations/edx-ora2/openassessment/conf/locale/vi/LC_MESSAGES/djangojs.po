@@ -494,12 +494,12 @@ msgid ""
 "However, {overwritten_count} of these students have received a grade through"
 " the staff grade override tool already."
 msgstr ""
-"Tuy nhiên, {overwritten_count} trong số những học sinh này đã nhận được điểm"
+"Tuy nhiên, {overwritten_count} trong số những học viên này đã nhận được điểm"
 " thông qua công cụ ghi đè điểm của nhân viên."
 
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:383
 msgid "Error while fetching student data."
-msgstr "Lỗi khi tìm nạp dữ liệu học sinh."
+msgstr "Lỗi khi tìm nạp dữ liệu học viên."
 
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:383
 #: xblock/static/js/src/lms/oa_base.js:441
