@@ -1,5 +1,5 @@
 {
-  "exam.hiddenContent": "Kỳ thi này được ẩn khỏi người học.",
+  "exam.hiddenContent": "Kỳ thi này được ẩn khỏi học viên.",
   "exam.apiError.supportText.withLink": "Nếu sự cố vẫn tiếp diễn, vui lòng liên hệ với {supportLink} để được hỗ trợ và quay lại bài kiểm tra sau khi bạn nhận được hướng dẫn thêm.",
   "exam.apiError.default": "Đã xảy ra lỗi hệ thống với bài kiểm tra của bạn.",
   "exam.apiError.supportText.withoutLink": "Nếu sự cố vẫn tiếp diễn, vui lòng liên hệ với bộ phận hỗ trợ để được trợ giúp và quay lại bài kiểm tra sau khi bạn nhận được hướng dẫn thêm.",

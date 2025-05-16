@@ -146,7 +146,7 @@ msgid ""
 "Allow my response to possibly be visible by other learners after submitting "
 "their response"
 msgstr ""
-"Cho phép những người học khác có thể nhìn thấy câu trả lời của tôi sau khi "
+"Cho phép những học viên khác có thể nhìn thấy câu trả lời của tôi sau khi "
 "gửi câu trả lời của họ"
 
 #: templates/view.html:21 templates/view.html:24

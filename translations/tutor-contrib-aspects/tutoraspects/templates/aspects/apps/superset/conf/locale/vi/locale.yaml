@@ -7,7 +7,7 @@ en:
   Action Date: Ngày hành động
   Active: Tích cực
   Active Courses: Các khóa học đang hoạt động
-  Active Learners: Người học tích cực
+  Active Learners: Học viên tích cực
   Active Users Per Organization: Số người dùng đang hoạt động trên mỗi tổ chức
   Actor ID: ID diễn viên
   Actor Id: Id diễn viên
@@ -15,10 +15,10 @@ en:
   All Videos Viewed: Tất cả video đã xem
   At Leat One Page Viewed: Ít nhất một trang đã được xem
   At Leat One Viewed: Tại Leat One Đã xem
-  At-Risk Learners: Người học có nguy cơ
+  At-Risk Learners: Học viên có nguy cơ
   At-risk Enrollees per Enrollment Track: Người đăng ký có nguy cơ theo lộ trình đăng ký
   At-risk Enrollment Dates: Ngày đăng ký có nguy cơ
-  At-risk learners: Người học có nguy cơ
+  At-risk learners: Học viên có nguy cơ
   Attempted All Problems: Đã thử mọi vấn đề
   Attempted at Least One Problem: Đã thử ít nhất một vấn đề
   Attempts: Nỗ lực
@@ -104,12 +104,12 @@ en:
   Grade Bucket: Mức điểm
   Grade range: Khoảng điểm
   Graded: Đã chấm điểm
-  Graded Learners: Người học đã chấm điểm
+  Graded Learners: Học viên đã chấm điểm
   Help: Giúp đỡ
   Id: Nhận dạng
   Incorrect Attempts: Nỗ lực không chính xác
-  Individual Learner Dashboard: Bảng điều khiển dành cho người học cá nhân
-  Individual Learner Reports: Báo cáo của cá nhân người học
+  Individual Learner Dashboard: Bảng điều khiển dành cho học viên cá nhân
+  Individual Learner Reports: Báo cáo của cá nhân học viên
   Instance Health: Tình trạng phiên bản
   Interaction Type: Loại tương tác
   Last Login: Lân đăng nhập cuôi
@@ -118,7 +118,7 @@ en:
   Last Visited: Lần cuối ghé thăm
   Last course syncronized: Khóa học cuối cùng đã được đồng bộ hóa
   Last visit date: Ngày ghé thăm lần cuối
-  Learners with Passing Grade: Người học đạt điểm
+  Learners with Passing Grade: Học viên đạt điểm
   Login Count: Số lần đăng nhập
   Median Course Grade: Điểm khóa học trung bình
   Median of Attempts: Số lần thử trung bình
@@ -127,8 +127,8 @@ en:
   Most-used Charts: Biểu đồ được sử dụng nhiều nhất
   Most-used Dashboards: Bảng điều khiển được sử dụng nhiều nhất
   Name: Tên
-  Number of Learners: Số lượng người học
-  Number of Learners who attemped the problem: Số lượng người học đã thử giải quyết vấn đề
+  Number of Learners: Số lượng học viên
+  Number of Learners who attemped the problem: Số lượng học viên đã thử giải quyết vấn đề
   Object ID: ID đối tượng
   Object Type: Loại đối tượng
   Operator Dashboard: Bảng điều khiển vận hành

@@ -393,7 +393,7 @@ msgstr "Lỗi máy chủ không mong muốn."
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:377
 #: xblock/static/js/src/lms/oa_staff_area.js:147
 msgid "You must provide a learner name."
-msgstr "Bạn phải cung cấp tên người học."
+msgstr "Bạn phải cung cấp tên học viên."
 
 #: xblock/static/dist/openassessment-lms.dc8bb1e464bcaaab4668.js:377
 #: xblock/static/js/src/lms/oa_staff_area.js:214
@@ -564,7 +564,7 @@ msgid ""
 "Steps tab."
 msgstr ""
 "Bạn đã thêm một tiêu chí. Bạn sẽ cần chọn một tùy chọn cho tiêu chí trong "
-"bước Đào tạo Người học. Để thực hiện việc này, hãy nhấp vào tab Các bước "
+"bước Đào tạo Học viên. Để thực hiện việc này, hãy nhấp vào tab Các bước "
 "đánh giá."
 
 #: xblock/static/dist/openassessment-studio.d576fb212cefa2e4b720.js:25
@@ -581,7 +581,7 @@ msgid ""
 "select a new option for the criterion."
 msgstr ""
 "Bạn đã xóa một tùy chọn. Tùy chọn đó đã bị xóa khỏi tiêu chí của nó trong "
-"các câu trả lời mẫu ở bước Đào tạo người học. Bạn có thể phải chọn một tùy "
+"các câu trả lời mẫu ở bước Đào tạo học viên. Bạn có thể phải chọn một tùy "
 "chọn mới cho tiêu chí."
 
 #: xblock/static/dist/openassessment-studio.d576fb212cefa2e4b720.js:25
@@ -591,7 +591,7 @@ msgid ""
 "removed from the sample responses in the Learner Training step."
 msgstr ""
 "Bạn đã xóa tất cả các tùy chọn cho tiêu chí này. Tiêu chí này đã bị xóa khỏi"
-" các câu trả lời mẫu ở bước Đào tạo Người học."
+" các câu trả lời mẫu ở bước Đào tạo Học viên."
 
 #: xblock/static/dist/openassessment-studio.d576fb212cefa2e4b720.js:25
 #: xblock/static/js/src/studio/oa_edit_listeners.js:214
@@ -605,7 +605,7 @@ msgid ""
 "example responses in the Learner Training step."
 msgstr ""
 "Bạn đã xóa một tiêu chí. Tiêu chí đã bị xóa khỏi các câu trả lời mẫu ở bước "
-"Đào tạo người học."
+"Đào tạo học viên."
 
 #: xblock/static/dist/openassessment-studio.d576fb212cefa2e4b720.js:25
 #: xblock/static/js/src/studio/oa_edit_listeners.js:394
@@ -646,7 +646,7 @@ msgid ""
 "This ORA has already been released. Changes will only affect learners making"
 " new submissions. Existing submissions will not be modified by this change."
 msgstr ""
-"ORA này đã được phát hành. Những thay đổi sẽ chỉ ảnh hưởng đến người học nộp"
+"ORA này đã được phát hành. Những thay đổi sẽ chỉ ảnh hưởng đến học viên nộp"
 " bài mới. Các bài nộp hiện tại sẽ không bị sửa đổi bởi sự thay đổi này."
 
 #: xblock/static/dist/openassessment-studio.d576fb212cefa2e4b720.js:25

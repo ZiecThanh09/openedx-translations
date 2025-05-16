@@ -1,6 +1,6 @@
 {
   "profile.page.title": "Hồ sơ | {siteName}",
-  "profile.age.details": "Để chia sẻ hồ sơ của bạn với những người học {siteName} khác, bạn phải xác nhận rằng bạn trên 13 tuổi.",
+  "profile.age.details": "Để chia sẻ hồ sơ của bạn với những học viên {siteName} khác, bạn phải xác nhận rằng bạn trên 13 tuổi.",
   "profile.age.set.date": "Đặt ngày sinh của bạn",
   "profile.datejoined.member.since": "Thành viên từ {year}",
   "profile.notfound.message": "Trang bạn đang tìm kiếm không tồn tại hoặc có lỗi trong URL. Vui lòng kiểm tra URL và thử lại.",
@@ -22,7 +22,7 @@
   "profile.education.empty": "Thêm giáo dục",
   "profile.education.education": "Giáo dục",
   "profile.education.levels.p": "tiến sĩ",
-  "profile.education.levels.m": "Bằng thạc sĩ hoặc chuyên nghiệp",
+  "profile.education.levels.m": "Bằng nâng cao hoặc chuyên nghiệp",
   "profile.education.levels.b": "Bằng cử nhân",
   "profile.education.levels.a": "Mức độ",
   "profile.education.levels.hs": "Trường trung học cơ sở",

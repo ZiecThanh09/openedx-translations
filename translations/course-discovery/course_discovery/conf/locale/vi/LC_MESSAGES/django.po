@@ -1072,7 +1072,7 @@ msgid ""
 "program."
 msgstr ""
 "Các loại chỗ ngồi đủ điều kiện để hoàn thành các chương trình thuộc loại "
-"này. Những người học hoàn thành các khóa học liên quan nhưng đăng ký vào các"
+"này. Những học viên hoàn thành các khóa học liên quan nhưng đăng ký vào các"
 " loại chỗ ngồi khác sẽ KHÔNG được tính vào việc hoàn thành chương trình."
 
 #: apps/course_metadata/models.py:484
@@ -1287,7 +1287,7 @@ msgid ""
 "The actual duration of this course as experienced by learners who complete "
 "it."
 msgstr ""
-"Thời gian thực tế của khóa học này được trải nghiệm bởi những người học hoàn"
+"Thời gian thực tế của khóa học này được trải nghiệm bởi những học viên hoàn"
 " thành nó."
 
 #: apps/course_metadata/models.py:1352
@@ -1577,7 +1577,7 @@ msgid ""
 "Number of credits a learner will earn upon successful completion of the "
 "program"
 msgstr ""
-"Số tín chỉ mà người học sẽ đạt được sau khi hoàn thành thành công chương "
+"Số tín chỉ mà học viên sẽ đạt được sau khi hoàn thành thành công chương "
 "trình"
 
 #: apps/course_metadata/models.py:3245
@@ -2331,11 +2331,11 @@ msgstr "Các bước lộ trình học tập"
 
 #: apps/learner_pathway/models.py:238
 msgid "Learner Pathway Course"
-msgstr "Khóa học lộ trình dành cho người học"
+msgstr "Khóa học lộ trình dành cho học viên"
 
 #: apps/learner_pathway/models.py:239
 msgid "Learner Pathway Courses"
-msgstr "Các khóa học lộ trình dành cho người học"
+msgstr "Các khóa học lộ trình dành cho học viên"
 
 #: apps/learner_pathway/models.py:276
 msgid "Learner Pathway Program"
@@ -2369,7 +2369,7 @@ msgstr "Khóa học ban đầu, đề xuất của nó được lưu trữ ở �
 msgid ""
 "This is the course recommended after learner completes the original course."
 msgstr ""
-"Đây là khóa học được khuyến nghị sau khi người học hoàn thành khóa học ban "
+"Đây là khóa học được khuyến nghị sau khi học viên hoàn thành khóa học ban "
 "đầu."
 
 #: apps/taxonomy_support/models.py:32

@@ -277,12 +277,12 @@ msgstr ""
 
 #: integrated_channels/canvas/models.py:195
 msgid "The amount of points that the learner scored on the subsection."
-msgstr "Số điểm mà người học đạt được ở phần phụ."
+msgstr "Số điểm mà học viên đạt được ở phần phụ."
 
 #: integrated_channels/canvas/models.py:201
 msgid ""
 "The total amount of points that the learner could score on the subsection."
-msgstr "Tổng số điểm mà người học có thể đạt được trong tiểu mục."
+msgstr "Tổng số điểm mà học viên có thể đạt được trong tiểu mục."
 
 #: integrated_channels/canvas/models.py:274
 msgid ""
@@ -439,7 +439,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Truyền dữ liệu hoàn thành khóa học của người học Enterprise cho EnterpriseCustomer nhất định.\n"
+"Truyền dữ liệu hoàn thành khóa học của học viên Enterprise cho EnterpriseCustomer nhất định.\n"
 "    "
 
 #: integrated_channels/integrated_channel/management/commands/remove_stale_integrated_channel_api_logs.py:22
@@ -459,7 +459,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Đặt lại quá trình truyền của người học SAPSF cho EnterpriseCustomer và Kênh nhất định giữa hai ngày.\n"
+"Đặt lại quá trình truyền của học viên SAPSF cho EnterpriseCustomer và Kênh nhất định giữa hai ngày.\n"
 "    "
 
 #: integrated_channels/integrated_channel/management/commands/reset_sapsf_learner_transmissions.py:31
@@ -477,7 +477,7 @@ msgid ""
 "    "
 msgstr ""
 "\n"
-"Truyền dữ liệu báo cáo cấp độ đánh giá người học của Doanh nghiệp cho Khách hàng Doanh nghiệp nhất định.\n"
+"Truyền dữ liệu báo cáo cấp độ đánh giá học viên của Doanh nghiệp cho Khách hàng Doanh nghiệp nhất định.\n"
 "    "
 
 #: integrated_channels/integrated_channel/models.py:115
@@ -493,7 +493,7 @@ msgstr "Khách hàng doanh nghiệp được liên kết với cấu hình."
 msgid "If provided, will be used as IDP slug to locate remote id for learners"
 msgstr ""
 "Nếu được cung cấp, sẽ được sử dụng làm slug IDP để định vị id từ xa cho "
-"người học"
+"học viên"
 
 #: integrated_channels/integrated_channel/models.py:136
 #: integrated_channels/xapi/models.py:40
@@ -534,7 +534,7 @@ msgid ""
 "data transmissions, both scheduled and signal based"
 msgstr ""
 "Khi được đặt thành True, khách hàng đã định cấu hình sẽ không còn nhận được "
-"truyền dữ liệu của người học, cả theo lịch trình và dựa trên tín hiệu"
+"truyền dữ liệu của học viên, cả theo lịch trình và dựa trên tín hiệu"
 
 #: integrated_channels/integrated_channel/models.py:533
 #: integrated_channels/integrated_channel/models.py:709
@@ -599,7 +599,7 @@ msgid ""
 "transmissions, for incomplete courses as well"
 msgstr ""
 "Khi được đặt thành True, khách hàng đã định cấu hình cũng sẽ nhận được "
-"truyền dữ liệu của người học đối với các khóa học chưa hoàn thành"
+"truyền dữ liệu của học viên đối với các khóa học chưa hoàn thành"
 
 #: integrated_channels/sap_success_factors/exporters/content_metadata.py:223
 #: integrated_channels/sap_success_factors/exporters/content_metadata.py:298
@@ -689,14 +689,14 @@ msgstr "Xem trước mẫu HTML được hiển thị trong bối cảnh đăng 
 
 #: enterprise/admin/forms.py:52
 msgid "To add a single learner, enter an email address or username."
-msgstr "Để thêm một người học, hãy nhập địa chỉ email hoặc tên người dùng."
+msgstr "Để thêm một học viên, hãy nhập địa chỉ email hoặc tên người dùng."
 
 #: enterprise/admin/forms.py:56
 msgid ""
 "To add multiple learners, upload a .csv file that contains a column of email"
 " addresses."
 msgstr ""
-"Để thêm nhiều người học, hãy tải lên tệp .csv chứa một cột địa chỉ email."
+"Để thêm nhiều học viên, hãy tải lên tệp .csv chứa một cột địa chỉ email."
 
 #: enterprise/admin/forms.py:61
 msgid ""
@@ -708,16 +708,16 @@ msgstr ""
 "Tệp .csv phải có một cột địa chỉ email, được biểu thị bằng tiêu đề "
 "'email' ở hàng đầu tiên. Theo tùy chọn, tệp .csv có thể chứa một cột"
 " tất nhiên các khóa chạy khóa học, được biểu thị bằng tiêu đề "
-"'course_id' ở hàng đầu tiên, để ghi danh người học vào nhiều khóa "
+"'course_id' ở hàng đầu tiên, để ghi danh học viên vào nhiều khóa "
 "học."
 
 #: enterprise/admin/forms.py:68
 msgid "Enroll these learners in this course"
-msgstr "Ghi danh những người học này vào khóa học này"
+msgstr "Ghi danh những học viên này vào khóa học này"
 
 #: enterprise/admin/forms.py:69
 msgid "To enroll learners in a course, enter a course ID."
-msgstr "Để ghi danh người học vào một khóa học, hãy nhập ID khóa học."
+msgstr "Để ghi danh học viên vào một khóa học, hãy nhập ID khóa học."
 
 #: enterprise/admin/forms.py:72
 msgid "Course enrollment track"
@@ -872,14 +872,14 @@ msgstr ""
 
 #: enterprise/admin/views.py:238
 msgid "Successfully requested the Data Sharing consent from learner."
-msgstr "Đã yêu cầu thành công sự đồng ý Chia sẻ dữ liệu từ người học."
+msgstr "Đã yêu cầu thành công sự đồng ý Chia sẻ dữ liệu từ học viên."
 
 #: enterprise/admin/views.py:478
 #, python-brace-format
 msgid "{count} new learner was added to {enterprise_customer_name}."
 msgid_plural "{count} new learners were added to {enterprise_customer_name}."
 msgstr[0] ""
-"{count} người học mới đã được thêm vào {enterprise_customer_name} ."
+"{count} học viên mới đã được thêm vào {enterprise_customer_name} ."
 
 #: enterprise/admin/views.py:492
 #, python-brace-format
@@ -887,7 +887,7 @@ msgid ""
 "The following learners were already associated with this Enterprise "
 "Customer: {list_of_emails}"
 msgstr ""
-"Những người học sau đây đã được liên kết với Khách hàng doanh nghiệp này: "
+"Những học viên sau đây đã được liên kết với Khách hàng doanh nghiệp này: "
 "{list_of_emails}"
 
 #: enterprise/admin/views.py:502
@@ -897,8 +897,8 @@ msgid ""
 "Customer. These learners were not added to {enterprise_customer_name}: "
 "{list_of_emails}"
 msgstr ""
-"Những người học sau đây đã được liên kết với một Khách hàng doanh nghiệp "
-"khác. Những người học này chưa được thêm vào {enterprise_customer_name} : "
+"Những học viên sau đây đã được liên kết với một Khách hàng doanh nghiệp "
+"khác. Những học viên này chưa được thêm vào {enterprise_customer_name} : "
 "{list_of_emails}"
 
 #: enterprise/admin/views.py:514
@@ -916,14 +916,14 @@ msgstr "Lỗi ở dòng {line} : {message}\n"
 #, python-brace-format
 msgid "{enrolled_count} learner was enrolled in {enrolled_in}."
 msgid_plural "{enrolled_count} learners were enrolled in {enrolled_in}."
-msgstr[0] "Người học {enrolled_count} đã được ghi danh vào {enrolled_in} ."
+msgstr[0] "Học viên {enrolled_count} đã được ghi danh vào {enrolled_in} ."
 
 #: enterprise/admin/views.py:657
 #, python-brace-format
 msgid ""
 "The following learners could not be enrolled in {enrolled_in}: {user_list}"
 msgstr ""
-"Những người học sau đây không thể đăng ký vào {enrolled_in} : {user_list}"
+"Những học viên sau đây không thể đăng ký vào {enrolled_in} : {user_list}"
 
 #: enterprise/admin/views.py:680
 #, python-brace-format
@@ -932,8 +932,8 @@ msgid ""
 "not been enrolled in {enrolled_in}. When these learners create an account, "
 "they will be enrolled automatically: {pending_email_list}"
 msgstr ""
-"Những người học sau đây chưa có tài khoản trên {platform_name} . Họ chưa "
-"được đăng ký {enrolled_in} . Khi những người học này tạo tài khoản, họ sẽ "
+"Những học viên sau đây chưa có tài khoản trên {platform_name} . Họ chưa "
+"được đăng ký {enrolled_in} . Khi những học viên này tạo tài khoản, họ sẽ "
 "được đăng ký tự động: {pending_email_list}"
 
 #: enterprise/admin/views.py:912
@@ -1141,10 +1141,10 @@ msgid ""
 "eligible, provide in-demand knowledge and may be applied to accelerate a "
 "Master’s Degree."
 msgstr ""
-"Một loạt các khóa học cấp độ Thạc sĩ để thăng tiến nghề nghiệp của bạn, được"
+"Một loạt các khóa học cấp độ Nâng cao để thăng tiến nghề nghiệp của bạn, được"
 " tạo ra bởi các trường đại học hàng đầu và được các công ty công nhận. Các "
 "chương trình MicroMasters đủ điều kiện nhận tín chỉ, cung cấp kiến thức theo"
-" yêu cầu và có thể được áp dụng để tăng tốc bằng Thạc sĩ."
+" yêu cầu và có thể được áp dụng để tăng tốc bằng Nâng cao."
 
 #: enterprise/constants.py:98
 msgid ""
@@ -1316,7 +1316,7 @@ msgid ""
 "course. If left unchecked, the prompt will not appear and relevant data will"
 " not be shared."
 msgstr ""
-"Bật lời nhắc đồng ý chia sẻ dữ liệu cho người học mỗi khi họ đăng ký một "
+"Bật lời nhắc đồng ý chia sẻ dữ liệu cho học viên mỗi khi họ đăng ký một "
 "khóa học. Nếu không được chọn, lời nhắc sẽ không xuất hiện và dữ liệu liên "
 "quan sẽ không được chia sẻ."
 
@@ -1325,7 +1325,7 @@ msgid ""
 "Setting to either require learners to accept data sharing consent at course "
 "enrollment, or through an external process."
 msgstr ""
-"Cài đặt yêu cầu người học chấp nhận sự đồng ý chia sẻ dữ liệu khi đăng ký "
+"Cài đặt yêu cầu học viên chấp nhận sự đồng ý chia sẻ dữ liệu khi đăng ký "
 "khóa học hoặc thông qua quy trình bên ngoài."
 
 #: enterprise/models.py:278
@@ -1333,7 +1333,7 @@ msgid ""
 "Allows learners enrolling through learning platforms to select the audit "
 "track."
 msgstr ""
-"Cho phép người học đăng ký thông qua các nền tảng học tập để chọn lộ trình "
+"Cho phép học viên đăng ký thông qua các nền tảng học tập để chọn lộ trình "
 "kiểm tra."
 
 #: enterprise/models.py:286
@@ -1341,7 +1341,7 @@ msgid ""
 "Enables transmission of audit enrollment data from learning platform "
 "learners."
 msgstr ""
-"Cho phép truyền dữ liệu đăng ký kiểm tra từ người học trên nền tảng học tập."
+"Cho phép truyền dữ liệu đăng ký kiểm tra từ học viên trên nền tảng học tập."
 
 #: enterprise/models.py:294
 msgid ""
@@ -1356,7 +1356,7 @@ msgid ""
 "Specifies whether the customer is able to assign learners to cohorts upon "
 "enrollment."
 msgstr ""
-"Chỉ định liệu khách hàng có thể chỉ định người học vào nhóm khi đăng ký hay "
+"Chỉ định liệu khách hàng có thể chỉ định học viên vào nhóm khi đăng ký hay "
 "không."
 
 #: enterprise/models.py:310
@@ -1384,8 +1384,8 @@ msgid ""
 "Automatically enabled. If unchecked, learners won't have access to the "
 "learner portal."
 msgstr ""
-"Tự động kích hoạt. Nếu bỏ chọn, người học sẽ không có quyền truy cập vào "
-"cổng thông tin dành cho người học."
+"Tự động kích hoạt. Nếu bỏ chọn, học viên sẽ không có quyền truy cập vào "
+"cổng thông tin dành cho học viên."
 
 #: enterprise/models.py:355
 msgid ""
@@ -1393,16 +1393,16 @@ msgid ""
 "learner portal. This only applies to customers with “offers”, the old "
 "version of learner credit."
 msgstr ""
-"Chỉ định liệu các ưu đãi của doanh nghiệp có được người học biết đến trong "
-"cổng thông tin dành cho người học hay không. Điều này chỉ áp dụng cho những "
-"khách hàng có “ưu đãi”, phiên bản tín dụng cũ của người học."
+"Chỉ định liệu các ưu đãi của doanh nghiệp có được học viên biết đến trong "
+"cổng thông tin dành cho học viên hay không. Điều này chỉ áp dụng cho những "
+"khách hàng có “ưu đãi”, phiên bản tín dụng cũ của học viên."
 
 #: enterprise/models.py:367
 msgid ""
 "Hides labor market data from learners (populated by features using Lightcast"
 " integration). "
 msgstr ""
-"Ẩn dữ liệu thị trường lao động với người học (được điền bằng các tính năng "
+"Ẩn dữ liệu thị trường lao động với học viên (được điền bằng các tính năng "
 "sử dụng tích hợp Lightcast). "
 
 #: enterprise/models.py:374
@@ -1410,40 +1410,40 @@ msgid ""
 "Automatically enabled. If unchecked, the learners won't be able to search "
 "for a course on the learner portal."
 msgstr ""
-"Tự động kích hoạt. Nếu bỏ chọn, người học sẽ không thể tìm kiếm khóa học "
-"trên cổng thông tin người học."
+"Tự động kích hoạt. Nếu bỏ chọn, học viên sẽ không thể tìm kiếm khóa học "
+"trên cổng thông tin học viên."
 
 #: enterprise/models.py:383
 msgid ""
 "If checked, the learners will be able to see the link to CEN on the learner "
 "portal dashboard."
 msgstr ""
-"Nếu được chọn, người học sẽ có thể nhìn thấy liên kết tới CEN trên bảng điều"
-" khiển cổng thông tin dành cho người học."
+"Nếu được chọn, học viên sẽ có thể nhìn thấy liên kết tới CEN trên bảng điều"
+" khiển cổng thông tin dành cho học viên."
 
 #: enterprise/models.py:391
 msgid ""
 "If checked, the learners will be able to see the pathways on the learner "
 "portal dashboard."
 msgstr ""
-"Nếu được chọn, người học sẽ có thể nhìn thấy lộ trình trên bảng điều khiển "
-"cổng thông tin dành cho người học."
+"Nếu được chọn, học viên sẽ có thể nhìn thấy lộ trình trên bảng điều khiển "
+"cổng thông tin dành cho học viên."
 
 #: enterprise/models.py:399
 msgid ""
 "If checked, the learners will be able to see the programs on the learner "
 "portal dashboard."
 msgstr ""
-"Nếu được chọn, người học sẽ có thể xem các chương trình trên bảng điều khiển"
-" cổng thông tin dành cho người học."
+"Nếu được chọn, học viên sẽ có thể xem các chương trình trên bảng điều khiển"
+" cổng thông tin dành cho học viên."
 
 #: enterprise/models.py:407
 msgid ""
 "If checked, the learners will be able to see the academies on the learner "
 "portal dashboard."
 msgstr ""
-"Nếu được chọn, người học sẽ có thể xem các học viện trên bảng điều khiển "
-"cổng thông tin người học."
+"Nếu được chọn, học viên sẽ có thể xem các học viện trên bảng điều khiển "
+"cổng thông tin học viên."
 
 #: enterprise/models.py:414
 msgid ""
@@ -1473,7 +1473,7 @@ msgid ""
 "Allows a learner to input customer slug to identify their org in the SSO "
 "process. Should be enabled for customers that leverage SSO."
 msgstr ""
-"Cho phép người học nhập mã khách hàng để xác định tổ chức của họ trong quy "
+"Cho phép học viên nhập mã khách hàng để xác định tổ chức của họ trong quy "
 "trình SSO. Nên kích hoạt cho những khách hàng sử dụng SSO."
 
 #: enterprise/models.py:441
@@ -1514,7 +1514,7 @@ msgstr ""
 
 #: enterprise/models.py:478
 msgid "Specifies the default language for learners of the organization."
-msgstr "Chỉ định ngôn ngữ mặc định cho người học của tổ chức."
+msgstr "Chỉ định ngôn ngữ mặc định cho học viên của tổ chức."
 
 #: enterprise/models.py:488
 msgid "Specifies the sender alias for automated emails from the edX system."
@@ -1524,7 +1524,7 @@ msgstr "Chỉ định bí danh người gửi cho các email tự động từ h
 msgid ""
 "Email address that will receive learner replies to automated edX emails."
 msgstr ""
-"Địa chỉ email sẽ nhận được phản hồi của người học đối với email edX tự động."
+"Địa chỉ email sẽ nhận được phản hồi của học viên đối với email edX tự động."
 
 #: enterprise/models.py:507
 msgid ""
@@ -1532,7 +1532,7 @@ msgid ""
 "network."
 msgstr ""
 "Nội dung tin nhắn hiển thị trên trang tổng quan cổng thông tin dành cho "
-"người học dành cho mạng lưới gắn kết nghề nghiệp."
+"học viên dành cho mạng lưới gắn kết nghề nghiệp."
 
 #: enterprise/models.py:836
 msgid ""
@@ -1558,7 +1558,7 @@ msgstr "Học viên khách hàng doanh nghiệp"
 
 #: enterprise/models.py:1069
 msgid "Enterprise Customer Learners"
-msgstr "Người học khách hàng doanh nghiệp"
+msgstr "Học viên khách hàng doanh nghiệp"
 
 #: enterprise/models.py:1672
 msgid "Logo images must be in .png format."
@@ -1581,19 +1581,19 @@ msgstr ""
 #: enterprise/models.py:1865
 msgid ""
 "The UUID of the course (not course run) in which the learner is entitled."
-msgstr "UUID của khóa học (không phải khóa học) mà người học có quyền."
+msgstr "UUID của khóa học (không phải khóa học) mà học viên có quyền."
 
 #: enterprise/models.py:1875
 msgid "The enterprise learner to which this entitlement is attached."
-msgstr "Người học doanh nghiệp được hưởng quyền này."
+msgstr "Học viên doanh nghiệp được hưởng quyền này."
 
 #: enterprise/models.py:1998
 msgid "The enterprise learner to which this enrollment is attached."
-msgstr "Người học doanh nghiệp mà việc đăng ký này được đính kèm."
+msgstr "Học viên doanh nghiệp mà việc đăng ký này được đính kèm."
 
 #: enterprise/models.py:2005
 msgid "The ID of the course in which the learner was enrolled."
-msgstr "ID của khóa học mà người học đã đăng ký."
+msgstr "ID của khóa học mà học viên đã đăng ký."
 
 #: enterprise/models.py:2012
 msgid ""
@@ -1601,7 +1601,7 @@ msgid ""
 "learner portal."
 msgstr ""
 "Chỉ định xem người dùng có đánh dấu khóa học này là được lưu để sử dụng sau "
-"trong cổng thông tin dành cho người học hay không."
+"trong cổng thông tin dành cho học viên hay không."
 
 #: enterprise/models.py:2028
 msgid ""
@@ -1685,7 +1685,7 @@ msgid ""
 "Ordered list of enrollment modes which can be displayed to learners for "
 "course runs in this catalog."
 msgstr ""
-"Danh sách theo thứ tự các chế độ đăng ký có thể được hiển thị cho người học "
+"Danh sách theo thứ tự các chế độ đăng ký có thể được hiển thị cho học viên "
 "trong các khóa học trong danh mục này."
 
 #: enterprise/models.py:2493
@@ -1709,8 +1709,8 @@ msgid ""
 "Fill in a standard Django template that, when rendered, produces the email you want sent to newly-enrolled Enterprise Customer learners. The following variables may be available:\n"
 "<ul><li>user_name: A human-readable name for the person being emailed. Be sure to handle the case where this is not defined, as it may be missing in some cases. It may also be a username, if the learner hasn't configured their \"real\" name in the system.</li>    <li>organization_name: The name of the organization sponsoring the enrollment.</li>    <li>enrolled_in: Details of the course or program that was enrolled in. It may contain:    <ul><li>name: The name of the enrollable item (e.g., \"Demo Course\").</li>        <li>url: A link to the homepage of the enrolled-in item.</li>        <li>branding: A custom branding name for the enrolled-in item. For example, the branding of a MicroMasters program would be \"MicroMasters\".</li>     <li>start: The date the enrolled-in item becomes available. Render this to text using the Django `date` template filter (see <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">the Django documentation</a>).</li><li>type: Whether the enrolled-in item is a course, a program, or something else.</li></ul></ul>"
 msgstr ""
-"Điền vào mẫu Django tiêu chuẩn mà khi hiển thị sẽ tạo ra email bạn muốn gửi cho những người học là Khách hàng doanh nghiệp mới đăng ký. Các biến sau đây có thể có sẵn:\n"
-"<ul><li> user_name: Tên dễ đọc của người được gửi email. Hãy chắc chắn xử lý trường hợp không xác định được điều này vì nó có thể bị thiếu trong một số trường hợp. Nó cũng có thể là tên người dùng nếu người học chưa định cấu hình tên 'thật' của họ trong hệ thống.</li><li> Organ_name: Tên của tổ chức tài trợ cho việc tuyển sinh.</li><li> đã đăng ký_in: Chi tiết về khóa học hoặc chương trình đã được đăng ký. Nó có thể chứa:<ul><li> name: Tên của mục có thể đăng ký (ví dụ: 'Khóa học demo').</li><li> url: Liên kết đến trang chủ của mục đã đăng ký.</li><li> xây dựng thương hiệu: Tên thương hiệu tùy chỉnh cho mục đã đăng ký. Ví dụ: nhãn hiệu của chương trình MicroMasters sẽ là 'MicroMasters'.</li><li> bắt đầu: Ngày mục đã đăng ký sẽ có sẵn. Hiển thị nội dung này thành văn bản bằng bộ lọc mẫu Django `date` (xem <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">tài liệu Django</a> ).</li><li> loại: Mục đã đăng ký là một khóa học, một chương trình hay thứ gì khác.</li></ul></ul>"
+"Điền vào mẫu Django tiêu chuẩn mà khi hiển thị sẽ tạo ra email bạn muốn gửi cho những học viên là Khách hàng doanh nghiệp mới đăng ký. Các biến sau đây có thể có sẵn:\n"
+"<ul><li> user_name: Tên dễ đọc của người được gửi email. Hãy chắc chắn xử lý trường hợp không xác định được điều này vì nó có thể bị thiếu trong một số trường hợp. Nó cũng có thể là tên người dùng nếu học viên chưa định cấu hình tên 'thật' của họ trong hệ thống.</li><li> Organ_name: Tên của tổ chức tài trợ cho việc tuyển sinh.</li><li> đã đăng ký_in: Chi tiết về khóa học hoặc chương trình đã được đăng ký. Nó có thể chứa:<ul><li> name: Tên của mục có thể đăng ký (ví dụ: 'Khóa học demo').</li><li> url: Liên kết đến trang chủ của mục đã đăng ký.</li><li> xây dựng thương hiệu: Tên thương hiệu tùy chỉnh cho mục đã đăng ký. Ví dụ: nhãn hiệu của chương trình MicroMasters sẽ là 'MicroMasters'.</li><li> bắt đầu: Ngày mục đã đăng ký sẽ có sẵn. Hiển thị nội dung này thành văn bản bằng bộ lọc mẫu Django `date` (xem <a href=\"https://docs.djangoproject.com/en/1.8/ref/templates/builtins/#date\">tài liệu Django</a> ).</li><li> loại: Mục đã đăng ký là một khóa học, một chương trình hay thứ gì khác.</li></ul></ul>"
 
 #: enterprise/models.py:2786
 #, python-brace-format
@@ -1996,7 +1996,7 @@ msgstr "Doanh nghiệp có thể được liên kết bằng khóa này."
 
 #: enterprise/models.py:3687
 msgid "The number of times this key can be used to link a learner."
-msgstr "Số lần khóa này có thể được sử dụng để liên kết một người học."
+msgstr "Số lần khóa này có thể được sử dụng để liên kết một học viên."
 
 #: enterprise/models.py:3696
 msgid "The key will no longer be valid after this date."
@@ -2155,7 +2155,7 @@ msgstr "Chỉ định tên nhóm doanh nghiệp."
 msgid ""
 "When enabled, all learners connected to the org will be considered a member."
 msgstr ""
-"Khi được bật, tất cả người học được kết nối với tổ chức sẽ được coi là thành"
+"Khi được bật, tất cả học viên được kết nối với tổ chức sẽ được coi là thành"
 " viên."
 
 #: enterprise/models.py:4269
@@ -2211,7 +2211,7 @@ msgstr "Xóa sự đồng ý chia sẻ dữ liệu"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:65
 msgid "Manage Learners"
-msgstr "Quản lý người học"
+msgstr "Quản lý học viên"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:68
 msgid "Search Term: "
@@ -2240,7 +2240,7 @@ msgstr "Tham gia"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:139
 msgid "Learner Email"
-msgstr "Email của người học"
+msgstr "Email của học viên"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:140
 msgid "Date Added"
@@ -2248,7 +2248,7 @@ msgstr "Ngày thêm"
 
 #: enterprise/templates/enterprise/admin/manage_learners.html:162
 msgid "Link learners"
-msgstr "Liên kết người học"
+msgstr "Liên kết học viên"
 
 #: enterprise/templates/enterprise/admin/setup_auth_org_id.html:21
 #: enterprise/templates/enterprise/admin/setup_auth_org_id.html:28
@@ -2281,7 +2281,7 @@ msgstr ""
 
 #: enterprise/utils.py:148
 msgid "Error: Learners could not be added. Correct the following errors."
-msgstr "Lỗi: Không thể thêm người học. Sửa các lỗi sau."
+msgstr "Lỗi: Không thể thêm học viên. Sửa các lỗi sau."
 
 #: enterprise/utils.py:150
 #, python-brace-format

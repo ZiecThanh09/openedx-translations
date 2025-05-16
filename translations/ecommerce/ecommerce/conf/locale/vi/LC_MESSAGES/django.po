@@ -1082,7 +1082,7 @@ msgstr ""
 "{paragraph_start} Bằng cách mua, bạn và tổ chức của bạn đồng ý với các điều "
 "khoản sau: {paragraph_end} {ul_start} {li_start} Mỗi mã có giá trị cho một "
 "khóa học và chỉ có thể sử dụng một lần. {li_end} {li_start} Bạn có trách "
-"nhiệm phân phát mã cho người học trong tổ chức của mình. {li_end} {li_start}"
+"nhiệm phân phát mã cho học viên trong tổ chức của mình. {li_end} {li_start}"
 " Mỗi mã sẽ hết hạn sau một năm kể từ ngày mua hoặc nếu sớm hơn thì sau khi "
 "khóa học kết thúc. {li_end} {li_start} Nếu một khóa học không được chỉ định "
 "là theo nhịp độ riêng, bạn nên xác nhận rằng một khóa học có sẵn trước khi "
@@ -1102,7 +1102,7 @@ msgid ""
 msgstr ""
 "{strong_start} Chỉ mua cho chính mình? {strong_end} {paragraph_start} Nếu "
 "bạn đang mua một mã duy nhất cho người khác, vui lòng tiếp tục thanh toán. "
-"Tuy nhiên, nếu bạn là người học {link_start} hãy quay lại {link_end} để đăng"
+"Tuy nhiên, nếu bạn là học viên {link_start} hãy quay lại {link_end} để đăng"
 " ký trực tiếp. {paragraph_end}"
 
 #: extensions/basket/views.py:439
@@ -3099,7 +3099,7 @@ msgstr ""
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:34
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:9
 msgid "Distribute one code per learner before the expiration date."
-msgstr "Phân phối một mã cho mỗi người học trước ngày hết hạn."
+msgstr "Phân phối một mã cho mỗi học viên trước ngày hết hạn."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:35
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:10
@@ -3109,7 +3109,7 @@ msgstr "Mẹo chuyên nghiệp: Theo dõi mã nào được liên kết với ng
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:36
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:11
 msgid "Learners sign-in/register with edX and enroll for the course."
-msgstr "Người học đăng nhập/đăng ký với edX và đăng ký khóa học."
+msgstr "Học viên đăng nhập/đăng ký với edX và đăng ký khóa học."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:39
 #, python-brace-format
@@ -3153,7 +3153,7 @@ msgstr ""
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:64
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:21
 msgid "You are responsible for distributing codes to your learners."
-msgstr "Bạn có trách nhiệm phân phối mã cho người học của mình."
+msgstr "Bạn có trách nhiệm phân phối mã cho học viên của mình."
 
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.html:65
 #: templates/oscar/communication/emails/commtype_order_with_csv_body.txt:22

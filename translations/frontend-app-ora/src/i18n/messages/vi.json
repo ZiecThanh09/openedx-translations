@@ -62,7 +62,7 @@
     "frontend-app-ora.instructions.submission": "Nhập câu trả lời của bạn cho lời nhắc. Đánh giá của bạn sẽ được lưu tự động và bạn có thể quay lại để hoàn thành trước hạn nộp. Sau khi nộp bài, bạn không thể chỉnh sửa.",
     "frontend-app-ora.instructions.studentTraining": "Trước khi bắt đầu đánh giá bài của bạn bè, bạn sẽ học cách thực hiện đánh giá bằng cách xem xét các phản hồi đã được giảng viên đánh giá. Nếu bạn chọn cùng một tùy chọn với giảng viên, bạn sẽ chuyển sang bước tiếp theo. Nếu không, bạn cần xem lại và thử lại.",
     "frontend-app-ora.instructions.selfAssessment": "Đánh giá câu trả lời của bạn",
-    "frontend-app-ora.instructions.peerAssessment": "Đọc và đánh giá phản hồi từ một trong những người học khác.",
+    "frontend-app-ora.instructions.peerAssessment": "Đọc và đánh giá phản hồi từ một trong những học viên khác.",
     "frontend-app-ora.instructions.done": "Bạn đã hoàn thành bài tập này thành công và nhận được {earned}/{possible}.",
     "frontend-app-ora.instructions.header": "Hướng dẫn",
     "ora-mfe.ModalActions.simpleAction.finishLater": "Hoàn thành sau",

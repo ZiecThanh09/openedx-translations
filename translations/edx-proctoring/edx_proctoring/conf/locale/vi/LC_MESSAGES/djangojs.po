@@ -314,7 +314,7 @@ msgstr "Tín dụng"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:47
 msgid "Master's"
-msgstr "Thạc sĩ"
+msgstr "Nâng cao"
 
 #: static/proctoring/js/views/proctored_exam_onboarding_view.js:48
 msgid "Executive Education"

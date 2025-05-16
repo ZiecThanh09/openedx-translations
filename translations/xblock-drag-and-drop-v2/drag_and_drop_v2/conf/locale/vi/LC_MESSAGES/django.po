@@ -116,7 +116,7 @@ msgstr "Tiêu đề"
 #: drag_and_drop_v2.py:85
 msgid ""
 "The title of the drag and drop problem. The title is displayed to learners."
-msgstr "Tiêu đề của vấn đề kéo và thả. Tiêu đề được hiển thị cho người học."
+msgstr "Tiêu đề của vấn đề kéo và thả. Tiêu đề được hiển thị cho học viên."
 
 #: drag_and_drop_v2.py:87
 msgid "Drag and Drop"
@@ -132,9 +132,9 @@ msgid ""
 "drops an item on a target zone. Assessment mode: the problem provides "
 "feedback only after a learner drops all available items on target zones."
 msgstr ""
-"Chế độ tiêu chuẩn: bài toán cung cấp phản hồi ngay lập tức mỗi khi người học"
+"Chế độ tiêu chuẩn: bài toán cung cấp phản hồi ngay lập tức mỗi khi học viên"
 " đánh rơi một vật phẩm vào vùng mục tiêu. Chế độ đánh giá: vấn đề chỉ cung "
-"cấp phản hồi sau khi người học bỏ tất cả các mục có sẵn vào vùng mục tiêu."
+"cấp phản hồi sau khi học viên bỏ tất cả các mục có sẵn vào vùng mục tiêu."
 
 #: drag_and_drop_v2.py:101
 msgid "Standard"
@@ -162,7 +162,7 @@ msgstr "Hiển thị tiêu đề"
 
 #: drag_and_drop_v2.py:121
 msgid "Display the title to the learner?"
-msgstr "Hiển thị tiêu đề cho người học?"
+msgstr "Hiển thị tiêu đề cho học viên?"
 
 #: drag_and_drop_v2.py:128
 msgid "Problem text"
@@ -170,7 +170,7 @@ msgstr "Văn bản vấn đề"
 
 #: drag_and_drop_v2.py:129
 msgid "The description of the problem or instructions shown to the learner."
-msgstr "Mô tả vấn đề hoặc hướng dẫn hiển thị cho người học."
+msgstr "Mô tả vấn đề hoặc hướng dẫn hiển thị cho học viên."
 
 #: drag_and_drop_v2.py:136
 msgid "Show \"Problem\" heading"
@@ -301,7 +301,7 @@ msgid ""
 "Information about current positions of items that a learner has dropped on "
 "the target image."
 msgstr ""
-"Thông tin về vị trí hiện tại của vật phẩm mà người học đã đánh rơi trên ảnh "
+"Thông tin về vị trí hiện tại của vật phẩm mà học viên đã đánh rơi trên ảnh "
 "mục tiêu."
 
 #: drag_and_drop_v2.py:218
@@ -311,7 +311,7 @@ msgstr "Số lần học viên đã sử dụng"
 #: drag_and_drop_v2.py:225
 msgid "Indicates whether a learner has completed the problem at least once"
 msgstr ""
-"Cho biết liệu người học đã hoàn thành bài toán ít nhất một lần hay chưa"
+"Cho biết liệu học viên đã hoàn thành bài toán ít nhất một lần hay chưa"
 
 #: drag_and_drop_v2.py:232
 msgid ""
