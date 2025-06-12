@@ -483,5 +483,6 @@
   "video.completion.warning": "Bạn cần xem hết video ít nhất một lần trước khi thực hiện hành động đối với video",
   "learner-dash.courseCard.banners.progressLabel": "Tiến độ hoàn thành",
   "learner-dash.courseFilterControl.grid": "Lưới",
-  "learner-dash.courseFilterControl.list": "Danh sách"
+  "learner-dash.courseFilterControl.list": "Danh sách",
+  "progress.downloadAnswerFile": "Tải file đáp án"
 }

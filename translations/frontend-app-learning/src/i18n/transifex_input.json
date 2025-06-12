@@ -484,5 +484,6 @@
   "learner-dash.courseCard.banners.progressLabel": "Progress status",
   "learner-dash.courseFilterControl.grid": "Grid",
   "learner-dash.courseFilterControl.list": "List",
-  "tours.newUserModal.title": "{welcome} {siteName}!"
+  "tours.newUserModal.title": "{welcome} {siteName}!",
+  "progress.downloadAnswerFile": "Download answer file"
 }
