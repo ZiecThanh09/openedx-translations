@@ -485,11 +485,11 @@
   "learner-dash.courseFilterControl.grid": "Lưới",
   "learner-dash.courseFilterControl.list": "Danh sách",
   "progress.downloadAnswerFile": "Tải file đáp án",
-  "id.unit.navigation.modal.certificates": "Chứng chỉ",
-  "id.unit.navigation.modal.cancel": "Hủy",
-  "id.unit.navigation.modal.outline": "Đề cương",
-  "id.unit.navigation.modal.title": "Hoàn thành khóa học",
-  "id.unit.navigation.modal.loadingCertificate": "Đang tạo chứng chỉ, vui lòng đợi...",
-  "id.unit.navigation.modal.body": "Bạn đã hoàn thành khóa học! Bạn muốn xem chứng chỉ hay quay lại đề cương khóa học?",
-  "id.learn.sequence.navigation.finish.button": "Hoàn thành"
+  "unit.navigation.modal.certificates": "Chứng chỉ",
+  "unit.navigation.modal.cancel": "Hủy",
+  "unit.navigation.modal.outline": "Đề cương",
+  "unit.navigation.modal.title": "Hoàn thành khóa học",
+  "unit.navigation.modal.loadingCertificate": "Đang tạo chứng chỉ, vui lòng đợi...",
+  "unit.navigation.modal.body": "Bạn đã hoàn thành khóa học! Bạn muốn xem chứng chỉ hay quay lại đề cương khóa học?",
+  "learn.sequence.navigation.finish.button": "Hoàn thành"
 }

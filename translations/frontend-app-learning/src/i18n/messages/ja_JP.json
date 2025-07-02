@@ -485,11 +485,11 @@
   "learner-dash.courseFilterControl.grid": "グリッド",
   "learner-dash.courseFilterControl.list": "リスト",
   "progress.downloadAnswerFile": "解答ファイルをダウンロード",
-  "id.unit.navigation.modal.certificates": "修了証",
-  "id.unit.navigation.modal.cancel": "キャンセル",
-  "id.unit.navigation.modal.outline": "概要",
-  "id.unit.navigation.modal.title": "コース修了",
-  "id.unit.navigation.modal.loadingCertificate": "修了証を生成しています。しばらくお待ちください…",
-  "id.unit.navigation.modal.body": "コースを修了しました！修了証を表示しますか？それともコース概要に戻りますか？",
-  "id.learn.sequence.navigation.finish.button": "完了する"
+  "unit.navigation.modal.certificates": "修了証",
+  "unit.navigation.modal.cancel": "キャンセル",
+  "unit.navigation.modal.outline": "概要",
+  "unit.navigation.modal.title": "コース修了",
+  "unit.navigation.modal.loadingCertificate": "修了証を生成しています。しばらくお待ちください…",
+  "unit.navigation.modal.body": "コースを修了しました！修了証を表示しますか？それともコース概要に戻りますか？",
+  "learn.sequence.navigation.finish.button": "完了する"
 }

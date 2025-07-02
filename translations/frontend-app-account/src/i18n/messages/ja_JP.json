@@ -356,6 +356,6 @@
   "id.verification.account.name.summary.alert": "あなたのアカウント設定は {managerTitle} によって管理されています。写真付き身分証明書の名前がアカウントの名前と一致しない場合は、{profileDataManager} 管理者または {support} にお問い合わせください。",
   "idv.submission.alert.error": "ID 確認を送信しようとしたときに技術的エラーが発生しました。これは一時的な問題である可能性がありますので、数分後にもう一度お試しください。問題が解決しない場合は、{support_link} にアクセスしてサポートを受けてください。",
   "id.verification.account.name.edit": "{sr}を編集",
-  "id.account.button.next": "次へ",
-  "id.account.information.alert": " 続行するには、必須情報をすべて入力する必要があります。"
+  "account.button.next": "次へ",
+  "account.information.alert": " 続行するには、必須情報をすべて入力する必要があります。"
 }
