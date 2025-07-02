@@ -486,11 +486,11 @@
   "learner-dash.courseFilterControl.list": "List",
   "tours.newUserModal.title": "{welcome} {siteName}!",
   "progress.downloadAnswerFile": "Download answer file",
-  "unit.navigation.modal.certificates": "Certificate",
-  "unit.navigation.modal.cancel": "Cancel",
-  "unit.navigation.modal.outline": "Outline",
-  "unit.navigation.modal.title": "Complete Course",
-  "unit.navigation.modal.loadingCertificate": "Generating certificate, please wait...",
-  "unit.navigation.modal.body": "You have completed the course! Would you like to view your certificate or return to the course outline?",
-  "learn.sequence.navigation.finish.button": "Finish"
+  "id.unit.navigation.modal.certificates": "Certificate",
+  "id.unit.navigation.modal.cancel": "Cancel",
+  "id.unit.navigation.modal.outline": "Outline",
+  "id.unit.navigation.modal.title": "Complete Course",
+  "id.unit.navigation.modal.loadingCertificate": "Generating certificate, please wait...",
+  "id.unit.navigation.modal.body": "You have completed the course! Would you like to view your certificate or return to the course outline?",
+  "id.learn.sequence.navigation.finish.button": "Finish"
 }
