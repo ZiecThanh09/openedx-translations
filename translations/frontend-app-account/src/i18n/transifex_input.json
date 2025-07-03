@@ -356,6 +356,6 @@
   "id.verification.account.name.summary.alert": "Your account settings are managed by {managerTitle}. If the name on your photo ID does not match the name on your account, please contact your {profileDataManager} administrator or {support} for help.",
   "idv.submission.alert.error": "We encountered a technical error while trying to submit ID verification. This might be a temporary issue, so please try again in a few minutes. If the problem persists, please go to {support_link} for help.",
   "id.verification.account.name.edit": "Edit {sr}",
-  "account.button.next": "Next",
+  "account.button.next": "Save and Start Learning",
   "account.information.alert": "Please complete all required fields."
 }
