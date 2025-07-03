@@ -487,9 +487,9 @@
   "progress.downloadAnswerFile": "Tải file đáp án",
   "unit.navigation.modal.certificates": "Chứng chỉ",
   "unit.navigation.modal.cancel": "Hủy",
-  "unit.navigation.modal.outline": "Đề cương",
+  "unit.navigation.modal.outline": "Tổng quan",
   "unit.navigation.modal.title": "Hoàn thành khóa học",
   "unit.navigation.modal.loadingCertificate": "Đang tạo chứng chỉ, vui lòng đợi...",
-  "unit.navigation.modal.body": "Bạn đã hoàn thành khóa học! Bạn muốn xem chứng chỉ hay quay lại đề cương khóa học?",
+  "unit.navigation.modal.body": "Chúc mừng! Bạn đã hoàn thành khóa học!",
   "learn.sequence.navigation.finish.button": "Hoàn thành"
 }
