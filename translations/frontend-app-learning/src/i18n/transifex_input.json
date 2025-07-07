@@ -492,5 +492,6 @@
   "unit.navigation.modal.title": "Complete Course",
   "unit.navigation.modal.loadingCertificate": "Generating certificate, please wait...",
   "unit.navigation.modal.body": "You have completed the course! Would you like to view your certificate or return to the course outline?",
-  "learn.sequence.navigation.finish.button": "Finish"
+  "learn.sequence.navigation.finish.button": "Finish",
+  "unit.navigation.modal.notEligible": "You are not yet eligible for the certificate."
 }

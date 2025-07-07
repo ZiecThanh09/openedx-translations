@@ -491,5 +491,6 @@
   "unit.navigation.modal.title": "コース修了",
   "unit.navigation.modal.loadingCertificate": "修了証を生成しています。しばらくお待ちください…",
   "unit.navigation.modal.body": "おめでとうございます！コースを修了しました！",
-  "learn.sequence.navigation.finish.button": "完了する"
+  "learn.sequence.navigation.finish.button": "完了する",
+  "unit.navigation.modal.notEligible": "あなたはまだ修了証を取得する条件を満たしていません。"
 }

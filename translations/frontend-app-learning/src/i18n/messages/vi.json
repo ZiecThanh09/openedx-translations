@@ -491,5 +491,6 @@
   "unit.navigation.modal.title": "Hoàn thành khóa học",
   "unit.navigation.modal.loadingCertificate": "Đang tạo chứng chỉ, vui lòng đợi...",
   "unit.navigation.modal.body": "Chúc mừng! Bạn đã hoàn thành khóa học!",
-  "learn.sequence.navigation.finish.button": "Hoàn thành"
+  "learn.sequence.navigation.finish.button": "Hoàn thành",
+  "unit.navigation.modal.notEligible": "Bạn chưa đủ điều kiện đạt chứng chỉ"
 }
