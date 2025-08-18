@@ -9727,7 +9727,7 @@ msgstr "短縮表示"
 
 #: lms/templates/discovery/course_card.underscore:6
 msgid "LEARN MORE"
-msgstr "詳しく学ぶ"
+msgstr "詳細を学んでください"
 
 #: lms/templates/discovery/course_card.underscore:17
 #, python-format
