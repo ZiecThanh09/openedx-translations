@@ -177,5 +177,10 @@
   "complete.your.profile.2": "Hồ sơ của bạn",
   "register.page.terms.of.service.and.honor.code": "Bằng cách tạo tài khoản, bạn đồng ý với {tosAndHonorCode} và bạn thừa nhận rằng {platformName} và mỗi thành viên xử lý dữ liệu cá nhân của bạn theo {privacyPolicy}.",
   "register.page.honor.code": "Tôi đồng ý với {platformName} {tosAndHonorCode}",
-  "register.page.terms.of.service": "Tôi đồng ý với {platformName} {termsOfService}"
+  "register.page.terms.of.service": "Tôi đồng ý với {platformName} {termsOfService}",
+  "login.subtitle": "Chào mừng bạn trở lại! Đăng nhập để truy cập các khóa học của bạn",
+  "register.subtitle": "Tạo một tài khoản và bắt đầu học ngay hôm nay!",
+  "register.already.have.account": "Đã có tài khoản?",
+  "login.no.account": "Bạn chưa có tài khoản?",
+  "register.now": "Đăng ký ngay!"
 }

@@ -162,5 +162,7 @@
   "learner-dash.courseCard.banners.credit.rejected": "{providerName} はコース クレジットのリクエストを承認しませんでした。",
   "learner-dash.courseCard.banners.credit.requestCredit": "クレジットをリクエストする",
   "learner-dash.courseCard.banners.credit.viewCredit": "クレジットを見る",
-  "learner-dash.courseCard.banners.credit.viewDetails": "詳細を見る"
+  "learner-dash.courseCard.banners.credit.viewDetails": "詳細を見る",
+  "course.card.start.label": "開始",
+  "course.card.end.label": "終了"
 }

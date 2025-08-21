@@ -177,5 +177,10 @@
   "complete.your.profile.2": "あなたのプロフィール",
   "register.page.terms.of.service.and.honor.code": "アカウントを作成すると、{tosAndHonorCode} に同意し、{platformName} と各メンバーが {privacyPolicy} に従って個人データを処理することを承認したことになります。",
   "register.page.honor.code": "{platformName} {tosAndHonorCode} に同意します",
-  "register.page.terms.of.service": "{platformName} {termsOfService} に同意します"
+  "register.page.terms.of.service": "{platformName} {termsOfService} に同意します",
+  "login.subtitle": "おかえりなさい！ コースにアクセスするにはサインインしてください",
+  "register.subtitle": "アカウントを作成して、今日から学び始めましょう！",
+  "register.already.have.account": "すでにアカウントをお持ちですか？",
+  "login.no.account": "アカウントをお持ちでないですか？",
+  "register.now": "今すぐ登録！"
 }
