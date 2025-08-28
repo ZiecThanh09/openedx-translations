@@ -164,5 +164,7 @@
   "learner-dash.courseCard.banners.credit.viewCredit": "クレジットを見る",
   "learner-dash.courseCard.banners.credit.viewDetails": "詳細を見る",
   "course.card.start.label": "開始",
-  "course.card.end.label": "終了"
+  "course.card.end.label": "終了",
+  "learner-dash.courseCard.banners.progressLabel": "進捗状況",
+  "course.card.no.description": "説明はありません"
 }

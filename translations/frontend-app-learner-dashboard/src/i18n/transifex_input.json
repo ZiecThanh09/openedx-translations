@@ -164,5 +164,7 @@
   "learner-dash.courseCard.banners.credit.viewCredit": "View Credit",
   "learner-dash.courseCard.banners.credit.viewDetails": "View Details",
   "course.card.start.label": "Start",
-  "course.card.end.label": "End"
+  "course.card.end.label": "End",
+  "learner-dash.courseCard.banners.progressLabel": "Progress status",
+  "course.card.no.description": "No description available"
 }

@@ -109,7 +109,7 @@
   "account.settings.field.social.platform.name.twitter.empty": "Twitterプロフィールを追加",
   "account.settings.field.social.platform.name.facebook": "フェイスブック",
   "account.settings.field.social.platform.name.facebook.empty": "Facebookプロフィールを追加",
-  "account.settings.editable.field.action.save": "保存",
+  "account.settings.editable.field.action.save": "変更を保存",
   "account.settings.editable.field.action.cancel": "キャンセル",
   "account.settings.editable.field.action.edit": "編集",
   "account.settings.static.field.empty": "値が設定されていません。変更するには、{enterprise} 管理者に問い合わせてください。",
@@ -357,5 +357,6 @@
   "idv.submission.alert.error": "ID 確認を送信しようとしたときに技術的エラーが発生しました。これは一時的な問題である可能性がありますので、数分後にもう一度お試しください。問題が解決しない場合は、{support_link} にアクセスしてサポートを受けてください。",
   "id.verification.account.name.edit": "{sr}を編集",
   "account.button.next": "保存して学習を開始",
-  "account.information.alert": " 続行するには、必須情報をすべて入力する必要があります。"
+  "account.information.alert": " 続行するには、必須情報をすべて入力する必要があります。",
+  "account.settings.section.change.password": "パスワードを変更"
 }

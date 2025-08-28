@@ -357,5 +357,6 @@
   "idv.submission.alert.error": "We encountered a technical error while trying to submit ID verification. This might be a temporary issue, so please try again in a few minutes. If the problem persists, please go to {support_link} for help.",
   "id.verification.account.name.edit": "Edit {sr}",
   "account.button.next": "Save and Start Learning",
-  "account.information.alert": "Please complete all required fields."
+  "account.information.alert": "Please complete all required fields.",
+  "account.settings.section.change.password": "Change Password"
 }

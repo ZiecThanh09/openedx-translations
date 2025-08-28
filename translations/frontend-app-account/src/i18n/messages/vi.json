@@ -357,5 +357,6 @@
   "idv.submission.alert.error": "Chúng tôi đã gặp phải lỗi kỹ thuật khi cố gắng gửi xác minh ID. Đây có thể là sự cố tạm thời, vì vậy vui lòng thử lại sau vài phút. Nếu sự cố vẫn tiếp diễn, vui lòng truy cập {support_link} để được trợ giúp.",
   "id.verification.account.name.edit": "Chỉnh sửa {sr}",
   "account.button.next": "Lưu và Bắt đầu học",
-  "account.information.alert": "Bạn cần điền đủ thông tin bắt buộc để có thể tiếp tục"
+  "account.information.alert": "Bạn cần điền đủ thông tin bắt buộc để có thể tiếp tục",
+  "account.settings.section.change.password": "Đổi mật khẩu"
 }
