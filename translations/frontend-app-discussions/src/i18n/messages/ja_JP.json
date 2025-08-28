@@ -210,5 +210,5 @@
   "discussions.posts.sort.lastActivity": "最近の活動",
   "discussions.posts.sort.commentCount": "ほとんどのアクティビティ",
   "discussions.posts.sort.voteCount": "最もいいね！",
-  "discussions.posts.sort-filter.sortFilterStatus": "{own、select、false {All} true {Own} other {{own}} } {status, select, statusAll {} statusUnread {unread} statusFollowing {followed} statusReported {reported} statusUnanswered {unanswered} statusUnresponded {unresponded} other {{status}} } {type、select、Discussion {Discussions} question {questions} all {posts} other {{type}} } {cohortType、選択、すべての {} グループ {in {cohort}} other {{cohortType}} } 並べ替え {sort, select, lastActivityAt {最近のアクティビティ} commentCount {最も多くのアクティビティ} voteCount {最もいいね!} other {{sort}} }"
+  "discussions.posts.sort-filter.sortFilterStatus": "{own, select, false {すべて} true {自分} other {{own}}} {status, select, statusAll {} statusUnread {未読} statusFollowing {フォロー中} statusReported {通報済み} statusUnanswered {未回答} statusUnresponded {未返信} other {{status}}} {type, select, discussion {ディスカッション} question {質問} all {投稿} other {{type}}} {cohortType, select, all {} group {{cohort} 内} other {{cohortType}}} 並べ替え {sort, select, lastActivityAt {最近のアクティビティ} commentCount {アクティビティが多い順} voteCount {いいねが多い順} other {{sort}}}"
 }

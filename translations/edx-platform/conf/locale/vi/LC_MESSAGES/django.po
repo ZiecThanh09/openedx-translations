@@ -9657,7 +9657,7 @@ msgid ""
 "sorry to see you go!"
 msgstr ""
 "Chúng tôi đã nhận được yêu cầu xóa tài khoản của bạn trên %(platform_name)s "
-". Chúng tôi rất tiếc khi thấy bạn ra đi!"
+". Chúng tôi rất tiếc khi thấy bạn rời đi!"
 
 #: openedx/core/djangoapps/user_api/templates/user_api/edx_ace/deletionnotificationmessage/email/body.html:24
 #: openedx/core/djangoapps/user_api/templates/user_api/edx_ace/deletionnotificationmessage/email/body.txt:11
@@ -23099,7 +23099,7 @@ msgid ""
 "We're sorry to see you go! Read the following statements and rate your level"
 " of agreement."
 msgstr ""
-"Chúng tôi rất tiếc khi thấy bạn ra đi! Đọc những nhận định sau đây và đánh "
+"Chúng tôi rất tiếc khi thấy bạn rời đi! Đọc những nhận định sau đây và đánh "
 "giá mức độ đồng ý của bạn."
 
 #: lms/templates/dashboard/_entitlement_reason_survey.html:9
@@ -23150,7 +23150,7 @@ msgstr "Duyệt các khóa học"
 msgid ""
 "We're sorry to see you go! Please share your main reason for unenrolling."
 msgstr ""
-"Chúng tôi rất tiếc khi thấy bạn ra đi! Vui lòng chia sẻ lý do chính khiến "
+"Chúng tôi rất tiếc khi thấy bạn rời đi! Vui lòng chia sẻ lý do chính khiến "
 "bạn hủy đăng ký."
 
 #: lms/templates/dashboard/_reason_survey.html:9
