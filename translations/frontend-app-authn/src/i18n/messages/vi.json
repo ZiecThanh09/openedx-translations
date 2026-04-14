@@ -18,7 +18,7 @@
   "login.third.party.auth.account.not.linked": "Bạn đã đăng nhập thành công vào {currentProvider}, nhưng tài khoản {currentProvider} của bạn chưa có tài khoản {platformName} được liên kết. Để liên kết các tài khoản của bạn, hãy đăng nhập ngay bằng mật khẩu {platformName} của bạn.",
   "register.third.party.auth.account.not.linked": "Bạn đã đăng nhập thành công vào {currentProvider}! Chúng tôi chỉ cần thêm một chút thông tin trước khi bạn bắt đầu tìm hiểu với {platformName}.",
   "registration.using.tpa.form.heading": "Hoàn tất việc tạo tài khoản của bạn",
-  "zendesk.supportTitle": "Hỗ trợ Trainficient",
+  "zendesk.supportTitle": "Hỗ trợ AIPower",
   "zendesk.selectTicketForm": "Vui lòng chọn loại yêu cầu của bạn:",
   "registration.other.options.heading": "Hoặc đăng ký với:",
   "institution.login.button": "Thông tin xác thực của tổ chức/trường",
