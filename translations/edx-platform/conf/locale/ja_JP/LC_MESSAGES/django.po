@@ -20420,6 +20420,9 @@ msgstr "登録する"
 msgid "View About Page in studio"
 msgstr "スタジオでのAboutページを表示"
 
+msgid "Course Information"
+msgstr "コース情報"
+
 #: lms/templates/courseware/course_about.html:170
 msgid "Classes Start"
 msgstr "クラスが始まります"
@@ -20427,6 +20430,12 @@ msgstr "クラスが始まります"
 #: lms/templates/courseware/course_about.html:190
 msgid "Classes End"
 msgstr "クラス終了"
+
+msgid "Edit in Studio"
+msgstr "Studioで編集"
+
+msgid "About This Course"
+msgstr "このコースについて"
 
 #: lms/templates/courseware/course_about.html:203
 msgid "Estimated Effort"

@@ -22218,13 +22218,22 @@ msgstr "Đăng ký ngay"
 msgid "View About Page in studio"
 msgstr "Xem trang Giới thiệu trong studio"
 
+msgid "Course Information"
+msgstr "Thông tin khoá học"
+
 #: lms/templates/courseware/course_about.html:170
 msgid "Classes Start"
-msgstr "Các lớp học bắt đầu"
+msgstr "Lớp học bắt đầu"
 
 #: lms/templates/courseware/course_about.html:190
 msgid "Classes End"
 msgstr "Lớp học kết thúc"
+
+msgid "Edit in Studio"
+msgstr "Chỉnh sửa trong Studio"
+
+msgid "About This Course"
+msgstr "Giới thiệu khoá học"
 
 #: lms/templates/courseware/course_about.html:203
 msgid "Estimated Effort"
