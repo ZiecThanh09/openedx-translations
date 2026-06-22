@@ -11824,8 +11824,7 @@ msgstr ""
 #: xmodule/graders.py:276
 #, python-brace-format
 msgid "{assignment_type} = {weighted_percent:.2%} of a possible {weight:.2%}"
-msgstr ""
-"{assignment_type} = {weighted_percent:.2%} の可能な {weight:.2%} のうち"
+msgstr "{assignment_type} = {weighted_percent:.2%} の可能な {weight:.2%} のうち"
 
 #: xmodule/graders.py:382
 msgid "Generated"
@@ -24480,3 +24479,127 @@ msgstr "ここに著作権テキストを入力してください！"
 #: xmodule/capa/templates/codeinput.html:10
 msgid "Code Editor"
 msgstr "コードエディタ"
+
+msgid "AIAcademy"
+msgstr "AIAcademy"
+
+msgid "AIPOWER Co., LTD"
+msgstr "AIPOWER株式会社"
+
+msgid "An error occurred. Please try again."
+msgstr "エラーが発生しました。もう一度お試しください。"
+
+msgid "Change language"
+msgstr "言語を変更"
+
+msgid "Complete Your Profile"
+msgstr "プロフィールを完成させる"
+
+msgid "Course is Full"
+msgstr "コースは満員です"
+
+msgid "Discover"
+msgstr "発見"
+
+msgid "edX"
+msgstr "edX"
+
+msgid "Ends"
+msgstr "終了"
+
+msgid "Enrolled"
+msgstr "登録済み"
+
+msgid "Enrollment Closed"
+msgstr "登録は締め切りました"
+
+msgid "Enter your phone number"
+msgstr "電話番号を入力してください"
+
+msgid "Error loading courses. Please try again later."
+msgstr "コースの読み込み中にエラーが発生しました。後でもう一度お試しください。"
+
+msgid "Everything you need to know about learning on AIAcademy."
+msgstr "AIAcademyでの学習について知っておくべきことすべて。"
+
+msgid "Go to Course"
+msgstr "コースへ移動"
+
+msgid "How can we help you?"
+msgstr "どのようにお手伝いできますか？"
+
+msgid "Invitation only"
+msgstr "招待制のみ"
+
+msgid "Message"
+msgstr "メッセージ"
+
+msgid "Multiple choice (Multiple)"
+msgstr "複数選択（Multiple）"
+
+msgid "No courses available."
+msgstr "利用可能なコースはありません。"
+
+msgid ""
+"Once you complete the course, you need to meet the minimum requirements "
+"(e.g., complete assignments, attend a required number of hours) to receive "
+"your certificate. The process includes:"
+msgstr "コースを修了した後、修了証を受け取るには最低要件（課題の完了、必要な受講時間の出席など）を満たす必要があります。プロセスは以下の通りです："
+
+msgid "Phone Number"
+msgstr "電話番号"
+
+msgid "Please fill in all required fields."
+msgstr "必須項目をすべて入力してください。"
+
+msgid ""
+"Please provide the following information before enrolling in this course."
+msgstr "このコースに登録する前に、以下の情報をご提供ください。"
+
+msgid "Save and Continue"
+msgstr "保存して続行"
+
+msgid "Saving…"
+msgstr "保存中…"
+
+msgid "Send message"
+msgstr "メッセージを送信"
+
+msgid "Send us a message"
+msgstr "メッセージを送る"
+
+msgid "Single choice (Single)"
+msgstr "単一選択（Single）"
+
+msgid "Studio"
+msgstr "Studio"
+
+msgid "Survey"
+msgstr "アンケート"
+
+msgid ""
+"This should be enabled for all non-anonymous users once the notifications "
+"app has been integrated and styled."
+msgstr "通知アプリが統合されスタイル設定された後、この機能はログイン済みのすべてのユーザーに対して有効になります。"
+
+msgid "Untitled"
+msgstr "無題"
+
+msgid "View course"
+msgstr "コースを見る"
+
+msgid "You are enrolled"
+msgstr "登録済みです"
+
+msgid "you@example.com"
+msgstr "you@example.com"
+
+msgid ""
+"You must complete {link_start}{prc_display}{link_end} before enrolling."
+msgstr "登録する前に{link_start}{prc_display}{link_end}を完了する必要があります。"
+
+msgid "Your name"
+msgstr "お名前"
+
+msgid "日本語は開発中の言語で、翻訳はツールによって行われました。どうもありがとうございます！"
+msgstr "日本語は開発中の言語で、翻訳はツールによって行われました。どうもありがとうございます！"
