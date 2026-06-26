@@ -128,7 +128,7 @@
   "help.text.username.1": "Tên này sẽ nhận dạng bạn trong các khóa học của bạn.",
   "help.text.username.2": "Điều này không thể thay đổi sau.",
   "help.text.email": "Cần thiết để kích hoạt tài khoản và nhận các thông báo quan trọng.",
-  "create.account.for.free.button": "Tạo tài khoản miễn phí",
+  "create.account.for.free.button": "Tạo tài khoản",
   "create.account.cta.button": "{label}",
   "register.institution.login.page.title": "Đăng ký bằng thông tin xác thực tổ chức/trường",
   "empty.name.field.error": "Vui lòng nhập tên đầy đủ của bạn",

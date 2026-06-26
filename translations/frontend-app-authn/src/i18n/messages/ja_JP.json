@@ -128,7 +128,7 @@
   "help.text.username.1": "コース内であなたを識別する名前。",
   "help.text.username.2": "これは後から変更することはできません。",
   "help.text.email": "アカウントの有効化と重要な更新のため",
-  "create.account.for.free.button": "無料でアカウントを作成する",
+  "create.account.for.free.button": "アカウントを作成する",
   "create.account.cta.button": "{ラベル}",
   "register.institution.login.page.title": "教育機関/キャンパスの資格情報を使用して登録する",
   "empty.name.field.error": "フルネームを入力してください",
