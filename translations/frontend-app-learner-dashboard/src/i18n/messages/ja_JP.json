@@ -170,5 +170,8 @@
   "learnerVariantDashboard.home": "ホーム",
   "learnerVariantDashboard.studio": "Studio",
   "learnerVariantDashboard.about": "概要",
-  "learnerVariantDashboard.contact": "お問い合わせ"
+  "learnerVariantDashboard.contact": "お問い合わせ",
+  "learnerDashboard.programCard.courses": "{numCourses} 個のコース",
+  "learnerDashboard.programCard.duration": "{numWeeks} 週間",
+  "learnerDashboard.programCard.logoAlt": "{provider} のロゴ"
 }

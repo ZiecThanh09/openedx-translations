@@ -170,5 +170,8 @@
   "learnerVariantDashboard.home": "Trang chủ",
   "learnerVariantDashboard.studio": "Studio",
   "learnerVariantDashboard.about": "Giới thiệu",
-  "learnerVariantDashboard.contact": "Liên hệ"
+  "learnerVariantDashboard.contact": "Liên hệ",
+  "learnerDashboard.programCard.courses": "{numCourses} Khóa học",
+  "learnerDashboard.programCard.duration": "{numWeeks} Tuần",
+  "learnerDashboard.programCard.logoAlt": "Logo {provider}"
 }

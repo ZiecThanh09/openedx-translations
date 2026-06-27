@@ -182,5 +182,6 @@
   "register.subtitle": "Tạo một tài khoản và bắt đầu học ngay hôm nay!",
   "register.already.have.account": "Đã có tài khoản?",
   "login.no.account": "Bạn chưa có tài khoản?",
-  "register.now": "Đăng ký ngay!"
+  "register.now": "Đăng ký ngay!",
+  "email.unauthorized.domain.error": "Chỉ các địa chỉ email @aipower.com.vn hoặc @aipower.vn mới được phép đăng ký"
 }

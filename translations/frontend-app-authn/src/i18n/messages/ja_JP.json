@@ -182,5 +182,6 @@
   "register.subtitle": "アカウントを作成して、今日から学び始めましょう！",
   "register.already.have.account": "すでにアカウントをお持ちですか？",
   "login.no.account": "アカウントをお持ちでないですか？",
-  "register.now": "今すぐ登録！"
+  "register.now": "今すぐ登録！",
+  "email.unauthorized.domain.error": "@aipower.com.vn または @aipower.vn のメールアドレスのみ登録できます"
 }
