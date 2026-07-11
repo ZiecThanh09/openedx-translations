@@ -2663,5 +2663,15 @@
   "course-authoring.advanced-settings.select.custom.placeholder": "カスタム値を入力",
   "course-authoring.advanced-settings.multiselect.empty": "このサイトには高度なコンポーネントがインストールされていません。",
   "course-authoring.advanced-settings.json.hint": "この項目は構造化データ（JSON）を受け付けます。括弧、カンマ、二重引用符はそのままにしてください。",
-  "course-authoring.advanced-settings.help.original": "プラットフォームの元の説明"
+  "course-authoring.advanced-settings.help.original": "プラットフォームの元の説明",
+  "course-authoring.advanced-settings.guide.daysEarlyForBeta": "ベータユーザーが開始日の何日前から講座にアクセスできるか。ベータアクセスを使わない場合は空のままにします。",
+  "course-authoring.advanced-settings.guide.maxAttempts": "学習者が各問題を試せる既定の回数。空のままにすると無制限になります。個々の問題で上書きも可能です。",
+  "course-authoring.advanced-settings.guide.showResetButton": "既定ですべての問題に「リセット」ボタンを表示し、学習者が解答を消してやり直せるようにします。個々の問題で上書きできます。",
+  "course-authoring.advanced-settings.guide.staticAssetPath": "アップロードしたファイルの配信元を上書きする高度な設定。Studioの既定を使う場合は空のままにします。",
+  "course-authoring.advanced-settings.guide.useLatexCompiler": "テキストや問題コンポーネントでLaTeXテンプレートを使えるようにします。作成者がLaTeXを使う場合のみ有効にしてください。",
+  "course-authoring.advanced-settings.guide.videoSpeedOptimizations": "動画キャッシュを有効にして、HTML5動画の読み込みを速くします。",
+  "course-authoring.advanced-settings.guide.matlabApiKey": "MATLABで採点する問題に使う、MathWorks発行のAPIキー。MATLABを使わない場合は空のままにします。",
+  "course-authoring.advanced-settings.guide.xqaKey": "現在はサポートされていない古い設定です。空のままにしてください。",
+  "course-authoring.advanced-settings.guide.simplifiedExamMode": "講座を一括提出のテストモードにします。各問題の「送信」「保存」「解答表示」ボタンを隠し、最後にまとめて提出します。",
+  "course-authoring.advanced-settings.guide.sourceFile": "講座のLaTeXソースファイル名。LaTeXコンパイラを有効にしている場合にのみ使われます。"
 }

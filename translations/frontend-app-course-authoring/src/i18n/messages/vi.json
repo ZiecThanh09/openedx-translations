@@ -2709,5 +2709,15 @@
   "course-authoring.advanced-settings.select.custom.placeholder": "Nhập giá trị tuỳ chỉnh",
   "course-authoring.advanced-settings.multiselect.empty": "Hệ thống chưa cài đặt thành phần nâng cao nào.",
   "course-authoring.advanced-settings.json.hint": "Ô này nhận dữ liệu dạng mã (JSON). Hãy giữ nguyên dấu ngoặc, dấu phẩy và dấu nháy kép.",
-  "course-authoring.advanced-settings.help.original": "Mô tả gốc của hệ thống"
+  "course-authoring.advanced-settings.help.original": "Mô tả gốc của hệ thống",
+  "course-authoring.advanced-settings.guide.daysEarlyForBeta": "Số ngày trước ngày khai giảng mà người dùng beta được vào học sớm. Để trống nếu không dùng chế độ beta.",
+  "course-authoring.advanced-settings.guide.maxAttempts": "Số lần mặc định học viên được thử mỗi câu hỏi. Để trống nghĩa là không giới hạn; từng câu hỏi vẫn có thể tự đặt riêng.",
+  "course-authoring.advanced-settings.guide.showResetButton": "Mặc định hiện nút \"Làm lại\" trên mọi câu hỏi để học viên xoá đáp án và làm lại từ đầu. Từng câu hỏi có thể tự đặt riêng.",
+  "course-authoring.advanced-settings.guide.staticAssetPath": "Tuỳ chỉnh nâng cao cho đường dẫn phục vụ file đã tải lên. Để trống để dùng mặc định của Studio.",
+  "course-authoring.advanced-settings.guide.useLatexCompiler": "Cho phép dùng mẫu LaTeX trong thành phần văn bản và câu hỏi. Chỉ bật nếu giảng viên có soạn bằng LaTeX.",
+  "course-authoring.advanced-settings.guide.videoSpeedOptimizations": "Bật bộ nhớ đệm video để video HTML5 tải nhanh hơn.",
+  "course-authoring.advanced-settings.guide.matlabApiKey": "Khoá API do MathWorks cấp, dùng cho câu hỏi chấm bằng MATLAB. Để trống nếu không dùng MATLAB.",
+  "course-authoring.advanced-settings.guide.xqaKey": "Thiết lập cũ, không còn được hỗ trợ. Hãy để trống.",
+  "course-authoring.advanced-settings.guide.simplifiedExamMode": "Chuyển khoá học sang chế độ bài test nộp một lần: câu hỏi ẩn nút Nộp, Lưu và Xem đáp án của từng câu, mọi thứ được nộp cùng lúc ở cuối bài.",
+  "course-authoring.advanced-settings.guide.sourceFile": "Tên file nguồn LaTeX của khoá học, chỉ dùng khi đã bật trình biên dịch LaTeX."
 }
