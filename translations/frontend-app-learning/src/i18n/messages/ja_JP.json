@@ -514,5 +514,16 @@
   "progress.motivation.progressBar.altText": "現在の進捗は {currentProgress}% です。このコースの {averageProgress}% に追いつくために、もっと時間をかけることをお勧めします。",
   "masquerade-widget.viewCourseAs": "このコースを次の役割で表示:",
   "video.completion.success": "おめでとうございます！この動画を完了しました。",
-  "unit.navigation.certificate.notReady": "証明書を生成中か、まだ利用できません。後でもう一度お試しください。"
+  "unit.navigation.certificate.notReady": "証明書を生成中か、まだ利用できません。後でもう一度お試しください。",
+  "progress.detailedGrades.retryRequest.columnHeader": "再受験",
+  "progress.detailedGrades.retryRequest.button": "再受験を申請",
+  "progress.detailedGrades.retryRequest.buttonSent": "申請済み",
+  "progress.detailedGrades.retryRequest.modalTitle": "この課題の再受験を申請しますか？",
+  "progress.detailedGrades.retryRequest.modalBody": "「{assignment}」の再受験を許可するよう、研修担当者にメールを送ります。検討後、メールでご連絡します。",
+  "progress.detailedGrades.retryRequest.modalScore": "現在の得点: {earned}/{possible}",
+  "progress.detailedGrades.retryRequest.cancel": "キャンセル",
+  "progress.detailedGrades.retryRequest.confirm": "申請を送信",
+  "progress.detailedGrades.retryRequest.successToast": "研修担当者に申請を送信しました。",
+  "progress.detailedGrades.retryRequest.cooldownToast": "この課題の申請は先ほど送信されました。数分お待ちください。",
+  "progress.detailedGrades.retryRequest.errorToast": "申請を送信できませんでした。しばらくしてから再度お試しください。"
 }
