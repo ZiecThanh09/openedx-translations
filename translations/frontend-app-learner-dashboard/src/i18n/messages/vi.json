@@ -126,6 +126,7 @@
   "learner-dash.courseCard.banners.certMinGrade": "Điểm yêu cầu để có được chứng chỉ: {minPassingGrade}%",
   "learner-dash.courseCard.banners.downloadCertificate": "Tải xuống Chứng chỉ.",
   "learner-dash.courseCard.banners.gradseAndCertReadyAfter": "Điểm và chứng chỉ của bạn sẽ có sau {availableDate}.",
+  "learner-dash.courseCard.banners.loadingProgress": "Đang tải tiến độ...",
   "learner-dash.courseCard.banners.entitlementUnavailable": "Hiện tại không có phiên nào có sẵn. Nhóm khóa học sẽ sớm tạo các phiên mới. Nếu không có phiên nào xuất hiện, vui lòng liên hệ {emailLink} để biết thông tin.",
   "learner-dash.courseCard.banners.entitlementExpiringSoon": "Bạn phải {selectSessionButton} trước {changeDeadline} để truy cập khóa học.",
   "learner-dash.courseCard.banners.entitlementExpired": "Bạn không còn có thể thay đổi phiên.",

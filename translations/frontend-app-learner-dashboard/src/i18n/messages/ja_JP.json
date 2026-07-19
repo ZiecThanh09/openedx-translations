@@ -126,6 +126,7 @@
   "learner-dash.courseCard.banners.certMinGrade": "証明書に必要なグレード: {minPassingGrade} %",
   "learner-dash.courseCard.banners.downloadCertificate": "証明書をダウンロードします。",
   "learner-dash.courseCard.banners.gradseAndCertReadyAfter": "成績と証明書は {availableDate} 以降に準備が整います。",
+  "learner-dash.courseCard.banners.loadingProgress": "進捗を読み込み中...",
   "learner-dash.courseCard.banners.entitlementUnavailable": "現在利用可能なセッションはありません。",
   "learner-dash.courseCard.banners.entitlementExpiringSoon": "コースにアクセスするには、{changeDeadline} までに {selectSessionButton} する必要があります。",
   "learner-dash.courseCard.banners.entitlementExpired": "セッションを変更することはできなくなります。",
