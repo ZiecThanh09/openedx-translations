@@ -2719,5 +2719,15 @@
   "course-authoring.advanced-settings.guide.matlabApiKey": "Khoá API do MathWorks cấp, dùng cho câu hỏi chấm bằng MATLAB. Để trống nếu không dùng MATLAB.",
   "course-authoring.advanced-settings.guide.xqaKey": "Thiết lập cũ, không còn được hỗ trợ. Hãy để trống.",
   "course-authoring.advanced-settings.guide.simplifiedExamMode": "Chuyển khoá học sang chế độ bài test nộp một lần: câu hỏi ẩn nút Nộp, Lưu và Xem đáp án của từng câu, mọi thứ được nộp cùng lúc ở cuối bài.",
-  "course-authoring.advanced-settings.guide.sourceFile": "Tên file nguồn LaTeX của khoá học, chỉ dùng khi đã bật trình biên dịch LaTeX."
+  "course-authoring.advanced-settings.guide.sourceFile": "Tên file nguồn LaTeX của khoá học, chỉ dùng khi đã bật trình biên dịch LaTeX.",
+  "course-authoring.studio-home.delete-course.btn.text": "Xoá khoá học",
+  "course-authoring.studio-home.delete-course.modal.title": "Xoá \"{displayName}\"?",
+  "course-authoring.studio-home.delete-course.modal.warning": "Thao tác này xoá vĩnh viễn khoá học và không thể hoàn tác.",
+  "course-authoring.studio-home.delete-course.modal.consequences": "Toàn bộ nội dung khoá học, danh sách ghi danh, bài làm của học viên, điểm số, chứng chỉ và các tệp đã tải lên sẽ bị xoá khỏi Studio và khỏi LMS.",
+  "course-authoring.studio-home.delete-course.modal.confirm.label": "Để xác nhận, hãy gõ lại mã khoá học bên dưới:",
+  "course-authoring.studio-home.delete-course.modal.confirm.help-text": "Mã khoá học: {courseKey}",
+  "course-authoring.studio-home.delete-course.modal.confirm.placeholder": "Gõ mã khoá học",
+  "course-authoring.studio-home.delete-course.modal.cancel.btn": "Huỷ",
+  "course-authoring.studio-home.delete-course.modal.delete.btn": "Xoá vĩnh viễn khoá học",
+  "course-authoring.studio-home.delete-course.modal.error": "Không xoá được khoá học. Vui lòng thử lại hoặc liên hệ bộ phận hỗ trợ."
 }

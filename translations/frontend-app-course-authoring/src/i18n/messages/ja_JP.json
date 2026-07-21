@@ -2673,5 +2673,15 @@
   "course-authoring.advanced-settings.guide.matlabApiKey": "MATLABで採点する問題に使う、MathWorks発行のAPIキー。MATLABを使わない場合は空のままにします。",
   "course-authoring.advanced-settings.guide.xqaKey": "現在はサポートされていない古い設定です。空のままにしてください。",
   "course-authoring.advanced-settings.guide.simplifiedExamMode": "講座を一括提出のテストモードにします。各問題の「送信」「保存」「解答表示」ボタンを隠し、最後にまとめて提出します。",
-  "course-authoring.advanced-settings.guide.sourceFile": "講座のLaTeXソースファイル名。LaTeXコンパイラを有効にしている場合にのみ使われます。"
+  "course-authoring.advanced-settings.guide.sourceFile": "講座のLaTeXソースファイル名。LaTeXコンパイラを有効にしている場合にのみ使われます。",
+  "course-authoring.studio-home.delete-course.btn.text": "コースを削除",
+  "course-authoring.studio-home.delete-course.modal.title": "「{displayName}」を削除しますか？",
+  "course-authoring.studio-home.delete-course.modal.warning": "この操作はコースを完全に削除し、元に戻すことはできません。",
+  "course-authoring.studio-home.delete-course.modal.consequences": "コースの内容、受講登録、学習者の提出物、成績、修了証、アップロードされたすべてのファイルが Studio と LMS から削除されます。",
+  "course-authoring.studio-home.delete-course.modal.confirm.label": "確認のため、以下にコース ID を入力してください:",
+  "course-authoring.studio-home.delete-course.modal.confirm.help-text": "コース ID: {courseKey}",
+  "course-authoring.studio-home.delete-course.modal.confirm.placeholder": "コース ID を入力",
+  "course-authoring.studio-home.delete-course.modal.cancel.btn": "キャンセル",
+  "course-authoring.studio-home.delete-course.modal.delete.btn": "コースを完全に削除",
+  "course-authoring.studio-home.delete-course.modal.error": "コースを削除できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。"
 }
