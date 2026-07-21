@@ -2729,5 +2729,6 @@
   "course-authoring.studio-home.delete-course.modal.confirm.placeholder": "Gõ mã khoá học",
   "course-authoring.studio-home.delete-course.modal.cancel.btn": "Huỷ",
   "course-authoring.studio-home.delete-course.modal.delete.btn": "Xoá vĩnh viễn khoá học",
-  "course-authoring.studio-home.delete-course.modal.error": "Không xoá được khoá học. Vui lòng thử lại hoặc liên hệ bộ phận hỗ trợ."
+  "course-authoring.studio-home.delete-course.modal.error": "Không xoá được khoá học. Vui lòng thử lại hoặc liên hệ bộ phận hỗ trợ.",
+  "course-authoring.studio-home.delete-course.success.toast": "Đã xoá khoá học \"{displayName}\"."
 }

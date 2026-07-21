@@ -2683,5 +2683,6 @@
   "course-authoring.studio-home.delete-course.modal.confirm.placeholder": "コース ID を入力",
   "course-authoring.studio-home.delete-course.modal.cancel.btn": "キャンセル",
   "course-authoring.studio-home.delete-course.modal.delete.btn": "コースを完全に削除",
-  "course-authoring.studio-home.delete-course.modal.error": "コースを削除できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。"
+  "course-authoring.studio-home.delete-course.modal.error": "コースを削除できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。",
+  "course-authoring.studio-home.delete-course.success.toast": "コース「{displayName}」を削除しました。"
 }
