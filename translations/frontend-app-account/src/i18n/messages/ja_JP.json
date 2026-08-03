@@ -253,10 +253,10 @@
   "id.verification.upload.help.button": "アップロードモードに切り替える",
   "id.verification.camera.help.button": "カメラモードに切り替える",
   "notification.preference.heading": "通知",
-  "notification.preference.app.title": "{ key、select、Discussion {Discussions} コースワーク {Course Work} アップデート {Updates} 採点 {Grading} other {{key}} }",
+  "notification.preference.app.title": "{key, select, discussion {Discussions} coursework {Course Work} updates {Updates} grading {Grading} other {{key}} }",
   "notification.preference.title": "{ text, select, core {コア通知} newDiscussionPost {新しいディスカッションの投稿} newQuestionPost {新しい質問の投稿} contentReported {報告されたコンテンツ} courseUpdate {コースの更新情報} oraStaffNotification {ORA の新しい投稿} other {{text}} }",
-  "notification.preference.channel": "{ テキスト、選択、ウェブ {ウェブ} 電子メール {電子メール} プッシュ {プッシュ} other {{text}} }",
-  "notification.preference.emailCadence": "{ text、select、毎日 {毎日} 毎週 {毎週} 今すぐ {すぐに} other {{text}} }",
+  "notification.preference.channel": "{text, select, web {ウェブ} email {電子メール} push {プッシュ} other {{text}}}",
+  "notification.preference.emailCadence": "{text, select, Daily {毎日} Weekly {毎週} Immediately {すぐに} other {{text}}}",
   "notification.preference.type.label": "タイプ",
   "notification.preference.web.label": "ウェブ",
   "notification.preference.help.email": "メール",
@@ -345,7 +345,7 @@
   "account.settings.editable.field.password.reset.button.forbidden": "前回のリクエストは進行中です。しばらくしてからもう一度お試しください。",
   "account.settings.editable.field.password.reset.label": "パスワード",
   "account.settings.editable.field.password.reset.button": "パスワードのリセット",
-  "account.settings.sso.link.account": "{名前}でサインインします",
+  "account.settings.sso.link.account": "{name}でサインインします",
   "account.settings.sso.account.connected": "リンク済み",
   "account.settings.sso.account.disconnect.error": "このアカウントの接続を解除する際に問題が発生しました。問題が解決しない場合は、サポートにお問い合わせください。",
   "account.settings.sso.unlink.account": "{name} アカウントのリンクを解除する",
@@ -358,5 +358,5 @@
   "id.verification.account.name.edit": "{sr}を編集",
   "account.button.next": "保存して学習を開始",
   "account.information.alert": " 続行するには、必須情報をすべて入力する必要があります。",
-  "account.settings.section.change.password": "パスワードを変更" 
+  "account.settings.section.change.password": "パスワードを変更"
 }

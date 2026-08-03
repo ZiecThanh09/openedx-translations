@@ -153,7 +153,7 @@
   "learner-dash.courseCard.banners.expandBannerAlt": "バナーアイコンを展開します",
   "learner-dash.courseCard.banners.collapseBanner": "少ない",
   "learner-dash.courseCard.banners.collapseBannerAlt": "バナーアイコンを折りたたむ",
-  "learner-dash.courseCard.banners.credit.approved": "{おめでとうございます} {providerName} がコースクレジットのリクエストを承認しました。",
+  "learner-dash.courseCard.banners.credit.approved": "{congratulations} {providerName} がコースクレジットのリクエストを承認しました。",
   "learner-dash.courseCard.banners.credit.congratulations": "おめでとう！",
   "learner-dash.courseCard.banners.credit.eligible": "あなたはこのコースを完了しており、コース クレジットを購入する資格があります。",
   "learner-dash.courseCard.banners.credit.eligibleFromProvider": "これで、{providerName} からクレジットを受け取る資格が得られました。",

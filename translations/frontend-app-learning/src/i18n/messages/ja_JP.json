@@ -416,7 +416,7 @@
   "learning.outline.alert.scheduled-content.body": "このコースには、今後さらに多くのコンテンツがリリースされる予定です。",
   "learning.outline.alert.scheduled-content.button": "コーススケジュールを見る",
   "progress.ungradedAlert": "コースの非採点部分の進捗状況については、{outlineLink} をご覧ください。",
-  "progress.footnotes.droppableAssignments": "最も低い {numDroppable, plural, one{# {assignmentType} スコアは} 他の{# {assignmentType} スコアは}} 削除されます。",
+  "progress.footnotes.droppableAssignments": "最も低い {numDroppable, plural, one {# {assignmentType} スコアは} other {# {assignmentType} スコアは}} 削除されます。",
   "calculator.instructions.button.label": "電卓の説明書",
   "calculator.instructions": "詳細については、{expressions_link} を参照してください。",
   "calculator.instructions.support.title": "ヘルプセンター",

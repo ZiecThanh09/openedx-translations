@@ -254,9 +254,9 @@
   "id.verification.camera.help.button": "Chuyển sang Chế độ máy ảnh",
   "notification.preference.heading": "Thông báo",
   "notification.preference.app.title": "{ key, select, discussion {Discussions} coursework {Course Work} updates {Updates} grading {Grading} other {{key}} }",
-  "notification.preference.title": "{ text, select, core {Thông báo cốt lõi} newDiscussionPost {Bài đăng thảo luận mới} newQuestionPost {Bài đăng câu hỏi mới} contentReported {Nội dung được báo cáo} khóa họcUpdate {Courseupdates} oraStaffNotification {ORA bài gửi mới} other { {text} } }",
-  "notification.preference.channel": "{ văn bản, chọn, web {Web} email {Email} đẩy {Đẩy} khác { {text} } }",
-  "notification.preference.emailCadence": "{ text, select, Hàng ngày {Daily} Hàng tuần {Weekly} Ngay lập tức {Immediately} other { {text} } }",
+  "notification.preference.title": "{text, select, core {Thông báo cốt lõi} newDiscussionPost {Bài đăng thảo luận mới} newQuestionPost {Bài đăng câu hỏi mới} contentReported {Nội dung được báo cáo} courseUpdate {Courseupdates} oraStaffNotification {ORA bài gửi mới} other { {text} } }",
+  "notification.preference.channel": "{text, select, web {Web} email {Email} push {Đẩy} other { {text} } }",
+  "notification.preference.emailCadence": "{text, select, Daily {Daily} Weekly {Weekly} Immediately {Immediately} other { {text} } }",
   "notification.preference.type.label": "Kiểu",
   "notification.preference.web.label": "Web",
   "notification.preference.help.email": "E-mail",
@@ -358,5 +358,5 @@
   "id.verification.account.name.edit": "Chỉnh sửa {sr}",
   "account.button.next": "Lưu và Bắt đầu học",
   "account.information.alert": "Bạn cần điền đủ thông tin bắt buộc để có thể tiếp tục",
-  "account.settings.section.change.password": "Đổi mật khẩu" 
+  "account.settings.section.change.password": "Đổi mật khẩu"
 }
