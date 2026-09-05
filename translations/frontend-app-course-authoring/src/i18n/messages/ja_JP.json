@@ -2684,5 +2684,7 @@
   "course-authoring.studio-home.delete-course.modal.cancel.btn": "キャンセル",
   "course-authoring.studio-home.delete-course.modal.delete.btn": "コースを完全に削除",
   "course-authoring.studio-home.delete-course.modal.error": "コースを削除できませんでした。もう一度お試しいただくか、サポートにお問い合わせください。",
-  "course-authoring.studio-home.delete-course.success.toast": "コース「{displayName}」を削除しました。"
+  "course-authoring.studio-home.delete-course.success.toast": "コース「{displayName}」を削除しました。",
+  "course-authoring.advanced-settings.guide.shuffleAnswers": "選択式・複数選択・ドロップダウンの各問題の選択肢を、受講者ごとに異なる順序で表示します。隣の席の受講者と位置で答えを写し合うことを防げます。同じ受講者には常に同じ順序が表示されます。「上記すべて」のような選択肢は元の位置に固定されます。",
+  "course-authoring.advanced-settings.guide.shuffleQuestions": "ユニット内の問題を受講者ごとに異なる順序で表示します。成績評価の対象となるサブセクション内でのみ適用されるため、講義用のユニットは作成した順序のままです。並べ替えられるのは問題だけで、テキスト・画像・動画は移動しません。"
 }
