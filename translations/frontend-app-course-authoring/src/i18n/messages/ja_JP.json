@@ -2692,5 +2692,6 @@
   "course-authoring.files-and-uploads.table.active.header": "使用中",
   "course-authoring.files-and-uploads.table.access.header": "アクセス",
   "course-authoring.files-and-uploads.table.search.placeholder": "ファイル名で検索",
-  "course-authoring.files-and-uploads.heading.subtitle": "コンテンツ"
+  "course-authoring.files-and-uploads.heading.subtitle": "コンテンツ",
+  "course-authoring.files-and-upload.filterStatus.filtersApplied": "適用中のフィルター"
 }
